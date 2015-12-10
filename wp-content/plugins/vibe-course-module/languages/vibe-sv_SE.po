@@ -1,0 +1,4385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module v1.8.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-26 17:31+0530\n"
+"PO-Revision-Date: 2015-11-26 17:31+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: vibethemes <vibethemes@gmail.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-"
+"course-module\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"vibe-course-module\n"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Skriv ditt användarnamn till Envato Marketplace"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Skriv din Envato Marketplace API-nyckel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" är obligatorisk."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"item ID\" är obligatorisk."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Ett okänt HTTP-fel inträffade under en API-förfrågan."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Försök igen"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Ett okänt fel inträffade"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Tillägget har uppdaterats, men kunde inte återaktiveras. Återaktivera "
+"manuellt."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Tillägget återaktiverades."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Tillägg uppdateringar"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Användarnamn: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "E-post: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Nyckel: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Ditt uppdaterade tillägg är <span style=\"color:green\">aktivt</span></p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Din input är <span style=\"color:red\">inte giltig</span>, automatiska "
+"uppdateringar är <span style=\"color:red\">inte aktiverade</span>.</p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Ändra nyckel"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Kunde inte uppdatera aktiveringen.</p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Lägg till nyckel"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Användarnamn"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "E-post"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Themeforest användarnamn (för automatiska uppdateringar)"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:20
+msgid "Removed a student from Course"
+msgstr "Tog bort en deltagare från kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:21
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:25
+msgid "Student submitted a Course"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:22
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:24
+msgid "Student started a Course"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:23
+msgid "Student submitted a Quiz"
+msgstr "Kursdeltagare svarade på en quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:26
+msgid "Course reset for Student"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:27
+msgid "Bulk action by instructor"
+msgstr "Bulkhandling av kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:28
+msgid "Course Evaluated for student"
+msgstr "Kursen bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:29
+msgid "Student got a Badge"
+msgstr "Kursdeltagare fick en utmärkelse"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:30
+msgid "Student got a certificate"
+msgstr "Kursdeltagare fick ett diplom"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:31
+msgid "Quiz Evaluated for student"
+msgstr "Quiz bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:32
+msgid "Student subscribed for course"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:50
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:52
+msgid "per"
+msgstr "per"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:70
+msgid "SUBSCRIPTION FOR"
+msgstr "PRENUMERATION FÖR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:222
+#, php-format
+msgid "All Instructors <span>%s</span>"
+msgstr "Alla Kursledare <span>%s</span>"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:231
+#, fuzzy
+msgid "Expired Course"
+msgstr "i kursen :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:232
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:222
+#, fuzzy
+msgid "Start Course"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:233
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:223
+#, fuzzy
+msgid "Continue Course"
+msgstr "på Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:234
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:259
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:224
+msgid "Under Evaluation"
+msgstr "Under bedömning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:235
+#, fuzzy
+msgid "Course Finished"
+msgstr "Kursen har löpt ut"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:240
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Filtrera resultat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:246
+msgid "Enter student name/email"
+msgstr "Skriv deltagares namn/e-post"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:247
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:134
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:369
+msgid "Search"
+msgstr "Sök"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:284
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:500
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:836
+msgid "EXPIRED"
+msgstr "UTGÅNGEN"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:284
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:292
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:301
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:304
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:310
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:313
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:319
+#, fuzzy
+msgid "COURSE"
+msgstr "STARTA KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:292
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:310
+#, fuzzy
+msgid "START"
+msgstr "STARTDATUM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:313
+#, fuzzy
+msgid "CONTINUE"
+msgstr "FORTSÄTT KURS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:298
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:316
+msgid "UNDER"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:298
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:316
+#, fuzzy
+msgid "EVALUATION"
+msgstr "KURS UNDER UTVÄRDERING"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:301
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:319
+#, fuzzy
+msgid "FINISHED"
+msgstr "GENOMFÖRD KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:304
+#, fuzzy
+msgid "ENABLED"
+msgstr "KURS AKTIVERAD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:390
+#, fuzzy
+msgid "This Course can not be taken. Contact Administrator."
+msgstr "Säkerhetscheck misslyckades. Kontakta Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:401
+#, fuzzy
+msgid "REVIEW COURSE "
+msgstr "TA BORT KURSUTMÄRKELSE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:174
+#, fuzzy, php-format
+msgid "Announcement for Course %s "
+msgstr "Deltagarpoäng för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:188
+#, fuzzy, php-format
+msgid "News published for Course %s "
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:200
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:463
+#, fuzzy, php-format
+msgid "Student subscribed for course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:201
+#, fuzzy, php-format
+msgid "Student %s subscribed for course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:214
+#, fuzzy
+msgid "Student started course "
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:285
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:294
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:317
+msgid "Student "
+msgstr "Kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:215
+#, fuzzy
+msgid " started the course "
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:231
+#, php-format
+msgid "Student %s finished and submitted the course %s"
+msgstr "Kursdeltagare %s genomförde och slutförde kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:233
+msgid "Student Submitted the course "
+msgstr "Kursdeltagare slutförde kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:245
+msgid "Instructor evaluated Course for Student"
+msgstr "Kursledaren bedömde kursen för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:246
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:843
+#, fuzzy, php-format
+msgid "Student %s got %s in course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:264
+msgid "Course reset for student "
+msgstr "Återställning av kurs för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:265
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:275
+msgid "Course "
+msgstr "Kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:265
+msgid " reset for student "
+msgstr " återställning för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:274
+#, fuzzy
+msgid "Student retake Course "
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:275
+#, fuzzy
+msgid " retake by student "
+msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:284
+msgid "Student got a Badge in the course "
+msgstr "Deltagare fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:285
+msgid " got a badge in the course "
+msgstr " fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:293
+msgid "Student got a Certificate in course"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:294
+msgid " got a certificate in the course "
+msgstr " fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:303
+#, fuzzy, php-format
+msgid "Student reviewed Course %s"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:304
+#, fuzzy, php-format
+msgid "Student %s reviewd the Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:316
+#, fuzzy
+msgid "Student unsubsribed from course "
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:317
+msgid " removed from the course "
+msgstr " togs bort från kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:326
+#, fuzzy
+msgid "Course code applied"
+msgstr "Kursen har löpt ut"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:336
+#, fuzzy
+msgid "Student renewed a course"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:337
+#, fuzzy, php-format
+msgid "Student %s renewd the course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:345
+msgid "Student started a unit"
+msgstr "Kursdeltagaren påbörjade en del"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:346
+msgid "Student started the unit "
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:346
+msgid " in course "
+msgstr "i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:355
+msgid "Student finished unit "
+msgstr "Deltagare genomförde kursdel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:356
+#, php-format
+msgid "Student %s finished the unit %s in course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:370
+#, fuzzy
+msgid "Student posted comment on unit "
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:371
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1215
+#, fuzzy, php-format
+msgid "Student %s posted comment on unit %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:380
+msgid "Student started a quiz"
+msgstr "Kursdeltagare påbörjade ett quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:381
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1912
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:390
+msgid "Student submitted the Quiz"
+msgstr "Kursdeltagare som skickat in Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:391
+#, fuzzy, php-format
+msgid "Quiz %s was submitted by student"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:402
+msgid "Instructor evaluated Quiz for student "
+msgstr "Kursledaren bedömde quiz för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:404
+#, fuzzy, php-format
+msgid "Student %s got %s out of %s in Quiz %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:418
+msgid "Quiz retake by Student"
+msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:419
+#, fuzzy, php-format
+msgid "Student %s  initiated retake for quiz %s"
+msgstr "Kursdeltagare påbörjade ett quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:428
+msgid "Instructor Reseted the Quiz for User"
+msgstr "Kursledaren återställde quiz för användare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:429
+#, fuzzy, php-format
+msgid "Quiz %s  was reset by the Instructor for user %s"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:440
+msgid "Instructor added students in course  "
+msgstr "Kursledaren la till kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:441
+#, fuzzy, php-format
+msgid "Instructor added %s students in course "
+msgstr "Kursledaren la till kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:448
+#, fuzzy
+msgid "Instructor changed course status  "
+msgstr "Kursledaren la till kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:449
+#, fuzzy, php-format
+msgid "Instructor changed Course Status for %s students in course "
+msgstr "Kursledaren bedömde kursen för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:456
+#, fuzzy
+msgid "Instructor sent Bulk message to students"
+msgstr "Kursledaren skickade massmeddelande till deltagarna : "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:457
+#, fuzzy, php-format
+msgid "Bulk Message sent to %s students "
+msgstr "Massmeddelande skickades till deltagarna"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:464
+#, fuzzy
+msgid "Instructor extended Course subscription"
+msgstr "Kursledaren bedömde kursen för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:465
+#, fuzzy, php-format
+msgid "Course subscription extended for %s students "
+msgstr "Prenumerationen förlängdes för %d kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:475
+#, fuzzy
+msgid "Instructor assigned/removed Certificate/Badges"
+msgstr "Kursledaren lade till/tog bort diplom/utmärkelser"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:476
+#, fuzzy, php-format
+msgid "Instructor added/removed Badges/Certificates from %s students in course"
+msgstr "Kursledaren lade till/tog bort diplom/utmärkelser från "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:497
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1599
+#, fuzzy, php-format
+msgid "Student started assignment %s"
+msgstr "Kursdeltagaren påbörjade en del"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:498
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1942
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:516
+#, fuzzy
+msgid "Student submitted assignment "
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:517
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1948
+#, fuzzy, php-format
+msgid "Student %s submitted the assignment %s"
+msgstr "Kursdeltagare som skickat in Quiz"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:533
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1629
+#, php-format
+msgid "Results available for assignment %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:534
+#, php-format
+msgid "Student %s got marks %s out of %s in assignment %s "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:551
+#, fuzzy
+msgid "Instructor Reseted the Assignment for User"
+msgstr "Kursledaren återställde quiz för användare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:552
+#, fuzzy, php-format
+msgid "Assignment %s was reset by the Instructor for user %s"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:570
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s, on the site %4$s"
+msgstr "%1$s skrev en ny %2$s, %3$s, på plattformen %4$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:572
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s"
+msgstr "%1$s skrev en ny %2$s, %3$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:582
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s granskade %2$s, %3$s, på plattformen %4$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:584
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s"
+msgstr "%1$s granskade %2$s, %3$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:588
+#, php-format
+msgid "%1$s answered the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s svarade på %2$s, %3$s, på plattformen %4$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:590
+#, php-format
+msgid "%1$s answered the %2$s, %3$s"
+msgstr "%1$s svarade på %2$s, %3$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:37
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1672
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1879
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2148
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2321
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2335
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2388
+msgid "Security check Failed. Contact Administrator."
+msgstr "Säkerhetscheck misslyckades. Kontakta Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:79
+msgid "Answer Reset"
+msgstr "Svara återställning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:81
+msgid "Unable to Reset"
+msgstr "Det gick inte att återställa"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:92
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:213
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:289
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:416
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:455
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:530
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:581
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:668
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:723
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1158
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1361
+msgid "Security check failed !"
+msgstr "Wops! Säkerhetskollen misslyckades."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:97
+msgid "Incorrect Course selected."
+msgstr "Inkorrekt kurs vald."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:197
+msgid "Statistics successfully calculated. Reloading..."
+msgstr "Statistiken räknades fram. Laddar om..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:199
+msgid "Unable to calculate Average."
+msgstr "Det gick inte att beräkna ett genomsnitt."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:210
+msgid "SHOW STATS"
+msgstr "VISA STATISTIK"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:210
+msgid "HIDE"
+msgstr "DÖLJ"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:218
+msgid "Incorrect User selected."
+msgstr "Inkorrekt deltagare vald"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:230
+msgid "This User has not started the course."
+msgstr "Denna deltagare har inte påbörjat kursen."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:232
+msgid "This User has completed the course."
+msgstr "Denna deltagare har genomfört kursen."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:233
+msgid "Student Score for Course "
+msgstr "Deltagarpoäng för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:233
+msgid " out of 100"
+msgstr "av 100"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:243
+msgid "Course Started : "
+msgstr "Kurs påbörjades : "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:248
+msgid "Curriculum :"
+msgstr "Kursplan :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:249
+msgid "Quizes"
+msgstr "Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:259
+msgid "Marks Obtained : "
+msgstr "Erhållna poäng : "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:274
+msgid "Units Completed "
+msgstr "Kursdelar avklarade"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:274
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:693
+msgid " out of "
+msgstr "av"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:314
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:753
+msgid "Marked Answer :"
+msgstr "Markera svar :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:324
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2223
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:389
+msgid "FALSE"
+msgstr "FALSKT"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:324
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2223
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:389
+msgid "TRUE"
+msgstr "SANT"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:375
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:816
+msgid "Correct Answer :"
+msgstr "Korrekt svar :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:376
+msgid "View answer explanation"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:381
+#, fuzzy
+msgid "Total Marks :"
+msgstr "Totalpoäng"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:385
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:387
+msgid "MARKS OBTAINED"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:391
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:826
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:831
+msgid "Marks Obtained"
+msgstr "Erhållna poäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:403
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:835
+msgid "Total Marks"
+msgstr "Totalpoäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:421
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:460
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:535
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:673
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:728
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:759
+msgid " Incorrect User selected."
+msgstr "Inkorrekt deltagare vald"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:434
+msgid "User removed from the Course"
+msgstr "Deltagaren togs bort från kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:513
+msgid "Course Reset for User"
+msgstr "Återställning av kurs för användare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:518
+msgid ""
+"There was issue in resetting this course for the user. Please contact admin."
+msgstr ""
+"Det blev ett fel när vi skulle återställa kursen för användaren. Kontakta "
+"Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:553
+msgid "Quiz Reset for Selected User"
+msgstr "Återställning av quiz för vald användare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:555
+msgid "Could not find Quiz results for User. Contact Admin."
+msgstr "Kunde inte hitta quizresultat för användaren. Kontakta Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:633
+msgid "COURSE MARKED COMPLETE"
+msgstr "KURS KLARMARKERAD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:693
+msgid "MARKS: "
+msgstr "POÄNG: "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:693
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:698
+msgid " PENDING"
+msgstr "VÄNTAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:698
+msgid "DONE"
+msgstr "KLAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:707
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:841
+msgid "Total"
+msgstr "Totalt"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:708
+msgid "Course Percentage (Out of 100)"
+msgstr "Kursprocent (av 100)"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:708
+msgid "Course Percentage out of 100"
+msgstr "Kursprocent av 100"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:709
+msgid "Mark Course Complete"
+msgstr "Klarmarkera kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:733
+msgid " Incorrect Quiz Id."
+msgstr "Inkorrekt Quiz-ID."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:826
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:831
+msgid "Give marks"
+msgstr "Ge poäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:827
+msgid "Update Marks"
+msgstr "Uppdatera poäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:832
+msgid "Give Marks"
+msgstr "Ge poäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:842
+msgid "Mark Quiz as Checked"
+msgstr "Markera Quiz som rättad"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:863
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:868
+msgid "Set a Subject for the message"
+msgstr "Välj ett ämne för meddelandet"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:879
+msgid "Messages Sent to "
+msgstr "Meddelande skickades till "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:879
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1023
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1140
+msgid " members"
+msgstr "medlemmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:881
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1031
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1055
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1146
+msgid "Please select members"
+msgstr "Välj medlemmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:929
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:89
+msgid "Reset Course for User"
+msgstr "Återställ kurs för användaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:930
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:90
+msgid "See Course stats for User"
+msgstr "Se kursstatistik för användaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:931
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:92
+msgid "Remove User from this Course"
+msgstr "Ta bort användare från denna kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:963
+msgid "Select Assign Value"
+msgstr "Välj tilldelat värde"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1023
+msgid "Action assigned to "
+msgstr "Handling lades till"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1028
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1143
+msgid "Could not assign action to members"
+msgstr "Kunde inte utföra handling på medlemmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1050
+msgid "Please enter extension amount"
+msgstr "Fyll i summa för kursförlängning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1075
+#, php-format
+msgid "Subscription extended for %d students, unable to extend for %d students"
+msgstr ""
+"Prenumerationen förlängdes för %d kursdeltagare, lyckades inte förlänga för "
+"%d kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1077
+#, php-format
+msgid "Subscription extended for %d students"
+msgstr "Prenumerationen förlängdes för %d kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1099
+#, fuzzy
+msgid "Select Course Status"
+msgstr "Välj kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1140
+#, fuzzy
+msgid "Course status changed for "
+msgstr "Se kursstatistik för användaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1162
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1365
+msgid "User does not have capability to download stats !"
+msgstr "Användaren har inte tillåtelse att ladda ner statistik !"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1199
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1398
+msgid "START DATE"
+msgstr "STARTDATUM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1267
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1414
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1431
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1608
+msgid "N.A"
+msgstr "N.A"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1211
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1417
+msgid "COMPLETION DATE"
+msgstr "KURS KLARDATUM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1222
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1435
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1637
+msgid "ID"
+msgstr "ID"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1229
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1442
+msgid "NAME"
+msgstr "NAMN"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1276
+msgid "BADGE"
+msgstr "UTMÄRKELSE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1288
+msgid "CERTIFICATE"
+msgstr "DIPLOM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1300
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1472
+msgid "SCORE"
+msgstr "POÄNG"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1562
+msgid "User not allowed to access stats"
+msgstr "Användaren tillåtels inte få tillgång till statistik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1588
+msgid "No data available"
+msgstr "Ingen tillgänglig data "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1597
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:371
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:26
+msgid "Stats"
+msgstr "Statistik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1604
+msgid "Average"
+msgstr "Genomsnitt"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1605
+msgid "Max"
+msgstr "Max"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1606
+msgid "Min"
+msgstr "Min"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1612
+msgid "Leaderboard"
+msgstr "Resultattavla"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1632
+msgid "Download Stats"
+msgstr "Ladda ner statistik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1635
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-group-extension.php:60
+msgid "Start Date/Time"
+msgstr "Startdatum/tid"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1636
+msgid "End Date/Time"
+msgstr "Slutdatum/tid"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1638
+msgid "Student Name"
+msgstr "Namn på kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1639
+msgid "Score"
+msgstr "Poäng"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1642
+msgid "Question scores (* for static quizzes only)"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1652
+msgid "All students"
+msgstr "Alla kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1653
+msgid "Students who finished"
+msgstr "Kursdeltagare som klarat kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1656
+msgid "Process Stats"
+msgstr "Statistik kursförlopp"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1679
+#, fuzzy
+msgid "Unit not in Course"
+msgstr "i kursen :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1697
+msgid "Course Expired."
+msgstr "Kursen har utgått."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1697
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:242
+msgid "Click to renew"
+msgstr "Klicka för att förnya"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1747
+msgid "Unit will be available in "
+msgstr "Kursdelen blir tillgänglig i "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1758
+msgid "Unit can not be accessed."
+msgstr "Kursdelen kan fås åtkomst till just nu."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1783
+msgid " Minutes"
+msgstr " Minuter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1783
+msgid " seconds"
+msgstr " sekunder"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1785
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:57
+msgid " Hours"
+msgstr " Timmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1785
+msgid " minutes"
+msgstr " minuter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1787
+msgid " Days"
+msgstr " Dagar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1787
+msgid " hours"
+msgstr " timmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1813
+#, fuzzy
+msgid "Previous Quiz"
+msgstr "Föregående fråga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1815
+msgid "Previous Unit"
+msgstr "Föregående kursdel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1825
+msgid "Check Results"
+msgstr "Se resultat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1828
+#, fuzzy
+msgid "Continue Quiz"
+msgstr "på Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1832
+msgid "Start Quiz"
+msgstr "Starta Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1835
+msgid "Mark this Unit Complete"
+msgstr "Markera denna kursdel som klar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1857
+msgid "Proceed to Quiz"
+msgstr "Fortsätt till Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1860
+msgid "Next Unit"
+msgstr "Nästa kursdel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1885
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1951
+#, fuzzy
+msgid "Invalid submission time."
+msgstr "Bedöm inskickade Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1890
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1956
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2166
+#, fuzzy
+msgid "Questions not set."
+msgstr "Tidslängd inte bestämt"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2044
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2097
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2130
+msgid "Quiz Timed Out ."
+msgstr "Quiztiden har gått ut ."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2045
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2098
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2131
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2135
+msgid "If you want to attempt again, Contact Instructor to reset the quiz."
+msgstr ""
+"Om du vill försöka igen, kontakta kursledaren för att återställa detta quiz."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2051
+msgid "Quiz Already Attempted."
+msgstr "Nytt försök på quiz har redan gjorts."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2052
+msgid "Security Check Failed. Contact Site Admin."
+msgstr "Säkerhetscheck misslyckades. Kontakta Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2102
+msgid "Start Quiz to begin quiz."
+msgstr "Starta Quiz för att påbörja detta quiz."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2103
+msgid "Click \"Start Quiz\" button to start the Quiz."
+msgstr "Klicka \"Starta Quiz\"-knappen för att påbörja detta quiz."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2107
+msgid "Quiz not active."
+msgstr "Detta quiz är inte aktivt."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2108
+msgid "Contact your instructor or site admin."
+msgstr "Kontakta din kursledare eller Youngcubator."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2134
+msgid "Quiz Already Attempted ."
+msgstr "Nytt försök på quiz har redan gjorts ."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2210
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:344
+msgid "SHOW HINT"
+msgstr "VISA LEDTRÅD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2211
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:345
+msgid "HINT"
+msgstr "LEDTRÅD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2285
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2288
+#, fuzzy
+msgid "Type Answer"
+msgstr "Markera svar :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2295
+msgid "PAGES"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2339
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2378
+#, fuzzy
+msgid "Unable to add message"
+msgstr "Det gick inte att återställa"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2369
+msgid "JUST NOW"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:27
+msgid "Too Fast or Answer not marked."
+msgstr "Du var för snabb eller markerade inte svaret."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:28
+msgid "Answer Saved."
+msgstr "Ditt svar sparades."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:29
+msgid "Processing..."
+msgstr "Jobbar för dig..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:30
+msgid "Saving Answer...please wait"
+msgstr "Sparar ditt svar... vänta lite"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:31
+msgid ""
+"This step is irreversible. Are you sure you want to remove the User from the "
+"course ?"
+msgstr ""
+"Detta steg är oåterkalleligt. Är du säker på att du vill ta bort deltagaren "
+"från denna kurs ?"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:32
+msgid "Confirm, Remove User from Course"
+msgstr "Bekräfta, ta bort kursdeltagaren"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:33
+msgid "Confirm"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:34
+msgid "Cancel"
+msgstr "Avbryt"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:35
+msgid ""
+"This step is irreversible. All Units, Quiz results would be reset for this "
+"user. Are you sure you want to Reset the Course for this User?"
+msgstr ""
+"Detta steg är oåterkalleligt. Alla kursdelar och quizresultat kommer att "
+"återställas för denna deltagare. Är du säker på att du vill återställa "
+"kursen för denna deltagare?"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:36
+msgid "Confirm, Reset Course for this User"
+msgstr "Bekräfta, återställ för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:37
+msgid ""
+"This step is irreversible. All Questions answers would be reset for this "
+"user. Are you sure you want to Reset the Quiz for this User? "
+msgstr ""
+"Detta steg är oåterkalleligt. Svaren på alla frågor kommer att återställas "
+"för deltagaren. Är du säker på att du återställa för kursdeltagaren?"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:38
+msgid "Confirm, Reset Quiz for this User"
+msgstr "Bekräfta, återställ quiz för denna deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:39
+msgid "Marks Saved"
+msgstr "Poäng sparades"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:40
+msgid "Quiz Marks Saved"
+msgstr "Quizpoäng sparades"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:41
+msgid "Submit Quiz"
+msgstr "Skicka in"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:42
+msgid "Sending Messages ..."
+msgstr "Skickar meddelanden ..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:43
+msgid "Adding Students to Course ..."
+msgstr "Lägger till deltagare i kursen ..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:44
+msgid "Students successfully added to Course"
+msgstr "Nya kursdeltagare lades till"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:45
+msgid "Unable to Add students to Course"
+msgstr "Ops! Det gick inte att lägga till deltagare till kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:46
+msgid "Please select fields to download"
+msgstr "Välj vilka fält du vill ladda ner"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:47
+msgid "Download"
+msgstr "Ladda ner"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:48
+msgid "TIMEOUT"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:51
+msgid "for Course"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:52
+msgid "Active Filters"
+msgstr "Aktiva filter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:53
+msgid "Clear all filters"
+msgstr "Rensa alla filter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:54
+msgid "Are you sure you want to remove this note?"
+msgstr "Är du helt säker på att du vill ta bort denna anteckning?"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:55
+msgid "Confirm, remove note"
+msgstr "Bekräfta, ta bort anteckning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:56
+msgid "Make Private"
+msgstr "Gör privat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:57
+msgid "Add your note"
+msgstr "Lägg till din anteckning"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:58
+msgid "Please add questions or retake the quiz !"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:59
+#, fuzzy
+msgid "Are you sure you want to remove this Annoucement?"
+msgstr "Är du helt säker på att du vill ta bort denna anteckning?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:60
+msgid "You're about to start the Quiz. Please click confirm to begin the quiz."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:61
+msgid ""
+"Are you sure you want to submit the quiz. Submitting the quiz will freeze "
+"all your answers, you can not change them.  Please confirm."
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:62
+#, fuzzy
+msgid "Check results"
+msgstr "Se resultat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:63
+#, fuzzy
+msgid "Correct"
+msgstr "Korrekt svar :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:64
+#, fuzzy
+msgid "Incorrect"
+msgstr "Inkorrekt Quiz-ID."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:65
+msgid "You have few unanswered questions. Are you sure you want to continue ?"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-filters.php:283
+msgid "No Courses found."
+msgstr "Oj då, inga kurser hittades."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:49
+msgid "Course Directory"
+msgstr "Kurskatalog"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:50
+msgid "All Courses by all instructors"
+msgstr "Alla kurser av alla kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:82
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:417
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:39
+msgid "Home"
+msgstr "Hem"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:88
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:40
+msgid "Curriculum"
+msgstr "Kursplan"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:94
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:17
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:41
+msgid "Members"
+msgstr "Medlemmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:153
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:260
+msgid "TAKE THIS COURSE"
+msgstr "GÅ DENNA KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:197
+msgid "START COURSE"
+msgstr "STARTA KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:201
+msgid "CONTINUE COURSE"
+msgstr "FORTSÄTT KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:205
+msgid "COURSE UNDER EVALUATION"
+msgstr "KURS UNDER UTVÄRDERING"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:210
+msgid "FINISHED COURSE"
+msgstr "GENOMFÖRD KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:213
+msgid "COURSE FINISHED"
+msgstr "KURS GENOMFÖRD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:229
+msgid "COURSE ENABLED"
+msgstr "KURS AKTIVERAD"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:229
+msgid "CONTACT ADMIN TO ENABLE"
+msgstr "KONTAKTA YOUNGCUBATOR FÖR ATT AKTIVERA"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:242
+msgid "Course Expired"
+msgstr "Kursen har löpt ut"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:262
+msgid "PRIVATE COURSE"
+msgstr "PRIVAT KURS"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:303
+msgid "* REQUIRES"
+msgstr "* KRÄVER"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:307
+msgid "SEATS"
+msgstr "PLATSER"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:308
+msgid "Course Badge"
+msgstr "Kursutmärkelse"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:309
+msgid "Course Certificate"
+msgstr "Kursdiplom"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:453
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:463
+#, fuzzy
+msgid "Type answer"
+msgstr "Markera svar :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:496
+#, fuzzy
+msgid "Unlimited Time"
+msgstr "Obegränsad tid"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:537
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:545
+msgid "Next Question"
+msgstr "Nästa fråga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:541
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:544
+msgid "Previous Question"
+msgstr "Föregående fråga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:594
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:632
+msgid "Duration not Set"
+msgstr "Tidslängd inte bestämt"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:604
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1084
+msgid "Time Remaining"
+msgstr "Tid kvar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:605
+msgid "Mins"
+msgstr "Min"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:605
+msgid "Secs"
+msgstr "Sek"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:640
+msgid "Progress"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:691
+msgid "Please set questions in quiz or reset quiz !"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:739
+msgid "QUESTION"
+msgstr "FRÅGA"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:759
+msgid "Security Error"
+msgstr "Säkerhetsfel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:819
+msgid "year"
+msgstr "år"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:819
+msgid "years"
+msgstr "år"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:821
+msgid "month"
+msgstr "månad"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:821
+msgid "months"
+msgstr "månader"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:823
+msgid "week"
+msgstr "vecka"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:823
+msgid "weeks"
+msgstr "veckor"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:825
+msgid "day"
+msgstr "dag"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:825
+msgid "days"
+msgstr "dagar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:827
+msgid "hour"
+msgstr "timme"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:827
+msgid "hours"
+msgstr "timmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:829
+msgid "minute"
+msgstr "minut"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:829
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:57
+msgid "minutes"
+msgstr "minuter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:831
+msgid "second"
+msgstr "sekund"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:831
+msgid "seconds"
+msgstr "sekunder"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:910
+msgid "Course Curriculum Not Set."
+msgstr "Kursplanen har inte fastställts."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:965
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Har du frågor? Fråga dem i kursdelens forum"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1014
+msgid "Attachments"
+msgstr "Bilagor"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1042
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:211
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:126
+msgid "Instructor"
+msgstr "Kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1258
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1261
+msgid "Certificate not valid for user"
+msgstr "Diplomet är ej giltigt för deltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1348
+msgid "Evaluate course submissions"
+msgstr "Bedöm kursinlämningar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1360
+msgid "Evaluate Quiz submissions"
+msgstr "Bedöm inskickade Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1366
+msgid "Manage Students"
+msgstr "Hantera kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1367
+msgid "See Stats"
+msgstr "See statistik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1368
+msgid "See all Activity"
+msgstr "See all aktivitet"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1416
+msgid "Seconds"
+msgstr "Sekunder"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1417
+msgid "Minutes"
+msgstr "Minuter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1418
+msgid "Hours"
+msgstr "Timmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1419
+msgid "Days"
+msgstr "Dagar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1420
+msgid "Weeks"
+msgstr "Veckor"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1421
+msgid "Months"
+msgstr "Månader"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1422
+msgid "Years"
+msgstr "År"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-group-extension.php:28
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:94
+msgid "Course"
+msgstr "Kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-group-extension.php:33
+#, fuzzy
+msgid "Save Course Settings"
+msgstr "Kursinställningar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-group-extension.php:50
+#, fuzzy
+msgid "Connect with Course"
+msgstr "på Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-group-extension.php:54
+#, fuzzy
+msgid "Select a Course"
+msgstr "Välj kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:264
+msgid "Search ..."
+msgstr "Sök ..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:313
+#, php-format
+msgid "Courses <span>%s</span>"
+msgstr "Kurser <span>%s</span>"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:351
+msgid "My Courses"
+msgstr "Mina Kurser"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:361
+msgid "Results"
+msgstr "Resultat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:381
+msgid "Instructing Courses"
+msgstr "Kursledare för"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:619
+msgid "Please Update the WPLMS theme to latest version"
+msgstr "Vänligen uppdatera WPLMS-temat till den senaste versionen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:84
+#, php-format
+msgid "Click %s to Activate account."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:84
+msgid "this link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:209
+msgid "Profile"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:209
+#, fuzzy
+msgid "Courses"
+msgstr "Kurs"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:211
+msgid "Link"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:95
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:127
+msgid "Yes"
+msgstr "Ja"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:96
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:128
+msgid "No"
+msgstr "Nej"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:158
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:269
+#, fuzzy, php-format
+msgid "Announcement for course %s"
+msgstr "Kursledaren la till en kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:262
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:287
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1819
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1822
+#, fuzzy, php-format
+msgid "Announcement for Course %s"
+msgstr "Deltagarpoäng för kurs"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:303
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:351
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:393
+msgid "Read more"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:305
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:350
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:392
+#, fuzzy, php-format
+msgid "News for Course %s"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:362
+#, fuzzy, php-format
+msgid "News for course %s"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:404
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:426
+#, fuzzy, php-format
+msgid "You're subscribed for course : %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:406
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:425
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:441
+#, fuzzy
+msgid "Subscribed for Course"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:439
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:464
+#, fuzzy, php-format
+msgid "Student %s subscribed for course : %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:479
+#, fuzzy, php-format
+msgid "You're added to course : %s"
+msgstr "Kursledaren la till en kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:481
+#, fuzzy
+msgid "Added to Course"
+msgstr "Välj kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:510
+#, fuzzy, php-format
+msgid "Added to course %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:511
+#, fuzzy, php-format
+msgid "You've been added to course : %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:526
+#, fuzzy, php-format
+msgid "Student %s added to course : %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:528
+#, fuzzy
+msgid "Student added to Course"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:565
+#, fuzzy, php-format
+msgid "Students added to course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:566
+#, fuzzy, php-format
+msgid "%d students added to course : %s , %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:577
+#, fuzzy, php-format
+msgid "You started the course : %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:579
+#, fuzzy
+msgid "Started a Course"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:600
+#, fuzzy, php-format
+msgid "You started course %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:601
+#, fuzzy, php-format
+msgid "You've started the course : %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:614
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:641
+#, fuzzy, php-format
+msgid "Student %s started the course : %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:616
+#, fuzzy, php-format
+msgid "Student started the course %s"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:640
+#, fuzzy, php-format
+msgid "Student started course %s"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:650
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:672
+#, fuzzy, php-format
+msgid "You've submitted the course : %s"
+msgstr "Kursdeltagare slutförde kursen"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:652
+#, fuzzy
+msgid "Course submitted"
+msgstr "Kurstitel"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:671
+#, fuzzy, php-format
+msgid "Course %s submitted"
+msgstr "Kurstitel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:682
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:705
+#, fuzzy, php-format
+msgid "Student %s submitted the course : %s"
+msgstr "Kursdeltagare slutförde kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:684
+#, fuzzy, php-format
+msgid "Student submitted the course %s"
+msgstr "Kursdeltagare slutförde kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:704
+#, fuzzy, php-format
+msgid "Student submitted course %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:714
+#, fuzzy, php-format
+msgid "The Course %s was reset by Course instructor "
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:716
+#, fuzzy
+msgid "Course reset"
+msgstr "Kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:732
+#, fuzzy, php-format
+msgid "Course %s reset"
+msgstr "Återställning av kurs för användare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:733
+#, fuzzy, php-format
+msgid "%s Course was reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:739
+#, fuzzy, php-format
+msgid "%s course reset for student : %s"
+msgstr "Återställning av kurs för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:741
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:792
+#, fuzzy, php-format
+msgid "Course %s reset for student"
+msgstr "Återställning av kurs för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:758
+#, fuzzy, php-format
+msgid "Course %s reset for Student"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:759
+#, fuzzy, php-format
+msgid "Course %s was reset for student %s "
+msgstr "Återställning av kurs för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:766
+#, fuzzy, php-format
+msgid "You retook the Course %s "
+msgstr " togs bort från kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:768
+#, fuzzy
+msgid "Course retake"
+msgstr "Kursutmärkelse"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:783
+#, fuzzy, php-format
+msgid "You retook the course Course %s"
+msgstr " togs bort från kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:784
+#, fuzzy, php-format
+msgid "You've retaken the Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:790
+#, fuzzy, php-format
+msgid "Student %s retook the course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:809
+#, fuzzy, php-format
+msgid "Course %s retaken by the Student"
+msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:810
+#, fuzzy, php-format
+msgid "Course %s was retaken by the student %s "
+msgstr "Återställning av kurs för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:819
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:837
+#, fuzzy, php-format
+msgid "You've obtained %s  in Course : %s"
+msgstr "Du fick "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:821
+msgid "Course results available"
+msgstr "Kursresultat finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:836
+#, fuzzy, php-format
+msgid "Course %s results available"
+msgstr "Kursresultat finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:845
+#, fuzzy, php-format
+msgid "Course %s evaluated for student"
+msgstr "Kursen bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:861
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student"
+msgstr "Kursen bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:862
+#, fuzzy, php-format
+msgid "Student %s got %s in Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:871
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a badge in Course : %s"
+msgstr "Grattis ! Du har förtjänat "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:873
+#, fuzzy
+msgid "You got a new Badge !"
+msgstr "Kursdeltagare fick en utmärkelse"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:892
+#, fuzzy, php-format
+msgid "You got a Badge in Course %s"
+msgstr " fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:893
+#, fuzzy, php-format
+msgid "You've obtained a Badge in Course : %s"
+msgstr "Deltagare fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:901
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1021
+#, fuzzy, php-format
+msgid "Student %s got a Badge in course %s"
+msgstr "Deltagare fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:903
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:923
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1023
+#, fuzzy, php-format
+msgid "Student got a Badge in Course %s"
+msgstr "Deltagare fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:924
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1876
+#, fuzzy, php-format
+msgid "Student %s got a Badge in Course %s"
+msgstr "Deltagare fick en utmärkelse i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:933
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a Certificate in Course : %s"
+msgstr "Grattis ! Du har förtjänat "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:935
+#, fuzzy
+msgid "You got a new Certificate !"
+msgstr "Kursdeltagare fick ett diplom"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:954
+#, fuzzy, php-format
+msgid "You got a Certificate in Course %s"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:955
+#, fuzzy, php-format
+msgid "You've obtained a certificate in Course : %s"
+msgstr " fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:963
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in course %s"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:965
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:985
+#, fuzzy, php-format
+msgid "Student got a Certificate in Course %s"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:986
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1882
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in Course %s"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:994
+#, fuzzy, php-format
+msgid "You've submitted a review of Course : %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:996
+#, fuzzy
+msgid "You submitted a course review"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1013
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1885
+#, fuzzy, php-format
+msgid "You submitted a review for Course %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1014
+#, fuzzy, php-format
+msgid "You submitted a review Course : %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1041
+#, fuzzy, php-format
+msgid "Student submitted a review for Course %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1042
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1050
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course : %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1052
+#, fuzzy
+msgid "You unsubscribed from course"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1067
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1117
+#, fuzzy
+msgid "You're unsubscribed from course"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1068
+#, fuzzy, php-format
+msgid "You're unsubscribed from course Course %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1074
+#, fuzzy, php-format
+msgid "Student %s unsubscribed course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1076
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1092
+#, fuzzy, php-format
+msgid "Student unsubscribed from Course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1093
+#, fuzzy, php-format
+msgid "Student %s unsubscribed from Course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1100
+#, fuzzy, php-format
+msgid "You applied a code for Course : %s"
+msgstr "Deltagarpoäng för kurs"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1102
+msgid "You applied a course code"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1891
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1125
+#, fuzzy, php-format
+msgid "Student %s used course code %s for course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1127
+#, fuzzy, php-format
+msgid "Student applied Course code for Course %s"
+msgstr "Deltagarpoäng för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1143
+#, fuzzy, php-format
+msgid "Student applied code for Course %s"
+msgstr "Deltagarpoäng för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1144
+#, fuzzy, php-format
+msgid "Student %s applied code %s for Course %s"
+msgstr "Deltagarpoäng för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1152
+#, fuzzy, php-format
+msgid "You've completed the unit %s in Course : %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1154
+msgid "You completed a unit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1172
+msgid "You completed unit"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1173
+#, fuzzy, php-format
+msgid "You completed a unit %s in Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1180
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s in course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1182
+#, fuzzy, php-format
+msgid "Student completed a unit in Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1200
+#, fuzzy, php-format
+msgid "Student completed unit in Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1201
+#, fuzzy, php-format
+msgid "Student %s completed unit %s in Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1208
+#, php-format
+msgid "You've submitted a comment on unit : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1210
+msgid "You submitted a question/comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1238
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1239
+#, php-format
+msgid "You added a comment on Unit %s"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1246
+#, fuzzy, php-format
+msgid "Student %s submitted a comment on unit %s "
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1248
+#, fuzzy
+msgid "Student submitted a comment on Unit"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1267
+#, fuzzy, php-format
+msgid "Student added comment in unit %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1268
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s "
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1278
+#, fuzzy, php-format
+msgid "You've started the quiz : %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1280
+#, fuzzy
+msgid "You started a Quiz"
+msgstr "Kursdeltagare påbörjade ett quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1295
+#, fuzzy, php-format
+msgid "You started quiz %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1296
+#, fuzzy, php-format
+msgid "You started a quiz %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1302
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1323
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s "
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1304
+#, fuzzy, php-format
+msgid "Student started the quiz %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1322
+#, fuzzy, php-format
+msgid "Student started quiz %s"
+msgstr "Kursdeltagare påbörjade ett quiz"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1334
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1353
+#, php-format
+msgid "You obtained %d out of %s in Quiz : "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1336
+msgid "Quiz results available"
+msgstr "Resultat för quiz finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1352
+#, fuzzy, php-format
+msgid "Results available for quiz %s"
+msgstr "Resultat för quiz finns tillgängliga"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1380
+#, php-format
+msgid "Student %s got %s from %s in quiz %s "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1361
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for student"
+msgstr "Quiz bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1379
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for Student"
+msgstr "Quiz bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1392
+#, fuzzy, php-format
+msgid "You submitted the Quiz : %s"
+msgstr "Kursdeltagare som skickat in Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1394
+#, fuzzy, php-format
+msgid "You submitted quiz %s "
+msgstr "Kursdeltagare svarade på en quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1411
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1412
+#, fuzzy, php-format
+msgid "You submitted quiz %s"
+msgstr "Kursdeltagare svarade på en quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1425
+#, fuzzy, php-format
+msgid "Quiz %s submitted by student %s"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1427
+#, fuzzy, php-format
+msgid "Quiz %s submitted by Student"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1443
+#, fuzzy, php-format
+msgid "Student submitted quiz %s"
+msgstr "Kursdeltagare svarade på en quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1444
+#, fuzzy, php-format
+msgid "Student %s submitted quiz %s"
+msgstr "Kursdeltagare svarade på en quiz"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1451
+#, php-format
+msgid "You retook the Quiz : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1453
+msgid "You retook a Quiz"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1468
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1469
+#, php-format
+msgid "You retook quiz %s"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1475
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz : %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1477
+#, fuzzy, php-format
+msgid "Student retook the Quiz %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1493
+#, fuzzy, php-format
+msgid "Student retook the quiz %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1494
+#, fuzzy, php-format
+msgid "Student %s retook the quiz %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1501
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1519
+#, fuzzy, php-format
+msgid "Quiz %s was reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1503
+#, fuzzy
+msgid "Quiz reset by Instructor"
+msgstr "Välj kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1518
+#, fuzzy, php-format
+msgid "Quiz %s reset"
+msgstr "Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1525
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student %s"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1527
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1545
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1546
+#, fuzzy, php-format
+msgid "Quiz %s was reset for Student %s"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1555
+#, fuzzy, php-format
+msgid "You've started the assignemtn : %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1557
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1572
+#, fuzzy, php-format
+msgid "You started assignment %s"
+msgstr "Bedöm uppgift : "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1573
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1939
+#, fuzzy, php-format
+msgid "You started the assignment %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1579
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1600
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s "
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1581
+#, fuzzy, php-format
+msgid "Student started an assignment %s "
+msgstr "Kursdeltagaren påbörjade en del"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1611
+#, php-format
+msgid "You obtained %d out of %s in Assignment : %s "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1613
+#, fuzzy
+msgid "Assignment results available"
+msgstr "Kursresultat finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1630
+#, fuzzy, php-format
+msgid "You obtained %d out of %s in Assignment : %s"
+msgstr "Du fick "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1636
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1657
+#, php-format
+msgid "Student %s got %s from %s in assignment %s "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1638
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for student"
+msgstr " bedöms automatiskt för kursdeltagaren "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1656
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for Student"
+msgstr "Uppgiftsbedömning"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1670
+#, php-format
+msgid "You submitted the assignment : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1672
+#, php-format
+msgid "You submitted the assignment %s "
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1689
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1690
+#, fuzzy, php-format
+msgid "You submitted assignment %s"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1702
+#, fuzzy, php-format
+msgid "Assignment %s submitted by student %s"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1704
+#, fuzzy, php-format
+msgid "Assignment %s submitted by Student"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1720
+#, fuzzy, php-format
+msgid "Student submitted assignment %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1721
+#, fuzzy, php-format
+msgid "Student %s submitted assignment %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1729
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1747
+#, fuzzy, php-format
+msgid "Assignment %s was reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1731
+#, fuzzy
+msgid "Assignment reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1746
+#, fuzzy, php-format
+msgid "Assignment %s reset"
+msgstr "Uppgiftsbedömning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1753
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student %s"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1755
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1773
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1774
+#, fuzzy, php-format
+msgid "Assignment %s was reset for Student %s"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1825
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1831
+#, fuzzy, php-format
+msgid "Added to Course %s"
+msgstr "Lägger till deltagare i kursen ..."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1828
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1834
+#, fuzzy, php-format
+msgid "Student %s added to Course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1837
+#, fuzzy, php-format
+msgid "You've subscribed to Course %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1840
+#, fuzzy, php-format
+msgid "Student %s subscribed to Course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1843
+#, fuzzy, php-format
+msgid "You started the course %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1846
+#, fuzzy, php-format
+msgid "Student %s started course %s"
+msgstr "Medlem påbörjade en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1849
+#, fuzzy, php-format
+msgid "You submitted the course %s"
+msgstr "Kursdeltagare slutförde kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1852
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1855
+#, fuzzy, php-format
+msgid "Student %s submitted course %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1858
+#, fuzzy, php-format
+msgid "Course %s was reset for Student %s"
+msgstr "Kursen gjordes om av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1861
+#, fuzzy, php-format
+msgid "Student %s retook the course course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1864
+#, fuzzy, php-format
+msgid "Course %s was retaken by Student %s"
+msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1867
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1870
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student %s"
+msgstr "Kursen bedömdes för kursdeltagaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1873
+#, fuzzy, php-format
+msgid "Congratulations ! You got a badge in Course %s"
+msgstr "Grattis ! Du har förtjänat "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1879
+#, fuzzy, php-format
+msgid "Congratulations ! You got a certificate in Course %s"
+msgstr "Deltagare fick ett diplom i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1888
+#, fuzzy, php-format
+msgid "Student %s submitted a review for Course %s"
+msgstr "Deltagare genomförde en kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1894
+#, fuzzy, php-format
+msgid "Student %s is unsubscribed from Course %s"
+msgstr "Deltagare tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1897
+#, fuzzy, php-format
+msgid "You completed the unit %s in course %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1900
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1903
+#, php-format
+msgid "You added a comment in unit %s"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1906
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s"
+msgstr "Kursdeltagaren påbörjade delen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1909
+#, fuzzy, php-format
+msgid "You started the quiz %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1915
+#, fuzzy, php-format
+msgid "You submitted the quiz %s"
+msgstr "Kursdeltagare som skickat in Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1918
+#, fuzzy, php-format
+msgid "Student %s submitted the quiz %s"
+msgstr "Kursdeltagare som skickat in Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1921
+#, fuzzy, php-format
+msgid "Quiz %s results available"
+msgstr "Resultat för quiz finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1924
+#, fuzzy, php-format
+msgid "Quiz %s results available for student %s"
+msgstr "Resultat för quiz finns tillgängliga"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1927
+#, fuzzy, php-format
+msgid "Quiz %s reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1930
+#, fuzzy, php-format
+msgid "Quiz %s reset for student %s"
+msgstr " återställning för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1933
+#, fuzzy, php-format
+msgid "You retook the quiz %s"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1936
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz %s"
+msgstr "Kursdeltagaren %s genomförde kursdelen %s i kursen %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1945
+#, fuzzy, php-format
+msgid "You submitted the assignment %s"
+msgstr " skickades av kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1951
+#, fuzzy, php-format
+msgid "Assignment %s results available"
+msgstr "Kursen %s resultat finns tillgängliga"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1954
+#, php-format
+msgid "Assignment %s results available for student %s"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1957
+#, fuzzy, php-format
+msgid "Assignment %s reset by Instructor"
+msgstr " återställdes av kursledaren för användare "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1960
+#, fuzzy, php-format
+msgid "Assignment %s reset for student %s"
+msgstr " återställning för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1963
+#, fuzzy, php-format
+msgid "Latest News : %s for Course : %s"
+msgstr "för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1966
+#, fuzzy, php-format
+msgid "News : %s was published for your course : %s"
+msgstr "tecknade sig för kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:96
+msgid "Course Settings Header"
+msgstr "Kursinställningar rubrik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:100
+msgid "Course Settings"
+msgstr "Kursinställningar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:108
+msgid "Changes Saved."
+msgstr "Ändringarna sparades."
+
+# @ bp-course
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:114
+msgid "Do you love clicking checkboxes?"
+msgstr "Älskar du också att klicka i boxar?"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:116
+msgid "Save Settings"
+msgstr "Spara ändringar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:150
+msgid "Send Bulk Message"
+msgstr "Skicka massmeddelande"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:160
+#, php-format
+msgid "Enter extend amount ( in %s"
+msgstr "Skriv summa för förlängning ( i %s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:161
+msgid "Extend Subscription"
+msgstr "Förläng kursprenumerationen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:172
+msgid "Type Message Subject"
+msgstr "Skriv meddelandets ämne"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:173
+msgid "Type Message"
+msgstr "Skriv meddelandet"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:174
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:187
+#, fuzzy
+msgid "Enter Student Usernames/Emails, separated by comma"
+msgstr "Skriv kursdeltagarens användarnamn, separerat med komma"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:188
+msgid "Add Students"
+msgstr "Lägg till deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:203
+msgid "ASSIGN COURSE BADGE"
+msgstr "TILLDELA KURSUTMÄRKELSE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:204
+msgid "ASSIGN COURSE CERTIFICATE"
+msgstr "TILLDELA KURSDIPLOM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:205
+msgid "REMOVE COURSE BADGE"
+msgstr "TA BORT KURSUTMÄRKELSE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:206
+msgid "REMOVE COURSE CERTIFICATE"
+msgstr "TA BORT KURSDIPLOM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:208
+msgid "Assign Action"
+msgstr "Tilldela handling"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:225
+#, fuzzy
+msgid "Finished Course"
+msgstr "i kursen :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:227
+#, fuzzy
+msgid "Enter marks"
+msgstr "Ge poäng"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:228
+#, fuzzy
+msgid "Change Course Status"
+msgstr "Kursinställningar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:350
+#, php-format
+msgid "Viewing page %1$s of %2$s"
+msgstr "Visar sida %1$s av %2$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:570
+msgid "REVIEWS"
+msgstr "RECENSIONER"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:575
+msgid "STUDENTS"
+msgstr "DELTAGARE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:711
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:43
+msgid "FREE"
+msgstr "GRATIS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:754
+msgid "Price Options +"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:788
+msgid "PRIVATE"
+msgstr "PRIVAT"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:944
+#, fuzzy, php-format
+msgid "Viewing page %d of %d "
+msgstr "Visar sida %1$s av %2$s"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1464
+msgid "COURSE EVALUATED "
+msgstr "KURSEN BEDÖMT"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1497
+msgid "Congratulations ! You've earned the "
+msgstr "Grattis ! Du har förtjänat "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1497
+msgid "Badge"
+msgstr "Utmärkelsen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1518
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr "Grattis ! Du har klarat kursen och förtjänat ett kursdiplom !"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1518
+msgid "View Certificate"
+msgstr "Visa Diplom"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1527
+#, fuzzy, php-format
+msgid "You've obtained %s in course %s "
+msgstr "Du fick "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1533
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr "KURS SLUTFÖRD OCH AVVAKTAR BEDÖMNING"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1546
+msgid "UNIT"
+msgstr "KURSDEL"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1549
+msgid "ASSIGNMENT"
+msgstr "KURSUPPGIFT"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1552
+msgid "QUIZ"
+msgstr "QUIZ"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1555
+msgid "PLEASE COMPLETE THE "
+msgstr "VAR VÄNLIG OCH SLUTFÖR "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1559
+msgid "COURSE CURRICULUM NOT SET"
+msgstr "KURSPLANEN ÄR INTE KLAR ÄN"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:35
+msgid "BuddyPress Course Widget"
+msgstr "BuddyPress kurswidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:92
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:233
+msgid "by"
+msgstr "av"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:264
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:413
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:541
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:924
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1139
+msgid "Widget Title"
+msgstr "Widgettitel"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:153
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:928
+msgid "Style"
+msgstr "Stil"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:155
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:930
+msgid "Single"
+msgstr "Singel"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:156
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:931
+msgid "List"
+msgstr "Lista"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:157
+msgid "Ratings List"
+msgstr "Rankinglista"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:158
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:932
+msgid "Carousel"
+msgstr "Karusell"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:161
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:303
+msgid "Select Course Category"
+msgstr "Välj kurskategori"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:163
+msgid "None"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:171
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:935
+msgid "Order By"
+msgstr "Sortera efter"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:173
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:938
+msgid "Random"
+msgstr "Slumpmässigt"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:174
+msgid "Name"
+msgstr "Namn"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:175
+msgid "Course Title"
+msgstr "Kurstitel"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:176
+msgid "Number of Reviews"
+msgstr "Antal recensioner"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:177
+msgid "Date Published"
+msgstr "Publiceringsdatum"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:178
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:939
+msgid "Rating"
+msgstr "Betyg"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:179
+msgid "Number of Students"
+msgstr "Antal deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:942
+msgid "Sort "
+msgstr "Sorera"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:944
+msgid "Ascending"
+msgstr "Stigande"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:945
+msgid "Decending"
+msgstr "Fallande"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:188
+msgid "Specific Courses (enter comma saperated ids)"
+msgstr "Specifika kurser (separera ID med komma)"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:189
+msgid "Number of Courses to show"
+msgstr "Antal kurser att visa"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:203
+msgid "BuddyPress Instructor Widget"
+msgstr "BuddyPress kursledarwidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:227
+msgid "Check all Courses created by "
+msgstr "Markera alla kurser skapade av "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:228
+msgid "More Courses by "
+msgstr "Fler kurser av "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:265
+msgid "Fallback Instructor ID"
+msgstr "Fallback kursledar-ID"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:266
+msgid "Number of Courses by the Instructor to show"
+msgstr "Antal kurser att visa av kursledaren"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:278
+msgid "BuddyPress Course Search Widget"
+msgstr "BuddyPress kurssökwidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:336
+msgid "Select Instructor"
+msgstr "Välj kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:350
+#, fuzzy
+msgid "Select Course Location"
+msgstr "Välj kurskategori"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:361
+msgid "Select Course Level"
+msgstr "Välj kursnivå"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:368
+msgid "Type Keywords.."
+msgstr "Skriv nyckelord.."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:414
+msgid "Show Course Category Dropdown"
+msgstr "Visa dropdown med kurskategorier"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:415
+msgid "Show Instructor Dropdown"
+msgstr "Visa kursledare i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:419
+#, fuzzy
+msgid "Show Location Dropdown"
+msgstr "Visa kursledare i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:424
+msgid "Show Level Dropdown"
+msgstr "Visa nivåer i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:438
+msgid "BuddyPress Course Stats Widget"
+msgstr "BuddyPress kursstatistikwidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:509
+msgid "TOTAL STUDENTS"
+msgstr "ANTAL KURSDELTAGARE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:511
+msgid "BADGES"
+msgstr "UTMÄRKELSER"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:512
+msgid "CERTIFICATES"
+msgstr "DIPLOM"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:542
+msgid "Select Course"
+msgstr "Välj kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:544
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:682
+msgid "All"
+msgstr "Alla"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:545
+msgid "Current Course (defaults to all)"
+msgstr "Nuvarande kurs (alla som standard)"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:556
+msgid "Show Students Stats"
+msgstr "Visa studentstatistik"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:557
+msgid "Show Badge/Certificates Stats"
+msgstr "Visa statistik för utmärkelser/diplom"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:567
+msgid "BuddyPress Course Filter Widget"
+msgstr "BuddyPress kursfilterwidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:674
+#, fuzzy
+msgid "Start Date"
+msgstr "Startdatum/tid"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:675
+#, fuzzy
+msgid "End Date"
+msgstr "Slutdatum/tid"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:683
+msgid "Free"
+msgstr "Gratis"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:684
+msgid "Paid"
+msgstr "Betal"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:688
+msgid "Filter Results"
+msgstr "Filtrera resultat"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:715
+msgid "Course Categories"
+msgstr "Kurskategorier"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:717
+msgid "Location"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:719
+msgid "Levels"
+msgstr "Nivåer"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:721
+msgid "Type"
+msgstr "Typ"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:723
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/course-header.php:40
+msgid "Instructors"
+msgstr "Kursledare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:725
+#, fuzzy
+msgid "Upcoming Courses"
+msgstr "Kursledare för"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:747
+msgid "Show Course category filter"
+msgstr "Visa kurskategorifilter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:748
+msgid "Course Categories Label"
+msgstr "Etiketter för kurskategori"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:750
+msgid "Show Free/Paid/All filter"
+msgstr "Visa Gratis/Betal/Alla-filter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:751
+msgid "Free/Paid Label"
+msgstr "Gratis/Betal-etikett"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:753
+#, fuzzy
+msgid "Show Upcoming/Past Courses filter"
+msgstr "Visa kursledare i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:754
+#, fuzzy
+msgid "Upcoming courses Label"
+msgstr "i kursen "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:759
+#, fuzzy
+msgid "Show Location filter"
+msgstr "Visa kurskategorifilter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:760
+#, fuzzy
+msgid "Location Label"
+msgstr "Kursledaren la till"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:768
+msgid "Show Levels filter"
+msgstr "Visa nivåfilter"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:769
+msgid "Levels Label"
+msgstr "Nivåer - etikett"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:773
+#, fuzzy
+msgid "Show Instructor filter"
+msgstr "Visa kursledare i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:774
+#, fuzzy
+msgid "Instructor Label"
+msgstr "Kursledaren la till"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:775
+msgid "Exclude Category/Level Slugs (comma saperated)"
+msgstr "Exkludera kategori/level slugs (kommaseparerade)"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:788
+#, fuzzy
+msgid "Course Reviews Widget"
+msgstr "BuddyPress kursfilterwidget"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:854
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:875
+msgid "Default avatar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:925
+msgid "Course ID (optional)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:937
+msgid "Recent"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:948
+#, fuzzy
+msgid "Specific Reviews/Comments (enter comma saperated ids)"
+msgstr "Specifika kurser (separera ID med komma)"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:949
+#, fuzzy
+msgid "Number of Reviews to show"
+msgstr "Antal recensioner"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:963
+#, fuzzy
+msgid "BuddyPress Related Courses Widget"
+msgstr "BuddyPress kurswidget"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1091
+#, fuzzy
+msgid "No related courses found !"
+msgstr "Oj då, inga kurser hittades."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1140
+#, fuzzy
+msgid "Show from same Course Category"
+msgstr "Välj kurskategori"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1141
+#, fuzzy
+msgid "Show from same Instructor"
+msgstr "Visa kursledare i dropdown"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1145
+#, fuzzy
+msgid "Show from same Course location"
+msgstr "Välj kurskategori"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1150
+#, fuzzy
+msgid "Show from same Course Level"
+msgstr "Välj kursnivå"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1155
+msgid "Show from same Linkage"
+msgstr ""
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1159
+#, fuzzy
+msgid "Numer of Courses"
+msgstr "Antal kurser att visa"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1160
+#, fuzzy
+msgid "Block Style"
+msgstr "Stil"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1176
+#, fuzzy
+msgid "Comma saperated courses"
+msgstr " påbörjade quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/course-loop.php:93
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/my-courses.php:98
+msgid "You have not subscribed to any courses."
+msgstr "Du prenumererar inte på några kurser."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:58
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Alla Kurser <span>%s</span>"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:62
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Mina Kurser <span>%s</span>"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:65
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Erbjuder kurserna <span>%s</span>"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:83
+msgid "Order By:"
+msgstr "Ordna efter:"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:85
+msgid "Select Order"
+msgstr "Välj ordning"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:86
+msgid "Newly Published"
+msgstr "Nyligen skapade"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:87
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:88
+msgid "Most Members"
+msgstr "Flest medlemmar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:89
+msgid "Highest Rated"
+msgstr "Högst rankade"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/instructor-courses.php:89
+msgid "You have not created any Course."
+msgstr "Du har inte skapat någon kurs."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/activity.php:34
+msgid "Load More"
+msgstr "Visa fler"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/activity.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Typiskt, här hittades ingen aktivitet. Försök med ett annat sökfilter."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:20
+msgid "Submissions"
+msgstr "Inlämningar"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:23
+msgid "Activity"
+msgstr "Aktivitet"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:53
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/members.php:19
+msgid "Total number of Students in course"
+msgstr "Totalt antal deltagare i denna kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:54
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/members.php:20
+msgid "Students Currently taking this course"
+msgstr "Deltagare som just nu går kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:91
+msgid "See User Activity in Course"
+msgstr "See deltagares aktivitet i kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:102
+msgid "No Students found."
+msgstr "Inga kursdeltagare hittades."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:107
+msgid "BULK ACTIONS"
+msgstr "BULKA HANDLINGAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:19
+msgid "Course Curriculum"
+msgstr "Kursplan"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/events.php:18
+msgid " Events"
+msgstr "Events"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:34
+msgid " STUDENTS ENROLLED"
+msgstr "DELTAGARE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:76
+msgid "READ MORE"
+msgstr "LÄS MER"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:85
+msgid "LESS"
+msgstr "MINDRE"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:49
+msgid "Group"
+msgstr "Grupp"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:55
+msgid "Forum"
+msgstr "Forum"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:60
+msgid "Admin"
+msgstr "Admin"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:22
+msgid "Total Number of Students who took this course"
+msgstr "Totalt antal deltagare som gått denna kurs"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:23
+msgid "Average Percentage obtained by Students"
+msgstr "Genomsnittlig procentbetyg för kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:23
+msgid "out of 100"
+msgstr "av 100"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:24
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:31
+msgid "Number of Students who got a Badge"
+msgstr "Antal kursdeltagare som fått utmärkelse"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:25
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:30
+msgid "Number of Passed Students"
+msgstr "Antal godkända kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:26
+msgid "Number of Students who did not pass "
+msgstr "Antal underkända kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:29
+msgid "Average Marks obtained by Students"
+msgstr "Genomsnittspoäng för kursdeltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:38
+msgid "No curriculum defined"
+msgstr "Inga kursplan finns definierad"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:63
+msgid "Average Marks in Quiz "
+msgstr "Snittpoäng i Quiz"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:71
+msgid "Calculate :"
+msgstr "Beräkna :"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:72
+msgid "Calculate Statistics for Course"
+msgstr "Beräkna statistik för kursen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:20
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr "UPPGIFTSINLÄMNINGAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:51
+msgid "Reset Assignment for User"
+msgstr "Återställ kursuppgift för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:52
+msgid "Evaluate Assignment : "
+msgstr "Bedöm uppgift : "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:69
+msgid "QUIZ SUBMISSIONS"
+msgstr "QUIZINLÄMNINGAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:106
+msgid "Reset Quiz for User"
+msgstr "Återställ quiz för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:107
+msgid "Evaluate Quiz for User"
+msgstr "Bedöm quiz för deltagare"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:124
+msgid "COURSE SUBMISSIONS"
+msgstr "KURSINLÄMNINGAR"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:153
+msgid "Evaluate Course for User"
+msgstr "Bedöm kursen för deltagare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Student % submitted the assignment %s"
+#~ msgstr "Kursdeltagare som skickat in Quiz"
+
+# @ vibe
+#~ msgid ""
+#~ "There was issue in removing this user from the Course. Please contact "
+#~ "admin."
+#~ msgstr ""
+#~ "Det blev fel när vi skulle ta bort deltagaren från kursen. Kontakta "
+#~ "Youngcubator."
+
+# @ vibe
+#, fuzzy
+#~ msgid "Annoucements"
+#~ msgstr "Meddelande från Kursledaren"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Subscribed"
+#~ msgstr "Kurs påbörjades : "
+
+# @ vibe
+#, fuzzy
+#~ msgid "User added to Course"
+#~ msgstr "Deltagaren togs bort från kursen"
+
+# @ vibe
+#, fuzzy
+#~ msgid "User Starts a Course "
+#~ msgstr "för kurs"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Reset by Instructor"
+#~ msgstr "Alla kurser av alla kursledare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Retake by User"
+#~ msgstr "Återställning av kurs för användare"
+
+# @ default
+#, fuzzy
+#~ msgid "Course Submit"
+#~ msgstr "Kurstitel"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Evaluation"
+#~ msgstr "Kursbedömning"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Reviews"
+#~ msgstr "BuddyPress kursfilterwidget"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Unsubscribe Course"
+#~ msgstr "tecknade sig för kurs"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Start by user"
+#~ msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Submitted by user"
+#~ msgstr "Quiz skickades in för bedömning"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Reset by Instructor"
+#~ msgstr "Välj kursledare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Retake by User"
+#~ msgstr "Quiz omgjord av kursdeltagare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Evaluation"
+#~ msgstr "Quizbedömning"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Assignment Start by user"
+#~ msgstr "Återställ kursuppgift för deltagare"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Assignment Submitted by user"
+#~ msgstr "Kursdeltagare slutförde kursen"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Assignment Evaluation"
+#~ msgstr "Uppgiftsbedömning"
+
+# @ vibe
+#~ msgid "Unlimited Duration"
+#~ msgstr "Obegränsad tid"
+
+# @ vibe
+#~ msgid " got ="
+#~ msgstr "fick ="
+
+# @ vibe
+#~ msgid " for "
+#~ msgstr "för"
+
+# @ vibe
+#~ msgid " removed from course "
+#~ msgstr " togs bort från kurs"
+
+# @ vibe
+#~ msgid " ago"
+#~ msgstr "edan"
+
+# @ vibe
+#~ msgid "Quiz "
+#~ msgstr "Quiz"
+
+# @ vibe
+#~ msgid "FAILED TO MARK COURSE, CONTACT ADMIN"
+#~ msgstr "LYCKADES INTE KLARMARKERA KURS, KONTAKTA YOUNGCUBATOR"
+
+# @ vibe
+#~ msgid " in Quiz"
+#~ msgstr "på Quiz"
+
+# @ vibe
+#~ msgid " got "
+#~ msgstr "fick"
+
+# @ vibe
+#~ msgid " in Quiz "
+#~ msgstr "på Quiz"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Instructor added Student "
+#~ msgstr "Kursledaren la till en kursdeltagare"
+
+# @ vibe
+#~ msgid "Instructor added "
+#~ msgstr "Kursledaren la till"
+
+# @ vibe
+#~ msgid " students in course "
+#~ msgstr " kursdeltagare"
+
+# @ vibe
+#~ msgid " initiated quiz retake "
+#~ msgstr " startat ny quizomgång"
+
+# @ vibe
+#~ msgid " in quiz "
+#~ msgstr " i quiz"
+
+# @ vibe
+#~ msgid "Quiz Auto Evaluated"
+#~ msgstr "Quiz bedöms automatiskt"
+
+# @ vibe
+#~ msgid " with marks "
+#~ msgstr " med poäng "
+
+# @ vibe
+#~ msgid "/"
+#~ msgstr "/"
+
+# @ vibe
+#~ msgid "Quiz %s submitted by student %s for evaluation"
+#~ msgstr "Quiz %s skickades in av kursdeltagaren %s för bedömning"
+
+# @ vibe
+#~ msgid " days"
+#~ msgstr " dagar"
+
+# @ vibe
+#~ msgid "Course expire warning notifications"
+#~ msgstr "Varna vid kursens utgångsdatum"
+
+# @ vibe
+#~ msgid "Quizes evaluated"
+#~ msgstr "Bedömda quiz"
+
+# @ vibe
+#~ msgid "%d Quizes evaluated !"
+#~ msgstr "%d quiz bedömda !"
+
+# @ vibe
+#~ msgid "%s Quiz evaluated!"
+#~ msgstr "%s quiz bedömt !"
+
+# @ vibe
+#~ msgid ""
+#~ "Results for %s are avaialble. You've recieved %s marks. see results %s ,"
+#~ "evaluated by %s [%s]"
+#~ msgstr ""
+#~ "Resultat för %s finns tillgängligt. Du har fått %s poäng. Se resultatet "
+#~ "%s, bedömt av %s [%s]"
+
+# @ vibe
+#~ msgid "To disable these notifications please log in and go to: %s"
+#~ msgstr "För att avaktivera dessa notifieringar, logga in och gå till: %s"
+
+# @ vibe
+#~ msgid "Auto evaluated Course for Student"
+#~ msgstr "Autobedömde kursen för deltagarna"
+
+# @ vibe
+#~ msgid "Student got a Certificate in the course "
+#~ msgstr "Kursdeltagare fick ett diplom i kursen "
+
+# @ vibe
+#~ msgid "Student submitted course for evaluation"
+#~ msgstr "Kursdeltagaren har slutfört kursen och avvaktar bedömning"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Marks"
+#~ msgstr "Ge poäng"

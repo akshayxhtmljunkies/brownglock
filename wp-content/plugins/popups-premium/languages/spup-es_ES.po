@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spup-en_US\n"
+"POT-Creation-Date: 2015-09-24 07:22-0300\n"
+"PO-Revision-Date: 2015-09-24 07:25-0300\n"
+"Last-Translator: \n"
+"Language-Team: Timersys <info@timersys.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-popupsp-admin.php:180
+msgid "Impressions"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:181
+msgid "Conversions"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:182
+msgid "% Conversions"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:227
+msgid "Reset Popup Stats"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:227
+msgid "Reset Stats"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:259
+msgid "Wiggle"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:260
+msgid "Tada"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:261
+msgid "Shake"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:262
+msgid "Wobble"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:263
+msgid "Rotate In"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:264
+msgid "Hingle"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:265
+msgid "Speedy left"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:266
+msgid "Speedy right"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:277
+msgid "Float Left"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:278
+msgid "Float Right"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:289
+msgid "Trigger on click of element with classname"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:290
+msgid "Trigger when user try to leave the page (Exit Intent)"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:291
+msgid "Trigger when element with classname is visible in user viewport"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:315
+msgid "Disable close button?"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:317 admin/class-popupsp-admin.php:325
+#: admin/views/metaboxes/integrations.php:124
+#: admin/views/metaboxes/integrations.php:172
+msgid "Yes"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:318 admin/class-popupsp-admin.php:326
+#: admin/views/metaboxes/integrations.php:123
+#: admin/views/metaboxes/integrations.php:171
+msgid "No"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:319
+msgid "Removes the close button in the popup"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:323
+msgid "Disable advanced close methods?"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:327
+msgid ""
+"Removes the ability to close the popup by pressing ESC key or clicking "
+"outside the popup"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:342
+msgid "Close popup after X seconds"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:345 admin/class-popupsp-admin.php:364
+msgid ""
+"Popup will auto close after X seconds and a timer will show. Leave 0 to "
+"disable"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:359
+msgid "Show a thanks message"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:406
+msgid "Your email"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:407
+msgid "Your name"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:408
+msgid "Submit"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:456
+msgid "Do you want to reset stats? This can't be undone"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:497
+msgid "Enter your license key"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:500
+msgid "Enter your license key to get automatic updates"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:516
+msgid "Enter your uacode key"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:519
+msgid "Enter your Google UA-XXXXXX code to track popups in analytics"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:534
+msgid "Data Sampling"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:538
+#, php-format
+msgid ""
+"If your site have lot of traffic, enable <a href=\"%s\">data sampling</a>"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:675
+msgid "Optin Integrations"
+msgstr ""
+
+#: admin/class-popupsp-admin.php:734 admin/views/metaboxes/integrations.php:31
+msgid "Choose one"
+msgstr ""
+
+#: admin/includes/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: admin/includes/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: admin/includes/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: admin/includes/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: admin/includes/providers/class-aweber.php:62
+#: admin/includes/providers/class-aweber.php:114
+#, php-format
+msgid ""
+"Sorry, but AWeber was unable to grant access to your account. AWeber gave "
+"the following response: <em>%s</em>"
+msgstr ""
+
+#: admin/includes/providers/class-aweber.php:84
+#, php-format
+msgid ""
+"Sorry, but AWeber was unable to verify your authorization token. AWeber gave "
+"the following response: <em>%s</em>"
+msgstr ""
+
+#: admin/includes/providers/class-ccontact.php:61
+#: admin/includes/providers/class-ccontact.php:93
+#, php-format
+msgid ""
+"Sorry, but Constant Contact was unable to grant access to your account. "
+"Constant Contact gave the following response: <em>%s</em>"
+msgstr ""
+
+#: admin/includes/providers/class-ccontact.php:156
+msgid "The provided email already exist in the list"
+msgstr ""
+
+#: admin/views/integrations-page.php:15
+msgid "MailChimp"
+msgstr ""
+
+#: admin/views/integrations-page.php:18 admin/views/integrations-page.php:36
+msgid "Api Key"
+msgstr ""
+
+#: admin/views/integrations-page.php:24
+msgid ""
+"Enter you <a href=\"https://us2.admin.mailchimp.com/account/api/\" target="
+"\"_blank\">mailchimp API key</a>"
+msgstr ""
+
+#: admin/views/integrations-page.php:33
+msgid "GetResponse"
+msgstr ""
+
+#: admin/views/integrations-page.php:42
+msgid ""
+"Enter you <a href=\"https://app.getresponse.com/account.html#api\" target="
+"\"_blank\">GetResponse API key</a>"
+msgstr ""
+
+#: admin/views/integrations-page.php:51
+msgid "Aweber"
+msgstr ""
+
+#: admin/views/integrations-page.php:55
+msgid "Register with Aweber"
+msgstr ""
+
+#: admin/views/integrations-page.php:62 admin/views/integrations-page.php:94
+msgid "Authorization Code"
+msgstr ""
+
+#: admin/views/integrations-page.php:70 admin/views/integrations-page.php:101
+msgid "Disconnect"
+msgstr ""
+
+#: admin/views/integrations-page.php:72
+msgid "Once registered with the Aweber app, paste the auth code above."
+msgstr ""
+
+#: admin/views/integrations-page.php:82
+msgid "Constant Contact"
+msgstr ""
+
+#: admin/views/integrations-page.php:86
+msgid "Register with Constant Contact"
+msgstr "Pos eso mismo"
+
+#: admin/views/integrations-page.php:113
+msgid "Save Integrations"
+msgstr ""
+
+#: admin/views/metabox-support.php:6
+#, php-format
+msgid "You are using v%s of the premium version of Popups plugin. "
+msgstr ""
+
+#: admin/views/metabox-support.php:7
+#, php-format
+msgid ""
+"If you need support please fill a ticket in <a href=\"%s\">support page</a>"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:9
+msgid "Optin Integration"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:12
+#: admin/views/metaboxes/integrations.php:40
+msgid "None"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:13
+msgid "Custom Code"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:26
+msgid "Email List"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:49
+msgid "Email List Segments"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:71
+msgid "The list don't have any segment"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:84
+msgid "Choose optin theme"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:111
+msgid "Email placeholder"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:114
+msgid "Change email input field placeholder text"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:120
+msgid "Display Name Field ?"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:126
+msgid "Asking just for email has better conversion"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:132
+msgid "Name Placeholder"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:135
+msgid "Change name input field placeholder text"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:141
+msgid "Submit button"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:144
+msgid "Change submit button text"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:150
+msgid "Success message"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:153
+msgid ""
+"Short message to display once form is submitted. Only if redirect url is not "
+"being used."
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:159
+msgid "Redirect Url"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:162
+msgid "Url to redirect users just after form is submitted"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:168
+msgid "Pass lead data to redirect url ?"
+msgstr ""
+
+#: admin/views/metaboxes/integrations.php:174
+msgid "You can pass email and name as query string data to the redirect url"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:2
+msgid "Aweber Lists"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:3
+msgid ""
+"The table below shows your Aweber lists data. If you applied changes to your "
+"Aweber lists, please use the following button to renew your cached data."
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:6
+msgid "Renew Aweber lists"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:11
+#: admin/views/partials/ccontact-lists.php:11
+#: admin/views/partials/gr-lists.php:11 admin/views/partials/mc-lists.php:11
+msgid "List ID"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:12
+#: admin/views/partials/ccontact-lists.php:12
+#: admin/views/partials/gr-lists.php:12 admin/views/partials/mc-lists.php:12
+msgid "List Name"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:13
+#: admin/views/partials/ccontact-lists.php:13
+#: admin/views/partials/mc-lists.php:14
+msgid "Subscribers"
+msgstr ""
+
+#: admin/views/partials/aweber-lists.php:31
+msgid "No lists were found in your Aweber account."
+msgstr ""
+
+#: admin/views/partials/ccontact-lists.php:2
+msgid "Constant Contact Lists"
+msgstr ""
+
+#: admin/views/partials/ccontact-lists.php:3
+msgid ""
+"The table below shows your Constant Contact lists data. If you applied "
+"changes to your Constant Contact lists, please use the following button to "
+"renew your cached data."
+msgstr ""
+
+#: admin/views/partials/ccontact-lists.php:6
+msgid "Renew Constant Contact lists"
+msgstr ""
+
+#: admin/views/partials/ccontact-lists.php:31
+msgid "No lists were found in your Constant Contact account."
+msgstr ""
+
+#: admin/views/partials/gr-lists.php:2
+msgid "GetResponse Lists"
+msgstr ""
+
+#: admin/views/partials/gr-lists.php:3
+msgid ""
+"The table below shows your GetResponse lists data. If you applied changes to "
+"your GetResponse lists, please use the following button to renew your cached "
+"data."
+msgstr ""
+
+#: admin/views/partials/gr-lists.php:6
+msgid "Renew GetResponse lists"
+msgstr ""
+
+#: admin/views/partials/gr-lists.php:30
+msgid "No lists were found in your GetResponse account."
+msgstr ""
+
+#: admin/views/partials/mc-lists.php:2
+msgid "MailChimp Lists"
+msgstr ""
+
+#: admin/views/partials/mc-lists.php:3
+msgid ""
+"The table below shows your MailChimp lists data. If you applied changes to "
+"your MailChimp lists, please use the following button to renew your cached "
+"data."
+msgstr ""
+
+#: admin/views/partials/mc-lists.php:6
+msgid "Renew MailChimp lists"
+msgstr ""
+
+#: admin/views/partials/mc-lists.php:13
+msgid "Groupings"
+msgstr ""
+
+#: admin/views/partials/mc-lists.php:52
+msgid "No lists were found in your MailChimp account."
+msgstr ""
+
+#: public/class-popupsp.php:494
+msgid "Please wait"
+msgstr ""
+
+#: public/class-popupsp.php:495
+msgid "seconds "
+msgstr ""
+
+#: public/class-popupsp.php:496
+msgid "Please enter a valid name"
+msgstr ""
+
+#: public/class-popupsp.php:497
+msgid "Please enter a valid email"
+msgstr ""

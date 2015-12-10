@@ -1,0 +1,1473 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Featured Images Pro\n"
+"Report-Msgid-Bugs-To: http://quickfeaturedimages.com\n"
+"POT-Creation-Date: 2015-11-26 15:28+0100\n"
+"PO-Revision-Date: 2015-11-26 17:45+0200\n"
+"Last-Translator: Martin Stehle <m.stehle@gmx.de>\n"
+"Language-Team: m.stehle@gmx.de\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-quick-featured-images-admin.php:201
+msgid ""
+"Your time-saving Swiss Army Knife for featured images: Set, replace and delete "
+"them in bulk, set default images, get overview lists."
+msgstr ""
+"أداة توفّر عليك عناء التعامل مع الصور البارزة: حيث تمكنك من اختيارها أو استبدالها "
+"أو حذفها بمجموعات دفعة واحدة، وبإمكانك تحديد صور افتراضية، والحصول على قوائم "
+"استعراضية."
+
+#: admin/class-quick-featured-images-admin.php:265
+#, php-format
+msgid ""
+"The plugin requires WordPress version %s or higher. Therefore, WordPress did not "
+"activate it. If you want to use this plugin update the Wordpress files to the "
+"latest version."
+msgstr ""
+"الإضافة تتطلب نسخة ووردبريس %s أو أعلى. لذلك، ووردبريس لم تقم بتفعيلها. إذا أرد "
+"استخدام الإضافة قم بتحديث ملفات ووردبريس للنسخة الأخيرة."
+
+#: admin/class-quick-featured-images-admin.php:462
+#, php-format
+msgid "Welcome to %s! You can find the plugin at %s."
+msgstr "مرحباً بك في %s! يمكنك أن تجد الإضافة في %s."
+
+#: admin/class-quick-featured-images-defaults.php:188
+msgid "Changes saved."
+msgstr "تمّ حفظ التغييرات."
+
+#: admin/class-quick-featured-images-defaults.php:191
+msgid "No changes were saved."
+msgstr "لم يتمّ حفظ تغييرات."
+
+#: admin/class-quick-featured-images-defaults.php:228
+msgid "Preset Featured Images"
+msgstr "صور بارزة مجهّزة مسبقاً."
+
+#: admin/class-quick-featured-images-defaults.php:239
+msgid "Set default featured images for future posts"
+msgstr "اختيار صورة بارزة افتراضية للمقالات المستقبلية."
+
+#: admin/class-quick-featured-images-settings.php:204
+msgid "Image Columns"
+msgstr "أعمدة صور"
+
+#: admin/class-quick-featured-images-settings.php:215
+msgid "Set the visibility of columns of featured images in posts lists"
+msgstr "ضبط ظهور أعمدة الصور البارزة في قائمة المقالات."
+
+#: admin/class-quick-featured-images-settings.php:364
+msgid "Columns for featured images in posts lists"
+msgstr "أعمدة للصور البارزة في قائمة المقالات."
+
+#: admin/class-quick-featured-images-settings.php:372
+msgid "Show additional column for featured images in lists of"
+msgstr "أظهر عمود إضافي للصور البارزة لقوائم"
+
+#: admin/class-quick-featured-images-settings.php:377
+msgid "Posts list with image column"
+msgstr "قائمة المقالات مع عمود الصورة"
+
+#: admin/class-quick-featured-images-settings.php:491
+msgid ""
+"Activate the checkboxes at each post type to show the extra columns in the post "
+"lists."
+msgstr "فعّل مربعات الاختيار لكل نوع مقالة لإظهار أعمدة إضافية في قائمة المقالات."
+
+#: admin/class-quick-featured-images-settings.php:501
+msgid ""
+"The additional columns give you a quick overview about all used featured images "
+"for every post. The Featured Image column is sortable."
+msgstr ""
+"الأعمدة الإضافية تعطيك نظرة سريعة على كل الصور البارزة لكل مقالة. عمود الصور "
+"البارزة قابل للفرز."
+
+#: admin/class-quick-featured-images-tools.php:418
+#, php-format
+msgid "Wrong image ID %d"
+msgstr "معرّف صورة خاطئ %d"
+
+#: admin/class-quick-featured-images-tools.php:519
+msgid "Select"
+msgstr "اختر"
+
+#: admin/class-quick-featured-images-tools.php:520
+msgid "Add filter"
+msgstr "إضافة فلتر"
+
+#: admin/class-quick-featured-images-tools.php:521
+msgid "Refine"
+msgstr "تنقيح"
+
+#: admin/class-quick-featured-images-tools.php:522
+msgid "Confirm"
+msgstr "تأكيد"
+
+#: admin/class-quick-featured-images-tools.php:523
+msgid "Perform"
+msgstr "نفّذ"
+
+#: admin/class-quick-featured-images-tools.php:527
+msgid "Set the selected image as new featured image"
+msgstr "استخدم الصورة المحددة كصورة بارزة جديدة"
+
+#: admin/class-quick-featured-images-tools.php:528
+msgid "Replace featured images by the selected image"
+msgstr "استبدل الصور البارزة بالصورة المحددة"
+
+#: admin/class-quick-featured-images-tools.php:529
+msgid "Remove the selected image as featured image"
+msgstr "أزل الصورة المحددة كصورة بارزة"
+
+#: admin/class-quick-featured-images-tools.php:532
+msgid "Remove any image as featured image"
+msgstr "أزل أي صورة كصورة بارزة"
+
+#: admin/class-quick-featured-images-tools.php:535
+msgid "Set multiple images randomly as featured images"
+msgstr "استخدم صور متعددة عشوائياً كصور بارزة"
+
+#: admin/class-quick-featured-images-tools.php:539
+msgid "Overwrite featured images"
+msgstr "استبدل الصور البارزة"
+
+#: admin/class-quick-featured-images-tools.php:540
+msgid "Consider only posts without any featured image"
+msgstr "فقط المقالات التي بدون صور بارزة"
+
+#: admin/class-quick-featured-images-tools.php:544
+msgid "Post Type Filter"
+msgstr "فلتر نوع المقالة"
+
+#: admin/class-quick-featured-images-tools.php:545
+msgid "Category Filter"
+msgstr "فلتر التصنيف"
+
+#: admin/class-quick-featured-images-tools.php:546
+msgid "Tag Filter"
+msgstr "فلتر الوسوم"
+
+#: admin/class-quick-featured-images-tools.php:575
+msgid "Image width in pixels lower than"
+msgstr "عرض الصورة بالبكسل أقل من"
+
+#: admin/class-quick-featured-images-tools.php:576
+msgid "Image height in pixels lower than"
+msgstr "ارتفاع الصورة بالبكسل أقل من"
+
+#: admin/class-quick-featured-images-tools.php:651
+#, php-format
+msgid "The input field %s is empty."
+msgstr "حقل الإدخال %s فارغ"
+
+#: admin/class-quick-featured-images-tools.php:652
+msgid "Type in a value into the input field."
+msgstr "اكتب قيمة في حقل الإدخال"
+
+#: admin/class-quick-featured-images-tools.php:655
+#, php-format
+msgid "%s is not defined."
+msgstr "%s غير معرّف"
+
+#: admin/class-quick-featured-images-tools.php:656
+msgid "Check how to define the value."
+msgstr "تحقق من كيفية تحديد القيمة."
+
+#: admin/class-quick-featured-images-tools.php:659
+msgid "There is no selected image."
+msgstr "لا يوجد صورة محددة."
+
+#: admin/class-quick-featured-images-tools.php:660
+msgid "Select an image from the media library."
+msgstr "حدد صورة من مكتبة الوسائط."
+
+#: admin/class-quick-featured-images-tools.php:663 admin/views/section_image.php:51
+msgid "You have not selected an action."
+msgstr "لم تقم بتحديد إجراء."
+
+#: admin/class-quick-featured-images-tools.php:664
+msgid "Start again and select which action you want to apply."
+msgstr "ابدأ مرة أخرى وحدد أي إجراء تريد تنفيذه."
+
+#: admin/class-quick-featured-images-tools.php:667
+#, php-format
+msgid "The input field %s has an invalid value."
+msgstr "حقل الإدخال %s به قيمة خاطئة."
+
+#: admin/class-quick-featured-images-tools.php:668
+msgid "Type in valid values in the input field."
+msgstr "أدخل قيم صالحة في حقل الإدخال."
+
+#: admin/class-quick-featured-images-tools.php:672
+msgid "Type in values stored by WordPress."
+msgstr "أدخل قيم مخزنة بواسطة ووردبريس."
+
+#: admin/class-quick-featured-images-tools.php:1778
+msgid "Set, replace, remove"
+msgstr "حدد، استبدل، احذف"
+
+#: admin/class-quick-featured-images-tools.php:1789
+msgid "Bulk set, replace and remove featured images for existing posts"
+msgstr "لمجموعة دفعة واحدة، حدد واستبدل واحذف الصور البارزة لمقالات موجودة"
+
+#: admin/class-quick-featured-images-tools.php:1901
+msgid "Bulk set as featured image"
+msgstr "حدد كصورة بارزة لمجموعة دفعة واحدة"
+
+#: admin/views/filter_category.php:3
+msgid "Select a category"
+msgstr "اختر تصنيف"
+
+#: admin/views/filter_post_types.php:2
+msgid "Select post types"
+msgstr "حدد نوع المقالة"
+
+#: admin/views/filter_post_types.php:2
+msgid "You can select posts and pages."
+msgstr "بإمكانك تحديد المقالات والصفحات."
+
+#: admin/views/filter_tag.php:7
+msgid "Select a tag"
+msgstr "اختر وسم"
+
+#: admin/views/filter_tag.php:20
+msgid "There are no tags in use."
+msgstr "لا يوجد وسوم مستخدمة."
+
+#: admin/views/form_back_to_selection.php:2
+msgid "Select filters and options again"
+msgstr "حدد فلاتر وخيارات مرة أخرى"
+
+#: admin/views/form_back_to_selection.php:3
+msgid ""
+"If you want to change your former selection just go back by clicking on this "
+"button."
+msgstr "إذا أردت تغيير اختيارك السابق فقط ارجع للخلف بالضغط على هذا الزرّ."
+
+#: admin/views/form_back_to_selection.php:42
+msgid "Modify selection"
+msgstr "تعديل الاختيار"
+
+#: admin/views/form_confirm.php:4
+msgid "Should the selected image be set as featured image to all listed posts?"
+msgstr "هل يجب أن تستخدم الصورة المحددة كصورة بارزة لكل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:7
+msgid ""
+"Should the selected images be set randomly as featured images to all listed "
+"posts?"
+msgstr "هل يجب أن تستخدم الصور المحددة عشوائياً كصور بارزة لكل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:10
+msgid ""
+"Should the current set featured image be replaced by the selected image at all "
+"listed posts?"
+msgstr ""
+"هل يجب استبدال الصورة البارزة الحالية بالصورة المحددة لكل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:13
+msgid "Should the selected image be removed from all listed posts?"
+msgstr "هل يجب إزالة الصورة المحددة من كل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:16
+msgid "Should the future images be set as featured images at all listed posts?"
+msgstr "هل يجب استخدام الصور المستقبلية كصور بارزة لكل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:19
+msgid "Should the added featured images be removed from all listed posts?"
+msgstr "هل يجب إزالة الصور البارزة المضافة من كل المقالات المدرجة؟"
+
+#: admin/views/form_confirm.php:24
+msgid "Preview of your selection"
+msgstr "معاينة على اختيارك"
+
+#: admin/views/form_confirm.php:25
+#, php-format
+msgid "%d matches found"
+msgstr "%d نتيجة مطابقة وجدت"
+
+#: admin/views/form_confirm.php:29 admin/views/section_results.php:5
+msgid "Details"
+msgstr "تفاصيل"
+
+#: admin/views/form_confirm.php:30 admin/views/section_defaults.php:17
+#: admin/views/section_results.php:7
+msgid "No."
+msgstr "لا."
+
+#: admin/views/form_confirm.php:31 admin/views/section_results.php:6
+msgid "Current Featured Image"
+msgstr "الصورة البارزة الحالية"
+
+#: admin/views/form_confirm.php:32
+msgid "Future Featured Image"
+msgstr "الصورة البارزة المستقبلية"
+
+#: admin/views/form_confirm.php:33
+msgid "written on"
+msgstr "كتبت على"
+
+#: admin/views/form_confirm.php:34
+msgid "by"
+msgstr "بواسطة"
+
+#: admin/views/form_confirm.php:48 admin/views/section_results.php:16
+msgid ""
+"The list is in alphabetical order according to post title. You can edit a post "
+"in a new window by clicking on its link in the list."
+msgstr ""
+"القائمة مرتبة أبجدياً وفقاً لعنوان المقالة. بإمكانك تعديل مقالة في نافذة جديدة "
+"بالضغط على رابطها في القائمة."
+
+#: admin/views/form_confirm.php:111
+msgid "Confirm the change"
+msgstr "تأكيد التغيير"
+
+#: admin/views/form_confirm.php:112
+msgid "You can not undo the operation!"
+msgstr "لا يمكنك التراجع عن الإجراء !"
+
+#: admin/views/form_confirm.php:173 admin/views/form_select.php:47
+#: admin/views/section_errormsg.php:8 admin/views/section_results.php:74
+msgid "Start again"
+msgstr "ابدأ مرة أخرى"
+
+#: admin/views/form_confirm.php:173
+msgid "or refine your selection with the following form fields."
+msgstr "أو قم بتنقيح اختيارك بواسطة حقول النموذج التالي."
+
+#: admin/views/form_refine.php:1
+msgid "Refine your selection"
+msgstr "تنقيح اختيارك"
+
+#: admin/views/form_refine.php:8
+msgid "Refine filters"
+msgstr "تنقيح الفلاتر"
+
+#: admin/views/form_refine.php:9
+msgid "Now you can find posts and pages by matching parameters. Refine them here."
+msgstr ""
+"الآن بإمكانك العثور على المقالات والصفحات بمطابقة المعايير. قم بالتنقيح هنا."
+
+#: admin/views/form_refine.php:10
+msgid "Whatever you do: You can confirm your choice on the next page."
+msgstr "مهما فعلت: بإمكانك تأكيد اختيارك في الصفحة التالية."
+
+#: admin/views/form_refine.php:18
+#, php-format
+msgid "File %s is not available."
+msgstr "الملف %s غير موجود."
+
+#: admin/views/form_refine.php:48 admin/views/form_select.php:40
+msgid "Preview filtering"
+msgstr "معاينة الفلترة"
+
+#: admin/views/form_refine.php:54
+msgid ""
+"There are no selected filters. Modify your filter selection or just go on by "
+"clicking on the next button."
+msgstr ""
+"لا يوجد فلاتر محددة. قم بتعديل اختيارك للفلاتر أو أكمل بالضغط على زرّ التالي."
+
+#: admin/views/form_select.php:11 admin/views/form_start.php:4
+#: admin/views/section_defaults.php:193
+msgid "Notice"
+msgstr "لاحظ"
+
+#: admin/views/form_select.php:13
+msgid ""
+"You did not have selected an image from the list below. To go on select at least "
+"one image you want to replace by the selected image."
+msgstr ""
+"لم تقم باتخيار صورة من القائمة بالأسفل. لكي تكمل اختر صورة واحدة على الأقل تريد "
+"استبدالها بالصورة المحددة."
+
+#: admin/views/form_select.php:18
+msgid "Select the featured images you want to replace by the selected image."
+msgstr "قم باختيار الصور البارزة التي تريد استبدالها بالصورة المحددة."
+
+#: admin/views/form_select.php:19
+msgid "You can select multiple images. Select at least one image."
+msgstr "بإمكانك اختيار عدة صور. اختر على الأقل صورة واحدة."
+
+#: admin/views/form_select.php:46
+msgid "There are no featured images in use."
+msgstr "لا يوجد صور بارزة مستخدمة."
+
+#: admin/views/form_select.php:55
+msgid "Refine your selections"
+msgstr "قم بتنقيح اختيارك"
+
+#: admin/views/form_select.php:56 admin/views/form_select.php:66
+msgid "You can control the process with the following options."
+msgstr "بإمكانك التحكم بالعملية بواسطة الخيارات التالية."
+
+#: admin/views/form_select.php:63
+msgid "Optional: Select options"
+msgstr "اختياري: حدد خيار"
+
+#: admin/views/form_select.php:65
+msgid "Process Options"
+msgstr "خيارات العملية"
+
+#: admin/views/form_select.php:71
+msgid "Overwrite existing featured images with new ones"
+msgstr "استبدل الصور البارزة الجديدة مكان الحالية."
+
+#: admin/views/form_select.php:81
+msgid ""
+"Posts with featured images will be ignored, even if the Overwrite option is "
+"checked "
+msgstr "المقالات التي لها صور بارزة سيتم تجاهلها، حتى لو كان خيار الاستبدال مفعّل."
+
+#: admin/views/form_select.php:90
+msgid "There are two more options in the premium version for random images:"
+msgstr "يوجد هناك خيارين إضافيين للصور العشوائية في النسخة المدفوعة:"
+
+#: admin/views/form_select.php:92
+msgid "Use each selected image only once"
+msgstr "استخدم كل صورة مستخدمة لمرة واحدة"
+
+#: admin/views/form_select.php:93
+msgid "Remove excess featured images after all selected images are used"
+msgstr "أزل الصور البارزة الفائضة بعد استخدام جميع الصور المحددة"
+
+#: admin/views/form_select.php:95 admin/views/form_select.php:133
+#: admin/views/form_select.php:155 admin/views/form_start.php:109
+#: admin/views/section_defaults.php:447 admin/views/section_footer.php:59
+#: admin/views/section_overview.php:91
+msgid "Get the premium version"
+msgstr "أحصل على النسخة المدفوعة"
+
+#: admin/views/form_select.php:95 admin/views/form_select.php:133
+#: admin/views/form_select.php:155 admin/views/form_start.php:109
+#: admin/views/section_defaults.php:447 admin/views/section_footer.php:59
+#: admin/views/section_overview.php:90 admin/views/section_overview.php:91
+msgid "/"
+msgstr "\\"
+
+#: admin/views/form_select.php:104
+msgid "Optional: Add a filter"
+msgstr "اختياري: إضافة فلتر"
+
+#: admin/views/form_select.php:106
+msgid "Select filters"
+msgstr "اختر الفلاتر"
+
+#: admin/views/form_select.php:107
+msgid ""
+"If you want select one of the following filters to narrow down the set of "
+"concerned posts and pages."
+msgstr ""
+"إذا أردت قم باختيار واحد من الفلاتر التالية لتقليص المقالات والصفحات المعنيّة."
+
+#: admin/views/form_select.php:108
+msgid ""
+"You can select multiple filters. They will return an intersection of their "
+"results."
+msgstr "بإمكانك اختيار فلاتر متعددة. ستقوم بإرجاع نتائج أكثر تحديداً."
+
+#: admin/views/form_select.php:113
+msgid "Search by post type. By default all posts and pages will be affected."
+msgstr "البحث بواسطة نوع المقالة. افتراضياً جميع المقالات والصفحات ستتأثر."
+
+#: admin/views/form_select.php:116
+msgid "Search posts by category"
+msgstr "البحث في المقالات بواسطة التصنيف"
+
+#: admin/views/form_select.php:119
+msgid "Search posts by tag"
+msgstr "البحث في المقالات بواسطة الوسم"
+
+#: admin/views/form_select.php:133 admin/views/section_overview.php:91
+msgid "Are you looking for more options and more filters?"
+msgstr "هل تبحث عن المزيد من الخيارات والفلاتر؟"
+
+#: admin/views/form_select.php:134
+msgid ""
+"On the next page you can refine the filters. If you did not select any filter "
+"you will go to the preview list directly."
+msgstr ""
+"في الصفحة التالية بإمكان تنقيح الفلاتر. إذا لم تحدد أي فلتر ستذهب إلى قائمة "
+"المعاينة مباشرة."
+
+#: admin/views/form_select.php:152
+msgid "If you encounter a white, blank page, read this"
+msgstr "إذا واجهت صفحة بيضاء أو فارغة، اقرأ هذا"
+
+#: admin/views/form_select.php:153
+msgid ""
+"Facing a white blank page while trying to treat thousands of posts is the effect "
+"of limited memory capacities on the website server. Instead of treating a huge "
+"amount of posts in one single go try to treat small amounts of posts multiple "
+"times successively. To achieve that do:"
+msgstr ""
+"ظهور صفحة بيضاء فارغة خلال معالجة آلاف المقالات هو تأثير ناتج عن مساحة الذاكرة "
+"المحدودة لخادم الموقع. بدلاً من معالجة كمية ضخمة من المقالات دفعة واحدة حاول "
+"معالجة كميات قليلة من المقالات لمرات متعددة بنجاح. لتحقيق ذلك افعل التالي:"
+
+#: admin/views/form_select.php:156
+msgid "add the time filter,"
+msgstr "أضف فلتر للوقت،"
+
+#: admin/views/form_select.php:157
+msgid "set a small time range,"
+msgstr "حدد فترة زمنية صغيرة،"
+
+#: admin/views/form_select.php:158
+msgid "do the process"
+msgstr "قم بالعملية"
+
+#: admin/views/form_select.php:159
+msgid "and repeat it with the next time range as often as needed."
+msgstr "وكررها حسب الحاجة مع الفترات الزمنية التالية."
+
+#: admin/views/form_select.php:161
+msgid ""
+"This way is not as fast as one single run, but still much faster than setting "
+"the images for each post manually."
+msgstr ""
+"هذه الطريقة ليست سريعة كما لو قمت بها دفعة واحدة، لكنها أسرع من إعداد الصور "
+"يدوياً لكل مقالة."
+
+#: admin/views/form_start.php:6 admin/views/section_defaults.php:195
+msgid ""
+"The current theme does not support featured images. Anyway you can use this "
+"plugin. The effects are stored and will be visible in a theme which supports "
+"featured images."
+msgstr ""
+"قالب الموقع الحالي لا يدعم الصور البارزة. على كل حال بإمكانك استخدام هذه "
+"الإضافة. التأثيرات ستخزّن وستكون ظاهرة عند استخدام قالب يدعم الصور البارزة."
+
+#: admin/views/form_start.php:12
+msgid "What do you want to do?"
+msgstr "ماذا تريد أن تفعل؟"
+
+#: admin/views/form_start.php:14
+msgid ""
+"Here you can add, replace and delete featured images to your posts. Select one "
+"of the following actions and, if necessary, one or more images."
+msgstr ""
+"هنا يمكن أن تضيف أو تستبدل أو تحذف الصور البارزة لمقالاتك. حدد واحد من الإجراءات "
+"التالية، وإذا لزم الأمر حدد صورة أو أكثر."
+
+#: admin/views/form_start.php:15
+msgid "Whatever you select: You can refine your choice on the next page."
+msgstr "مهما اخترت: يمكنك تنقيح اختيارك في الصفحة التالية."
+
+#: admin/views/form_start.php:17
+msgid "Important advice"
+msgstr "نصيحة مهمة"
+
+#: admin/views/form_start.php:18
+msgid ""
+"There is no undo function! It is strongly recommended that you make a backup of "
+"the WordPress database before you perform mass changes."
+msgstr ""
+"لا يوجد خيار للتراجع! ينصح بشدّة أن تقوم بأخذ نسخة احتياطية من قاعدة البيانات "
+"ووردبريس قبل أن تنفّذ تغييرات واسعة."
+
+#: admin/views/form_start.php:20
+msgid "Select action"
+msgstr "حدد إجراء"
+
+#: admin/views/form_start.php:21
+msgid "Actions with a single image"
+msgstr "الإجراءات مع صورة واحدة"
+
+#: admin/views/form_start.php:22
+msgid "These actions require to select an image with the following button."
+msgstr "هذه الإجراءات تتطلب تحديد صورة بواسطة الزرّ التالي."
+
+#: admin/views/form_start.php:35
+msgid ""
+"Select the image you want to add to, replace or delete from posts and pages by "
+"clicking on the following button."
+msgstr ""
+"حدد الصورة التي تريد إضافتها أو استبدالها أو حذفها من المقالات والصفحات بواسطة "
+"الضغط على الزرّ التالي."
+
+#: admin/views/form_start.php:56
+msgid "Choose Image"
+msgstr "اختر صورة"
+
+#: admin/views/form_start.php:60
+msgid "If the button does not work, read this:"
+msgstr "إذا لم يعمل الزرّ اقرأ هذا:"
+
+#: admin/views/form_start.php:61
+msgid ""
+"Some users reported that this button would not work in some WordPress "
+"installations. If this should be the case you can take another way:"
+msgstr ""
+"بعض المستخدمين أبلغوا أن الزرّ لا يعمل في بعض تثبيتات ووردبريس. إذا كان هذا ما "
+"حدث بإمكانك أخذ طريقة أخرى:"
+
+#: admin/views/form_start.php:62
+msgid ""
+"1. Go to the media library. 2. Move the mouse over the desired image. Further "
+"links are appearing, among them the link &quot;Bulk set as featured image&quot;. "
+"3. After a click on it you can move on in this plugin."
+msgstr ""
+"1. اذهب إلى مكتبة الوسائط. 2. انقل الماوس فوق الصورة التي ترغب بها. المزيد من "
+"الروابط ستظهر، بينهم الرابط &quot;حدد كصورة بارزة لمجموعة دفعة واحدة&quot;. 3. "
+"بعد الضغط عليه بإمكانك الإكمال في هذه الإضافة."
+
+#: admin/views/form_start.php:66
+msgid "Actions with multiple images"
+msgstr "إجراءات مع صور متعددة"
+
+#: admin/views/form_start.php:67
+msgid ""
+"These actions require at least one selected image with the following button."
+msgstr "هذه الإجراءات تتطلب تحديد صورة واحدة على الأقل بواسطة الزرّ التالي."
+
+#: admin/views/form_start.php:79
+msgid ""
+"To select multiple images click on the button and use the CTRL key while "
+"clicking on the images."
+msgstr ""
+"لاختيار صور متعددة اضغط على الزرّ واستخدم من الكيبورد زرّ CTRL خلال الضغط على "
+"الصور لتحديدها."
+
+#: admin/views/form_start.php:81
+msgid "Choose Images"
+msgstr "اختر الصور"
+
+#: admin/views/form_start.php:97
+msgid "Actions without any selected image"
+msgstr "إجراءات بدون تحديد أي صورة"
+
+#: admin/views/form_start.php:98
+msgid "These actions do not require a selected image."
+msgstr "هذه الإجراءات لا تتطلب تحديد صورة"
+
+#: admin/views/form_start.php:109
+msgid "Do you want to assign the first image of each post?"
+msgstr "هل تريد استخدام أول صورة من كل مقالة؟"
+
+#: admin/views/section_defaults.php:16
+msgid "matches"
+msgstr "يطابق"
+
+#: admin/views/section_defaults.php:184
+msgid "Default featured images for future posts"
+msgstr "صور بارزة افتراضية للمقالات المستقبلية"
+
+#: admin/views/section_defaults.php:186
+msgid ""
+"Define the rules to use images as default featured images automatically every "
+"time a post is saved."
+msgstr "حدد قاعدة لاستخدام الصور كصور افتراضية بارزة آلياً في كل مرّة يتم حفظ مقالة."
+
+#: admin/views/section_defaults.php:187
+msgid ""
+"To use a rule choose the image and set both the taxonomy and the value. A rule "
+"which is defined only partially will be ignored."
+msgstr ""
+"لاستخدام قاعدة اختر الصورة وحدد الفئة والقيمة. القاعدة التي تعرّف جزئياً سيتم "
+"تجاهلها."
+
+#: admin/views/section_defaults.php:215
+msgid "An image overwrites an existing image"
+msgstr "صورة تستبدل مكان صورة موجودة"
+
+#: admin/views/section_defaults.php:222
+msgid ""
+"Activate to automatically overwrite an existing featured image while saving a "
+"post"
+msgstr "تفعيل الخيار لاستبدال الصورة البارزة الحالية آلياً خلال حفظ المقالة."
+
+#: admin/views/section_defaults.php:225
+msgid ""
+"If activated the rule is used automatically while saving a post to overwrite an "
+"existing featured image with the new one based on the following rules. Do not "
+"use this if you want to keep manually set featured images."
+msgstr ""
+"إذا تم التفعيل، القاعدة ستستخدم آلياً خلال حفظ المقالة لاستبدال الصورة البارزة "
+"الحالية بواحدة جديدة بناءً على القواعد التالية. لا تستخدم هذا الإجراء إذا أردت "
+"إبقاء الصور البارزة التي تمّ اختيارها يدوياً."
+
+#: admin/views/section_defaults.php:233
+msgid "Text with images in WordPress editor"
+msgstr "النص مع الصور في محرر ووردبريس"
+
+#: admin/views/section_defaults.php:240
+msgid ""
+"Activate to automatically use the first content image if available in the media "
+"library as featured image while saving a post"
+msgstr ""
+"تفعيل هذا الخيار لاستخدام الصورة الأولى في المحتوى كصورة بارزة آلياً إذا كانت "
+"موجودة في مكتبة الوسائط خلال حفظ المقالة."
+
+#: admin/views/section_defaults.php:241
+msgid ""
+"If activated the rule is used automatically while saving a post to set the first "
+"content image - if available in the media library - as the featured image of the "
+"post. If the post has no content images the next rules will be applied."
+msgstr ""
+"إذا تمّ تفعيل الخيار ستستخدم القاعدة آلياً خلال حفظ المقالة لاختيار الصورة الأولى "
+"في المحتوى - إذا كانت موجودة في مكتبة الوسائط - كصورة بارزة للمقالة. إذا لم يكن "
+"هناك صور في المقالة سيتم تطبيق القاعدة التالية."
+
+#: admin/views/section_defaults.php:432
+msgid "Add rule"
+msgstr "إضافة قاعدة"
+
+#: admin/views/section_defaults.php:437
+msgid "Are you sure to remove this rule?"
+msgstr "هل أنت متأكد من إزالة القاعدة؟"
+
+#: admin/views/section_defaults.php:440
+msgid "Additional rules in the premium version"
+msgstr "هناك قواعد إضافية في النسخة المدفوعة"
+
+#: admin/views/section_defaults.php:442
+msgid ""
+"The first content image can be also an image from an external server to set it "
+"as automated featured image"
+msgstr ""
+"الصورة الأولى في المحتوى يمكن أيضاً أن تكون صورة من خادم -سيرفر- خارجي لاستخدامها "
+"كصورة بارزة آلياً"
+
+#: admin/views/section_defaults.php:443
+msgid "Match with a search string in post title"
+msgstr "مطابقة مع نصّ البحث في عنوان المقالة"
+
+#: admin/views/section_defaults.php:444
+msgid "Match with a selected post format"
+msgstr "مطابقة مع بنية المقالة المحددة"
+
+#: admin/views/section_defaults.php:445
+msgid "User defined order of rules"
+msgstr "قاعدة ترتيب محددة من قبل المستخدم"
+
+#: admin/views/section_defaults.php:449
+msgid "How the rules work"
+msgstr "كيف تعمل القواعد"
+
+#: admin/views/section_defaults.php:450
+msgid ""
+"Every time you save a post the post get the featured image if one of the "
+"following rules match a property of the post. You can also set rules for pages "
+"and all other current post types which support featured images."
+msgstr ""
+"في كل مرة تقوم بحفظ مقالة، ستأخذ المقالة صورة بارزة إذا كانت واحدة من القواعد "
+"التالية تطابق خصائص المقالة. بإمكانك أيضاً تحديد قواعد للصفحات وكل أنواع المقالات "
+"التي تدعم الصور البارزة."
+
+#: admin/views/section_defaults.php:451
+msgid ""
+"Regardless of the order in the list the rules are applied in the following order "
+"until a rule and a property of the post fit together:"
+msgstr ""
+"بغض النظر عن الترتيب في القائمة، يتمّ تطبيق القواعد وفقاً للترتيب التالي إلى أن "
+"تتوافق قاعدة مع خاصية من خصائص المقالة معاً:"
+
+#: admin/views/section_defaults.php:453
+msgid "found first content image. If not then..."
+msgstr "العثور على أول صورة في المحتوى. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:454
+msgid "matched custom taxonomy. If not then..."
+msgstr "توافق الفئة المخصصة. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:455
+msgid "matched tag. If not then..."
+msgstr "توافق الوسم. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:456
+msgid "matched category. If not then..."
+msgstr "توافق التصنيف. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:457
+msgid "matched author. If not then..."
+msgstr "توافق الكاتب. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:458
+msgid "matched post type. If not then..."
+msgstr "توافق نوع المقالة. إذا لم يتحقق ذلك فسيتم..."
+
+#: admin/views/section_defaults.php:459
+msgid "no featured image."
+msgstr "لا يوجد صورة بارزة."
+
+#: admin/views/section_defaults.php:461
+msgid ""
+"Bear in mind that if two or more rules with the same taxonomy would fit to the "
+"post it is unforeseeable which image will become the featured image."
+msgstr ""
+"خذ بعين الاعتبار أنه إذا كان اثنتين أو واحدة من القواعد بنفس الفئة يمكن أن "
+"تتناسب مع المقالة فإنه من غير المتوقع أي صورة سيتم اختيارها كصورة بارزة."
+
+#: admin/views/section_errormsg.php:1
+msgid "Error"
+msgstr "خطأ"
+
+#: admin/views/section_errormsg.php:3
+msgid "Reason"
+msgstr "السبب"
+
+#: admin/views/section_errormsg.php:5
+msgid "Solution"
+msgstr "الحلّ"
+
+#: admin/views/section_footer.php:52
+msgid "Credits and informations"
+msgstr "المؤلفون والمعلومات"
+
+#: admin/views/section_footer.php:54 admin/views/section_results.php:75
+msgid "Do you like the plugin?"
+msgstr "هل أعجبتك هذه الإضافة؟"
+
+#: admin/views/section_footer.php:54 admin/views/section_results.php:76
+msgid "Please rate it at wordpress.org!"
+msgstr "رجاءً قم بتقييمها في wordpress.org!"
+
+#: admin/views/section_footer.php:55
+msgid ""
+"The plugin is for free. But the plugin author would be delighted to your small "
+"contribution."
+msgstr "الإضافة مجانية. لكن مبرمج الإضافة سيكون مسروراً لمساهمتك مهما كانت صغيرة."
+
+#: admin/views/section_footer.php:55
+msgid "Donation Button"
+msgstr "زرّ التبرّع"
+
+#: admin/views/section_footer.php:55
+msgid "Donate with PayPal"
+msgstr "التبرّع بواسطة باي بال"
+
+#: admin/views/section_footer.php:56
+msgid "Do you need support or have an idea for the plugin?"
+msgstr "هل تحتاج إلى دعم أو لديك فكرة لهذه الإضافة؟"
+
+#: admin/views/section_footer.php:56
+msgid ""
+"Post your questions and ideas about Quick Featured Images in the forum at "
+"wordpress.org!"
+msgstr ""
+"ضع سؤالك وأفكارك حول الإضافة Quick Featured Images في المنتدى في wordpress.org!"
+
+#: admin/views/section_footer.php:57
+msgid "Special thanks for the fine frontend style of the plugin go to"
+msgstr "شكر خاصّ على تصميم واجهة الإضافة لـ"
+
+#: admin/views/section_footer.php:58
+msgid ""
+"Let the thumbnails appear in the widget of the most recent posts with this fast "
+"plugin"
+msgstr ""
+"اجعل الصوّر المصغرة تظهر ودجت قائمة المواضيع الجديدة باستخدام هذه الإضافة السريعة"
+
+#: admin/views/section_footer.php:58
+#, php-format
+msgid "Download plugin %s at %s!"
+msgstr "تحميل الإضافة %s من %s!"
+
+#: admin/views/section_header_progress.php:15
+msgid "Progress bar"
+msgstr "شريط التقدّم"
+
+#: admin/views/section_header_progress.php:17
+msgid "You are here"
+msgstr "أنت هنا"
+
+#: admin/views/section_image.php:1
+msgid "Your selection"
+msgstr "اختيارك"
+
+#: admin/views/section_image.php:9
+msgid "Your selected thumbnail"
+msgstr "المصغّر الذي اخترته"
+
+#: admin/views/section_image.php:12
+msgid "Image title"
+msgstr "عنوان الصورة"
+
+#: admin/views/section_image.php:14 admin/views/section_image.php:36
+msgid "If wrong image start again"
+msgstr "إذا صورة خاطئة ابدأ مرة أخرى"
+
+#: admin/views/section_image.php:23
+msgid "Your selected thumbnails"
+msgstr "المصغّرات التي اخترتها"
+
+#: admin/views/section_image.php:42
+msgid "Your selected action"
+msgstr "الإجراء الذي اخترته"
+
+#: admin/views/section_image.php:55
+msgid "If wrong action start again"
+msgstr "إذا إجراء خاطئ ابدأ مرة أخرى"
+
+#: admin/views/section_image.php:68
+msgid "Your selected options"
+msgstr "الخيارات التي اخترتها"
+
+#: admin/views/section_image.php:84
+msgid "No selected options"
+msgstr "لم يتم تحديد خيارات"
+
+#: admin/views/section_image.php:90
+msgid "Your selected filters"
+msgstr "الفلاتر التي حددتها"
+
+#: admin/views/section_image.php:106
+msgid "No selected filters"
+msgstr "لم يتم تحديد فلاتر"
+
+#: admin/views/section_overview.php:17
+msgid "Manage featured images in a quick way"
+msgstr "إدارة الصور البارزة بطريقة سريعة"
+
+#: admin/views/section_overview.php:89
+msgid "The premium version"
+msgstr "النسخة المدفوعة"
+
+#: admin/views/section_results.php:1
+msgid "Results of the action"
+msgstr "نتائج الإجراء"
+
+#: admin/views/section_results.php:8
+msgid "Changed successfully"
+msgstr "تمّ التغيير بنجاح"
+
+#: admin/views/section_results.php:9
+msgid "Unchanged"
+msgstr "لم يتمّ التغيير"
+
+#: admin/views/section_results.php:70
+msgid "No matches found."
+msgstr "لم يعثر على نتائج متوافقة."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "هناك نسخة جديدة من %1$s متوفّرة. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">اعرض تفاصيل النسخة %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "هناك نسخة جديدة من %1$s متوفّرة. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">اعرض تفاصيل النسخة %3$s</a> أو <a href=\"%4$s\">قم بالتحديث الآن</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "أنت لا تمتلك الصلاحيات لتثبيت تحديثات الإضافة"
+
+#~ msgid "The license is valid and active."
+#~ msgstr "الرخصة سارية ومفعّلة."
+
+#~ msgid "The license is expired."
+#~ msgstr "الرخصة منتهية."
+
+#~ msgid "The license key does not match."
+#~ msgstr "مفتاح الرخصة غير متطابق."
+
+#~ msgid "The license is not activated."
+#~ msgstr "لم يتمّ تفعيل الرخصة."
+
+#~ msgid "The license is disabled."
+#~ msgstr "الرخصة معطّلة."
+
+#~ msgid "The license is inactive."
+#~ msgstr "الرخصة غير مفعّلة."
+
+#~ msgid "The status of the license is unknown."
+#~ msgstr "حالة الرخصة غير معروفة."
+
+#~ msgid "License Activation"
+#~ msgstr "تفعيل الرخصة"
+
+#~ msgid "Enter the license key to get automatic upgrades of the plugin."
+#~ msgstr "أدخل مفتاح الرخصة لتحصل على تحديثات آلياً للإضافة."
+
+#~ msgid "Set the first image as featured image"
+#~ msgstr "استخدم الصورة الأولى كصورة بارزة"
+
+#~ msgid "Take the first post image if available in the media library"
+#~ msgstr "خذ الصورة الأولى في المقالة إذا كانت موجودة في مكتبة الوسائط"
+
+#~ msgid ""
+#~ "Take the first post image from current site domain, copy and add it to the "
+#~ "media library if not available there"
+#~ msgstr ""
+#~ "خذ الصورة الأولى في المقالة الموجودة على نفس نطاق الموقع الحالي، ثم انسخها "
+#~ "وأضفها لمكتبة الوسائط إذا لم تكن موجودة هناك"
+
+#~ msgid ""
+#~ "Take the first external post image, download it and add it to the media "
+#~ "library"
+#~ msgstr ""
+#~ "خذ صورة المقالة الخارجية الأولى، ثم قم بتحميلها وأضفها إلى مكتبة الوسائط"
+
+#~ msgid "Take the first image of a WordPress standard gallery"
+#~ msgstr "خذ أول صورة في  قائمة صور ووردبريس الأساسية"
+
+#~ msgid "Take the first image of a NextGen Gallery"
+#~ msgstr "خذ الصورة الأولى من قائمة صور NextGen Gallery"
+
+#~ msgid "Remove first embedded image"
+#~ msgstr "أزل أول صورة مضمّنة"
+
+#~ msgid "Remove excess featured images"
+#~ msgstr "أزل الصور البارزة الزائدة"
+
+#~ msgid "Forced removal"
+#~ msgstr "إزالة قسرية"
+
+#~ msgid "Post Format Filter"
+#~ msgstr "فلتر بنية المقالة"
+
+#~ msgid "Multimedia File Filter"
+#~ msgstr "فلتر الوسائط المتعددة"
+
+#~ msgid "Status Filter"
+#~ msgstr "فلتر الحالة"
+
+#~ msgid "Search Filter"
+#~ msgstr "فلتر البحث"
+
+#~ msgid "Time Filter"
+#~ msgstr "فلتر الوقت"
+
+#~ msgid "Author Filter"
+#~ msgstr "فلتر الكاتب"
+
+#~ msgid "Custom Taxonomy Filter"
+#~ msgstr "فلتر الفئات المخصّصة"
+
+#~ msgid "Featured Image Size Filter"
+#~ msgstr "فلتر حجم الصورة البارزة"
+
+#~ msgid "Parent Page Filter"
+#~ msgstr "فلتر الصفحة الأب"
+
+#~ msgid "Audio files"
+#~ msgstr "ملفات صوت"
+
+#~ msgid "Video files"
+#~ msgstr "ملفات فيديو"
+
+#~ msgid "Start Date"
+#~ msgstr "تاريخ البداية"
+
+#~ msgid "End Date"
+#~ msgstr "تاريخ النهاية"
+
+#~ msgid "Include the posts of the selected dates"
+#~ msgstr "تضمين مقالات التواريخ المحددة"
+
+#~ msgid "Custom field name"
+#~ msgstr "اسم الحقل المخصص"
+
+#~ msgid "Operator to test with the value in the custom field"
+#~ msgstr "مشغل لاختبار مع القيمة في الحقل المخصص"
+
+#~ msgid "Custom field value to compare with"
+#~ msgstr "قيمة الحقل المخصص للمقارنة مع"
+
+#~ msgid "Custom field type"
+#~ msgstr "نوع الحقل المخصص"
+
+#~ msgid "Search in post titles only"
+#~ msgstr "ابحث في عناوين المقالات فقط"
+
+#~ msgid "Select an author"
+#~ msgstr "اختر كاتب"
+
+#~ msgid "is equal"
+#~ msgstr "مساوي"
+
+#~ msgid "is not equal"
+#~ msgstr "غير مساوي"
+
+#~ msgid "is greater than"
+#~ msgstr "أكبر من"
+
+#~ msgid "is lower than"
+#~ msgstr "أقلّ من"
+
+#~ msgid "contains"
+#~ msgstr "يحتوي"
+
+#~ msgid "Select the custom field to find the associated posts/pages."
+#~ msgstr "حدد الحقول المخصصة لإيجاد المقالات\\الصفحات المرتبطة."
+
+#~ msgid ""
+#~ "Optional: Type in the value which will be compared with the value of the "
+#~ "selected custom field."
+#~ msgstr "اختياري: اكتب القيمة التي سيتم مقارنتها بقيمة الحقل المخصص."
+
+#~ msgid ""
+#~ "Leave it empty if you just want to test the existence of the custom field per "
+#~ "post/page."
+#~ msgstr "اتركها فارغة إذا أردت فحص وجود الحقل المخصص لكل مقالة\\صفحة."
+
+#~ msgid ""
+#~ "Optional: Change the operator of the comparison. The default is to compare "
+#~ "equality with the value you type in the 'value' field."
+#~ msgstr ""
+#~ "اختياري: غيّر عامل المقارنة. افتراضياً سيتم مقارنة مساواة القيمة التي أدخلتها "
+#~ "في حقل \"القيمة\""
+
+#~ msgid "There are no custom fields in use."
+#~ msgstr "لا يوجد حقول مخصصة مستخدمة."
+
+#~ msgid "Registered terms of the taxonomy <strong>%s</strong>"
+#~ msgstr "المفردات المسجلة للفئة <strong>%s</strong>"
+
+#~ msgid "There are no terms of the taxonomy <strong>%s</strong>."
+#~ msgstr "لا يوجد مفردات للفئة <strong>%s</strong>."
+
+#~ msgid "Strange search result with custom taxonomies?"
+#~ msgstr "نتائج بحث غريبة مع التصنيفات المخصصة؟"
+
+#~ msgid ""
+#~ "The search for custom taxonomy terms could lead to surprising results. The "
+#~ "reason is custom taxonomies can be used in many different ways. It is not "
+#~ "possible to catch them all in one single code expression. If you should be "
+#~ "unsatisfied with the result try other filters to get the result you want."
+#~ msgstr ""
+#~ "البحث عن مفردات فئة مخصصة ربما يقود إلى نتائج مفاجئة. السبب أن الفئات المخصصة "
+#~ "يمكن أن تستخدم بطرق متعددة. من غير الممكن إحصائها في كود واحد. إذا كنت غير "
+#~ "راضٍ عن النتائج قم بتجربة فلاتر أخرى لتحصل على النتيجة التي تريدها."
+
+#~ msgid "There are no custom taxonomies."
+#~ msgstr "لا يوجد تصنيفات مخصصة."
+
+#~ msgid ""
+#~ "The search will find posts with an already added featured image which its "
+#~ "original image file is smaller than one of the given dimensions."
+#~ msgstr ""
+#~ "عملية البحث ستعثر على مقالات مضاف لها صور بارزة مسبقاً والتي ملف صورتها أصغر "
+#~ "من الأبعاد المحددة."
+
+#~ msgid "For example you can search for posts with too small featured images."
+#~ msgstr "على سبيل المثال يمكنك أن تبحث عن مقالات بصور بارزة صغيرة للغاية."
+
+#~ msgid ""
+#~ "Only positive integers from %d to %d are allowed. By default the thumbnail "
+#~ "dimensions as defined in %s are used."
+#~ msgstr ""
+#~ "فقط الأرقام الموجبة من %d إلى %d مسموح بها. افتراضياً أبعاد الصورة المصغرة كما "
+#~ "هو محدد في %s هو المستخدم."
+
+#~ msgid "Select multimedia file types"
+#~ msgstr "حدد أنواع ملف الوسائط المتعددة."
+
+#~ msgid ""
+#~ "You can select two multimedia files types: audios and videos. If you check at "
+#~ "least one of both all other post types (posts, pages, etc.) will be ignored."
+#~ msgstr ""
+#~ "بإمكانك تحديد نوعين لملفات الوسائط المتعددة. إذا حددت على الأقل واحد من كل "
+#~ "أنواع المقالات الأخرى (مقالات، صفحات، إلخ) سيتم تجاهله."
+
+#~ msgid "Select a parent page"
+#~ msgstr "حدد الصفحة الأب."
+
+#~ msgid "There are no pages with child pages."
+#~ msgstr "لا يوجد صفحات لديها صفحات أبناء."
+
+#~ msgid "You can select posts, pages and available custom posts types."
+#~ msgstr "بإمكانك اختيار مقالات أو صفحات أو أنواع مقالات مخصصة متوفرة."
+
+#~ msgid "There are no custom post types."
+#~ msgstr "لا يوجد أنواع مقالات مخصصة."
+
+#~ msgid ""
+#~ "If you want to search for an exact phrase surround it with double quotes."
+#~ msgstr "إذا أردت البحث عن مفردات محددة قم بوضعها داخل علامات اقتباس مزدوجة."
+
+#~ msgid "Type in a search term"
+#~ msgstr "أدخل مفردات البحث"
+
+#~ msgid "Select the statuses of the posts/pages:"
+#~ msgstr "حدد حالة المقالات\\الصفحات:"
+
+#~ msgid "Date range"
+#~ msgstr "النطاق الزمني"
+
+#~ msgid "To define a time segment select both the start date and the end date."
+#~ msgstr "لتحديد شريحة الوقت قم باختيار تاريخ البداية وتاريخ النهاية."
+
+#~ msgid ""
+#~ "You can also define a time period by selecting only one date as the limiting "
+#~ "value of the period."
+#~ msgstr "بإمكانك تحديد الفترة الزمنية باختيار تاريخ واحد كحدّ للفترة."
+
+#~ msgid "The listed dates are the date of the publication of stored posts."
+#~ msgstr "التواريخ المدرجة هي تاريخ النشر للمقالات المخزنة."
+
+#~ msgid "What sort of first image?"
+#~ msgstr "أي نوع من الصورة الأولى؟"
+
+#~ msgid ""
+#~ "Remove the first embedded image from the post content after this image was "
+#~ "set as featured image. This does not affect galleries or attached images. "
+#~ "<strong>There is no undo function. Be careful with this option and please "
+#~ "create a backup of the database of this website before you use this!</strong>"
+#~ msgstr ""
+#~ "أزل أو صورة مضمنة من محتوى المقالة بعد تحديد هذه الصورة كصورة بارزة. هذا لا "
+#~ "يؤثر على القوائم أو الصور المرفقة. <strong>لا يوجد خيار للتراجع. كن حذراً مع "
+#~ "هذا الخيار ورجاءً خذ نسخة احتياطية من قاعدة البيانات لهذا الموقع قبل استخدام "
+#~ "هذا الإجراء!</strong>"
+
+#~ msgid ""
+#~ "Remove first content image even if the featured image was not changed "
+#~ "successfully. Works only if 'Remove first embedded image' is activated."
+#~ msgstr ""
+#~ "أزل صورة المحتوى الأولى حتى إذا لم يتم تغيير الصورة البارزة بنجاح. الخيار "
+#~ "يعمل فقط إذا تم تفعيل خيار إزالة أول صورة مضمنة."
+
+#~ msgid ""
+#~ "By default the selected images will be used multiple times in random order. "
+#~ "If you check this option each selected image will be used only once. If there "
+#~ "are more posts than images the remaining posts will not be changed. If you "
+#~ "want to remove the featured images of remaining posts check the next option "
+#~ "additionally."
+#~ msgstr ""
+#~ "بشكل افتراضي يتم استخدام الصور المحددة عدة مرات عشوائياً. إذا فعّلت هذا الخيار "
+#~ "سيتم استخدام كل صورة مرة واحدة فقط. إذا كان هناك مقالات أكثر من الصور فلن يتم "
+#~ "التعديل على المقالات الباقية. إذا أردت إزالة الصور البارزة من المقالات "
+#~ "الباقية فعّل الخيار التالي أيضاً."
+
+#~ msgid ""
+#~ "Remove existing featured images of remaining posts if all selected images are "
+#~ "used. This option works only with the previous option."
+#~ msgstr ""
+#~ "أزل الصور البارزة الحالية من المقالات الباقية إذا تم استخدام جميع الصور. هذا "
+#~ "الخيار يعمل فقط مع الخيار السابق."
+
+#~ msgid "Some advices from experience"
+#~ msgstr "بعض النصائح من التجربة"
+
+#~ msgid ""
+#~ "Looking for external images can take a long time. Please be patient for at "
+#~ "least one minute and do not reload the page! If you would see a timeout "
+#~ "message please start again with a filter that limits the number of posts."
+#~ msgstr ""
+#~ "البحث عن صور خارجية يمكن أن يستغرق وقتاً طويلاً. رجاءً كن صبوراً لدقيقة واحدة على "
+#~ "الأقل ولا تقم بتحديث الصفحة ! إذا شاهدت رسالة انتهاء المهلة رجاءً ابدأ مرة "
+#~ "أخرى بفلتر يضع حداً لعدد المقالات."
+
+#~ msgid ""
+#~ "If you would be unsatisfied with the next results of the search for first "
+#~ "embedded images try the option for external images. Maybe that result could "
+#~ "meet your expectations better."
+#~ msgstr ""
+#~ "إذا لم تكن راضٍ عن النتائج البحث التالية عن أول الصور المضمّنة، جرّب خيار الصور "
+#~ "الخارجية. ربما هذه النتيجة ستحقق توقعاتك أفضل."
+
+#~ msgid "Search by post format. By default the standard post format is affected."
+#~ msgstr "البحث بواسطة بنية المقالة. افتراضياً البنية القياسية ستتأثر."
+
+#~ msgid ""
+#~ "Search for audios and videos. This filter will ignore all other post types "
+#~ "automatically."
+#~ msgstr ""
+#~ "البحث عن الأصوات ومقاطع الفيديو. هذا الفلتر سيتجاهل كل أنواع المقالات الأخرى "
+#~ "تلقائياً."
+
+#~ msgid ""
+#~ "Search by several statuses (published, draft, private etc.). By default all "
+#~ "statuses will be affected."
+#~ msgstr ""
+#~ "البحث بواسطة حالات مختلفة (منشور، مسودة، خاص، إلخ). افتراضياً كل الحالات "
+#~ "ستتأثر."
+
+#~ msgid "Search by search term"
+#~ msgstr "البحث بواسطة كلمات البحث"
+
+#~ msgid "Search by time specifications"
+#~ msgstr "البحث بواسطة مواصفات الوقت"
+
+#~ msgid "Search by author"
+#~ msgstr "البحث بواسطة الكاتب"
+
+#~ msgid "Search by other taxonomies like plugin categories etc."
+#~ msgstr "البحث بواسطة تصنيفات أخرى مثل إضافات أو تصنيفات المقالات، إلخ."
+
+#~ msgid "Search by original dimensions of added featured image"
+#~ msgstr "البحث بواسطة الأبعاد الأساسية للصورة البارزة المضافة"
+
+#~ msgid "Search child pages by parent page"
+#~ msgstr "البحث في الصفحات الإبن بواسطة الصفحة الأب"
+
+#~ msgid ""
+#~ "The plugin will try to find the first image embedded in the content, in a "
+#~ "WordPress standard gallery or attached to a post."
+#~ msgstr ""
+#~ "هذه الإضافة ستحاول إيجاد أول صورة مضمّنة في المحتوى أو في قائمة صور ووردبريس "
+#~ "الأساسية أو المرفقة مع المقالة."
+
+#~ msgid "It will also search in NextGen galleries."
+#~ msgstr "ستقوم أيضاً بالبحث في قوائم صور الإضافة NextGen galleries."
+
+#~ msgid "Search string"
+#~ msgstr "ابحث عن نصّ"
+
+#~ msgid "works only if '%s' is set to '%s'"
+#~ msgstr "يعمل فقط إذا '%s' تمّ تعيينه إلى '%s'"
+
+#~ msgid ""
+#~ "The current theme does not support featured images. Anyway you can use this "
+#~ "plugin. The rules are stored and will be visible in a theme which supports "
+#~ "featured images."
+#~ msgstr ""
+#~ "قالب الموقع الحالي لا يدعم الصور البارزة. على كل حال بإمكانك استخدام هذه "
+#~ "الإضافة. القواعد ستخزّن وستكون ظاهرة عند استخدام قالب يدعم الصور البارزة."
+
+#~ msgid ""
+#~ "The current theme does not support post formats. Anyway you can use this "
+#~ "plugin. The rules are stored and will be visible in a theme which supports "
+#~ "post formats."
+#~ msgstr ""
+#~ "قالب الموقع الحالي لا يدعم بنية المقالات. على كل حال بإمكانك استخدام هذه "
+#~ "الإضافة. القواعد  ستخزّن وستكون ظاهرة عند استخدام قالب يدعم بنية المقالات."
+
+#~ msgid ""
+#~ "Activate to automatically use the first attached image if no content image "
+#~ "was found"
+#~ msgstr ""
+#~ "تفعيل هذا الخيار لاستخدام أول صورة مرفقة إذا لم يكن هناك صورة مضمّنة في محتوى "
+#~ "المقالة."
+
+#~ msgid "matched search string in post title. If not then..."
+#~ msgstr "توافق نصّ البحث مع عنوان المقالة. إذا لم يتحقق ذلك فسيتم..."
+
+#~ msgid "matched post format. If not then..."
+#~ msgstr "توافق بنية المقالة. إذا لم يتحقق ذلك فسيتم..."
+
+#~ msgid "/reviews/"
+#~ msgstr "/تقييمات/"
+
+#~ msgid "Your selected approach"
+#~ msgstr "النمط الذي اخترته"
+
+#~ msgid "License Settings"
+#~ msgstr "خيارات الرخصة"
+
+#~ msgid "License Key"
+#~ msgstr "مفتاح الرخصة"
+
+#~ msgid "Enter your license key. Then click on the button."
+#~ msgstr "أدخل مفتاح رخصتك. ثم اضغط على الزرّ."
+
+#~ msgid "Licence Status"
+#~ msgstr "حالة الرخصة"
+
+#~ msgid "The license will expire on %1$s at %2$s."
+#~ msgstr "الرخصة ستنتهي في %1$s في %2$s."
+
+#~ msgid "There are %d activations left"
+#~ msgstr "هناك %d تفعيلات باقية"
+
+#~ msgid "Deactivate License"
+#~ msgstr "إلغاء تفعيل الرخصة"
+
+#~ msgid ""
+#~ "Click to deactivate the license if you do not want to use it on this server."
+#~ msgstr "اضغط لإلغاء تفعيل الرخصة إذا لم تشأ استخدامها على هذا الخادم."
+
+#~ msgid "The license expired on %1$s at %2$s."
+#~ msgstr "الرخصة انتهت في %1$s في %2$s."
+
+#~ msgid "Click here for a new license"
+#~ msgstr "اضغط هنا لرخصة جديدة"
+
+#~ msgid "Activate License"
+#~ msgstr "تفعيل الرخصة"
+
+#~ msgid "Click to activate the license after you have entered your license key."
+#~ msgstr "اضغط لتفعيل الرخصة بعد إدخالك لمفتاح الرخصة."
+
+#~ msgid "Important advices about the license"
+#~ msgstr "نصائح مهمة حول الرخصة"
+
+#~ msgid "Why a license?"
+#~ msgstr "لماذا الرخصة؟"
+
+#~ msgid ""
+#~ "With activating the license you will receive automatic upgrades of the plugin "
+#~ "for 365 days since the day of the purchase. Each license key is valid for one "
+#~ "installation of the plugin only."
+#~ msgstr ""
+#~ "بتفعيل الرخصة ستحصل على ترقيات آلية للإضافة لمدة 365 يوماً منذ يوم الشراء. كل "
+#~ "مفتاح رخصة فعّال لتثبيت واحد للإضافة."
+
+#~ msgid "Terms of the license"
+#~ msgstr "شروط الرخصة"
+
+#~ msgid ""
+#~ "By activating this license you are also confirming your agreement to be bound "
+#~ "by the terms of the license associated with this plugin which you "
+#~ "acknowledged at the time of the purchase checkout."
+#~ msgstr ""
+#~ "بتفعيل هذه الرخصة أنت أيضاً تؤكد موافقتك موافقتك على الالتزام بشروط الترخيص "
+#~ "المرتبطة بهذه الإضافة التي تمّ إعلامك بها وقت عملية الشراء."
+
+#~ msgid "http://www.quickfeaturedimages.com/terms-licence-withdrawal/"
+#~ msgstr "http://www.quickfeaturedimages.com/terms-licence-withdrawal/"
+
+#~ msgid "Read the terms of the license (in new window)"
+#~ msgstr "اقرأ شروط الترخيص (في هذه النافذة)"
+
+#~ msgid ""
+#~ "This includes that the warranty offered by the plugin author is limited to "
+#~ "correcting any defects and that the plugin author will not be held liable for "
+#~ "any actions or financial loss occurring as a result of using this plugin."
+#~ msgstr ""
+#~ "هذا يتضمن أن الكفالة المقدمة من قبل مبرمج الإضافة تقتصر فقط على تصحيح أي "
+#~ "عيوب، وأن مبرمج الإضافة لن يتم إيقافة وأنه غير مسؤول تجاه أي إجراءات أو خسارة "
+#~ "مالية تحدث نتيجة استخدام هذه الإضافة."
+
+#~ msgid "Contact"
+#~ msgstr "تواصل"
+
+#~ msgid ""
+#~ "If you have any issues and problems with activating you can contact the "
+#~ "plugin author for solutions."
+#~ msgstr ""
+#~ "إذا واجهتك أي مشاكل بعملية التفعيل بإمكانك التواصل مع مبرمج الإضافة لإيجاد "
+#~ "حلول."
+
+#~ msgid "http://www.quickfeaturedimages.com/contact/"
+#~ msgstr "http://www.quickfeaturedimages.com/contact/"
+
+#~ msgid "Contact page (in new window)"
+#~ msgstr "صفحة التواصل (في نافذة جديدة)"
+
+#~ msgid "Image removed successfully from post"
+#~ msgstr "الصورة أزيلت بنجاح من المقالة"
+
+#~ msgid "Image not removed from post"
+#~ msgstr "الصورة لم تزل من المقالة"
+
+#~ msgid "Post type"
+#~ msgstr "نوع المقالة"
+
+#~ msgid "Taxonomy"
+#~ msgstr "الفئة"
+
+#~ msgid "matched keyword. If not then..."
+#~ msgstr "توافق كلمة مفتاحية. إذا لم يتحقق ذلك فسيتم..."
+
+#~ msgid "Latest News"
+#~ msgstr "آخر الأخبار"

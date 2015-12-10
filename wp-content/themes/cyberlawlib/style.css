@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Cyber Law Library
+ Theme URI:    http://example.com/cyberlawlib/
+ Description:  AccessPress Mag Child Theme
+ Author:       Peter Glock
+ Author URI:   http://brownglock.com
+ Template:     accesspress-mag
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         red, white, light, custom-menu, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fluid-layout, custom-background, full-width-template, theme-options, threaded-comments, featured-images
+ Text Domain:  cyber-law-library
+*/
+
+.aps-each-icon img{
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-o-transition: opacity 0.3s ease-in-out;
+	transition: opacity 0.3s ease-in-out;
+	width: 64px;
+	height: 64px;
+}
+blockquote {
+	font-size: 18px;
+}

@@ -1,0 +1,1314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard v1.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-21 15:25+0530\n"
+"PO-Revision-Date: 2015-10-21 15:25+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmai.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"dashboard\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-dashboard\n"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Bitte geben Sie Ihren Envato-Marktplatz Benutzernamen ein. "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Bitte geben Sie Ihren Envato-Marktplatz API Key ein. "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "Der API Parameter \"set\" ist erforderlich. "
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Die  Envato Marketplace \"item ID\" ist erforderlich"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Eine unerwarteter HTTP-Fehler trat während der API-Anfrage auf."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Bitte versuchen Sie es erneut"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Das Plugin wurde aktualisiert, es konnte aber nicht wieder reaktiviert "
+"werden. Bitte reaktivieren Sie es manuell."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin erfolgreich reaktiviert. "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr " Plugin Updates"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Benutzername:  "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "E-Mail: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Key: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Ihr Plugin-Update ist <span style =\"color: green \">aktiv</span> </p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Ihre Eingabe ist <span style =\"color: red \"> nicht gültig </span>, "
+"automatische Updates sind <span style=\"color: red \">nicht aktiv </span> </"
+"p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Key bearbeiten"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Kann Update-Aktivierung nicht bestätigen. </p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Key hinzufügen"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Benutzername"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "E-Mail"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Themeforest Benutzername (für Auto-Updates) "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:47
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:61
+msgid "Dashboard"
+msgstr "Dashboard"
+
+# @ vibe
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:76
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:194
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:232
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:233
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:234
+msgid "News"
+msgstr "News"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:39
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:51
+msgid "Earnings"
+msgstr "Ertrag"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:40
+msgid "Payout"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:41
+#, fuzzy
+msgid "# Students"
+msgstr "Alle Teilnehmer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:42
+#, fuzzy
+msgid "SAVED"
+msgstr "SPEICHERN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:43
+msgid "SAVING ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:44
+msgid "Stats Calculated, reloading page ..."
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:63
+msgid "Student Sidebar"
+msgstr "Studenten Sidebar"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:69
+msgid "This is the dashboard sidebar for Students"
+msgstr "Dies ist die Dashboard Sidebar für Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:72
+msgid "Instructor Sidebar"
+msgstr "Trainer Sidebar"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:78
+msgid "This is the dashboard sidebar for Instructors"
+msgstr "Dies ist die Dashboard Sidebar für Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:23
+msgid "Course News"
+msgstr "Kurs Nachrichten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:38
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:44
+msgid "No news available for Course"
+msgstr "Keine News für den Kurs verfügbar"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:14
+#, fuzzy
+msgid "announcement Widget for Dashboard"
+msgstr "Ankündigung Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:16
+#, fuzzy
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr " DASHBOARD: Trainer Ankündigung Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:63
+#, fuzzy
+msgid "Add announcement"
+msgstr "Ankündigung hinzufügen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr "Sende Ankündigung an alle Teilnehmer im Kurs"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:70
+msgid "All Students"
+msgstr "Alle Teilnehmer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:71
+msgid "Students who are pursuing the course"
+msgstr "Teilnehmer, die den Kurs besuchen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:72
+msgid "Students who finished the coruse"
+msgstr "Teilnehmer, die den Kurs beendet haben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:80
+msgid "Submit"
+msgstr "Absenden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:98
+#, fuzzy
+msgid "announcement"
+msgstr "Ankündigung"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:267
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:176
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:130
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:96
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:201
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr "Titel:"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:112
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:292
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:200
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:134
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:179
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:201
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:148
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:246
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:212
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:357
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:75
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr "Breite wählen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:114
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:294
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:202
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:106
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:150
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:248
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:214
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:77
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr "Ein Viertel"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:115
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:137
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:151
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:360
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:78
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr "Ein Drittel"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:296
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:138
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:183
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:205
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:120
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:250
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:216
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:361
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:79
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr "Eine Hälfte"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:117
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:297
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:205
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:139
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:109
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:153
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:251
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:124
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:80
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr "Zwei Drittel"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:298
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:140
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:110
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:154
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:252
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:125
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:81
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr "Drei Viertel"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:299
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:141
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:186
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:208
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:155
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:222
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:253
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:126
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:364
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:82
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr "Voll"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:127
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:229
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:195
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:291
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:208
+msgid "Security error"
+msgstr "Sicherheitsfehler"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:134
+#, fuzzy
+msgid "Please enter some text for announcement"
+msgstr "Bitte geben Sie einen Text für die Ankündigung ein"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:138
+msgid "Course list not set"
+msgstr "Kursliste nicht gesetzt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:155
+#, fuzzy
+msgid "announcement successfully delivered"
+msgstr "Ankündigung erfolgreich zugestellt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:214
+msgid "CLICK TO EXPAND"
+msgstr "KLICKEN ZUM ERWEITERN"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:215
+#, fuzzy, php-format
+msgid "You have %s announcements"
+msgstr "Sie haben %s Nachrichten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:238
+#, fuzzy
+msgid "Unable to remove annoucement"
+msgstr "Sie haben %s Nachrichten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr "Linie Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr " DASHBOARD: Zeilenumbruch"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr "Zeilenumbruch: Neue Linie"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr "Einfache Statistiken für Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr " DASHBOARD: Trainer einfache Statistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:70
+msgid "Total Commission Earned"
+msgstr "Gesamtbetrag Kommissionen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:89
+msgid "Courses Instructing"
+msgstr "Anzahl der Kurse"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:109
+msgid "Quizzes Created"
+msgstr "Quizzes erstellt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:128
+msgid "Units Created"
+msgstr "Lektionen erstellt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:147
+msgid "Assignments Created"
+msgstr "Aufgaben erstellt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:166
+msgid "Questions Created"
+msgstr "Fragen erstellt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:186
+msgid "Badges Awarded"
+msgstr "Abzeichen verliehen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:208
+msgid "Certificates awarded"
+msgstr "Zertifikate verliehen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:122
+msgid "Instructor Stats"
+msgstr "Trainer Statistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:271
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:205
+msgid "Select Stats"
+msgstr "Statistiken auswählen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:276
+msgid "WooCommerce Earnings"
+msgstr "WooCommerce Ertrag"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:277
+msgid "Number of courses"
+msgstr "Anzahl an Kursen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:278
+msgid "Number of Quizzes"
+msgstr "Anzahl an Quizzes"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "Number of assignments"
+msgstr "Anzahl an Aufgaben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of questions"
+msgstr "Anzahl an Fragen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:281
+msgid "Number of units"
+msgstr "Anzahl an Lektionen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:282
+msgid "Number of badges"
+msgstr "Anzahl an Abzeichen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:283
+msgid "Number of certificates"
+msgstr "Anzahl an Zertifikaten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:13
+#, fuzzy
+msgid "Instructing Modules  Widget for Dashboard"
+msgstr "Linie Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : Instructing Modules"
+msgstr " DASHBOARD: Trainer Statistik"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:42
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:41
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:39
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:46
+msgid "Courses"
+msgstr "Kurse"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:45
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:42
+#, fuzzy
+msgid "Quizzes"
+msgstr "Quiz"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:48
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:45
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:52
+msgid "Assignments"
+msgstr "Aufgaben"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:51
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:48
+msgid "Units"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:71
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:78
+#, fuzzy
+msgid "No Courses found"
+msgstr "Keine Nachrichten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:92
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:100
+#, fuzzy
+msgid "No quizzes found"
+msgstr "Keine Nachrichten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:113
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:122
+#, fuzzy
+msgid "No assignments found"
+msgstr "Keine Nachrichten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:146
+#, fuzzy
+msgid "No units found"
+msgstr "Keine Daten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:163
+#, fuzzy
+msgid "Instructing Modules"
+msgstr "Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:180
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:222
+#, fuzzy
+msgid "Show My Courses"
+msgstr "Abgeschlossene Kurse anzeigen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:226
+msgid "Show My Quizzes"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:188
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:230
+#, fuzzy
+msgid "Show My Assignments"
+msgstr "Aufgaben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:192
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:234
+#, fuzzy
+msgid "Show My Units"
+msgstr "Statistiken anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:196
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:242
+msgid "Number of items"
+msgstr "Anzahl der Elemente"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr "WooCommerce Kommission Statistiken für Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr " DASHBOARD: Trainer Kommission Statistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:51
+msgid "Course"
+msgstr "Kurs"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:59
+#, fuzzy
+msgid "Commissions Paid"
+msgstr "Gesamtbetrag Kommissionen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:70
+msgid "No data found"
+msgstr "Keine Daten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:317
+msgid "No courses found for Instructor"
+msgstr "Keine Kurse vom Trainer gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr "Trainer Statistik-Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr " DASHBOARD: Trainer Statistik"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:55
+msgid "No courses created by instructor"
+msgstr "Keine Kurse vom Trainer verfügbar"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:77
+msgid "Show Stats"
+msgstr "Statistiken anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:78
+msgid "Re-calculate Stats"
+msgstr "Statistik neu berechnen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:79
+msgid "List Quiz / Assignments"
+msgstr "Liste Quiz / Aufgaben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:123
+msgid "Average Score"
+msgstr "Durchschnittliche Punktzahl"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:154
+msgid "Instructor Statistics"
+msgstr "Trainer Statistik"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:171
+msgid "Set Range value (10 for 1/10)"
+msgstr "Bereichswert (10 für 1/10)"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:175
+msgid "Set Max course limit"
+msgstr "Maximale Kurs Grenze setzen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:282
+msgid "No data available"
+msgstr "Keine Daten vorhanden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:49
+msgid "Quiz"
+msgstr "Quiz"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:321
+msgid "Assignment"
+msgstr "Aufgabe"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:14
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr "Aktuelle Aktivität von Studenten "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr " DASHBOARD: Letzte Aktivitäten "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr "Ungelesene Nachrichten "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr "Keine Nachrichten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "Freunde Online "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "Keine Freunde online "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr "Letzte Aktivitäten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:133
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr "SEIT"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr "Keine Aktivitäten gefunden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr "Teilnehmer Aktivität"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr "Die Letzten Nachrichten anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr "Zeige aktuelle Aktivität"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "Zeige Freunde online"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr " DASHBOARD: Kalender"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "ALLE ANZEIGEN"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:140
+msgid "Number of activities in one screen"
+msgstr "Anzahl der Aktivitäten pro Bildschirm"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr "Meine Aktivität und die meiner Freunde"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr "Kontaktformular Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr " DASHBOARD: Kontaktformular"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr "Wählen Sie eine Benutzergruppe"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr "Wählen Sie eine Benutzergruppe"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "Freunde"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr "Trainer"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr "Administrator"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr "Kurs Studenten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr "Name eingeben (Autovervollständigung)"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr "Betreff eingeben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr "Nachricht eingeben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:86
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:191
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr "Trainer Kontakt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr "Benutzer Dropdown zeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:217
+msgid "Please enter to/subject/message"
+msgstr "Bitte Empfänger / Betreff / Nachricht eingeben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:227
+#, php-format
+msgid "Message sent to %s members"
+msgstr "Nachricht versandt an %s Mitglieder"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr "Studenten Kurs Fortschritte"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr " DASHBOARD: Kurs Fortschritt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:124
+msgid "Course Progress"
+msgstr "Kurs Fortschritt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:144
+msgid "Show Finished Courses"
+msgstr "Abgeschlossene Kurse anzeigen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:191
+msgid "Security check failed !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:196
+msgid " Incorrect User selected."
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr "Einfache Statistik für Studenten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr " DASHBOARD: Einfache Statistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:55
+msgid "Courses Completed"
+msgstr "Abgeschlossene Kurse"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:88
+msgid "Assignments Completed"
+msgstr "Abgeschlossene Aufgaben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:122
+msgid "Quizzes Completed"
+msgstr "Abgeschlossene Quizzes"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:151
+msgid "Units Completed"
+msgstr "Abgeschlossene Lektionen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:208
+msgid "Finished Courses"
+msgstr "Beendete Kurse"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:209
+msgid "Finished Quizes"
+msgstr "Beendete Quizes"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:210
+msgid "Finished Assignments"
+msgstr "Beendete Aufgaben"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:211
+msgid "Finished Units"
+msgstr "Beendete Lektionen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:13
+#, fuzzy
+msgid "My Courses, Units, Quizzes, Assignments widget for Dashboard"
+msgstr "Linie Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : My Modules Widget"
+msgstr " DASHBOARD: Text Widget"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:51
+msgid "Downloads"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:173
+#, fuzzy
+msgid "No downloads found"
+msgstr "Keine Daten gefunden"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:238
+msgid "Show My Downloads"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:13
+msgid "News for Members"
+msgstr "Nachrichten für Mitglieder"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:15
+msgid " DASHBOARD : Member News"
+msgstr " DASHBOARD: Member Nachrichten "
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:171
+msgid "No news for you !"
+msgstr "Keine Neuigkeiten für Sie!"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:208
+msgid "Maximum Number of New blocks in carousel"
+msgstr "Maximale Anzahl der neuen Blöcke im Karussell"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:235
+msgid "Add News"
+msgstr "News hinzufügen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:236
+msgid "All News"
+msgstr "Alle Neuigkeiten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:256
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:258
+msgid "News Tag"
+msgstr "Neuigkeiten Tag"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:259
+msgid "Add New Tag"
+msgstr "Neuen Tag hinzufügen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:260
+msgid "All News Tags"
+msgstr "Alle Neuigkeiten Tags"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:273
+msgid "Share with students in Course"
+msgstr "Mit Kurs Teilnehmern teilen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:274
+msgid "Student having access to this courses will get the news"
+msgstr "Studenten, die Zugang zu diesem Kurse haben, sehen die Nachrichten"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:280
+msgid "Post Sub-Title"
+msgstr "Beitrag Untertitel"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:281
+msgid "Post Sub- Title."
+msgstr "Beitrag Untertitel."
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:288
+msgid "News Settings"
+msgstr "News Einstellungen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:13
+#, fuzzy
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr "Linie Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:15
+#, fuzzy
+msgid " DASHBOARD : Notes & Discussion"
+msgstr " DASHBOARD: Aufgabenliste"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:41
+#, fuzzy
+msgid "SEE ALL"
+msgstr "ALLE ANZEIGEN"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:115
+#, fuzzy
+msgid "Number of Notes/Dicussions"
+msgstr "Anzahl an Fragen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr "Student Statistiken Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr " DASHBOARD: Studentenstatistiken"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:268
+msgid "MY MARKS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:268
+msgid "AVERAGE"
+msgstr ""
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:302
+msgid "Student Statistics"
+msgstr "Studentenstatistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:321
+msgid "Show Course statistics"
+msgstr "Kurs Statistiken anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:325
+msgid "Course Chart Style"
+msgstr "Kurstabellen Stil"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:327
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:339
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:351
+msgid "LINE CHART"
+msgstr "Liniendiagramm"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:328
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:340
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:352
+msgid "AREA CHART"
+msgstr "Flächendiagramm"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:329
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:341
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:353
+msgid "BAR CHART"
+msgstr "Balkendiagramm"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:333
+msgid "Show Quiz statistics"
+msgstr "Quiz Statistiken anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:337
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:349
+msgid "Quiz Chart Style"
+msgstr "Quiz Diagrammstil"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:345
+msgid "Show Assignments statistics"
+msgstr "Zeige Aufgaben Statistiken"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr "Text-Widget für Dashboard"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr " DASHBOARD: Text Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr "Text-Inhalt"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr "Aufgabenliste Widget"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr " DASHBOARD: Aufgabenliste"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr "Neue Aufgabe hinzufügen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr "SPEICHERN"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr "Aufgabenliste"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr "Aufgabendatum anzeigen"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr "Aktivieren Sie Task-Priorität"
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr "Sicherheitsproblem."
+
+# @ wplms-dashboard
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr "Speichern nicht möglich"

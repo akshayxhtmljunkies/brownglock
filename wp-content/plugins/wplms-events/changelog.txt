@@ -1,0 +1,78 @@
+* version1.9.6.2
+* bug fixes for event css loading
+* Bug fix and version update
+* version1.9.6
+* version1.9.5
+* Language addition
+* Events update
+* version1.9.4
+* New language
+* No follow in events
+* esc_args in add_query_arg
+* version1.9.3
+* translation files
+* version1.9.2
+* language files updated
+* Language changes
+* version1.9.1
+* Language files updated
+* version1.9
+* version1.8.4
+* Updated translation files
+* version 1.8.3
+* Updated Russian Language Translation files
+* Fix : Event Type category in front end
+* Event but fix
+* Updated Changelog
+* version1.8.2
+* version1.8.1
+* version1.8.0.1
+* Fixed : Year Bug
+* Updated : Language files
+* version1.8
+* version1.7.5
+* version1.7.4
+* UPDATED : Translation files
+* version1.7.3
+* version1.7.2
+* UPDATED : Language files
+* ADDED : CodeStyling localization compatibility
+* version1.7.1
+* version1.7
+* version1.6.5
+* version 1.6.4
+* version 1.6.3
+* FIXED : Adding Protocol http or https identification in google maps
+* version 1.6.2
+* Updated  : Language files
+* version 1.6.1
+* ADDED : Hide Student invite buttons for paid events
+* version 1.6
+* UPDATED : Language Files
+* FIXED : Google maps script to load only on events page
+* version 1.5.5
+* UPDATED : Language Files [US,ES]
+* ADDED : Private and Paid Events
+* Version 1.5.4
+* Fixed : Translation bug
+* version 1.5.3
+* UPDATED : Language files
+* FIXED : Changed load_textdomain to load_plugin_textdomain
+* FIXED : Events in Added in translation files
+* version 1.5.2
+* ADDED :Translation files
+* FIXED : Issue in Checkout Page due to events magnific popup bug
+* FIXED : Mobile viewport fix
+* Fix : Today date fix in left
+* Version 1.4.1
+* Fix: Flush permalinks on activate and deactivate
+* Version 1.4
+* Adding Event Styles in widget
+* Auto Update in Course Events
+* Finishing Widget Modules
+* Invitation and Reminders
+* Invitation and reminder CSS
+* Adding Invitation and Reminders
+* Events init 0.1
+* starting with plugin
+* init files

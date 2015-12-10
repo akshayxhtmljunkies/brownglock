@@ -1,0 +1,106 @@
+/* CSS Document */
+
+/*----- Layout -----*/
+.fac-constructor-wrapper {
+	overflow: hidden;
+	width: 100%;
+}
+.fac-constructor-wrapper .faccw-column {
+	float: left;
+	width: 60%;
+}
+.fac-constructor-wrapper .faccw-preview {
+	width: 40%;
+}
+/*----- Preview -----*/
+.fac-constructor-preview-container {
+	border: 1px solid #ddd;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+	min-height: 50px;
+	padding: 20px;
+	text-align: center;
+}
+.fac-constructor-controls {
+	padding: 20px 0 0;
+}
+.fac-constructor-spinner {
+    visibility: hidden;
+	float: right;
+	padding: 15px 0 0;
+}
+/*----- Hint -----*/
+.fac-constructor-field label {
+	display: block;
+	padding: 5px 0;
+	font-weight: bold;
+}
+.fac-constructor-field a.fac-hint {
+	display: inline-block;
+	vertical-align: top;
+	width: 22px;
+	height: 22px;
+	font-size: 22px!important;
+	line-height: 22px!important;
+	padding: 0 0 0 5px;
+}
+.fac-constructor-field a.fac-hint.fac-cp.fac-note {
+	display: none;
+	position: absolute;
+	z-index: 10000;
+	background: #fff;
+	width: 10%px;
+	border: 1px solid #ddd;
+	padding: 20px;
+}
+olor-hint {
+	line-height: 20px!important;
+	padding: 0;
+}
+.fac-constructor-field p.fac-note {
+	display: none;
+	position: absolute;
+	z-index: 10000;
+	background: #ece6e6;
+	width: 50%;
+	border: 1px solid #c0c0c0;
+	padding: 10px 15px;
+	border-radius: 5px;
+}
+/*----- Form Fields -----*/
+.fac-constructor-field .iris-picker {
+	position: absolute;
+	z-index: 10000;
+}
+.fac-constructor-type .widefat.fac-constructor-type-select, .fac-constructor-field .widefat.fac-element {
+	width: 90%;
+}
+/*----- Mobile -----*/
+@media only screen and (min-width: 0px) and (max-width: 782px) {
+.fac-constructor-wrapper .faccw-column {
+	float: none;
+	width: 90%;
+}
+.fac-constructor-type .widefat.fac-constructor-type-select, .fac-constructor-field .widefat.fac-element {
+	width: 85%;
+}
+}
+
+/*----- Repeater Fields -----*/
+.agp-repeater .agp-repeater-label {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+/*----- Vertical Repeater Fields -----*/
+.agp-repeater-vertical .tbl-actions .button {
+    float: right;
+    margin: 0 3px 0
+}
+
+/*----- Type Notice -----*/
+.fac-constructor-params .fac-description {
+    width: 90%;
+    font-size: 12px;
+    color: #b4b9be;
+    padding: 3px 5px;
+}

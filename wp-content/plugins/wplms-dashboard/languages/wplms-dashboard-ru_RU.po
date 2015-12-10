@@ -1,0 +1,1118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-21 15:21+0530\n"
+"PO-Revision-Date: 2015-10-21 15:21+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Ivan Dyakov <imdyakov@mac.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Пожалуйста введите свой логин на сайте Envato."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Пожалуйста введите свой API ключ из учётной записи Envato."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"установлен\" как обязательный параметр."
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "\"ID покупки\" на сайте Envanto - обязательный параметр."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Возникла неизвестная HTTP ошибка при выполнении API запроса."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Попробуйте еще раз"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Возникла неизвестная ошибка"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Плагин был обновлен, но не был активирован. Пожалуйста выполните это "
+"действие вручную."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Плагин успешно активирован."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Обновления плагина"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Логин: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Ключ: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Ваш обновлённый плагин <span style=\"color:green\">активирован</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Ваши данные <span style=\"color:red\">недействительны</span>, "
+"авоматическое обновление <span style=\"color:red\">отключено</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Изменить ключ"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Не возможно подтвердить активацию.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Добавить ключ"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Логин"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Логин на Themeforest (для автообновлений)"
+
+#: includes/dashboard.php:47 includes/dashboard.php:61
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: includes/dashboard.php:76 includes/widgets/student/news.php:194
+#: includes/widgets/student/news.php:232 includes/widgets/student/news.php:233
+#: includes/widgets/student/news.php:234
+msgid "News"
+msgstr "Новости "
+
+#: includes/functions.php:39
+#: includes/widgets/instructor/instructor_commissions.php:51
+msgid "Earnings"
+msgstr "Заработок"
+
+#: includes/functions.php:40
+msgid "Payout"
+msgstr ""
+
+#: includes/functions.php:41
+#, fuzzy
+msgid "# Students"
+msgstr "Слушатели курса"
+
+#: includes/functions.php:42
+#, fuzzy
+msgid "SAVED"
+msgstr "СОХРАНИТЬ"
+
+#: includes/functions.php:43
+msgid "SAVING ..."
+msgstr ""
+
+#: includes/functions.php:44
+msgid "Stats Calculated, reloading page ..."
+msgstr ""
+
+#: includes/functions.php:63
+msgid "Student Sidebar"
+msgstr "Панель слушателя"
+
+#: includes/functions.php:69
+msgid "This is the dashboard sidebar for Students"
+msgstr "Это боковая панель управления для слушателей"
+
+#: includes/functions.php:72
+msgid "Instructor Sidebar"
+msgstr "Панель инструктора"
+
+#: includes/functions.php:78
+msgid "This is the dashboard sidebar for Instructors"
+msgstr "Это боковая панель управления для инструкторов"
+
+#: includes/news_template.php:23
+#, fuzzy
+msgid "Course News"
+msgstr "Курсы"
+
+#: includes/news_template.php:38
+msgid "Read More"
+msgstr ""
+
+#: includes/news_template.php:44
+#, fuzzy
+msgid "No news available for Course"
+msgstr "Для Вас новостей нет! "
+
+#: includes/widgets/instructor/announcements.php:14
+#, fuzzy
+msgid "announcement Widget for Dashboard"
+msgstr "Виджет для уведомлений в панели управления"
+
+#: includes/widgets/instructor/announcements.php:16
+#, fuzzy
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr "ПАНЕЛЬ УПРАВЛЕНИЯ: Виджет уведомления инструктором"
+
+#: includes/widgets/instructor/announcements.php:63
+#, fuzzy
+msgid "Add announcement"
+msgstr "Добавить уведомление"
+
+#: includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr "Отправить уведомление слушателям курсов"
+
+#: includes/widgets/instructor/announcements.php:70
+#, fuzzy
+msgid "All Students"
+msgstr "Слушатели курса"
+
+#: includes/widgets/instructor/announcements.php:71
+#, fuzzy
+msgid "Students who are pursuing the course"
+msgstr "Прогресс обучения слушателей "
+
+#: includes/widgets/instructor/announcements.php:72
+#, fuzzy
+msgid "Students who finished the coruse"
+msgstr "Показать законченные курсы"
+
+#: includes/widgets/instructor/announcements.php:80
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/widgets/instructor/announcements.php:98
+#, fuzzy
+msgid "announcement"
+msgstr "Уведомление"
+
+#: includes/widgets/instructor/announcements.php:107
+#: includes/widgets/instructor/dash_instructor_stats.php:267
+#: includes/widgets/instructor/instructing_modules.php:176
+#: includes/widgets/instructor/instructor_commissions.php:130
+#: includes/widgets/instructor/instructor_stats.php:167
+#: includes/widgets/student/activity_widget.php:181
+#: includes/widgets/student/calendar.php:104
+#: includes/widgets/student/contact_users.php:96
+#: includes/widgets/student/course_progress.php:136
+#: includes/widgets/student/dash_stats.php:201
+#: includes/widgets/student/my_modules.php:218
+#: includes/widgets/student/news.php:204
+#: includes/widgets/student/notes_discussions.php:111
+#: includes/widgets/student/student_stats.php:317
+#: includes/widgets/student/text_widget.php:66
+#: includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr "Заголовок: "
+
+#: includes/widgets/instructor/announcements.php:112
+#: includes/widgets/instructor/dash_instructor_stats.php:292
+#: includes/widgets/instructor/instructing_modules.php:200
+#: includes/widgets/instructor/instructor_commissions.php:134
+#: includes/widgets/instructor/instructor_stats.php:179
+#: includes/widgets/student/activity_widget.php:201
+#: includes/widgets/student/calendar.php:116
+#: includes/widgets/student/contact_users.php:104
+#: includes/widgets/student/course_progress.php:148
+#: includes/widgets/student/dash_stats.php:215
+#: includes/widgets/student/my_modules.php:246
+#: includes/widgets/student/news.php:212
+#: includes/widgets/student/notes_discussions.php:119
+#: includes/widgets/student/student_stats.php:357
+#: includes/widgets/student/text_widget.php:75
+#: includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr "Задать ширину "
+
+#: includes/widgets/instructor/announcements.php:114
+#: includes/widgets/instructor/dash_instructor_stats.php:294
+#: includes/widgets/instructor/instructing_modules.php:202
+#: includes/widgets/instructor/instructor_commissions.php:136
+#: includes/widgets/instructor/instructor_stats.php:181
+#: includes/widgets/student/activity_widget.php:203
+#: includes/widgets/student/calendar.php:118
+#: includes/widgets/student/contact_users.php:106
+#: includes/widgets/student/course_progress.php:150
+#: includes/widgets/student/dash_stats.php:217
+#: includes/widgets/student/my_modules.php:248
+#: includes/widgets/student/news.php:214
+#: includes/widgets/student/notes_discussions.php:121
+#: includes/widgets/student/student_stats.php:359
+#: includes/widgets/student/text_widget.php:77
+#: includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr "Одна четверть"
+
+#: includes/widgets/instructor/announcements.php:115
+#: includes/widgets/instructor/dash_instructor_stats.php:295
+#: includes/widgets/instructor/instructing_modules.php:203
+#: includes/widgets/instructor/instructor_commissions.php:137
+#: includes/widgets/instructor/instructor_stats.php:182
+#: includes/widgets/student/activity_widget.php:204
+#: includes/widgets/student/calendar.php:119
+#: includes/widgets/student/contact_users.php:107
+#: includes/widgets/student/course_progress.php:151
+#: includes/widgets/student/dash_stats.php:218
+#: includes/widgets/student/my_modules.php:249
+#: includes/widgets/student/news.php:215
+#: includes/widgets/student/notes_discussions.php:122
+#: includes/widgets/student/student_stats.php:360
+#: includes/widgets/student/text_widget.php:78
+#: includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr "Одна треть"
+
+#: includes/widgets/instructor/announcements.php:116
+#: includes/widgets/instructor/dash_instructor_stats.php:296
+#: includes/widgets/instructor/instructing_modules.php:204
+#: includes/widgets/instructor/instructor_commissions.php:138
+#: includes/widgets/instructor/instructor_stats.php:183
+#: includes/widgets/student/activity_widget.php:205
+#: includes/widgets/student/calendar.php:120
+#: includes/widgets/student/contact_users.php:108
+#: includes/widgets/student/course_progress.php:152
+#: includes/widgets/student/dash_stats.php:219
+#: includes/widgets/student/my_modules.php:250
+#: includes/widgets/student/news.php:216
+#: includes/widgets/student/notes_discussions.php:123
+#: includes/widgets/student/student_stats.php:361
+#: includes/widgets/student/text_widget.php:79
+#: includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr "Половина"
+
+#: includes/widgets/instructor/announcements.php:117
+#: includes/widgets/instructor/dash_instructor_stats.php:297
+#: includes/widgets/instructor/instructing_modules.php:205
+#: includes/widgets/instructor/instructor_commissions.php:139
+#: includes/widgets/instructor/instructor_stats.php:184
+#: includes/widgets/student/activity_widget.php:206
+#: includes/widgets/student/calendar.php:121
+#: includes/widgets/student/contact_users.php:109
+#: includes/widgets/student/course_progress.php:153
+#: includes/widgets/student/dash_stats.php:220
+#: includes/widgets/student/my_modules.php:251
+#: includes/widgets/student/news.php:217
+#: includes/widgets/student/notes_discussions.php:124
+#: includes/widgets/student/student_stats.php:362
+#: includes/widgets/student/text_widget.php:80
+#: includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr "Две трети"
+
+#: includes/widgets/instructor/announcements.php:118
+#: includes/widgets/instructor/dash_instructor_stats.php:298
+#: includes/widgets/instructor/instructing_modules.php:206
+#: includes/widgets/instructor/instructor_commissions.php:140
+#: includes/widgets/instructor/instructor_stats.php:185
+#: includes/widgets/student/activity_widget.php:207
+#: includes/widgets/student/calendar.php:122
+#: includes/widgets/student/contact_users.php:110
+#: includes/widgets/student/course_progress.php:154
+#: includes/widgets/student/dash_stats.php:221
+#: includes/widgets/student/my_modules.php:252
+#: includes/widgets/student/news.php:218
+#: includes/widgets/student/notes_discussions.php:125
+#: includes/widgets/student/student_stats.php:363
+#: includes/widgets/student/text_widget.php:81
+#: includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr "Три четверти"
+
+#: includes/widgets/instructor/announcements.php:119
+#: includes/widgets/instructor/dash_instructor_stats.php:299
+#: includes/widgets/instructor/instructing_modules.php:207
+#: includes/widgets/instructor/instructor_commissions.php:141
+#: includes/widgets/instructor/instructor_stats.php:186
+#: includes/widgets/student/activity_widget.php:208
+#: includes/widgets/student/calendar.php:123
+#: includes/widgets/student/contact_users.php:111
+#: includes/widgets/student/course_progress.php:155
+#: includes/widgets/student/dash_stats.php:222
+#: includes/widgets/student/my_modules.php:253
+#: includes/widgets/student/news.php:219
+#: includes/widgets/student/notes_discussions.php:126
+#: includes/widgets/student/student_stats.php:364
+#: includes/widgets/student/text_widget.php:82
+#: includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr "Во всю ширину"
+
+#: includes/widgets/instructor/announcements.php:127
+#: includes/widgets/instructor/announcements.php:229
+#: includes/widgets/instructor/instructor_commissions.php:152
+#: includes/widgets/instructor/instructor_stats.php:195
+#: includes/widgets/instructor/instructor_stats.php:291
+#: includes/widgets/student/contact_users.php:208
+msgid "Security error"
+msgstr "Ошибка безопасности"
+
+#: includes/widgets/instructor/announcements.php:134
+#, fuzzy
+msgid "Please enter some text for announcement"
+msgstr "Пожалуйста, введите текст уведомления"
+
+#: includes/widgets/instructor/announcements.php:138
+msgid "Course list not set"
+msgstr "Список курса не задан"
+
+#: includes/widgets/instructor/announcements.php:155
+#, fuzzy
+msgid "announcement successfully delivered"
+msgstr "Уведомление успешно отправлено"
+
+#: includes/widgets/instructor/announcements.php:214
+msgid "CLICK TO EXPAND"
+msgstr "НАЖАТЬ ЧТОБЫ РАСШИРИТЬ"
+
+#: includes/widgets/instructor/announcements.php:215
+#, fuzzy, php-format
+msgid "You have %s announcements"
+msgstr "У Вас уведомлений %s"
+
+#: includes/widgets/instructor/announcements.php:238
+#, fuzzy
+msgid "Unable to remove annoucement"
+msgstr "У Вас уведомлений %s"
+
+#: includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr "Строчный виджет для панели управления"
+
+#: includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Разрыв строки"
+
+#: includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr "Разрыв строки : Новая строка"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr "Базовая статистика для инструкторов"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Базовая статистика инструктора"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:70
+msgid "Total Commission Earned"
+msgstr "Общие комиссионные"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:89
+msgid "Courses Instructing"
+msgstr "Инструктируемые курсы"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:109
+msgid "Quizzes Created"
+msgstr "Созданные тесты"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:128
+msgid "Units Created"
+msgstr "Созданные модули"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:147
+msgid "Assignments Created"
+msgstr "Созданные задания"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:166
+msgid "Questions Created"
+msgstr "Созданные вопросы"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:186
+msgid "Badges Awarded"
+msgstr "Присвоенные знаки отличия"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:208
+msgid "Certificates awarded"
+msgstr "Присвоенные сертификаты"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:257
+#: includes/widgets/instructor/instructor_commissions.php:122
+msgid "Instructor Stats"
+msgstr "Статистика инструтора"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:271
+#: includes/widgets/student/dash_stats.php:205
+msgid "Select Stats"
+msgstr "Выбрать статистику"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:276
+msgid "WooCommerce Earnings"
+msgstr "Заработок WooCommerce"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:277
+msgid "Number of courses"
+msgstr "Кол-во курсов"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:278
+msgid "Number of Quizzes"
+msgstr "Кол-во тестов"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "Number of assignments"
+msgstr "Кол-во заданий"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of questions"
+msgstr "Кол-во вопросов"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:281
+msgid "Number of units"
+msgstr "Кол-во модулей"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:282
+msgid "Number of badges"
+msgstr "Кол-во знаков отличия"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:283
+msgid "Number of certificates"
+msgstr "Кол-во сертификатов"
+
+#: includes/widgets/instructor/instructing_modules.php:13
+#, fuzzy
+msgid "Instructing Modules  Widget for Dashboard"
+msgstr "Строчный виджет для панели управления"
+
+#: includes/widgets/instructor/instructing_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : Instructing Modules"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Статистика по инструкторам"
+
+#: includes/widgets/instructor/instructing_modules.php:42
+#: includes/widgets/instructor/instructor_stats.php:41
+#: includes/widgets/student/my_modules.php:39
+#: includes/widgets/student/student_stats.php:46
+msgid "Courses"
+msgstr "Курсы"
+
+#: includes/widgets/instructor/instructing_modules.php:45
+#: includes/widgets/student/my_modules.php:42
+#, fuzzy
+msgid "Quizzes"
+msgstr "Тест"
+
+#: includes/widgets/instructor/instructing_modules.php:48
+#: includes/widgets/student/my_modules.php:45
+#: includes/widgets/student/student_stats.php:52
+msgid "Assignments"
+msgstr "Задания"
+
+#: includes/widgets/instructor/instructing_modules.php:51
+#: includes/widgets/student/my_modules.php:48
+msgid "Units"
+msgstr ""
+
+#: includes/widgets/instructor/instructing_modules.php:71
+#: includes/widgets/student/my_modules.php:78
+#, fuzzy
+msgid "No Courses found"
+msgstr "Сообщения не найдены"
+
+#: includes/widgets/instructor/instructing_modules.php:92
+#: includes/widgets/student/my_modules.php:100
+#, fuzzy
+msgid "No quizzes found"
+msgstr "Сообщения не найдены"
+
+#: includes/widgets/instructor/instructing_modules.php:113
+#: includes/widgets/student/my_modules.php:122
+#, fuzzy
+msgid "No assignments found"
+msgstr "Сообщения не найдены"
+
+#: includes/widgets/instructor/instructing_modules.php:136
+#: includes/widgets/student/my_modules.php:146
+#, fuzzy
+msgid "No units found"
+msgstr "Нет данных"
+
+#: includes/widgets/instructor/instructing_modules.php:163
+#, fuzzy
+msgid "Instructing Modules"
+msgstr "Инструктор"
+
+#: includes/widgets/instructor/instructing_modules.php:180
+#: includes/widgets/student/my_modules.php:222
+#, fuzzy
+msgid "Show My Courses"
+msgstr "Показать законченные курсы"
+
+#: includes/widgets/instructor/instructing_modules.php:184
+#: includes/widgets/student/my_modules.php:226
+msgid "Show My Quizzes"
+msgstr ""
+
+#: includes/widgets/instructor/instructing_modules.php:188
+#: includes/widgets/student/my_modules.php:230
+#, fuzzy
+msgid "Show My Assignments"
+msgstr "Задания"
+
+#: includes/widgets/instructor/instructing_modules.php:192
+#: includes/widgets/student/my_modules.php:234
+#, fuzzy
+msgid "Show My Units"
+msgstr "Показать статистику"
+
+#: includes/widgets/instructor/instructing_modules.php:196
+#: includes/widgets/student/activity_widget.php:185
+#: includes/widgets/student/my_modules.php:242
+msgid "Number of items"
+msgstr "Кол-во элементов "
+
+#: includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr "Статистика комиссионных WooCommerce для инструтора"
+
+#: includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Комиссионные инструктора"
+
+#: includes/widgets/instructor/instructor_commissions.php:51
+msgid "Course"
+msgstr "Курс"
+
+#: includes/widgets/instructor/instructor_commissions.php:59
+#, fuzzy
+msgid "Commissions Paid"
+msgstr "Общие комиссионные"
+
+#: includes/widgets/instructor/instructor_commissions.php:70
+msgid "No data found"
+msgstr "Нет данных"
+
+#: includes/widgets/instructor/instructor_commissions.php:317
+msgid "No courses found for Instructor"
+msgstr "У этого инструктора нет курсов"
+
+#: includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr "Виджет статистики инструткторов"
+
+#: includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Статистика по инструкторам"
+
+#: includes/widgets/instructor/instructor_stats.php:55
+msgid "No courses created by instructor"
+msgstr "Инструктор курсы не создавал"
+
+#: includes/widgets/instructor/instructor_stats.php:77
+msgid "Show Stats"
+msgstr "Показать статистику"
+
+#: includes/widgets/instructor/instructor_stats.php:78
+msgid "Re-calculate Stats"
+msgstr "Пересчитать статистику"
+
+#: includes/widgets/instructor/instructor_stats.php:79
+msgid "List Quiz / Assignments"
+msgstr "Список Тестов / Заданий"
+
+#: includes/widgets/instructor/instructor_stats.php:107
+#: includes/widgets/instructor/instructor_stats.php:123
+msgid "Average Score"
+msgstr "Средний балл"
+
+#: includes/widgets/instructor/instructor_stats.php:154
+msgid "Instructor Statistics"
+msgstr "Статистика по инструктору"
+
+#: includes/widgets/instructor/instructor_stats.php:171
+msgid "Set Range value (10 for 1/10)"
+msgstr "Задать диапазон значений (10 для 1/10)"
+
+#: includes/widgets/instructor/instructor_stats.php:175
+msgid "Set Max course limit"
+msgstr "Макс. кол-во курсов"
+
+#: includes/widgets/instructor/instructor_stats.php:282
+msgid "No data available"
+msgstr "Нет данных"
+
+#: includes/widgets/instructor/instructor_stats.php:317
+#: includes/widgets/student/student_stats.php:49
+msgid "Quiz"
+msgstr "Тест"
+
+#: includes/widgets/instructor/instructor_stats.php:321
+msgid "Assignment"
+msgstr "Задание"
+
+#: includes/widgets/student/activity_widget.php:14
+#: includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr "Последние активности слушателя"
+
+#: includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Последние активности"
+
+#: includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr "Непрочитанные сообщения"
+
+#: includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr "Сообщения не найдены"
+
+#: includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "Друзья в сети "
+
+#: includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "Нет друзей в сети"
+
+#: includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr "Последняя активность"
+
+#: includes/widgets/student/activity_widget.php:133
+#: includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr " НАЗАД "
+
+#: includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr "Активность не обнаружена"
+
+#: includes/widgets/student/activity_widget.php:167
+#: includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr "Активность слушателя"
+
+#: includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr "Показать последние сообщения"
+
+#: includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr "Показать последние активности"
+
+#: includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "Показать друзей в он-лайн"
+
+#: includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Календарь"
+
+#: includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "ПОКАЗАТЬ ВСЕ"
+
+#: includes/widgets/student/calendar.php:108
+#: includes/widgets/student/course_progress.php:140
+msgid "Number of activities in one screen"
+msgstr "Число активностей на экране"
+
+#: includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr "Показать мои активности и моих друзей"
+
+#: includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr "Виджет формы для связи"
+
+#: includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Форма для связи"
+
+#: includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr "Выбрать группу пользователей"
+
+#: includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr "Выбрать группу"
+
+#: includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "Друзья"
+
+#: includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr "Инструктор"
+
+#: includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr "Администратор"
+
+#: includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr "Слушатели курса"
+
+#: includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr "Введите название для автоматического завершения"
+
+#: includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr "Введите тему "
+
+#: includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr "Введите сообщение"
+
+#: includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: includes/widgets/student/contact_users.php:86
+#: includes/widgets/student/dash_stats.php:191
+#: includes/widgets/student/my_modules.php:204
+#: includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr "Связаться с инструкторами"
+
+#: includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr "Показать выпадающий список пользователей"
+
+#: includes/widgets/student/contact_users.php:217
+msgid "Please enter to/subject/message"
+msgstr "Пожалуйста, введите Кому/Тему/Сообщение"
+
+#: includes/widgets/student/contact_users.php:227
+#, php-format
+msgid "Message sent to %s members"
+msgstr "Сообщение отправлено %s пользователям"
+
+#: includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr "Прогресс обучения слушателей "
+
+#: includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Прогресс обучения"
+
+#: includes/widgets/student/course_progress.php:124
+msgid "Course Progress"
+msgstr "Прогресс обучения"
+
+#: includes/widgets/student/course_progress.php:144
+msgid "Show Finished Courses"
+msgstr "Показать законченные курсы"
+
+#: includes/widgets/student/course_progress.php:191
+msgid "Security check failed !"
+msgstr ""
+
+#: includes/widgets/student/course_progress.php:196
+msgid " Incorrect User selected."
+msgstr ""
+
+#: includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr "Базовая статистика по слушателям"
+
+#: includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Базовая статистика"
+
+#: includes/widgets/student/dash_stats.php:55
+msgid "Courses Completed"
+msgstr "Законченные курсы"
+
+#: includes/widgets/student/dash_stats.php:88
+msgid "Assignments Completed"
+msgstr "Выполненные задания"
+
+#: includes/widgets/student/dash_stats.php:122
+msgid "Quizzes Completed"
+msgstr "Пройденные тесты"
+
+#: includes/widgets/student/dash_stats.php:151
+msgid "Units Completed"
+msgstr "Изученные модули"
+
+#: includes/widgets/student/dash_stats.php:208
+msgid "Finished Courses"
+msgstr "Пройденные курсы"
+
+#: includes/widgets/student/dash_stats.php:209
+msgid "Finished Quizes"
+msgstr "Пройденные тесты"
+
+#: includes/widgets/student/dash_stats.php:210
+msgid "Finished Assignments"
+msgstr "Выполненные задания"
+
+#: includes/widgets/student/dash_stats.php:211
+msgid "Finished Units"
+msgstr "Пройденные модули"
+
+#: includes/widgets/student/my_modules.php:13
+#, fuzzy
+msgid "My Courses, Units, Quizzes, Assignments widget for Dashboard"
+msgstr "Строчный виджет для панели управления"
+
+#: includes/widgets/student/my_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : My Modules Widget"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Текстовый виджет"
+
+#: includes/widgets/student/my_modules.php:51
+msgid "Downloads"
+msgstr ""
+
+#: includes/widgets/student/my_modules.php:173
+#, fuzzy
+msgid "No downloads found"
+msgstr "Нет данных"
+
+#: includes/widgets/student/my_modules.php:238
+msgid "Show My Downloads"
+msgstr ""
+
+#: includes/widgets/student/news.php:13
+msgid "News for Members"
+msgstr "Новости для участников"
+
+#: includes/widgets/student/news.php:15
+msgid " DASHBOARD : Member News"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Новости для участников"
+
+#: includes/widgets/student/news.php:171
+msgid "No news for you !"
+msgstr "Для Вас новостей нет! "
+
+#: includes/widgets/student/news.php:208
+msgid "Maximum Number of New blocks in carousel"
+msgstr "Макс. число блоков в карусели"
+
+#: includes/widgets/student/news.php:235
+msgid "Add News"
+msgstr "Добавить новость"
+
+#: includes/widgets/student/news.php:236
+msgid "All News"
+msgstr "Все новости"
+
+#: includes/widgets/student/news.php:256 includes/widgets/student/news.php:257
+#: includes/widgets/student/news.php:258
+msgid "News Tag"
+msgstr "Тег новости"
+
+#: includes/widgets/student/news.php:259
+msgid "Add New Tag"
+msgstr "Новый тег"
+
+#: includes/widgets/student/news.php:260
+msgid "All News Tags"
+msgstr "Все теги новостей"
+
+#: includes/widgets/student/news.php:273
+msgid "Share with students in Course"
+msgstr "Поделиться со слушателями курса"
+
+#: includes/widgets/student/news.php:274
+msgid "Student having access to this courses will get the news"
+msgstr "Слушатели данного курса получат эти новости"
+
+#: includes/widgets/student/news.php:280
+msgid "Post Sub-Title"
+msgstr ""
+
+#: includes/widgets/student/news.php:281
+msgid "Post Sub- Title."
+msgstr ""
+
+#: includes/widgets/student/news.php:288
+msgid "News Settings"
+msgstr "Настройки новостей"
+
+#: includes/widgets/student/notes_discussions.php:13
+#, fuzzy
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr "Строчный виджет для панели управления"
+
+#: includes/widgets/student/notes_discussions.php:15
+#, fuzzy
+msgid " DASHBOARD : Notes & Discussion"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Список задач"
+
+#: includes/widgets/student/notes_discussions.php:41
+#, fuzzy
+msgid "SEE ALL"
+msgstr "ПОКАЗАТЬ ВСЕ"
+
+#: includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr ""
+
+#: includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr ""
+
+#: includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr ""
+
+#: includes/widgets/student/notes_discussions.php:115
+#, fuzzy
+msgid "Number of Notes/Dicussions"
+msgstr "Кол-во вопросов"
+
+#: includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr "Виджет статистики слушателей"
+
+#: includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Статистика слушателей"
+
+#: includes/widgets/student/student_stats.php:230
+#: includes/widgets/student/student_stats.php:249
+#: includes/widgets/student/student_stats.php:268
+msgid "MY MARKS"
+msgstr ""
+
+#: includes/widgets/student/student_stats.php:230
+#: includes/widgets/student/student_stats.php:249
+#: includes/widgets/student/student_stats.php:268
+msgid "AVERAGE"
+msgstr ""
+
+#: includes/widgets/student/student_stats.php:302
+msgid "Student Statistics"
+msgstr "Статистика слушателей"
+
+#: includes/widgets/student/student_stats.php:321
+msgid "Show Course statistics"
+msgstr "Показать статистику курса"
+
+#: includes/widgets/student/student_stats.php:325
+msgid "Course Chart Style"
+msgstr "Стиль графика курса"
+
+#: includes/widgets/student/student_stats.php:327
+#: includes/widgets/student/student_stats.php:339
+#: includes/widgets/student/student_stats.php:351
+msgid "LINE CHART"
+msgstr "ЛИНЕЙНЫЙ"
+
+#: includes/widgets/student/student_stats.php:328
+#: includes/widgets/student/student_stats.php:340
+#: includes/widgets/student/student_stats.php:352
+msgid "AREA CHART"
+msgstr "ГИСТОГРАММА"
+
+#: includes/widgets/student/student_stats.php:329
+#: includes/widgets/student/student_stats.php:341
+#: includes/widgets/student/student_stats.php:353
+msgid "BAR CHART"
+msgstr "СТОЛБЦЫ"
+
+#: includes/widgets/student/student_stats.php:333
+msgid "Show Quiz statistics"
+msgstr "Показать статистику тестирования"
+
+#: includes/widgets/student/student_stats.php:337
+#: includes/widgets/student/student_stats.php:349
+msgid "Quiz Chart Style"
+msgstr "Стиль графика тестов"
+
+#: includes/widgets/student/student_stats.php:345
+msgid "Show Assignments statistics"
+msgstr "Показать статистику заданий"
+
+#: includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr "Текстовый виджет для панели управления"
+
+#: includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Текстовый виджет"
+
+#: includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr "Текстовый комментарий"
+
+#: includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr "Виджет списка дел"
+
+#: includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr " ПАНЕЛЬ УПРАВЛЕНИЯ : Список задач"
+
+#: includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr "ДОБАВИТЬ ЗАДАЧУ"
+
+#: includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr "СОХРАНИТЬ"
+
+#: includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr "Список задач"
+
+#: includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr "Показать дату задачи"
+
+#: includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr "Включить приоритетность"
+
+#: includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr "Проблема безопасности."
+
+#: includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr "Невозможно сохранить"
+
+#~ msgid "START"
+#~ msgstr "НАЧАТО"
+
+#~ msgid "CONTINUE"
+#~ msgstr "В ПРОЦЕССЕ"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "ОТПРАВЛЕНО"
+
+#~ msgid "FINISHED"
+#~ msgstr "ЗАКОНЧЕНО"

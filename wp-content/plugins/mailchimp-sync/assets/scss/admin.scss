@@ -1,0 +1,61 @@
+#mc4wp-admin {
+
+	/* style the progress bar */
+	.progress-bar {
+		width: 100%;
+		height: 20px;
+		background: #ccc;
+		position: relative;
+		margin: 20px 0;
+
+		.value,
+		.text {
+			position: absolute;
+			left: 0;
+			top: 0;
+			height: 20px;
+			display: inline-block;
+			font-weight: bold;
+		}
+
+		.value {
+			z-index: 1;
+			background: #2ea2cc;
+		}
+
+		.text {
+			color: #ffffff;
+			text-align: center;
+			z-index: 2;
+			width: 100%;
+		}
+
+	}
+
+	.log {
+
+		background: #111;
+		color: white;
+		margin: 20px 0;
+		height: 150px;
+		overflow-y: scroll;
+		border: 1px solid #999;
+		padding: 5px 20px;
+
+		.time {
+			color: #999;
+			display: inline-block;
+			margin-right: 5px;
+		}
+
+		strong {
+			color: #2ea2cc;
+		}
+
+		p {
+			font-size: 12px !important;
+			margin: 0 0 2px 0;
+		}
+	}
+
+}

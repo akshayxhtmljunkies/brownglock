@@ -1,0 +1,94 @@
+* version1.9.9
+* course id string in contact users
+* Enqueue script fixes
+* version1.9.8
+* version1.9.7
+* language files updated
+* Commissions table fix
+* Bug fix, in My Modules
+* Announcements action bug fix
+* version1.9.6.1
+* Fixes in Instructor commissions
+* version1.9.6.1
+* bugfix for commissions
+* version1.9.6
+* Translation files updated
+* Graph Labels in translation
+* Commissions Payout graph
+* Correction in My Modules widget
+* Instructing modules widget
+* Hook added for course announcements
+* Bp_is_my_profile Fix
+* function_exists check on bp_is_my_profile
+* version1.9.5
+* Language files updated
+* Dashboard js/css links
+* Course progress bar fixes
+* Conditionally including scripts
+* Plugin update fixes
+* version1.9.4
+* Translation updates
+* In making
+* My modules
+* News bug fix
+* My modules widget
+* Translation files added
+* esc_url in add_query_arg
+* Spanish files updated
+* version1.9.3
+* Translation files updated
+* Added announcement option "Evenryone"
+* Sparkline bug fix in isntructor widget
+* version1.9.2
+* Translation files updated
+* News translation
+* Dash stats improvements
+* Course progress reset
+* Instructor commission warning
+* No News message language domain fix
+* version1.9.1
+* Language files updated
+* Units completed dashboard widget fix
+* News template pagination fix
+* version1.9
+* Translation files
+* Widget classes
+* Remove Annoucements fix
+* Czech language
+* version1.8.4
+* Translation files updated
+* Notes & Discussion widget
+* Course Progress widget fix
+* Stats array generation fix for graphs
+* Notes & Discussion widget CSS Changes
+* version1.8.3
+* Updated translation files
+* FIXED : Course progress widget
+* ADDED : Students filter for Annoucement
+* ADDED : Course News feature
+* Updated Changelog
+* language change
+* FIXED: Blank out message fields on successful message
+* Js fixes
+* version1.8.1
+* Progress bar fix
+* Dashboard Stats fix
+* Morris and raphael now loading form local installations to avoid the https error
+* version 1.8.0.3
+* version 1.8.0.3
+* Fixes in student stats
+* Bug Fixes in news
+* Bug Fixes in course Progress
+* version1.8.0.2
+* version1.8.0.2
+* FIXED : Dash stats issues for Students
+* version1.8.0.1
+* version1.8.0.1
+* Fixed Warnings in Instructor commissions
+* Added Dashboard access filter
+* ADDED Language files
+* version1.8
+* version1.8
+* 0.2
+* Widgets
+* Initializing Repository

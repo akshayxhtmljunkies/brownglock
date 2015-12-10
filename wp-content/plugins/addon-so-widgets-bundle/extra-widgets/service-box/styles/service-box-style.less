@@ -1,0 +1,64 @@
+/*service Box*/
+
+.service_top{text-align: center;}
+.service_top .content h3{margin: 10px;}
+.service_top .content .btn_style{margin: 10px 0; display: block};
+
+
+.service_left{text-align: left;}
+.service_left .icon{width: 15%;   display: inline-block; vertical-align: top; margin-right: 15px; line-height: 0; text-align: center;}
+.service_left .icon_image{ width: 15%; float: left; margin-right: 15px;}
+.service_left .content{  display: inline-block; width: 70%;}
+.service_left .content h3{margin-top: 0;}
+.service_left .content .btn_style{margin: 10px 0; display: block;}
+
+
+.service_right{text-align: right;}
+.service_right .icon{width: 15%; display: inline-block; vertical-align: top; margin-left: 15px; line-height: 0; text-align: center;}
+.service_right .icon_image{ width: 15%; display: inline-block; vertical-align: top; margin-left: 15px; text-align: center;}
+.service_right .content{  display: inline-block; width: 70%;}
+.service_right .content h3{margin-top: 0;}
+.service_right .content .btn_style{margin: 10px 0; display: block;}
+
+
+
+
+
+@background_color: transparent ;
+@icon_color: #000000;
+@title_color: #000000;
+@content_color: #000000;
+@box_padding: 10px;
+@box_border: solid;
+@box_border_width: 0px;
+@box_border_color: #e4e4e4 ;
+
+
+
+.service_top, .service_left, .service_right    {
+  background-color: @background_color;
+  padding: @box_padding;
+  border: @box_border;
+  border-width: @box_border_width;
+  border-color: @box_border_color;
+}
+
+
+
+.icon{
+  color: @icon_color;
+  line-height: 0;
+}
+
+
+.icon_image {
+  margin-bottom: 15px;
+}
+
+.content h3{
+  color: @title_color;
+}
+
+.content {
+  color: @content_color;
+}

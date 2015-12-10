@@ -1,0 +1,9 @@
+/**/
+.cpcff-salesforce-attribute{
+	z-index: 9999;
+	position: absolute;
+	width: calc( 100% - 25px );
+	width: -webkit-calc( 100% - 25px );
+	width: -moz-calc( 100% - 25px );
+	width: -o-calc( 100% - 25px );
+}

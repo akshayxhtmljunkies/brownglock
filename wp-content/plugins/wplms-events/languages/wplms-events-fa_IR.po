@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Events 1.9.6\n"
+"POT-Creation-Date: 2015-07-01 18:28+0330\n"
+"PO-Revision-Date: 2015-07-01 18:28+0330\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: Atlasyar <info@atlasyar.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "نام کاربری Envato Marketplace خود را وارد کنید."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr " Envato Marketplace API Key خود را وارد کنید."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" اجباری می باشد"
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\" اجباری می باشد"
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "خطا HTTP غیر مترقبه در درخواست API رخ داده است."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه به روزرسانی شده است ولی دوباره فعال نشده است. لطفا به صورت دستی "
+"افزونه را دوباره فعال کنید."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه باموفقیت مجددا فعال شد."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr " به روز رسانی های افزونه"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری:"
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "ایمیل:"
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید:"
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>بروزرسانی افزونه شما  <span style=\"color:green\">فعال است</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">نامعتبر است</span>,به روز رسانی "
+"خودکار<span style=\"color:red\">فعال نیست</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به تأیید اعتبار فعالسازی بروزرسانی نمی باشد.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "ایمیل"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themeforest (برای بروزرسانی خودکار )"
+
+#: classes/events_class.php:140
+msgid "EVENTS IN "
+msgstr "رویدادهای "
+
+#: classes/events_class.php:175
+#, php-format
+msgid "View Events for %1$s %2$s"
+msgstr "مشاهده رویدادهای %1$s %2$s"
+
+#: classes/events_class.php:196
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr "مشاهده مطالب %1$s %2$s"
+
+#: classes/events_class.php:308 classes/events_class.php:340
+msgid "Events "
+msgstr "رویدادها "
+
+#: classes/events_class.php:354
+msgid "Incorrect Date selected"
+msgstr "تاریخ نادرست انتخاب شده است"
+
+#: classes/events_class.php:364 classes/events_class.php:424
+#: classes/events_class.php:481
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی شکست خورد. با مدیر تماس بگیرید."
+
+#: classes/events_class.php:371
+msgid "Please enter a Invitation subject"
+msgstr "لطفا یک موضوع برای دعوتنامه وارد کنید"
+
+#: classes/events_class.php:378
+msgid "Please enter a Invitation Message"
+msgstr "لطفا متن دعوتنامه را وارد کنید"
+
+#: classes/events_class.php:386
+msgid "EVENT : "
+msgstr "رویداد:"
+
+#: classes/events_class.php:386
+msgid "view event"
+msgstr "مشاهده رویداد"
+
+#: classes/events_class.php:387
+msgid "COURSE : "
+msgstr "دوره:"
+
+#: classes/events_class.php:387
+msgid "view course"
+msgstr "مشاهده دوره"
+
+#: classes/events_class.php:398
+msgid "ACCEPT"
+msgstr "پذیرفتن"
+
+#: classes/events_class.php:399
+msgid "REJECT"
+msgstr "رد کردن"
+
+#: classes/events_class.php:414
+msgid "Invitation Message successfully sent to "
+msgstr "پیغام دعوتنامه باموفقیت ارسال شد به "
+
+#: classes/events_class.php:415 classes/events_class.php:465
+msgid " Students"
+msgstr " دانشجو"
+
+#: classes/events_class.php:431
+msgid "Please enter a reminder subject"
+msgstr "لطفا یک موضوع برای یادآور وارد کنید"
+
+#: classes/events_class.php:438
+msgid "Please enter a reminder Message"
+msgstr "لطفا پیغام یادآور را وارد کنید"
+
+#: classes/events_class.php:445
+msgid "Please send an invitation to course students."
+msgstr "لطفا یک دعوتنامه برای دانشجویان دوره ارسال کنید."
+
+#: classes/events_class.php:464
+msgid "Reminder Message successfully sent to "
+msgstr "پیغام یادآوری باموفقیت ارسال شد به "
+
+#: classes/events_class.php:487
+msgid "Invitation accepted."
+msgstr "دعوت پذیرفته شد."
+
+#: classes/events_class.php:490
+msgid "Unable to accept invitation."
+msgstr "قادر به پذیرفتن دعوت نمی باشد."
+
+#: classes/events_class.php:493
+msgid "Student Accepted Event Invitation "
+msgstr "دانشجو دعوتنامه رویداد را پذیرفت "
+
+#: classes/events_class.php:494 classes/events_class.php:507
+msgid "Student "
+msgstr "دانشجو "
+
+#: classes/events_class.php:494 classes/events_class.php:507
+msgid " accepted invitation for Event "
+msgstr " دعوتنامه رویداد را پذیرفت"
+
+#: classes/events_class.php:503
+msgid "Invitation rejected."
+msgstr "دعوتنامه رد شد."
+
+#: classes/events_class.php:506
+msgid "Student Rejected Event Invitation "
+msgstr "دانشجو دعوتنامه رویداد را رد کرد"
+
+#: classes/events_class.php:514
+msgid "Unable to reject invitation."
+msgstr "قادر به رد کردن دعوتنامه نمی باشد"
+
+#: classes/events_class.php:525
+msgid "Invitation Responses"
+msgstr "پاسخ ها به دعوتنامه"
+
+#: classes/events_class.php:539 classes/events_class.php:544
+msgid "ACCEPTED"
+msgstr "پذیرفته شده"
+
+#: classes/events_class.php:539 classes/events_class.php:545
+msgid "REJECTED"
+msgstr "رد شده"
+
+#: classes/events_class.php:539 classes/events_class.php:546
+msgid "AWAITING RESPONSE"
+msgstr "در انتظار پاسخ"
+
+#: classes/events_class.php:543
+msgid "INVITATION RESULTS"
+msgstr "نتیجه دعوتنامه"
+
+#: classes/events_class.php:592
+msgid "GET ACCESS TO THIS EVENT"
+msgstr "دادن دسترسی به این رویداد"
+
+#: classes/events_widget.php:15
+msgid "WPLMS Events Widget"
+msgstr "ابزارک رویداد WPLMS "
+
+#: classes/events_widget.php:120
+msgid "To"
+msgstr "به"
+
+#: classes/events_widget.php:147
+msgid "No Events in next "
+msgstr "هیج رویدادی در آینده وجود ندارد"
+
+#: classes/events_widget.php:147
+msgid " days"
+msgstr " روز"
+
+#: classes/events_widget.php:195
+msgid "Widget Title"
+msgstr "عنوان ابزارک"
+
+#: classes/events_widget.php:196
+msgid "Date Range (from Today to X Days)"
+msgstr "محدوده زمانی (از امروز تا X روز)"
+
+#: classes/events_widget.php:198
+msgid "Show Events Starting in range"
+msgstr "نمایش رویدادهای آغاز شونده در محدوده زمانی"
+
+#: classes/events_widget.php:201
+msgid "Show Events Ending in range"
+msgstr "نمایش رویدادهای خاتمه یابنده در محدوده زمانی"
+
+#: classes/events_widget.php:203
+msgid "Style"
+msgstr "استایل"
+
+#: classes/events_widget.php:205
+msgid "List"
+msgstr "لیست"
+
+#: classes/events_widget.php:206
+msgid "Single"
+msgstr "تکی"
+
+#: classes/events_widget.php:207
+msgid "Carousel"
+msgstr ""
+
+#: classes/events_widget.php:210
+msgid "Select Event type (optional)"
+msgstr "انتخاب نوع رویداد (اختیاری)"
+
+#: classes/events_widget.php:226
+msgid "Order By"
+msgstr "به ترتیب"
+
+#: classes/events_widget.php:228
+msgid "Default (Publish Date)"
+msgstr "پیش فرض (تاریخ انتشار)"
+
+#: classes/events_widget.php:229
+msgid "Random"
+msgstr "تصادفی"
+
+#: classes/events_widget.php:230
+msgid "Name"
+msgstr "نام"
+
+#: classes/events_widget.php:233
+msgid "Sort "
+msgstr "مرتب سازی"
+
+#: classes/events_widget.php:235
+msgid "Ascending"
+msgstr "صعودی"
+
+#: classes/events_widget.php:236
+msgid "Decending"
+msgstr "نزولی"
+
+#: classes/events_widget.php:239
+msgid "Specific Events (enter comma saperated ids)"
+msgstr ""
+"رویداد های خاص (شناسه یا id رویدادهای مورد نظر خود را بصورت جدا شده با کاما "
+"لیست کنید)"
+
+#: classes/events_widget.php:240
+msgid "Maxmium Number of Events to show"
+msgstr "حداکثر تعداد رویداد برای نمایش"
+
+#: classes/events_widget.php:242
+msgid "Show Course Events (on Course pages)"
+msgstr "نمایش رویدادهای دوره (در صفحات دوره)"

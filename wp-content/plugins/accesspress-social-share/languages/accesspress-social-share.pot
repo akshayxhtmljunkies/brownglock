@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: accesspress-social-share\n"
+"POT-Creation-Date: 2015-10-05 14:46+0545\n"
+"PO-Revision-Date: 2015-10-05 14:46+0545\n"
+"Last-Translator: \n"
+"Language-Team: AccessPress Themes <devteam2070@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-social-share.php:222
+msgid "Settings restored Successfully."
+msgstr ""
+
+#: ../accesspress-social-share.php:245
+msgid "Cache cleared Successfully"
+msgstr ""
+
+#: ../accesspress-social-share.php:303
+msgid "Hide share icons in content"
+msgstr ""
+
+#: ../inc/backend/about-apss.php:2
+msgid "About Us"
+msgstr ""
+
+#: ../inc/backend/main-page.php:8
+msgid "Follow us for new updates"
+msgstr ""
+
+#: ../inc/backend/main-page.php:25
+msgid "AccessPress Social Share"
+msgstr ""
+
+#: ../inc/backend/main-page.php:44
+msgid "Social Networks"
+msgstr ""
+
+#: ../inc/backend/main-page.php:45
+msgid "Share Options"
+msgstr ""
+
+#: ../inc/backend/main-page.php:46
+msgid "Display Settings"
+msgstr ""
+
+#: ../inc/backend/main-page.php:47
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../inc/backend/main-page.php:48
+msgid "How To Use"
+msgstr ""
+
+#: ../inc/backend/main-page.php:49
+msgid "About"
+msgstr ""
+
+#: ../inc/backend/main-page.php:53
+msgid "Social Media chooser:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:54
+msgid ""
+"Please choose the social media you want to display. Also you can order these "
+"social media's by drag and drop:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:83
+msgid "Share options:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:84
+msgid "Please choose the options where you want to display social share icons:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:87
+msgid "Posts"
+msgstr ""
+
+#: ../inc/backend/main-page.php:90
+msgid "Pages"
+msgstr ""
+
+#: ../inc/backend/main-page.php:94
+msgid "Front Page"
+msgstr ""
+
+#: ../inc/backend/main-page.php:97
+msgid "Archives"
+msgstr ""
+
+#: ../inc/backend/main-page.php:101
+msgid "Attachment pages"
+msgstr ""
+
+#: ../inc/backend/main-page.php:105
+msgid "Categories"
+msgstr ""
+
+#: ../inc/backend/main-page.php:108
+msgid "Other (search results, etc)"
+msgstr ""
+
+#: ../inc/backend/main-page.php:114
+msgid "Display position:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:115
+msgid "Please choose the option where you want to display the social share:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:118
+msgid "Below content"
+msgstr ""
+
+#: ../inc/backend/main-page.php:121
+msgid "Above content"
+msgstr ""
+
+#: ../inc/backend/main-page.php:124
+msgid "Both(Below content and Above content)"
+msgstr ""
+
+#: ../inc/backend/main-page.php:127
+msgid "Social icons sets: "
+msgstr ""
+
+#: ../inc/backend/main-page.php:128
+msgid "Please choose any one out of available icon themes:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:138
+msgid "Miscellaneous settings: "
+msgstr ""
+
+#: ../inc/backend/main-page.php:139
+msgid "Please setup these additional settings:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:142
+msgid "Disable the plugins frontend assets?"
+msgstr ""
+
+#: ../inc/backend/main-page.php:145 ../inc/backend/main-page.php:172
+#: ../inc/backend/main-page.php:182
+msgid "No"
+msgstr ""
+
+#: ../inc/backend/main-page.php:148 ../inc/backend/main-page.php:175
+#: ../inc/backend/main-page.php:185
+msgid "Yes"
+msgstr ""
+
+#: ../inc/backend/main-page.php:151
+msgid ""
+"Please set this value if you don't want to use plguins frontend assets(js "
+"and css files)."
+msgstr ""
+
+#: ../inc/backend/main-page.php:156
+msgid "Share text:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:160
+msgid ""
+"Please enter the share text to make it appear above social share icons. "
+"Leave blank if you don't want to use share text."
+msgstr ""
+
+#: ../inc/backend/main-page.php:165
+msgid "Twitter username:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:169
+msgid "Social share counter enable?"
+msgstr ""
+
+#: ../inc/backend/main-page.php:179
+msgid "Social share total counter enable?"
+msgstr ""
+
+#: ../inc/backend/main-page.php:189
+msgid "Social share link options:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:192
+msgid "Open in same window"
+msgstr ""
+
+#: ../inc/backend/main-page.php:195
+msgid "Open in new window/Tab"
+msgstr ""
+
+#: ../inc/backend/main-page.php:199
+msgid "Cache Settings: "
+msgstr ""
+
+#: ../inc/backend/main-page.php:200
+msgid "Cache Period:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:206
+msgid ""
+"Please enter the time in hours in which the social share counter should be "
+"updated from social networks. Default is 24 hours."
+msgstr ""
+
+#: ../inc/backend/main-page.php:211
+msgid "Email Settings:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:213
+msgid "Email subject:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:217
+msgid "Email body:"
+msgstr ""
+
+#: ../inc/backend/main-page.php:231
+msgid "Save settings"
+msgstr ""
+
+#: ../inc/backend/main-page.php:240
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+
+#: ../inc/backend/main-page.php:241
+msgid "Are you sure you want to clear cache share counter?"
+msgstr ""
+
+#: ../inc/backend/save-settings.php:38
+msgid "Settings Saved Successfully."
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:36 ../inc/frontend/content-filter.php:39
+#: ../inc/frontend/shortcode.php:63 ../inc/frontend/shortcode.php:66
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:40 ../inc/frontend/content-filter.php:84
+#: ../inc/frontend/content-filter.php:104
+#: ../inc/frontend/content-filter.php:125
+#: ../inc/frontend/content-filter.php:144 ../inc/frontend/shortcode.php:67
+#: ../inc/frontend/shortcode.php:111 ../inc/frontend/shortcode.php:130
+#: ../inc/frontend/shortcode.php:149 ../inc/frontend/shortcode.php:170
+msgid "Share"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:61 ../inc/frontend/content-filter.php:64
+#: ../inc/frontend/shortcode.php:88 ../inc/frontend/shortcode.php:91
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:64 ../inc/frontend/shortcode.php:91
+msgid "Tweet"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:80 ../inc/frontend/content-filter.php:83
+#: ../inc/frontend/shortcode.php:107 ../inc/frontend/shortcode.php:110
+msgid "Share on Google Plus"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:100
+#: ../inc/frontend/content-filter.php:103 ../inc/frontend/shortcode.php:126
+#: ../inc/frontend/shortcode.php:129
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:122
+#: ../inc/frontend/content-filter.php:124 ../inc/frontend/shortcode.php:146
+#: ../inc/frontend/shortcode.php:148
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:140
+#: ../inc/frontend/content-filter.php:143 ../inc/frontend/shortcode.php:166
+#: ../inc/frontend/shortcode.php:169
+msgid "Share on Digg"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:161 ../inc/frontend/shortcode.php:187
+msgid "Share it on Email"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:164 ../inc/frontend/shortcode.php:190
+msgid "Send email"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:165 ../inc/frontend/shortcode.php:191
+msgid "Mail"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:176
+#: ../inc/frontend/content-filter.php:179
+#: ../inc/frontend/content-filter.php:180 ../inc/frontend/shortcode.php:202
+#: ../inc/frontend/shortcode.php:204 ../inc/frontend/shortcode.php:205
+msgid "Print"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:193 ../inc/frontend/shortcode.php:219
+msgid " Total"
+msgstr ""
+
+#: ../inc/frontend/content-filter.php:194 ../inc/frontend/shortcode.php:220
+msgid " Shares"
+msgstr ""

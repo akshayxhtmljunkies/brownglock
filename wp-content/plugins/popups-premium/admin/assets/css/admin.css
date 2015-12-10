@@ -1,0 +1,118 @@
+input.spu_license_valid{
+    background: #fff url( ../img/valid-key.png) no-repeat 95% center;
+}
+textarea.spu_license_valid{
+    background: #fff url( ../img/valid-key.png) no-repeat 99% 95%;
+}
+input.spu_license_{
+	background: #fff url( ../img/invalid-key.png) no-repeat 95% center;
+}
+.column-impressions,
+.column-rate,
+.column-conversions {
+    text-align: center !important;
+}
+.optin_list,
+.optin_list_segments,
+.optin_theme,
+.optin_placeholder,
+.optin_name_placeholder,
+.optin_display_name,
+.optin_redirect,
+.optin_success,
+.optin_pass_redirect,
+.optin_submit
+{
+    display: none;
+}
+.optin_list.visible,
+.optin_list_segments.visible,
+.optin_theme.visible,
+.optin_placeholder.visible,
+.optin_name_placeholder.visible,
+.optin_display_name.visible,
+.optin_redirect.visible,
+.optin_success.visible,
+.optin_pass_redirect.visible,
+.optin_submit.visible
+{
+    display: table-row;
+}
+img.spu-spinner {
+    margin-bottom: -3px;
+    margin-left: 7px;
+    display: none;
+}
+h4.grouping-name {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: block;
+}
+.optin_list_segments .result input[type="checkbox"]{
+    margin-left: 10px;
+}
+.optin_themes .theme img{
+    width: 100%;
+    height: auto;
+}
+.optin_themes .theme .thumb {
+    height: 115px;
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+.optin_themes .theme {
+    width: 45%;
+    display: inline-block;
+    margin-right: 2%;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    border: 2px solid transparent;
+    margin-bottom: 10px;
+}
+.optin_themes .theme:hover {
+    border: 2px solid #cdd1d4;
+}
+.optin_themes .theme.selected {
+    border: 2px solid #888888;
+}
+.optin_themes .theme:nth-child(even) {
+    margin-right: 0;
+}
+
+/**
+* integrations
+*/
+h4.spu-title {
+    border-bottom: 1px solid #ccc;
+}
+.collapse-div{
+    padding: 0 1em 1em 1em;
+    background: #DFDCDC;
+    max-height: 90px;
+    overflow: hidden;
+    margin-bottom: 5px;
+    transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+}
+.collapse-div.active{
+    background: #F9F9F9;
+    max-height: 10000px;
+}
+.toggle-provider {
+    font-size: 2em;
+    float: right;
+    text-decoration: none;
+    color: #000;
+    margin-top: -12px;
+}
+#aweber_api{
+    width: 100%;
+    height: 70px;
+}
+@media (max-width: 1150px) {
+    .optin_themes .theme {
+        width: 44%;
+    }
+}

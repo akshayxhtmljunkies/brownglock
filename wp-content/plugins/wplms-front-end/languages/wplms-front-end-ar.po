@@ -1,0 +1,2768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End v1.8.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-21 15:31+0530\n"
+"PO-Revision-Date: 2015-10-21 15:31+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"front-end\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-front-end\n"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:85
+msgid "Please change the course title"
+msgstr "الرجاء تغيير عنوان الدورة التدريبية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:86
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "سوف يتم اضافة دورة جديدة في الموقع، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:87
+msgid "Yes, create a new course"
+msgstr "نعم، لعمل دورة جديدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:88
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr "سوف يتم استبدال اعدادات الدورة السابقة، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:89
+msgid "Save course"
+msgstr "احفظ الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:90
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "سوف يتم عمل وحدة جديدة، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:91
+msgid "Yes, create a new unit"
+msgstr "نعم، لعمل وحدة جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:92
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr "سوف يتم استبدال اعدادات الوحدة الحالية، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:93
+msgid "Yes, save unit settings"
+msgstr "نعم، احفظ اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:94
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "سوف يتم عمل سؤال جديد في الموقع، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:95
+msgid "Yes, create a new question"
+msgstr "نعم، اصنع سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:96
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "سوف يتم عمل اختبار جديد في الموقع، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:97
+msgid "Yes, create a new quiz"
+msgstr "نعم، اصنع اختبار جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:98
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr "سوف يتم استبدال اعدادات الاختبار الحالي, هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:99
+msgid "Yes, save quiz settings"
+msgstr "نعم، احفظ اعدادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:100
+msgid ""
+"This will delete the unit/quiz from your site, do you want to continue ?"
+msgstr "سوف يتم حذف الوحدة او الاختبار من موقعك, هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:101
+msgid "Continue"
+msgstr "استمرار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:102
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr "سوف يتم استبدال الاعدادات السابقة، هل تريد الاستمرار؟"
+
+# @ default
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:103
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Save"
+msgstr "حفظ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:104
+#, fuzzy
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "سوف يتم عمل وحدة جديدة، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:105
+#, fuzzy
+msgid "Yes, create a new assignment"
+msgstr "نعم، لعمل وحدة جديد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:106
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:107
+msgid "Are you sure you want to delete this course ?"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1053
+#, fuzzy
+msgid "DELETE COURSE"
+msgstr "دورة متصلة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:109
+#, fuzzy
+msgid "This will create a new group in the site, do you want to continue ?"
+msgstr "سوف يتم اضافة دورة جديدة في الموقع، هل تريد الاستمرار؟"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:110
+#, fuzzy
+msgid "This will create a new forum in the site, do you want to continue ?"
+msgstr "سوف يتم اضافة دورة جديدة في الموقع، هل تريد الاستمرار؟"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "الرجاء إدخال اسم المستخدم لسوق Envato."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "الرجاء ادخال مفتاح API لـ Envato Marketplace ."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "ال API \"set\" مطلوب."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "ال \"item ID\" الخاص بـEnvato Marketplace مطلوب."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "حدث خطأ HTTP غير متوقع أثناء طلب API."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "حاول مرة اخرى"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "خطأ غير معروف"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"تم تحديث البرنامج المساعد، ولكن لا يمكن تنشيط. الرجاء إعادة تنشيطه يدويا."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "تفعيل البرنامج المساعد بنجاح. "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "تحديثات الاضافة"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "اسم المستخدم:"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "بريد الكتروني:"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "مفتاح:"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<P> تحديث البرنامج المساعد الخاص بك هو <تمتد نمط =  \"اللون:  الأخضر\"> نشط "
+"</ SPAN> </ P>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p> والمدخلات الخاص بك هو <تمتد على غرار =  \"اللون:  أحمر\"> غير صحيح </ "
+"SPAN> والتحديثات التلقائية هو <تمتد نمط =  \"اللون:  أحمر\">. غير نشطة </ "
+"SPAN> </ P >"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "تعديل المفتاح"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p> وغير قادر على التحقق من صحة تفعيل التحديث. </ P>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "اضف مفتاح"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "اسم مستخدم"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "بريد الكتروني"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Themeforest اسم المستخدم (لصناعة السيارات في التحديثات)"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:209
+msgid ""
+"You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+"deleted?"
+msgstr "حاولت تحرير عنصر التي لا توجد الآن & # 8217؛ ر الوجود. ربما تم حذفه؟"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:229
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:884
+msgid "You are not allowed to edit this item."
+msgstr "غير مسموح لك بتعديل هذا العنصر."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:300
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:465
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1350
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1391
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1549
+msgid "Cancel"
+msgstr "الغاء"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:304
+msgid "LOCKED"
+msgstr "مقيد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:332
+msgid "Error while saving."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:335
+msgid "g:i:s a"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:337
+#, php-format
+msgid "Draft saved at %s."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:354
+msgid "ERROR: invalid post data."
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:464
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1349
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1390
+msgid "OK"
+msgstr "نعم"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:466
+msgid "Publish on:"
+msgstr "نشر في:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:467
+msgid "Schedule for:"
+msgstr "جدولة لـ:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:468
+msgid "Published on:"
+msgstr "منشور في:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:469
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+msgstr "%1$s %2$s ، %3$s @ %4$s : %5$s"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:470
+msgid "Show more comments"
+msgstr "اظهار مزيد من التعليقات"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:471
+msgid "No more comments found."
+msgstr "لا يوجد مزيد من التعليقات."
+
+# @ default
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:472
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:605
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1175
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1013
+msgid "Publish"
+msgstr "نشر"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:473
+msgid "Schedule"
+msgstr "جدولة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:474
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:521
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Update"
+msgstr "تحديث"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:475
+msgid "Save as Pending"
+msgstr "حفظ كمعلق"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:476
+msgid "Save Draft"
+msgstr "حفظ كغير منشور"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:477
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1387
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:742
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:783
+msgid "Private"
+msgstr "خاص"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:478
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1368
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1381
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:741
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:782
+msgid "Public"
+msgstr "عام"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:479
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1365
+msgid "Public, Sticky"
+msgstr "الجمهور، مثبت"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:480
+msgid "Password Protected"
+msgstr "محمي بكلمة سر"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:481
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1312
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1338
+msgid "Privately Published"
+msgstr "نشرت سرا"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:482
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1315
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1336
+msgid "Published"
+msgstr "منشور"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:483
+msgctxt "tag delimiter"
+msgid ","
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:510
+msgid "Saving Draft&#8230;"
+msgstr "إنقاذ مشروع & # 8230؛"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:511
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "سيتم فقد التغييرات التي أجريتها إذا كنت تنقل بعيدا من هذه الصفحة."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:520
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1504
+msgid "Insert/edit link"
+msgstr "اضف  او تعديل رابط"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:522
+msgid "Add Link"
+msgstr "اضف رابط"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:523
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:524
+msgid "No matches found."
+msgstr "لا يوجد تطابق."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:565
+msgid "Could not load the preview image. Please reload the page and try again."
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:605
+msgid "Publishing&hellip;"
+msgstr "النشر و hellip؛"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Saving&hellip;"
+msgstr "الادخار و hellip؛"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Updating&hellip;"
+msgstr "تحديث و hellip؛"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:796
+msgid "Add a featured image"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1105
+#, php-format
+msgid "Post updated. <a href=\"%s\">View post</a>"
+msgstr "آخر تحديث. <أ href = على  \" %s  \"> عرض آخر </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1106
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1122
+msgid "Custom field updated."
+msgstr "حقل مخصص محدث."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1123
+msgid "Custom field deleted."
+msgstr "حذف الحقل المخصص."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1108
+msgid "Post updated."
+msgstr "تم تحديث المنشور."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1110
+#, php-format
+msgid "Post restored to revision from %s"
+msgstr "آخر استعادة للمراجعة من %s"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1111
+#, php-format
+msgid "Post published. <a href=\"%s\">View post</a>"
+msgstr "نشرت آخر. <أ href = على  \" %s  \"> عرض آخر </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1112
+msgid "Post saved."
+msgstr "تم حفظ المنشور."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1113
+#, php-format
+msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr "قدمت آخر. <هدفا =  \"_ فارغة \" أ href =  \" %s  \"> بعد معاينة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1114
+#, php-format
+msgid ""
+"Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview post</a>"
+msgstr ""
+"آخر المقرر ل: <قوية> %1$s </ قوي>. <هدفا =  \"_ فارغا \" أ href =  \" %2$s  "
+"\"> بعد معاينة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1129
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1397
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1117
+#, php-format
+msgid "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr ""
+"مشروع آخر تحديث. <هدفا =  \"_ فارغة \" أ href =  \" %s  \"> بعد معاينة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1121
+#, php-format
+msgid "Page updated. <a href=\"%s\">View page</a>"
+msgstr "تحديث الصفحة. <أ href = على  \" %s  \"> مشاهدة صفحة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1124
+msgid "Page updated."
+msgstr "تم تحديث الصفحة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1125
+#, php-format
+msgid "Page restored to revision from %s"
+msgstr "الصفحة أعادت للمراجعة من %s"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1126
+#, php-format
+msgid "Page published. <a href=\"%s\">View page</a>"
+msgstr "نشرت الصفحة. <أ href = على  \" %s  \"> مشاهدة صفحة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1127
+msgid "Page saved."
+msgstr "تم حفظ الصفحة."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1128
+#, php-format
+msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr ""
+"الصفحة المقدمة. <هدفا =  \"_ فارغة \" أ href =  \" %s  \"> معاينة الصفحة </A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1129
+#, php-format
+msgid ""
+"Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview page</a>"
+msgstr ""
+"المقرر إجراؤها في الصفحة: <قوية> %1$s </ قوي>. <هدفا =  \"_ فارغا \" أ href "
+"=  \" %2$s  \"> معاينة </A> الصفحة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1130
+#, php-format
+msgid "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr ""
+"مشروع تحديث الصفحة. <هدفا =  \"_ فارغة \" أ href =  \" %s  \"> معاينة الصفحة "
+"</A>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1132
+msgid "Media attachment updated."
+msgstr "تم تحديث مرفق"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1163
+#, php-format
+msgid ""
+"There is an autosave of this post that is more recent than the version "
+"below. <a href=\"%s\">View the autosave</a>"
+msgstr ""
+"هناك الحفظ التلقائي لهذه الوظيفة التي هي أكثر حداثة من الإصدار أدناه. <أ "
+"href = على  \" %s  \"> شاهد </A> الحفظ التلقائي"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1186
+msgid "Revisions"
+msgstr "مراجعات"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1195
+msgctxt "post format"
+msgid "Format"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Page Attributes"
+msgstr "خصائص الصفحة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Attributes"
+msgstr "خصائص"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1228
+msgid "Excerpt"
+msgstr "مقتطفات "
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1232
+msgid "Send Trackbacks"
+msgstr "إرسال تركبكس"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1236
+msgid "Custom Fields"
+msgstr "الحقول المخصصة "
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1240
+msgid "Discussion"
+msgstr "مناقشة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1307
+msgid "Status:"
+msgstr "الحالة:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1318
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1340
+msgid "Scheduled"
+msgstr "مجدول"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1321
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1342
+msgid "Pending Review"
+msgstr "مراجعة معلقة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1325
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1344
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1346
+msgid "Draft"
+msgstr "غير منشور"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1331
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1373
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1420
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:958
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1163
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1178
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1237
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:958
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:1033
+msgid "Edit"
+msgstr "تعديل"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1355
+msgid "Visibility:"
+msgstr "الرؤية:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1385
+msgid "Password protected"
+msgstr "محمي بكلمة سر"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1383
+msgid "Stick this post to the front page"
+msgstr "تلتصق هذه الوظيفة إلى الصفحة الأولى"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1386
+msgid "Password:"
+msgstr "كلمة سر:"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1400
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr "المقرر: <ب> %1$s </ B>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1402
+#, php-format
+msgid "Published on: <b>%1$s</b>"
+msgstr "نشرت في: <ب> %1$s </ B>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1404
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1412
+msgid "Publish <b>immediately</b>"
+msgstr "نشر <ب> فورا </ B>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1406
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "الجدول الزمني ل: <ب> %1$s </ B>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1408
+#, php-format
+msgid "Publish on: <b>%1$s</b>"
+msgstr "نشر في: <ب> %1$s </ B>"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1436
+msgid "Slug"
+msgstr "اسم الرسالة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1449
+msgid "Author"
+msgstr "ناشر"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1469
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1514
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:907
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:488
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:743
+msgid "Title"
+msgstr "عنوان"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1509
+msgid "Enter the destination URL"
+msgstr "أدخل عنوان URL المقصود"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1511
+msgid "URL"
+msgstr "رابط URL"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1517
+msgid "Open link in a new window/tab"
+msgstr "فتح الرابط في نافذة جديدة"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1520
+msgid "Or link to existing content"
+msgstr "أو رابط لمحتوى موجود"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1524
+msgid "Search"
+msgstr "بحث"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1536
+msgid "No search term specified. Showing recent items."
+msgstr "لم يتم تحديد بحث، اظهار احدث العناصر."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/meta-modal-template.php:9
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+". على <strong> اتصال خسر </ قوي> تم توفير المعوقين حتى & # 8217؛ إعادة "
+"توصيلها."
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/meta-modal-template.php:10
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr ""
+"نحن & # 8217؛ إعادة نسخ احتياطية من هذه الوظيفة في متصفحك، فقط في حالة."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:43
+msgid "Set Course Memberships"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:73
+#, fuzzy
+msgid "EDIT COURSE"
+msgstr "دورة متصلة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:73
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:128
+#, fuzzy
+msgid "CREATE COURSE"
+msgstr "دورة متصلة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:74
+msgid "Start building a course"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:77
+#, fuzzy
+msgid "Course title"
+msgstr "حذف الحقل المخصص."
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:83
+#, fuzzy
+msgid "ENTER A COURSE TITLE"
+msgstr "دورة متصلة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:84
+msgid ""
+"This is the title of the course which is displayed on top of every course"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:87
+#, fuzzy
+msgid "Course Category"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:94
+msgid "Select a Course Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:97
+msgid "Course Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:101
+msgid "Upload a Course Image"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:102
+#, fuzzy
+msgid "Set as Course Image"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:109
+msgid "Course Short Description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:115
+msgid "Add full description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:116
+msgid "Enter a short description of the course."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:119
+msgid "Full Description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:125
+msgid "Enter full description of the course."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:128
+#, fuzzy
+msgid "SAVE COURSE"
+msgstr "دورة متصلة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:539
+#, fuzzy
+msgid "SETTINGS"
+msgstr "حفظ اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:137
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:323
+#, fuzzy
+msgid "Course settings"
+msgstr "اعدادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:140
+#, fuzzy
+msgid "Course duration"
+msgstr "تدرج في تقييم المقرر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:141
+msgid "Maximum Course Duration"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:148
+#, php-format
+msgid ""
+"Enter the maximum duration for the course in %s. This is the maximum "
+"duration within which the student should complete the course. Use 9999 for "
+"unlimited access to course."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:151
+#, fuzzy
+msgid "Course Evaluation"
+msgstr "تدرج في تقييم المقرر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:152
+#, fuzzy
+msgid "Course Evaluation Mode"
+msgstr "تدرج في تقييم المقرر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:154
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1347
+msgid "MANUAL"
+msgstr "يدوي"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:154
+#, fuzzy
+msgid "AUTOMATIC"
+msgstr "STATIC"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:159
+msgid "User gets the course result instantly upon submission."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:162
+#, fuzzy
+msgid "Prerequisite Course"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:163
+msgid "Set a prerequisite Course"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:168
+msgid "Enter first 3 letters of course for search"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:170
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:238
+msgid ""
+"Pre-required course which the user needs to complete before subscribing to "
+"this course."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:173
+msgid "Drip Feed"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:174
+#, fuzzy
+msgid "Course Drip Feed"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:177
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:211
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:245
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:550
+msgid "DISABLE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:177
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:211
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:245
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:550
+msgid "ENABLE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:193
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:216
+msgid ""
+"Drip Feed courses, units are released one by one after certain duration to "
+"the user."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:186
+msgid "Drip Feed Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:188
+msgid "UNIT"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:188
+msgid "SECTION"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:196
+#, fuzzy
+msgid "Drip Duration"
+msgstr "مدة الدرس"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:197
+msgid "Set Duration between two successive Course elements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:204
+#, php-format
+msgid ""
+"Enter the drip duration for the course in %s. This is the duration after "
+"which the next unit/section unlocks for the user after viewing the previous "
+"unit/section."
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:208
+#, fuzzy
+msgid "Course Certificate"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:219
+msgid "Passing Percentage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:220
+msgid "Set Certificate Percentage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:225
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:259
+msgid " out of 100"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:227
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course certificate."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:230
+msgid "Certificate Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:231
+msgid "Select Certificate template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:236
+msgid "Enter first 3 letters to search course template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:241
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:242
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:274
+msgid "Course Badge"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:250
+msgid "Enable Excellence badges for this course"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:253
+msgid "Badge Percentage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:254
+msgid "Set Excellence Badge Percentage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:261
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course Badge."
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:264
+#, fuzzy
+msgid "Badge Title"
+msgstr "عنوان"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:265
+msgid "Set Badge title"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:270
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:271
+#, fuzzy
+msgid "Course Badge Title"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:275
+msgid "Upload Course Badge"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:278
+msgid "Select or Upload a Course badge."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:279
+msgid "Add Course badge."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:283
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:332
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:341
+msgid "Upload a course badge."
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:286
+#, fuzzy
+msgid "Course Start Date"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:287
+msgid "Start date"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:293
+msgid "Set a Course start date."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:296
+#, fuzzy
+msgid "Course Instructions"
+msgstr "مدرس دورة غير صالح"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:297
+msgid "Add Course specific instructions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:302
+msgid "Course instructions are displayed when the user starts a course."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:305
+#, fuzzy
+msgid "Course Completion Message"
+msgstr "ادخل رسالة اكتمال الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:306
+#, fuzzy
+msgid "Completion Message"
+msgstr "ادخل رسالة اكتمال الاختبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:311
+msgid ""
+"Completion message is shown to the student when she finishes the course."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:314
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1841
+#, fuzzy
+msgid "SAVE SETTINGS"
+msgstr "حفظ اعدادات الوحدة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:322
+msgid "COMPONENTS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:326
+msgid "Course Group"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:327
+#, fuzzy
+msgid "Set a Course Group"
+msgstr "عمل دورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:335
+#, fuzzy
+msgid "Course Forum"
+msgstr "توصيل منتدى"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:336
+#, fuzzy
+msgid "Set a Course Forum"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:344
+msgid "SAVE COMPONENTS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:352
+msgid "SET CURRICULUM"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:353
+msgid "Add Units and Quizzes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:356
+msgid "Curriculum"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD SECTION"
+msgstr "أضف سؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD UNIT"
+msgstr "أضف سؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD QUIZ"
+msgstr "أضف سؤال"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:362
+msgid "Build Course curriculum"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:368
+msgid "PRICING"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:369
+#, fuzzy
+msgid "Set Price for Course"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:372
+msgid "Course Pricing"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:376
+#, fuzzy
+msgid "Free "
+msgstr "الوحدة مجانية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:377
+#, fuzzy
+msgid "Free Course"
+msgstr "عمل دورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:379
+#, fuzzy
+msgid "No"
+msgstr "بلا"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:379
+#, fuzzy
+msgid "Yes"
+msgstr "سنو"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:384
+msgid "By pass any purchase process."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:387
+msgid "Product "
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:388
+#, fuzzy
+msgid "Set a Course Product"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:395
+msgid "Connect a Product with this course."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:398
+#, fuzzy
+msgid "SAVE PRICING"
+msgstr "حفظ اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:406
+#, fuzzy
+msgid "MODIFY COURSE"
+msgstr "دورة متصلة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:406
+msgid "PUBLISH COURSE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:407
+msgid "Change Course status"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:407
+msgid "Go Live !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:410
+msgid "Take Offline"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:456
+msgid "Edit in WP Admin"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:461
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:787
+msgid "View Course"
+msgstr "اظهار الدورة"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:576
+#, fuzzy
+msgid "Add new"
+msgstr "اضف مفتاح"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:591
+msgid "Enter a new"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:723
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:764
+msgid "edit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:729
+msgid "Select Existing Group"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:731
+#, fuzzy
+msgid "Select a Group"
+msgstr "تحديد نوع الوحدة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:733
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:774
+msgid "Set"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:737
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:746
+#, fuzzy
+msgid "Create New Group"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:739
+msgid "Group Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:743
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:784
+msgid "Hidden"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:745
+msgid "Group Description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:770
+msgid "Select Existing Forum"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:772
+#, fuzzy
+msgid "Select a Forum"
+msgstr "توصيل منتدى"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:778
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:787
+#, fuzzy
+msgid "Create New Forum"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:780
+msgid "Forum Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:786
+msgid "Forum Description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:908
+msgid "Product Title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:913
+msgid "Product title is useful to identify courses connected to this product."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:916
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:917
+msgid "Price"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:922
+msgid "Set price of the course"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:925
+msgid "Sale"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:926
+msgid "Sale Price"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:931
+msgid "Blank if product not in sale"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:934
+msgid "Subscription"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:936
+#, fuzzy
+msgid "Subscription Type"
+msgstr "نوع السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:938
+#, fuzzy
+msgid "FULL DURATION"
+msgstr "مدة الاختبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:938
+msgid "LIMITED"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:942
+msgid "Set subscription type of product."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:945
+#, fuzzy
+msgid "Subscription Duration"
+msgstr "مدة الدرس"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:951
+msgid "Must not be 0"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:958
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:1033
+msgid "Change"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:961
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:972
+msgid "Set Product"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:968
+msgid "Select existing product"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:970
+msgid "Search a product"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:976
+#, fuzzy
+msgid "Create new product"
+msgstr "عمل دورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:987
+#, fuzzy
+msgid "Create Product"
+msgstr "عمل دورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1006
+#, fuzzy
+msgid "Edit Product"
+msgstr "تعديل الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1044
+#, fuzzy
+msgid "Modify Course"
+msgstr "تعديل الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1044
+#, fuzzy
+msgid "Back to course"
+msgstr "احفظ الدورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1049
+msgid "TAKE OFFLINE"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1054
+#, fuzzy
+msgid "SHOW OPTIONS"
+msgstr "اضافة خيار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1057
+#, fuzzy
+msgid "Delete Units"
+msgstr "حذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1062
+#, fuzzy
+msgid "Delete Quizzes"
+msgstr "حذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1067
+#, fuzzy
+msgid "Delete Assignments"
+msgstr "ربط تعيين"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1082
+#, fuzzy
+msgid "Course not set"
+msgstr "حذف الحقل المخصص."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1088
+msgid "Go Live"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1092
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1097
+msgid "GO LIVE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1099
+msgid "SEND FOR APPROVAL"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1133
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1593
+msgid "ADD OPTION"
+msgstr "اضافة خيار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1164
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1179
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1238
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1326
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1350
+#, fuzzy
+msgid "Preview"
+msgstr "الوحدة مجانية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1165
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1180
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1239
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1318
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1327
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1336
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1351
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:471
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:526
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:977
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:997
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1014
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1232
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1270
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1426
+msgid "Remove"
+msgstr "حذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1166
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1240
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1319
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1328
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1352
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:472
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:527
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:978
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:998
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1233
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1427
+msgid "Delete"
+msgstr "حذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1187
+#, fuzzy
+msgid "Select existing assignment"
+msgstr "ربط تعيين"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1189
+#, fuzzy
+msgid "Search an assignment"
+msgstr "نعم، لعمل وحدة جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1191
+#, fuzzy
+msgid "Set Assignment"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1195
+#, fuzzy
+msgid "Create new Assignment"
+msgstr "نعم، لعمل وحدة جديد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1197
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1260
+msgid "Reference title"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1198
+#, fuzzy
+msgid "Create Assignment"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1225
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1244
+#, fuzzy
+msgid "Marks"
+msgstr "علامات:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1250
+msgid "Select existing question"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1252
+#, fuzzy
+msgid "Search a question"
+msgstr "نعم، اصنع سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1254
+#, fuzzy
+msgid "Set Question"
+msgstr "تعديل السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1258
+#, fuzzy
+msgid "Create new Question"
+msgstr "نعم، اصنع سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1263
+#, fuzzy
+msgid "Question Tags"
+msgstr "السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1270
+#, fuzzy
+msgid "Select a Tag"
+msgstr "تحديد نوع الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1276
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1568
+msgid "True or False"
+msgstr "صحيح أو خطأ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1277
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1569
+#, fuzzy
+msgid "Multiple Choice"
+msgstr "سؤال فردي متعدد الاختيار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1278
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1570
+msgid "Multiple Correct"
+msgstr "إختيار متعدد من متعدد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1279
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1571
+msgid "Sort Answers"
+msgstr "تصنيف الاجوبة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1280
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1572
+#, fuzzy
+msgid "Match Answers"
+msgstr "تصنيف الاجوبة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1281
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1573
+msgid "Fill in the Blank"
+msgstr "ملء الفراغ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1282
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1574
+msgid "Dropdown Select"
+msgstr "المنسدلة اختر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1283
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1575
+#, fuzzy
+msgid "Small Text"
+msgstr "خط كبير"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1284
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1576
+msgid "Large Text"
+msgstr "خط كبير"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1294
+#, fuzzy
+msgid "Create question"
+msgstr "تعديل السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1316
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:469
+msgid "Edit Unit"
+msgstr "تعديل الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1325
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1349
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:525
+msgid "Edit Quiz"
+msgstr "تعديل الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1358
+#, fuzzy
+msgid "Enter Section Title"
+msgstr "عنوان السؤال:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1364
+msgid "Select existing unit"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1366
+#, fuzzy
+msgid "Search a unit"
+msgstr "بحث"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1368
+#, fuzzy
+msgid "Set Unit"
+msgstr "تعديل الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1372
+#, fuzzy
+msgid "Create new unit"
+msgstr "نعم، لعمل وحدة جديد"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1374
+#, fuzzy
+msgid "Unit title"
+msgstr "(بدون عنوان)"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1377
+#, fuzzy
+msgid "Create Unit"
+msgstr "الوحدة مجانية"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1386
+msgid "Select existing quiz"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1388
+#, fuzzy
+msgid "Search a quiz"
+msgstr "بحث"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1390
+#, fuzzy
+msgid "Set Quiz"
+msgstr "تعديل الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1394
+#, fuzzy
+msgid "Create new quiz"
+msgstr "نعم، اصنع اختبار جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1396
+#, fuzzy
+msgid "Quiz title"
+msgstr "ادخل عنوان فرعي للاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1398
+#, fuzzy
+msgid "Create Quiz"
+msgstr "عمل دورة"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1412
+msgid "SAVE CURRICULUM"
+msgstr ""
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1433
+#, fuzzy
+msgid "Course Level"
+msgstr "حذف الحقل المخصص."
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1440
+#, fuzzy
+msgid "Select a Course Level"
+msgstr "ربط تعيين"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1447
+msgid "Course Location"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.generate_fields.php:1454
+#, fuzzy
+msgid "Select a Course location"
+msgstr "تدرج في تقييم المقرر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:57
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:88
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:112
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:138
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:178
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:277
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:351
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:397
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:433
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:474
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:659
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:735
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:797
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:844
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:881
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:907
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:939
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:970
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:1045
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:146
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:315
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:439
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:497
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:552
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:580
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:614
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:763
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:802
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:827
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1094
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1408
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1462
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1533
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1662
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1689
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1882
+msgid "Security check Failed. Contact Administrator."
+msgstr "التفتيش الأمني ​​فشل. اتصل بالمسؤول."
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:267
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:341
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:199
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:283
+msgid "Unable to create course, contact admin !"
+msgstr "غير قادر على إنشاء بالطبع، الاتصال الإداري!"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:283
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:357
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:403
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:911
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:943
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:974
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:1051
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:224
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:320
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:444
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:502
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:557
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:585
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:619
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:768
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:807
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:832
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1099
+msgid "Invalid Course id, please edit a course"
+msgstr "رقم الدورة غير صالحة، يرجى تعديل مسار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:289
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:409
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:917
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:948
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:979
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:1057
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:326
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:450
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:508
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:591
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:625
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:774
+msgid "Invalid Course Instructor"
+msgstr "مدرس دورة غير صالح"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:451
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:819
+msgid "FULL PREVIEW & STATS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:457
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:640
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:780
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:825
+msgid "Close"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:485
+msgid "CONTENT"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:489
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:744
+#, fuzzy
+msgid "Enter title"
+msgstr "ادخل عنوان فرعي للاختبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:499
+msgid "Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:506
+msgid "Select Category"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:513
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:747
+#, fuzzy
+msgid "Content"
+msgstr "استمرار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:545
+#, fuzzy
+msgid "Dynamic Quiz"
+msgstr "اختبار غير مقبول"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:546
+msgid "Dynamic quiz automatically selects questions."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:573
+#, fuzzy
+msgid "Assignments"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:577
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:956
+#, fuzzy
+msgid "Unit assignments"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:578
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:603
+#, fuzzy
+msgid "Static Quiz questions"
+msgstr "تعديل اسئلة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:583
+#, fuzzy
+msgid "ADD ASSIGNMENT"
+msgstr "اضف سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:598
+#, fuzzy
+msgid "QUESTIONS"
+msgstr "أضف سؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:602
+#, fuzzy
+msgid "Quiz Questions"
+msgstr "تعديل اسئلة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:608
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1215
+msgid "ADD QUESTION"
+msgstr "أضف سؤال"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:622
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:762
+msgid "SAVE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:628
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:768
+msgid "EDIT IN ADMIN"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:634
+msgid "PREVIEW"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:725
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1186
+msgid "Settings Saved"
+msgstr "تم حفظ الاعدادات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:774
+msgid "PREVIEW & STATS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:849
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class.process_fields.php:886
+msgid "Empty title."
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:65
+msgid "Create a Course"
+msgstr "عمل دورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:72
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "دورة الخلق فقط يسمح للمدربين والإداريين"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:82
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr "غير قادر على تعديل دورة، يرجى الاتصال بمسؤول الموقع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:85
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "عمل غير صحيح، يرجى الاتصال بمسؤول الموقع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:116
+msgid "Edit Course"
+msgstr "تعديل الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:170
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:255
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr "غير قادر على إنشاء الفئة دورة جديدة. الاتصال الادارية!"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:434
+msgid "Can not have a blank Unit "
+msgstr "لا يمكن  جعل الوحدة فارغة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:470
+#, fuzzy
+msgid "Preview Unit"
+msgstr "الوحدة مجانية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:492
+msgid "Can not have a Blank Quiz"
+msgstr "لا يمكن عمل اختبار فارغ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:547
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1528
+msgid "Can not delete"
+msgstr "لا يمكن الحذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:563
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1539
+msgid "Instructor can not delete this unit/quiz"
+msgstr "المدرس لا يقدر ان يحذف هذه الوحدة أو الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:571
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1547
+msgid "Unable to delete"
+msgstr "غير قادر على الحذف"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:698
+msgid "Invalid Product specs"
+msgstr "خصائص منتج غير مقبولة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:750
+msgid "Unable to create product and pricing for course"
+msgstr "غير قادر على عمل منتج وتسعيرة لهذه الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:786
+msgid "Course successfully updated."
+msgstr "تم تحديث الدورة بنجاح."
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:789
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:816
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:876
+msgid "Unable to update Course, contact Site admin"
+msgstr "غير قادر على تحديث الدورة، تواصل مع المدير"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:814
+msgid "Course Offline."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:837
+msgid "Course deletion not allowed"
+msgstr ""
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:848
+#, fuzzy
+msgid "Unable to delete curriclum"
+msgstr "غير قادر على الحذف"
+
+# @ default
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:874
+#, fuzzy
+msgid "Course Deleted."
+msgstr "حذف الحقل المخصص."
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:917
+msgid "Unit Settings"
+msgstr "اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:920
+msgid "Unit Type"
+msgstr "نوع الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:921
+msgid "Select Unit Type"
+msgstr "تحديد نوع الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:925
+msgid "Video"
+msgstr "فيديو"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:926
+msgid "Audio"
+msgstr "الصوت"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:927
+msgid "Podcast"
+msgstr "بودكاست"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:928
+msgid "General"
+msgstr "المهام"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:936
+msgid "Free Unit"
+msgstr "الوحدة مجانية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:937
+msgid "Make Unit Free"
+msgstr "جعل الوحدة مجانية"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:940
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1763
+msgid "NO"
+msgstr "لا"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:942
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1761
+msgid "YES"
+msgstr "نعم"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:948
+msgid "Unit Duration"
+msgstr "مدة الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:949
+msgid "Duration of Unit"
+msgstr "مدة الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:957
+#, fuzzy
+msgid "Connect Assignments"
+msgstr "ربط تعيين"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:975
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:995
+#, fuzzy
+msgid "Edit Assignment"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:976
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:996
+#, fuzzy
+msgid "Preview Assignment"
+msgstr "تعيين الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:986
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1028
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1245
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1771
+msgid "None"
+msgstr "بلا"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1007
+#, fuzzy
+msgid "ADD EXISTING ASSIGNMENT"
+msgstr "اضف سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1008
+#, fuzzy
+msgid "ADD NEW ASSIGNMENT"
+msgstr "اضف سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1009
+msgid "Add the Assignment title"
+msgstr "إضافة عنوان الواجب"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1025
+msgid "Unit Forum"
+msgstr "منتدى الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1026
+msgid "Connect a Forum"
+msgstr "توصيل منتدى"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1029
+msgid "Add new child forum in Course forum"
+msgstr "اضف منتدى فرعي لمنتدى الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1030
+msgid "Add new forum"
+msgstr "أضف منتدى جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1050
+msgid "SAVE UNIT SETTINGS"
+msgstr "حفظ اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1104
+msgid "Invalid Unit id, please edit a course"
+msgstr "اي دي وحدة غير مقبولة، الرجاء تعديل الدورة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1110
+msgid "Invalid Unit Instructor"
+msgstr "وحدة مدرس غير مقبولة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1188
+msgid "Unable to save settings"
+msgstr "غير قادر على حفظ الاعدادات"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1212
+msgid "Manage Quiz Questions"
+msgstr "تعديل اسئلة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1226
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1421
+msgid "Question "
+msgstr "السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1425
+msgid "Edit Question"
+msgstr "تعديل السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1231
+#, fuzzy
+msgid "Preview Question"
+msgstr "تعديل السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1236
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1430
+msgid "MARKS : "
+msgstr "علامات:"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1246
+msgid "ADD A NEW QUESTION"
+msgstr "اضف سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1262
+msgid "Marks : "
+msgstr "علامات:"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1264
+msgid "Question Title : "
+msgstr "عنوان السؤال:"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1265
+msgid "Enter title for reference"
+msgstr "ادخل عنوان للمرجع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1269
+msgid "Publish Question"
+msgstr "انشر السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1276
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1399
+msgid "SAVE QUIZ SETTINGS"
+msgstr "حفظ اعدادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1299
+msgid "Enter a Quiz sub-title"
+msgstr "ادخل عنوان فرعي للاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1309
+msgid "Enter a Quiz Completion message"
+msgstr "ادخل رسالة اكتمال الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1315
+msgid "Quiz Settings"
+msgstr "اعدادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1319
+msgid "QUIZ SUB-TITLE"
+msgstr "عنوان فرعي اختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1324
+msgid "CONNECTED COURSE"
+msgstr "دورة متصلة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1339
+msgid "QUIZ DURATION"
+msgstr "مدة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1342
+msgid "QUIZ EVALUATION"
+msgstr "تقييم الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1345
+msgid "AUTO"
+msgstr "تلقائي"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1351
+#, fuzzy
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "مدة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1354
+msgid "DYNAMIC"
+msgstr "DYNAMIC"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1356
+msgid "STATIC"
+msgstr "STATIC"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1360
+#, fuzzy
+msgid "SELECT QUESTION TAGS"
+msgstr "حفظ اعدادات السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1371
+#, fuzzy
+msgid "NUMER OF QUESTIONS"
+msgstr "اضف سؤال جديد"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1374
+#, fuzzy
+msgid "MARKS PER QUESTION"
+msgstr "أضف سؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1377
+msgid "QUIZ RETAKES"
+msgstr "اعادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1378
+msgid " Retakes"
+msgstr "اعادة الاخذ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1380
+#, fuzzy
+msgid "QUESTIONS ORDER"
+msgstr "اعدادات السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1383
+msgid "RANDOM"
+msgstr "RANDOM"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1385
+msgid "SEQUENTIAL"
+msgstr "SEQUENTIAL"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1389
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "رسالة اكتمال الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1414
+#, fuzzy, php-format
+msgid "Add Content for %s"
+msgstr "اضافة محتوى لـ"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1467
+msgid "Invalid Quiz"
+msgstr "اختبار غير مقبول"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1505
+msgid "Quiz Settings saved"
+msgstr "تم حفظ اعدادات الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1580
+msgid "QUESTION SETTINGS"
+msgstr "اعدادات السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1582
+msgid "Question Type"
+msgstr "نوع السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1603
+msgid "Click to select as Correct answer"
+msgstr "اضغظ لتحديد الجواب الصحيح"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1612
+msgid "Correct Answer"
+msgstr "تصحيح السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1613
+msgid "Answer Hint"
+msgstr "الجواب تلميح"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1614
+#, fuzzy
+msgid "Answer Explanation"
+msgstr "الإجابة كسبلايناتيون"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1622
+msgid "SAVE QUESTION SETTINGS"
+msgstr "حفظ اعدادات السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1657
+msgid "Unable to save, incorrect question"
+msgstr "غير قادر على الحفظ، سؤال غير صحيح"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1682
+msgid "Question settings successfully saved"
+msgstr "تم حفظ اعدادات السؤال"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1696
+#, fuzzy
+msgid "Unable to save, incorrect unit"
+msgstr "غير قادر على الحفظ، سؤال غير صحيح"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1740
+#, fuzzy
+msgid "ASSIGNMENT SETTINGS"
+msgstr "حفظ اعدادات الوحدة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1744
+#, fuzzy
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "عنوان فرعي اختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1750
+msgid "ASSIGNMENT MARKS"
+msgstr "علامات التنازل"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1751
+msgid "Assignment Maximum Marks"
+msgstr "احالة ماركس القصوى"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1751
+#, fuzzy
+msgid "MARKS"
+msgstr "علامات:"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1754
+#, fuzzy
+msgid "ASSIGNMENT DURATION"
+msgstr "مدة الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1755
+#, fuzzy
+msgid "Enter Assignment Duration"
+msgstr "مدة الدرس"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1757
+#, fuzzy
+msgid "ASSIGNMENT EVALUATION"
+msgstr "تقييم الاختبار"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1758
+msgid "Include in Course Evaluation"
+msgstr "تدرج في تقييم المقرر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1768
+#, fuzzy
+msgid "ASSIGNMENT COURSE"
+msgstr "دورة متصلة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1769
+#, fuzzy
+msgid "Select Assignment Course"
+msgstr "ربط تعيين"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1786
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "التنازل SUBMISISON نوع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1788
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1789
+msgid "TEXTAREA"
+msgstr "TEXTAREA"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1792
+msgid "ATTACHMENT TYPE"
+msgstr "مرفق نوع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1837
+msgid "Attachment Size"
+msgstr "مرفق الحجم"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1838
+#, fuzzy
+msgid "Maximum attachment size"
+msgstr "تم تحديث مرفق"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1838
+msgid " MBs"
+msgstr " ميجا"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1887
+#, fuzzy
+msgid "Invalid details"
+msgstr "اختبار غير مقبول"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1893
+#, fuzzy
+msgid "Invalid Assignment author"
+msgstr "وحدة مدرس غير مقبولة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1902
+msgid "SETTINGS SAVED"
+msgstr "الإعدادات المحفوظة"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1914
+msgid "ADD PACKAGE"
+msgstr "أضف PACKAGE"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1918
+msgid "Seconds"
+msgstr "ثواني"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1919
+msgid "Minutes"
+msgstr "دقائق"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1920
+msgid "Hours"
+msgstr "ساعات"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1921
+msgid "Days"
+msgstr "أيام"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1922
+msgid "Weeks"
+msgstr "أسابيع"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1923
+msgid "Months"
+msgstr "أشهر"
+
+# @ wplms-front-end
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1924
+msgid "Years"
+msgstr "سنو"

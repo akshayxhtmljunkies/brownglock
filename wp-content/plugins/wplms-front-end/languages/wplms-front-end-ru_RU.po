@@ -1,0 +1,2353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-21 15:27+0530\n"
+"PO-Revision-Date: 2015-10-21 15:27+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Olymproject <info@olymproject.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wplms-front-end.php:85
+msgid "Please change the course title"
+msgstr "Пожалуйста измените название курса"
+
+#: wplms-front-end.php:86
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "Создание нового курса на сайте, хотите продолжить? "
+
+#: wplms-front-end.php:87
+msgid "Yes, create a new course"
+msgstr "Да, создать новый курс"
+
+#: wplms-front-end.php:88
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr "Замена старых настроек для курсов, хотите продолжить ? "
+
+#: wplms-front-end.php:89
+msgid "Save course"
+msgstr "Сохранить курс"
+
+#: wplms-front-end.php:90
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "Создание нового модуля на сайте, хотите продолжить ? "
+
+#: wplms-front-end.php:91
+msgid "Yes, create a new unit"
+msgstr "Да, создать новый модуль"
+
+#: wplms-front-end.php:92
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr "Замена старых настроек для модулей, хотите продолжить ? "
+
+#: wplms-front-end.php:93
+msgid "Yes, save unit settings"
+msgstr "Да, сохранить настройки модуля"
+
+#: wplms-front-end.php:94
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "Создание нового вопроса на сайте, хотите продолжить ? "
+
+#: wplms-front-end.php:95
+msgid "Yes, create a new question"
+msgstr "Да, создать новый вопрос"
+
+#: wplms-front-end.php:96
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "Создание нового теста на сайте, хотите продолжить ? "
+
+#: wplms-front-end.php:97
+msgid "Yes, create a new quiz"
+msgstr "Да, создать новый тест"
+
+#: wplms-front-end.php:98
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr "Замена старых настроек для тестов, хотите продолжить ? "
+
+#: wplms-front-end.php:99
+msgid "Yes, save quiz settings"
+msgstr "Да, сохранить настройки теста"
+
+#: wplms-front-end.php:100
+msgid ""
+"This will delete the unit/quiz from your site, do you want to continue ?"
+msgstr "Удаление модуля/теста с сайта, хотите продолжить ? "
+
+#: wplms-front-end.php:101
+msgid "Continue"
+msgstr "Продолжить"
+
+#: wplms-front-end.php:102
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr "Это действие заменяет существующие настройки, хотите продолжить ? "
+
+#: wplms-front-end.php:103 front-end-editor/class-wp-front-end-editor.php:617
+msgid "Save"
+msgstr "Сохранить"
+
+#: wplms-front-end.php:104
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "Создание нового задания на сайте, хотите продолжить ? "
+
+#: wplms-front-end.php:105
+msgid "Yes, create a new assignment"
+msgstr "Да, создать новое задание"
+
+#: wplms-front-end.php:106
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+
+#: wplms-front-end.php:107
+msgid "Are you sure you want to delete this course ?"
+msgstr ""
+
+#: wplms-front-end.php:108 includes/class.generate_fields.php:1053
+#, fuzzy
+msgid "DELETE COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: wplms-front-end.php:109
+#, fuzzy
+msgid "This will create a new group in the site, do you want to continue ?"
+msgstr "Создание нового курса на сайте, хотите продолжить? "
+
+#: wplms-front-end.php:110
+#, fuzzy
+msgid "This will create a new forum in the site, do you want to continue ?"
+msgstr "Создание нового курса на сайте, хотите продолжить? "
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Пожалуйста, введите Ваш логин на сайте Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Пожалуйста введите Ваш API ключ с сайта Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"установлен\" как обязательный параметр."
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+"\"Идентификатор покупки\" на сайте Envato Marketplace установлен как "
+"обязательный параметр."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Вов время API запроса возникла неизвестная ошибка HTTP. "
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Попробуйте снова"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Возникла неизвестная ошибка"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Плагин был обновлён, но не активирован. Пожалуйста реактивируйте его вручную."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Плагин успешно реактивирован."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Обновления плагина"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Логин: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Ключ: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>Обновление плагина <span style=\"color:green\">включено</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Введённые данные <span style=\"color:red\">недействительны</span>, "
+"автоматическое обновление <span style=\"color:red\">отключено</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Изменить ключ"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Невозможно подтвердить активацию обновлений.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Добавить ключ"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Логин"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Логин на Themeforest (для автообновлений)"
+
+#: front-end-editor/class-wp-front-end-editor.php:209
+msgid ""
+"You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+"deleted?"
+msgstr ""
+"Вы пытаетесь редактировать элемент, который не существует. Возможно, он был "
+"удален."
+
+#: front-end-editor/class-wp-front-end-editor.php:229
+#: front-end-editor/class-wp-front-end-editor.php:359
+#: front-end-editor/class-wp-front-end-editor.php:884
+msgid "You are not allowed to edit this item."
+msgstr "У Вас нет прав для редактирования элемента."
+
+#: front-end-editor/class-wp-front-end-editor.php:300
+#: front-end-editor/class-wp-front-end-editor.php:465
+#: front-end-editor/class-wp-front-end-editor.php:1350
+#: front-end-editor/class-wp-front-end-editor.php:1391
+#: front-end-editor/class-wp-front-end-editor.php:1549
+msgid "Cancel"
+msgstr "Отмена"
+
+#: front-end-editor/class-wp-front-end-editor.php:304
+msgid "LOCKED"
+msgstr "ЗАБЛОКИРОВАН"
+
+#: front-end-editor/class-wp-front-end-editor.php:332
+msgid "Error while saving."
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:335
+msgid "g:i:s a"
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:337
+#, php-format
+msgid "Draft saved at %s."
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:354
+msgid "ERROR: invalid post data."
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:464
+#: front-end-editor/class-wp-front-end-editor.php:1349
+#: front-end-editor/class-wp-front-end-editor.php:1390
+msgid "OK"
+msgstr "OK"
+
+#: front-end-editor/class-wp-front-end-editor.php:466
+msgid "Publish on:"
+msgstr "Опубликовать: "
+
+#: front-end-editor/class-wp-front-end-editor.php:467
+msgid "Schedule for:"
+msgstr "Запланировать на: "
+
+#: front-end-editor/class-wp-front-end-editor.php:468
+msgid "Published on:"
+msgstr "Опубликовано: "
+
+#: front-end-editor/class-wp-front-end-editor.php:469
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s : %5$s"
+
+#: front-end-editor/class-wp-front-end-editor.php:470
+msgid "Show more comments"
+msgstr "Другие комментарии"
+
+#: front-end-editor/class-wp-front-end-editor.php:471
+msgid "No more comments found."
+msgstr "Комментариев больше нет."
+
+#: front-end-editor/class-wp-front-end-editor.php:472
+#: front-end-editor/class-wp-front-end-editor.php:605
+#: front-end-editor/class-wp-front-end-editor.php:1175
+#: includes/class_wplms_front_end.php:1013
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: front-end-editor/class-wp-front-end-editor.php:473
+msgid "Schedule"
+msgstr "График"
+
+#: front-end-editor/class-wp-front-end-editor.php:474
+#: front-end-editor/class-wp-front-end-editor.php:521
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Update"
+msgstr "Обновить"
+
+#: front-end-editor/class-wp-front-end-editor.php:475
+msgid "Save as Pending"
+msgstr "В процессе доработки"
+
+#: front-end-editor/class-wp-front-end-editor.php:476
+msgid "Save Draft"
+msgstr "Сохранить как черновик"
+
+#: front-end-editor/class-wp-front-end-editor.php:477
+#: front-end-editor/class-wp-front-end-editor.php:1359
+#: front-end-editor/class-wp-front-end-editor.php:1387
+#: includes/class.generate_fields.php:742
+#: includes/class.generate_fields.php:783
+msgid "Private"
+msgstr "Закрытое "
+
+#: front-end-editor/class-wp-front-end-editor.php:478
+#: front-end-editor/class-wp-front-end-editor.php:1368
+#: front-end-editor/class-wp-front-end-editor.php:1381
+#: includes/class.generate_fields.php:741
+#: includes/class.generate_fields.php:782
+msgid "Public"
+msgstr "Открытое "
+
+#: front-end-editor/class-wp-front-end-editor.php:479
+#: front-end-editor/class-wp-front-end-editor.php:1365
+msgid "Public, Sticky"
+msgstr "Открытое, поднятое"
+
+#: front-end-editor/class-wp-front-end-editor.php:480
+msgid "Password Protected"
+msgstr "Защищён паролем"
+
+#: front-end-editor/class-wp-front-end-editor.php:481
+#: front-end-editor/class-wp-front-end-editor.php:1312
+#: front-end-editor/class-wp-front-end-editor.php:1338
+msgid "Privately Published"
+msgstr "Скрытая публикация"
+
+#: front-end-editor/class-wp-front-end-editor.php:482
+#: front-end-editor/class-wp-front-end-editor.php:1315
+#: front-end-editor/class-wp-front-end-editor.php:1336
+msgid "Published"
+msgstr "Опубликовано"
+
+#: front-end-editor/class-wp-front-end-editor.php:510
+msgid "Saving Draft&#8230;"
+msgstr "Сохраняю черновик&#8230;"
+
+#: front-end-editor/class-wp-front-end-editor.php:511
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Изменения будут утеряны, если Вы покините данную страницу. "
+
+#: front-end-editor/class-wp-front-end-editor.php:520
+#: front-end-editor/class-wp-front-end-editor.php:1504
+msgid "Insert/edit link"
+msgstr "Вставить/изменить ссылку"
+
+#: front-end-editor/class-wp-front-end-editor.php:522
+msgid "Add Link"
+msgstr "Добавить ссылку"
+
+#: front-end-editor/class-wp-front-end-editor.php:523
+msgid "(no title)"
+msgstr "(нет названия)"
+
+#: front-end-editor/class-wp-front-end-editor.php:524
+msgid "No matches found."
+msgstr "Совпадения не найдены."
+
+#: front-end-editor/class-wp-front-end-editor.php:565
+msgid "Could not load the preview image. Please reload the page and try again."
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:605
+msgid "Publishing&hellip;"
+msgstr "Публикую&hellip;"
+
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Saving&hellip;"
+msgstr "Сохраняю&hellip;"
+
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Updating&hellip;"
+msgstr "Обновляю&hellip;"
+
+#: front-end-editor/class-wp-front-end-editor.php:796
+msgid "Add a featured image"
+msgstr ""
+
+#: front-end-editor/class-wp-front-end-editor.php:1105
+#, php-format
+msgid "Post updated. <a href=\"%s\">View post</a>"
+msgstr "Запись обновлена. <a href=\"%s\">Просмотреть</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1106
+#: front-end-editor/class-wp-front-end-editor.php:1122
+msgid "Custom field updated."
+msgstr "Особое поле обновлено."
+
+#: front-end-editor/class-wp-front-end-editor.php:1107
+#: front-end-editor/class-wp-front-end-editor.php:1123
+msgid "Custom field deleted."
+msgstr "Особое поле удалено. "
+
+#: front-end-editor/class-wp-front-end-editor.php:1108
+msgid "Post updated."
+msgstr "Запись обновлена."
+
+#: front-end-editor/class-wp-front-end-editor.php:1110
+#, php-format
+msgid "Post restored to revision from %s"
+msgstr "Запись от %s восстановлена для пересмотра "
+
+#: front-end-editor/class-wp-front-end-editor.php:1111
+#, php-format
+msgid "Post published. <a href=\"%s\">View post</a>"
+msgstr "Запись опубликована. <a href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1112
+msgid "Post saved."
+msgstr "Запись сохранена. "
+
+#: front-end-editor/class-wp-front-end-editor.php:1113
+#, php-format
+msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr "Запись отправлена. <a target=\"_blank\" href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1114
+#, php-format
+msgid ""
+"Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview post</a>"
+msgstr ""
+"Запись запланирована на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1116
+#: front-end-editor/class-wp-front-end-editor.php:1129
+#: front-end-editor/class-wp-front-end-editor.php:1397
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: front-end-editor/class-wp-front-end-editor.php:1117
+#, php-format
+msgid "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr ""
+"Черновик записи обновлён. <a target=\"_blank\" href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1121
+#, php-format
+msgid "Page updated. <a href=\"%s\">View page</a>"
+msgstr "Страница обновлена. <a href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1124
+msgid "Page updated."
+msgstr "Страница обновлена."
+
+#: front-end-editor/class-wp-front-end-editor.php:1125
+#, php-format
+msgid "Page restored to revision from %s"
+msgstr "Страница от %s восстановлена для пересмотра"
+
+#: front-end-editor/class-wp-front-end-editor.php:1126
+#, php-format
+msgid "Page published. <a href=\"%s\">View page</a>"
+msgstr "Страница опубликована. <a href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1127
+msgid "Page saved."
+msgstr "Страница сохранена. "
+
+#: front-end-editor/class-wp-front-end-editor.php:1128
+#, php-format
+msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr "Страница отправлена. <a target=\"_blank\" href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1129
+#, php-format
+msgid ""
+"Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview page</a>"
+msgstr ""
+"Страница запланирована на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1130
+#, php-format
+msgid "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr ""
+"Черновик страницы обновлён. <a target=\"_blank\" href=\"%s\">Просмотр</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1132
+msgid "Media attachment updated."
+msgstr "Медиа приложение обновлено. "
+
+#: front-end-editor/class-wp-front-end-editor.php:1163
+#, php-format
+msgid ""
+"There is an autosave of this post that is more recent than the version "
+"below. <a href=\"%s\">View the autosave</a>"
+msgstr ""
+"Автосохранения для данной записи нет, т.к. она более свежая, чем версия "
+"ниже. <a href=\"%s\">Показать автосохранение</a>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1186
+msgid "Revisions"
+msgstr "Редакции "
+
+#: front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Page Attributes"
+msgstr "Свойства страницы "
+
+#: front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Attributes"
+msgstr "Свойства "
+
+#: front-end-editor/class-wp-front-end-editor.php:1228
+msgid "Excerpt"
+msgstr "Цитата "
+
+#: front-end-editor/class-wp-front-end-editor.php:1232
+msgid "Send Trackbacks"
+msgstr "Отправлять обратные ссылки"
+
+#: front-end-editor/class-wp-front-end-editor.php:1236
+msgid "Custom Fields"
+msgstr "Особые поля "
+
+#: front-end-editor/class-wp-front-end-editor.php:1240
+msgid "Discussion"
+msgstr "Обсуждение "
+
+#: front-end-editor/class-wp-front-end-editor.php:1307
+msgid "Status:"
+msgstr "Статус: "
+
+#: front-end-editor/class-wp-front-end-editor.php:1318
+#: front-end-editor/class-wp-front-end-editor.php:1340
+msgid "Scheduled"
+msgstr "Запланирован"
+
+#: front-end-editor/class-wp-front-end-editor.php:1321
+#: front-end-editor/class-wp-front-end-editor.php:1342
+msgid "Pending Review"
+msgstr "Ожидает проверки"
+
+#: front-end-editor/class-wp-front-end-editor.php:1325
+#: front-end-editor/class-wp-front-end-editor.php:1344
+#: front-end-editor/class-wp-front-end-editor.php:1346
+msgid "Draft"
+msgstr "Черновик"
+
+#: front-end-editor/class-wp-front-end-editor.php:1331
+#: front-end-editor/class-wp-front-end-editor.php:1373
+#: front-end-editor/class-wp-front-end-editor.php:1420
+#: includes/class.generate_fields.php:958
+#: includes/class.generate_fields.php:1163
+#: includes/class.generate_fields.php:1178
+#: includes/class.generate_fields.php:1218
+#: includes/class.generate_fields.php:1237
+#: includes/class.process_fields.php:958
+#: includes/class.process_fields.php:1033
+msgid "Edit"
+msgstr "Изменить"
+
+#: front-end-editor/class-wp-front-end-editor.php:1355
+msgid "Visibility:"
+msgstr "Видимость: "
+
+#: front-end-editor/class-wp-front-end-editor.php:1362
+#: front-end-editor/class-wp-front-end-editor.php:1385
+msgid "Password protected"
+msgstr "Защита паролем"
+
+#: front-end-editor/class-wp-front-end-editor.php:1383
+msgid "Stick this post to the front page"
+msgstr "Прикрепить запись на титульную страницу"
+
+#: front-end-editor/class-wp-front-end-editor.php:1386
+msgid "Password:"
+msgstr "Пароль: "
+
+#: front-end-editor/class-wp-front-end-editor.php:1400
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr "Запланировано на: <b>%1$s</b>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1402
+#, php-format
+msgid "Published on: <b>%1$s</b>"
+msgstr "Опубликовано: <b>%1$s</b>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1404
+#: front-end-editor/class-wp-front-end-editor.php:1412
+msgid "Publish <b>immediately</b>"
+msgstr "Опубликовать <b>немедленно</b>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1406
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "Запланировать на: <b>%1$s</b>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1408
+#, php-format
+msgid "Publish on: <b>%1$s</b>"
+msgstr "Опубликовать: <b>%1$s</b>"
+
+#: front-end-editor/class-wp-front-end-editor.php:1436
+msgid "Slug"
+msgstr "След "
+
+#: front-end-editor/class-wp-front-end-editor.php:1449
+msgid "Author"
+msgstr "Автор"
+
+#: front-end-editor/class-wp-front-end-editor.php:1469
+#: front-end-editor/class-wp-front-end-editor.php:1514
+#: includes/class.generate_fields.php:907
+#: includes/class.process_fields.php:488 includes/class.process_fields.php:743
+msgid "Title"
+msgstr "Заголовок"
+
+#: front-end-editor/class-wp-front-end-editor.php:1509
+msgid "Enter the destination URL"
+msgstr "Введите URL удалённого элемента "
+
+#: front-end-editor/class-wp-front-end-editor.php:1511
+msgid "URL"
+msgstr "URL"
+
+#: front-end-editor/class-wp-front-end-editor.php:1517
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне/закладке"
+
+#: front-end-editor/class-wp-front-end-editor.php:1520
+msgid "Or link to existing content"
+msgstr "Или привязать к существующей записи"
+
+#: front-end-editor/class-wp-front-end-editor.php:1524
+msgid "Search"
+msgstr "Поиск"
+
+#: front-end-editor/class-wp-front-end-editor.php:1536
+msgid "No search term specified. Showing recent items."
+msgstr "Запрос на поиск отсутствует. Показываю последние элементы."
+
+#: front-end-editor/meta-modal-template.php:9
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+"<strong>Связь прервана.</strong> Для сохранения пожалуйста подключитесь "
+"снова."
+
+#: front-end-editor/meta-modal-template.php:10
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "Создаю резервную копию этой записи в браузере, на всякий случай. "
+
+#: includes/class.generate_fields.php:43
+msgid "Set Course Memberships"
+msgstr ""
+
+#: includes/class.generate_fields.php:73
+#, fuzzy
+msgid "EDIT COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class.generate_fields.php:73
+#: includes/class.generate_fields.php:128
+#, fuzzy
+msgid "CREATE COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class.generate_fields.php:74
+msgid "Start building a course"
+msgstr ""
+
+#: includes/class.generate_fields.php:77
+#, fuzzy
+msgid "Course title"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:83
+#, fuzzy
+msgid "ENTER A COURSE TITLE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class.generate_fields.php:84
+msgid ""
+"This is the title of the course which is displayed on top of every course"
+msgstr ""
+
+#: includes/class.generate_fields.php:87
+#, fuzzy
+msgid "Course Category"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:94
+msgid "Select a Course Category"
+msgstr ""
+
+#: includes/class.generate_fields.php:97
+msgid "Course Image"
+msgstr ""
+
+#: includes/class.generate_fields.php:101
+msgid "Upload a Course Image"
+msgstr ""
+
+#: includes/class.generate_fields.php:102
+#, fuzzy
+msgid "Set as Course Image"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:109
+msgid "Course Short Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:115
+msgid "Add full description"
+msgstr ""
+
+#: includes/class.generate_fields.php:116
+msgid "Enter a short description of the course."
+msgstr ""
+
+#: includes/class.generate_fields.php:119
+msgid "Full Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:125
+msgid "Enter full description of the course."
+msgstr ""
+
+#: includes/class.generate_fields.php:128
+#, fuzzy
+msgid "SAVE COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class.generate_fields.php:136
+#: includes/class.process_fields.php:539
+#, fuzzy
+msgid "SETTINGS"
+msgstr "СОХРАНИТЬ НАСТРОЙКИ"
+
+#: includes/class.generate_fields.php:137
+#: includes/class.generate_fields.php:323
+#, fuzzy
+msgid "Course settings"
+msgstr "Настройки теста"
+
+#: includes/class.generate_fields.php:140
+#, fuzzy
+msgid "Course duration"
+msgstr "Включить в оценку прохождения курса"
+
+#: includes/class.generate_fields.php:141
+msgid "Maximum Course Duration"
+msgstr ""
+
+#: includes/class.generate_fields.php:148
+#, php-format
+msgid ""
+"Enter the maximum duration for the course in %s. This is the maximum "
+"duration within which the student should complete the course. Use 9999 for "
+"unlimited access to course."
+msgstr ""
+
+#: includes/class.generate_fields.php:151
+#, fuzzy
+msgid "Course Evaluation"
+msgstr "Включить в оценку прохождения курса"
+
+#: includes/class.generate_fields.php:152
+#, fuzzy
+msgid "Course Evaluation Mode"
+msgstr "Включить в оценку прохождения курса"
+
+#: includes/class.generate_fields.php:154
+#: includes/class_wplms_front_end.php:1347
+msgid "MANUAL"
+msgstr "ВРУЧНУЮ"
+
+#: includes/class.generate_fields.php:154
+#, fuzzy
+msgid "AUTOMATIC"
+msgstr "СТАТИЧЕСКИЙ"
+
+#: includes/class.generate_fields.php:159
+msgid "User gets the course result instantly upon submission."
+msgstr ""
+
+#: includes/class.generate_fields.php:162
+#, fuzzy
+msgid "Prerequisite Course"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:163
+msgid "Set a prerequisite Course"
+msgstr ""
+
+#: includes/class.generate_fields.php:168
+msgid "Enter first 3 letters of course for search"
+msgstr ""
+
+#: includes/class.generate_fields.php:170
+#: includes/class.generate_fields.php:238
+msgid ""
+"Pre-required course which the user needs to complete before subscribing to "
+"this course."
+msgstr ""
+
+#: includes/class.generate_fields.php:173
+msgid "Drip Feed"
+msgstr ""
+
+#: includes/class.generate_fields.php:174
+#, fuzzy
+msgid "Course Drip Feed"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:177
+#: includes/class.generate_fields.php:211
+#: includes/class.generate_fields.php:245
+#: includes/class.process_fields.php:550
+msgid "DISABLE"
+msgstr ""
+
+#: includes/class.generate_fields.php:177
+#: includes/class.generate_fields.php:211
+#: includes/class.generate_fields.php:245
+#: includes/class.process_fields.php:550
+msgid "ENABLE"
+msgstr ""
+
+#: includes/class.generate_fields.php:182
+#: includes/class.generate_fields.php:193
+#: includes/class.generate_fields.php:216
+msgid ""
+"Drip Feed courses, units are released one by one after certain duration to "
+"the user."
+msgstr ""
+
+#: includes/class.generate_fields.php:185
+#: includes/class.generate_fields.php:186
+msgid "Drip Feed Type"
+msgstr ""
+
+#: includes/class.generate_fields.php:188
+msgid "UNIT"
+msgstr ""
+
+#: includes/class.generate_fields.php:188
+msgid "SECTION"
+msgstr ""
+
+#: includes/class.generate_fields.php:196
+#, fuzzy
+msgid "Drip Duration"
+msgstr "Продолжительность модуля"
+
+#: includes/class.generate_fields.php:197
+msgid "Set Duration between two successive Course elements"
+msgstr ""
+
+#: includes/class.generate_fields.php:204
+#, php-format
+msgid ""
+"Enter the drip duration for the course in %s. This is the duration after "
+"which the next unit/section unlocks for the user after viewing the previous "
+"unit/section."
+msgstr ""
+
+#: includes/class.generate_fields.php:207
+#: includes/class.generate_fields.php:208
+#, fuzzy
+msgid "Course Certificate"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:219
+msgid "Passing Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:220
+msgid "Set Certificate Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:225
+#: includes/class.generate_fields.php:259
+msgid " out of 100"
+msgstr ""
+
+#: includes/class.generate_fields.php:227
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course certificate."
+msgstr ""
+
+#: includes/class.generate_fields.php:230
+msgid "Certificate Template"
+msgstr ""
+
+#: includes/class.generate_fields.php:231
+msgid "Select Certificate template"
+msgstr ""
+
+#: includes/class.generate_fields.php:236
+msgid "Enter first 3 letters to search course template"
+msgstr ""
+
+#: includes/class.generate_fields.php:241
+#: includes/class.generate_fields.php:242
+#: includes/class.generate_fields.php:274
+msgid "Course Badge"
+msgstr ""
+
+#: includes/class.generate_fields.php:250
+msgid "Enable Excellence badges for this course"
+msgstr ""
+
+#: includes/class.generate_fields.php:253
+msgid "Badge Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:254
+msgid "Set Excellence Badge Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:261
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course Badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:264
+#, fuzzy
+msgid "Badge Title"
+msgstr "Заголовок"
+
+#: includes/class.generate_fields.php:265
+msgid "Set Badge title"
+msgstr ""
+
+#: includes/class.generate_fields.php:270
+#: includes/class.generate_fields.php:271
+#, fuzzy
+msgid "Course Badge Title"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:275
+msgid "Upload Course Badge"
+msgstr ""
+
+#: includes/class.generate_fields.php:278
+msgid "Select or Upload a Course badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:279
+msgid "Add Course badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:283
+#: includes/class.generate_fields.php:332
+#: includes/class.generate_fields.php:341
+msgid "Upload a course badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:286
+#, fuzzy
+msgid "Course Start Date"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:287
+msgid "Start date"
+msgstr ""
+
+#: includes/class.generate_fields.php:293
+msgid "Set a Course start date."
+msgstr ""
+
+#: includes/class.generate_fields.php:296
+#, fuzzy
+msgid "Course Instructions"
+msgstr "Недопустимый инструктор курса "
+
+#: includes/class.generate_fields.php:297
+msgid "Add Course specific instructions"
+msgstr ""
+
+#: includes/class.generate_fields.php:302
+msgid "Course instructions are displayed when the user starts a course."
+msgstr ""
+
+#: includes/class.generate_fields.php:305
+#, fuzzy
+msgid "Course Completion Message"
+msgstr "Текст сообщение об окончании теста"
+
+#: includes/class.generate_fields.php:306
+#, fuzzy
+msgid "Completion Message"
+msgstr "Текст сообщение об окончании теста"
+
+#: includes/class.generate_fields.php:311
+msgid ""
+"Completion message is shown to the student when she finishes the course."
+msgstr ""
+
+#: includes/class.generate_fields.php:314
+#: includes/class_wplms_front_end.php:1841
+msgid "SAVE SETTINGS"
+msgstr "СОХРАНИТЬ НАСТРОЙКИ"
+
+#: includes/class.generate_fields.php:322
+msgid "COMPONENTS"
+msgstr ""
+
+#: includes/class.generate_fields.php:326
+msgid "Course Group"
+msgstr ""
+
+#: includes/class.generate_fields.php:327
+#, fuzzy
+msgid "Set a Course Group"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:335
+#, fuzzy
+msgid "Course Forum"
+msgstr "Подключить форум"
+
+#: includes/class.generate_fields.php:336
+#, fuzzy
+msgid "Set a Course Forum"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:344
+msgid "SAVE COMPONENTS"
+msgstr ""
+
+#: includes/class.generate_fields.php:352
+msgid "SET CURRICULUM"
+msgstr ""
+
+#: includes/class.generate_fields.php:353
+msgid "Add Units and Quizzes"
+msgstr ""
+
+#: includes/class.generate_fields.php:356
+msgid "Curriculum"
+msgstr ""
+
+#: includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD SECTION"
+msgstr "ДОБАВИТЬ ВОПРОС"
+
+#: includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD UNIT"
+msgstr "ДОБАВИТЬ ВОПРОС"
+
+#: includes/class.generate_fields.php:358
+#, fuzzy
+msgid "ADD QUIZ"
+msgstr "ДОБАВИТЬ ВОПРОС"
+
+#: includes/class.generate_fields.php:362
+msgid "Build Course curriculum"
+msgstr ""
+
+#: includes/class.generate_fields.php:368
+msgid "PRICING"
+msgstr ""
+
+#: includes/class.generate_fields.php:369
+#, fuzzy
+msgid "Set Price for Course"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:372
+msgid "Course Pricing"
+msgstr ""
+
+#: includes/class.generate_fields.php:376
+#, fuzzy
+msgid "Free "
+msgstr "Открытый модуль"
+
+#: includes/class.generate_fields.php:377
+#, fuzzy
+msgid "Free Course"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:379
+#, fuzzy
+msgid "No"
+msgstr "Отсутсвует"
+
+#: includes/class.generate_fields.php:379
+#, fuzzy
+msgid "Yes"
+msgstr "Лет"
+
+#: includes/class.generate_fields.php:384
+msgid "By pass any purchase process."
+msgstr ""
+
+#: includes/class.generate_fields.php:387
+msgid "Product "
+msgstr ""
+
+#: includes/class.generate_fields.php:388
+#, fuzzy
+msgid "Set a Course Product"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:395
+msgid "Connect a Product with this course."
+msgstr ""
+
+#: includes/class.generate_fields.php:398
+#, fuzzy
+msgid "SAVE PRICING"
+msgstr "СОХРАНИТЬ НАСТРОЙКИ"
+
+#: includes/class.generate_fields.php:406
+#, fuzzy
+msgid "MODIFY COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class.generate_fields.php:406
+msgid "PUBLISH COURSE"
+msgstr ""
+
+#: includes/class.generate_fields.php:407
+msgid "Change Course status"
+msgstr ""
+
+#: includes/class.generate_fields.php:407
+msgid "Go Live !"
+msgstr ""
+
+#: includes/class.generate_fields.php:410
+msgid "Take Offline"
+msgstr ""
+
+#: includes/class.generate_fields.php:456
+msgid "Edit in WP Admin"
+msgstr ""
+
+#: includes/class.generate_fields.php:461
+#: includes/class_wplms_front_end.php:787
+msgid "View Course"
+msgstr "Просмотр курса"
+
+#: includes/class.generate_fields.php:576
+#, fuzzy
+msgid "Add new"
+msgstr "Добавить ключ"
+
+#: includes/class.generate_fields.php:591
+msgid "Enter a new"
+msgstr ""
+
+#: includes/class.generate_fields.php:723
+#: includes/class.generate_fields.php:764
+msgid "edit"
+msgstr ""
+
+#: includes/class.generate_fields.php:729
+msgid "Select Existing Group"
+msgstr ""
+
+#: includes/class.generate_fields.php:731
+#, fuzzy
+msgid "Select a Group"
+msgstr "Выбрать тип модуля"
+
+#: includes/class.generate_fields.php:733
+#: includes/class.generate_fields.php:774
+msgid "Set"
+msgstr ""
+
+#: includes/class.generate_fields.php:737
+#: includes/class.generate_fields.php:746
+#, fuzzy
+msgid "Create New Group"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:739
+msgid "Group Name"
+msgstr ""
+
+#: includes/class.generate_fields.php:743
+#: includes/class.generate_fields.php:784
+msgid "Hidden"
+msgstr ""
+
+#: includes/class.generate_fields.php:745
+msgid "Group Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:770
+msgid "Select Existing Forum"
+msgstr ""
+
+#: includes/class.generate_fields.php:772
+#, fuzzy
+msgid "Select a Forum"
+msgstr "Подключить форум"
+
+#: includes/class.generate_fields.php:778
+#: includes/class.generate_fields.php:787
+#, fuzzy
+msgid "Create New Forum"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:780
+msgid "Forum Name"
+msgstr ""
+
+#: includes/class.generate_fields.php:786
+msgid "Forum Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:908
+msgid "Product Title"
+msgstr ""
+
+#: includes/class.generate_fields.php:913
+msgid "Product title is useful to identify courses connected to this product."
+msgstr ""
+
+#: includes/class.generate_fields.php:916
+#: includes/class.generate_fields.php:917
+msgid "Price"
+msgstr ""
+
+#: includes/class.generate_fields.php:922
+msgid "Set price of the course"
+msgstr ""
+
+#: includes/class.generate_fields.php:925
+msgid "Sale"
+msgstr ""
+
+#: includes/class.generate_fields.php:926
+msgid "Sale Price"
+msgstr ""
+
+#: includes/class.generate_fields.php:931
+msgid "Blank if product not in sale"
+msgstr ""
+
+#: includes/class.generate_fields.php:934
+msgid "Subscription"
+msgstr ""
+
+#: includes/class.generate_fields.php:936
+#, fuzzy
+msgid "Subscription Type"
+msgstr "Тип вопроса "
+
+#: includes/class.generate_fields.php:938
+#, fuzzy
+msgid "FULL DURATION"
+msgstr "ПРОДОЛЖИТЕЛЬНОСТЬ ТЕСТА"
+
+#: includes/class.generate_fields.php:938
+msgid "LIMITED"
+msgstr ""
+
+#: includes/class.generate_fields.php:942
+msgid "Set subscription type of product."
+msgstr ""
+
+#: includes/class.generate_fields.php:945
+#, fuzzy
+msgid "Subscription Duration"
+msgstr "Продолжительность модуля"
+
+#: includes/class.generate_fields.php:951
+msgid "Must not be 0"
+msgstr ""
+
+#: includes/class.generate_fields.php:958
+#: includes/class.process_fields.php:1033
+msgid "Change"
+msgstr ""
+
+#: includes/class.generate_fields.php:961
+#: includes/class.generate_fields.php:972
+msgid "Set Product"
+msgstr ""
+
+#: includes/class.generate_fields.php:968
+msgid "Select existing product"
+msgstr ""
+
+#: includes/class.generate_fields.php:970
+msgid "Search a product"
+msgstr ""
+
+#: includes/class.generate_fields.php:976
+#, fuzzy
+msgid "Create new product"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:987
+#, fuzzy
+msgid "Create Product"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:1006
+#, fuzzy
+msgid "Edit Product"
+msgstr "Редактировать курс"
+
+#: includes/class.generate_fields.php:1044
+#, fuzzy
+msgid "Modify Course"
+msgstr "Редактировать курс"
+
+#: includes/class.generate_fields.php:1044
+#, fuzzy
+msgid "Back to course"
+msgstr "Сохранить курс"
+
+#: includes/class.generate_fields.php:1049
+msgid "TAKE OFFLINE"
+msgstr ""
+
+#: includes/class.generate_fields.php:1054
+#, fuzzy
+msgid "SHOW OPTIONS"
+msgstr "ДОБАВИТЬ"
+
+#: includes/class.generate_fields.php:1057
+#, fuzzy
+msgid "Delete Units"
+msgstr "Удалить"
+
+#: includes/class.generate_fields.php:1062
+#, fuzzy
+msgid "Delete Quizzes"
+msgstr "Удалить"
+
+#: includes/class.generate_fields.php:1067
+#, fuzzy
+msgid "Delete Assignments"
+msgstr "Выбрать курс в качестве задания "
+
+#: includes/class.generate_fields.php:1082
+#, fuzzy
+msgid "Course not set"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:1088
+msgid "Go Live"
+msgstr ""
+
+#: includes/class.generate_fields.php:1092
+#: includes/class.generate_fields.php:1097
+msgid "GO LIVE"
+msgstr ""
+
+#: includes/class.generate_fields.php:1099
+msgid "SEND FOR APPROVAL"
+msgstr ""
+
+#: includes/class.generate_fields.php:1133
+#: includes/class_wplms_front_end.php:1593
+msgid "ADD OPTION"
+msgstr "ДОБАВИТЬ"
+
+#: includes/class.generate_fields.php:1164
+#: includes/class.generate_fields.php:1179
+#: includes/class.generate_fields.php:1219
+#: includes/class.generate_fields.php:1238
+#: includes/class.generate_fields.php:1317
+#: includes/class.generate_fields.php:1326
+#: includes/class.generate_fields.php:1350
+#, fuzzy
+msgid "Preview"
+msgstr "Открытый модуль"
+
+#: includes/class.generate_fields.php:1165
+#: includes/class.generate_fields.php:1180
+#: includes/class.generate_fields.php:1220
+#: includes/class.generate_fields.php:1239
+#: includes/class.generate_fields.php:1318
+#: includes/class.generate_fields.php:1327
+#: includes/class.generate_fields.php:1336
+#: includes/class.generate_fields.php:1351
+#: includes/class_wplms_front_end.php:471
+#: includes/class_wplms_front_end.php:526
+#: includes/class_wplms_front_end.php:977
+#: includes/class_wplms_front_end.php:997
+#: includes/class_wplms_front_end.php:1014
+#: includes/class_wplms_front_end.php:1232
+#: includes/class_wplms_front_end.php:1270
+#: includes/class_wplms_front_end.php:1426
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/class.generate_fields.php:1166
+#: includes/class.generate_fields.php:1181
+#: includes/class.generate_fields.php:1221
+#: includes/class.generate_fields.php:1240
+#: includes/class.generate_fields.php:1319
+#: includes/class.generate_fields.php:1328
+#: includes/class.generate_fields.php:1352
+#: includes/class_wplms_front_end.php:472
+#: includes/class_wplms_front_end.php:527
+#: includes/class_wplms_front_end.php:978
+#: includes/class_wplms_front_end.php:998
+#: includes/class_wplms_front_end.php:1233
+#: includes/class_wplms_front_end.php:1427
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/class.generate_fields.php:1187
+#, fuzzy
+msgid "Select existing assignment"
+msgstr "Выбрать курс в качестве задания "
+
+#: includes/class.generate_fields.php:1189
+#, fuzzy
+msgid "Search an assignment"
+msgstr "Да, создать новое задание"
+
+#: includes/class.generate_fields.php:1191
+#, fuzzy
+msgid "Set Assignment"
+msgstr "Редактировать задание"
+
+#: includes/class.generate_fields.php:1195
+#, fuzzy
+msgid "Create new Assignment"
+msgstr "Да, создать новое задание"
+
+#: includes/class.generate_fields.php:1197
+#: includes/class.generate_fields.php:1260
+msgid "Reference title"
+msgstr ""
+
+#: includes/class.generate_fields.php:1198
+#, fuzzy
+msgid "Create Assignment"
+msgstr "Редактировать задание"
+
+#: includes/class.generate_fields.php:1225
+#: includes/class.generate_fields.php:1244
+#, fuzzy
+msgid "Marks"
+msgstr "Оценки : "
+
+#: includes/class.generate_fields.php:1250
+msgid "Select existing question"
+msgstr ""
+
+#: includes/class.generate_fields.php:1252
+#, fuzzy
+msgid "Search a question"
+msgstr "Да, создать новый вопрос"
+
+#: includes/class.generate_fields.php:1254
+#, fuzzy
+msgid "Set Question"
+msgstr "Изменить вопрос"
+
+#: includes/class.generate_fields.php:1258
+#, fuzzy
+msgid "Create new Question"
+msgstr "Да, создать новый вопрос"
+
+#: includes/class.generate_fields.php:1263
+#, fuzzy
+msgid "Question Tags"
+msgstr "Вопрос"
+
+#: includes/class.generate_fields.php:1270
+#, fuzzy
+msgid "Select a Tag"
+msgstr "Выбрать тип модуля"
+
+#: includes/class.generate_fields.php:1276
+#: includes/class_wplms_front_end.php:1568
+msgid "True or False"
+msgstr "Верно или неверно"
+
+#: includes/class.generate_fields.php:1277
+#: includes/class_wplms_front_end.php:1569
+msgid "Multiple Choice"
+msgstr "Множественный выбор"
+
+#: includes/class.generate_fields.php:1278
+#: includes/class_wplms_front_end.php:1570
+msgid "Multiple Correct"
+msgstr "Множественный верный"
+
+#: includes/class.generate_fields.php:1279
+#: includes/class_wplms_front_end.php:1571
+msgid "Sort Answers"
+msgstr "Сортировать ответы "
+
+#: includes/class.generate_fields.php:1280
+#: includes/class_wplms_front_end.php:1572
+msgid "Match Answers"
+msgstr "Соответствие ответов"
+
+#: includes/class.generate_fields.php:1281
+#: includes/class_wplms_front_end.php:1573
+msgid "Fill in the Blank"
+msgstr "Заполнение пропусков"
+
+#: includes/class.generate_fields.php:1282
+#: includes/class_wplms_front_end.php:1574
+msgid "Dropdown Select"
+msgstr "Выбор из списка"
+
+#: includes/class.generate_fields.php:1283
+#: includes/class_wplms_front_end.php:1575
+msgid "Small Text"
+msgstr "Короткий текст"
+
+#: includes/class.generate_fields.php:1284
+#: includes/class_wplms_front_end.php:1576
+msgid "Large Text"
+msgstr "Текстовый блок"
+
+#: includes/class.generate_fields.php:1294
+#, fuzzy
+msgid "Create question"
+msgstr "Изменить вопрос"
+
+#: includes/class.generate_fields.php:1316
+#: includes/class_wplms_front_end.php:469
+msgid "Edit Unit"
+msgstr "Изменить модуль"
+
+#: includes/class.generate_fields.php:1325
+#: includes/class.generate_fields.php:1349
+#: includes/class_wplms_front_end.php:525
+msgid "Edit Quiz"
+msgstr "Изменить тест"
+
+#: includes/class.generate_fields.php:1358
+#, fuzzy
+msgid "Enter Section Title"
+msgstr "Название вопроса : "
+
+#: includes/class.generate_fields.php:1364
+msgid "Select existing unit"
+msgstr ""
+
+#: includes/class.generate_fields.php:1366
+#, fuzzy
+msgid "Search a unit"
+msgstr "Поиск"
+
+#: includes/class.generate_fields.php:1368
+#, fuzzy
+msgid "Set Unit"
+msgstr "Изменить модуль"
+
+#: includes/class.generate_fields.php:1372
+#, fuzzy
+msgid "Create new unit"
+msgstr "Да, создать новый модуль"
+
+#: includes/class.generate_fields.php:1374
+#, fuzzy
+msgid "Unit title"
+msgstr "(нет названия)"
+
+#: includes/class.generate_fields.php:1377
+#, fuzzy
+msgid "Create Unit"
+msgstr "Открытый модуль"
+
+#: includes/class.generate_fields.php:1386
+msgid "Select existing quiz"
+msgstr ""
+
+#: includes/class.generate_fields.php:1388
+#, fuzzy
+msgid "Search a quiz"
+msgstr "Поиск"
+
+#: includes/class.generate_fields.php:1390
+#, fuzzy
+msgid "Set Quiz"
+msgstr "Изменить тест"
+
+#: includes/class.generate_fields.php:1394
+#, fuzzy
+msgid "Create new quiz"
+msgstr "Да, создать новый тест"
+
+#: includes/class.generate_fields.php:1396
+#, fuzzy
+msgid "Quiz title"
+msgstr "Введите подзаголовок теста "
+
+#: includes/class.generate_fields.php:1398
+#, fuzzy
+msgid "Create Quiz"
+msgstr "Создать курс"
+
+#: includes/class.generate_fields.php:1412
+msgid "SAVE CURRICULUM"
+msgstr ""
+
+#: includes/class.generate_fields.php:1433
+#, fuzzy
+msgid "Course Level"
+msgstr "Особое поле удалено. "
+
+#: includes/class.generate_fields.php:1440
+#, fuzzy
+msgid "Select a Course Level"
+msgstr "Выбрать курс в качестве задания "
+
+#: includes/class.generate_fields.php:1447
+msgid "Course Location"
+msgstr ""
+
+#: includes/class.generate_fields.php:1454
+#, fuzzy
+msgid "Select a Course location"
+msgstr "Включить в оценку прохождения курса"
+
+#: includes/class.process_fields.php:57 includes/class.process_fields.php:88
+#: includes/class.process_fields.php:112 includes/class.process_fields.php:138
+#: includes/class.process_fields.php:178 includes/class.process_fields.php:207
+#: includes/class.process_fields.php:277 includes/class.process_fields.php:351
+#: includes/class.process_fields.php:397 includes/class.process_fields.php:433
+#: includes/class.process_fields.php:474 includes/class.process_fields.php:659
+#: includes/class.process_fields.php:735 includes/class.process_fields.php:797
+#: includes/class.process_fields.php:844 includes/class.process_fields.php:881
+#: includes/class.process_fields.php:907 includes/class.process_fields.php:939
+#: includes/class.process_fields.php:970
+#: includes/class.process_fields.php:1045
+#: includes/class_wplms_front_end.php:146
+#: includes/class_wplms_front_end.php:218
+#: includes/class_wplms_front_end.php:315
+#: includes/class_wplms_front_end.php:439
+#: includes/class_wplms_front_end.php:497
+#: includes/class_wplms_front_end.php:552
+#: includes/class_wplms_front_end.php:580
+#: includes/class_wplms_front_end.php:614
+#: includes/class_wplms_front_end.php:763
+#: includes/class_wplms_front_end.php:802
+#: includes/class_wplms_front_end.php:827
+#: includes/class_wplms_front_end.php:1094
+#: includes/class_wplms_front_end.php:1408
+#: includes/class_wplms_front_end.php:1462
+#: includes/class_wplms_front_end.php:1533
+#: includes/class_wplms_front_end.php:1662
+#: includes/class_wplms_front_end.php:1689
+#: includes/class_wplms_front_end.php:1882
+msgid "Security check Failed. Contact Administrator."
+msgstr "Ошибка системы безопасности. Свяжитесь с администратором."
+
+#: includes/class.process_fields.php:267 includes/class.process_fields.php:341
+#: includes/class_wplms_front_end.php:199
+#: includes/class_wplms_front_end.php:283
+msgid "Unable to create course, contact admin !"
+msgstr "Невозможно создать курс, свяжитесь с администратором ! "
+
+#: includes/class.process_fields.php:283 includes/class.process_fields.php:357
+#: includes/class.process_fields.php:403 includes/class.process_fields.php:911
+#: includes/class.process_fields.php:943 includes/class.process_fields.php:974
+#: includes/class.process_fields.php:1051
+#: includes/class_wplms_front_end.php:224
+#: includes/class_wplms_front_end.php:320
+#: includes/class_wplms_front_end.php:444
+#: includes/class_wplms_front_end.php:502
+#: includes/class_wplms_front_end.php:557
+#: includes/class_wplms_front_end.php:585
+#: includes/class_wplms_front_end.php:619
+#: includes/class_wplms_front_end.php:768
+#: includes/class_wplms_front_end.php:807
+#: includes/class_wplms_front_end.php:832
+#: includes/class_wplms_front_end.php:1099
+msgid "Invalid Course id, please edit a course"
+msgstr "Недопустимый идентификатор курса, пожалуйста, отредактируйте"
+
+#: includes/class.process_fields.php:289 includes/class.process_fields.php:363
+#: includes/class.process_fields.php:409 includes/class.process_fields.php:917
+#: includes/class.process_fields.php:948 includes/class.process_fields.php:979
+#: includes/class.process_fields.php:1057
+#: includes/class_wplms_front_end.php:230
+#: includes/class_wplms_front_end.php:326
+#: includes/class_wplms_front_end.php:450
+#: includes/class_wplms_front_end.php:508
+#: includes/class_wplms_front_end.php:591
+#: includes/class_wplms_front_end.php:625
+#: includes/class_wplms_front_end.php:774
+msgid "Invalid Course Instructor"
+msgstr "Недопустимый инструктор курса "
+
+#: includes/class.process_fields.php:451 includes/class.process_fields.php:819
+msgid "FULL PREVIEW & STATS"
+msgstr ""
+
+#: includes/class.process_fields.php:457 includes/class.process_fields.php:640
+#: includes/class.process_fields.php:780 includes/class.process_fields.php:825
+msgid "Close"
+msgstr ""
+
+#: includes/class.process_fields.php:485
+msgid "CONTENT"
+msgstr ""
+
+#: includes/class.process_fields.php:489 includes/class.process_fields.php:744
+#, fuzzy
+msgid "Enter title"
+msgstr "Введите подзаголовок теста "
+
+#: includes/class.process_fields.php:499
+msgid "Category"
+msgstr ""
+
+#: includes/class.process_fields.php:506
+msgid "Select Category"
+msgstr ""
+
+#: includes/class.process_fields.php:513 includes/class.process_fields.php:747
+#, fuzzy
+msgid "Content"
+msgstr "Продолжить"
+
+#: includes/class.process_fields.php:545
+#, fuzzy
+msgid "Dynamic Quiz"
+msgstr "Недопустимый тест "
+
+#: includes/class.process_fields.php:546
+msgid "Dynamic quiz automatically selects questions."
+msgstr ""
+
+#: includes/class.process_fields.php:573
+#, fuzzy
+msgid "Assignments"
+msgstr "Редактировать задание"
+
+#: includes/class.process_fields.php:577
+#: includes/class_wplms_front_end.php:956
+msgid "Unit assignments"
+msgstr "Задание к модулю"
+
+#: includes/class.process_fields.php:578 includes/class.process_fields.php:603
+#, fuzzy
+msgid "Static Quiz questions"
+msgstr "Управление вопросами теста"
+
+#: includes/class.process_fields.php:583
+#, fuzzy
+msgid "ADD ASSIGNMENT"
+msgstr "ДОБАВИТЬ НОВОЕ ЗАДАНИЕ"
+
+#: includes/class.process_fields.php:598
+#, fuzzy
+msgid "QUESTIONS"
+msgstr "ДОБАВИТЬ ВОПРОС"
+
+#: includes/class.process_fields.php:602
+#, fuzzy
+msgid "Quiz Questions"
+msgstr "Управление вопросами теста"
+
+#: includes/class.process_fields.php:608
+#: includes/class_wplms_front_end.php:1215
+msgid "ADD QUESTION"
+msgstr "ДОБАВИТЬ ВОПРОС"
+
+#: includes/class.process_fields.php:622 includes/class.process_fields.php:762
+msgid "SAVE"
+msgstr ""
+
+#: includes/class.process_fields.php:628 includes/class.process_fields.php:768
+msgid "EDIT IN ADMIN"
+msgstr ""
+
+#: includes/class.process_fields.php:634
+msgid "PREVIEW"
+msgstr ""
+
+#: includes/class.process_fields.php:725
+#: includes/class_wplms_front_end.php:1186
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: includes/class.process_fields.php:774
+msgid "PREVIEW & STATS"
+msgstr ""
+
+#: includes/class.process_fields.php:849 includes/class.process_fields.php:886
+msgid "Empty title."
+msgstr ""
+
+#: includes/class_wplms_front_end.php:65
+msgid "Create a Course"
+msgstr "Создать курс"
+
+#: includes/class_wplms_front_end.php:72
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "СОЗДАНИЕ КУРСОВ ДОСТУПНО ТОЛЬКО ИНСТРУКТОРАМ И АДМИНИСТРАТОРАМ"
+
+#: includes/class_wplms_front_end.php:82
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr "Невозможно редактировать курс, пожалуйста свяжитесь с администратором"
+
+#: includes/class_wplms_front_end.php:85
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "Недопустимое действие, пожалуйста свяжитесь с администратором."
+
+#: includes/class_wplms_front_end.php:116
+msgid "Edit Course"
+msgstr "Редактировать курс"
+
+#: includes/class_wplms_front_end.php:170
+#: includes/class_wplms_front_end.php:255
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr ""
+"Невозможно создать новую рубрику для курса. Свяжитесь с администратором ! "
+
+#: includes/class_wplms_front_end.php:434
+msgid "Can not have a blank Unit "
+msgstr "Модуль не может быть пустым "
+
+#: includes/class_wplms_front_end.php:470
+#, fuzzy
+msgid "Preview Unit"
+msgstr "Открытый модуль"
+
+#: includes/class_wplms_front_end.php:492
+msgid "Can not have a Blank Quiz"
+msgstr "В тесте должны быть вопросы"
+
+#: includes/class_wplms_front_end.php:547
+#: includes/class_wplms_front_end.php:1528
+msgid "Can not delete"
+msgstr "Невозможно удалить"
+
+#: includes/class_wplms_front_end.php:563
+#: includes/class_wplms_front_end.php:1539
+msgid "Instructor can not delete this unit/quiz"
+msgstr "Инструктор не может удалить этот модуль/тест"
+
+#: includes/class_wplms_front_end.php:571
+#: includes/class_wplms_front_end.php:1547
+msgid "Unable to delete"
+msgstr "Невозможно удалить"
+
+#: includes/class_wplms_front_end.php:698
+msgid "Invalid Product specs"
+msgstr "Недопустимая спецификация товара "
+
+#: includes/class_wplms_front_end.php:750
+msgid "Unable to create product and pricing for course"
+msgstr "Невозможно создать продукт и ценник для курса "
+
+#: includes/class_wplms_front_end.php:786
+msgid "Course successfully updated."
+msgstr "Курс успешно обновлён."
+
+#: includes/class_wplms_front_end.php:789
+#: includes/class_wplms_front_end.php:816
+#: includes/class_wplms_front_end.php:876
+msgid "Unable to update Course, contact Site admin"
+msgstr "Невозможно обновить курс, свяжитесь с администратором "
+
+#: includes/class_wplms_front_end.php:814
+msgid "Course Offline."
+msgstr ""
+
+#: includes/class_wplms_front_end.php:837
+msgid "Course deletion not allowed"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:848
+#, fuzzy
+msgid "Unable to delete curriclum"
+msgstr "Невозможно удалить"
+
+#: includes/class_wplms_front_end.php:874
+#, fuzzy
+msgid "Course Deleted."
+msgstr "Особое поле удалено. "
+
+#: includes/class_wplms_front_end.php:917
+msgid "Unit Settings"
+msgstr "Настройки модуля"
+
+#: includes/class_wplms_front_end.php:920
+msgid "Unit Type"
+msgstr "Тип модуля"
+
+#: includes/class_wplms_front_end.php:921
+msgid "Select Unit Type"
+msgstr "Выбрать тип модуля"
+
+#: includes/class_wplms_front_end.php:925
+msgid "Video"
+msgstr "Видео"
+
+#: includes/class_wplms_front_end.php:926
+msgid "Audio"
+msgstr "Аудио"
+
+#: includes/class_wplms_front_end.php:927
+msgid "Podcast"
+msgstr "Запись"
+
+#: includes/class_wplms_front_end.php:928
+msgid "General"
+msgstr "Общий"
+
+#: includes/class_wplms_front_end.php:936
+msgid "Free Unit"
+msgstr "Открытый модуль"
+
+#: includes/class_wplms_front_end.php:937
+msgid "Make Unit Free"
+msgstr "Сделать модуль открытым"
+
+#: includes/class_wplms_front_end.php:940
+#: includes/class_wplms_front_end.php:1763
+msgid "NO"
+msgstr "НЕТ"
+
+#: includes/class_wplms_front_end.php:942
+#: includes/class_wplms_front_end.php:1761
+msgid "YES"
+msgstr "ДА"
+
+#: includes/class_wplms_front_end.php:948
+msgid "Unit Duration"
+msgstr "Продолжительность модуля"
+
+#: includes/class_wplms_front_end.php:949
+msgid "Duration of Unit"
+msgstr "Продолжительность модуля"
+
+#: includes/class_wplms_front_end.php:957
+msgid "Connect Assignments"
+msgstr "Подключить задание"
+
+#: includes/class_wplms_front_end.php:975
+#: includes/class_wplms_front_end.php:995
+msgid "Edit Assignment"
+msgstr "Редактировать задание"
+
+#: includes/class_wplms_front_end.php:976
+#: includes/class_wplms_front_end.php:996
+#, fuzzy
+msgid "Preview Assignment"
+msgstr "Редактировать задание"
+
+#: includes/class_wplms_front_end.php:986
+#: includes/class_wplms_front_end.php:1028
+#: includes/class_wplms_front_end.php:1245
+#: includes/class_wplms_front_end.php:1771
+msgid "None"
+msgstr "Отсутсвует"
+
+#: includes/class_wplms_front_end.php:1007
+#, fuzzy
+msgid "ADD EXISTING ASSIGNMENT"
+msgstr "ДОБАВИТЬ НОВОЕ ЗАДАНИЕ"
+
+#: includes/class_wplms_front_end.php:1008
+msgid "ADD NEW ASSIGNMENT"
+msgstr "ДОБАВИТЬ НОВОЕ ЗАДАНИЕ"
+
+#: includes/class_wplms_front_end.php:1009
+msgid "Add the Assignment title"
+msgstr "Добавить название к заданию"
+
+#: includes/class_wplms_front_end.php:1025
+msgid "Unit Forum"
+msgstr "Форум модуля"
+
+#: includes/class_wplms_front_end.php:1026
+msgid "Connect a Forum"
+msgstr "Подключить форум"
+
+#: includes/class_wplms_front_end.php:1029
+msgid "Add new child forum in Course forum"
+msgstr "Новый дочерний форум к форуму курса "
+
+#: includes/class_wplms_front_end.php:1030
+msgid "Add new forum"
+msgstr "Новый форум"
+
+#: includes/class_wplms_front_end.php:1050
+msgid "SAVE UNIT SETTINGS"
+msgstr "СОХРАНИТЬ НАСТРОЙКИ МОДУЛЯ"
+
+#: includes/class_wplms_front_end.php:1104
+msgid "Invalid Unit id, please edit a course"
+msgstr "Неверный id модуля, пожалуйста, измените курс"
+
+#: includes/class_wplms_front_end.php:1110
+msgid "Invalid Unit Instructor"
+msgstr "Неверный инструктор модуля"
+
+#: includes/class_wplms_front_end.php:1188
+msgid "Unable to save settings"
+msgstr "Невозможно сохранить настройки"
+
+#: includes/class_wplms_front_end.php:1212
+msgid "Manage Quiz Questions"
+msgstr "Управление вопросами теста"
+
+#: includes/class_wplms_front_end.php:1226
+#: includes/class_wplms_front_end.php:1421
+msgid "Question "
+msgstr "Вопрос"
+
+#: includes/class_wplms_front_end.php:1230
+#: includes/class_wplms_front_end.php:1425
+msgid "Edit Question"
+msgstr "Изменить вопрос"
+
+#: includes/class_wplms_front_end.php:1231
+#, fuzzy
+msgid "Preview Question"
+msgstr "Изменить вопрос"
+
+#: includes/class_wplms_front_end.php:1236
+#: includes/class_wplms_front_end.php:1430
+msgid "MARKS : "
+msgstr "ОЦЕНКИ : "
+
+#: includes/class_wplms_front_end.php:1246
+msgid "ADD A NEW QUESTION"
+msgstr "ДОБАВИТЬ НОВЫЙ ВОПРОС"
+
+#: includes/class_wplms_front_end.php:1262
+msgid "Marks : "
+msgstr "Оценки : "
+
+#: includes/class_wplms_front_end.php:1264
+msgid "Question Title : "
+msgstr "Название вопроса : "
+
+#: includes/class_wplms_front_end.php:1265
+msgid "Enter title for reference"
+msgstr "Введите заголовок для справки "
+
+#: includes/class_wplms_front_end.php:1269
+msgid "Publish Question"
+msgstr "Опубликовать вопрос"
+
+#: includes/class_wplms_front_end.php:1276
+#: includes/class_wplms_front_end.php:1399
+msgid "SAVE QUIZ SETTINGS"
+msgstr "СОХРАНИТЬ НАСТРОКИ ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1299
+msgid "Enter a Quiz sub-title"
+msgstr "Введите подзаголовок теста "
+
+#: includes/class_wplms_front_end.php:1309
+msgid "Enter a Quiz Completion message"
+msgstr "Текст сообщение об окончании теста"
+
+#: includes/class_wplms_front_end.php:1315
+msgid "Quiz Settings"
+msgstr "Настройки теста"
+
+#: includes/class_wplms_front_end.php:1319
+msgid "QUIZ SUB-TITLE"
+msgstr "ПОЗАГОЛОВОК ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1324
+msgid "CONNECTED COURSE"
+msgstr "ПОДКЛЮЧЕННЫЕ КУРСЫ"
+
+#: includes/class_wplms_front_end.php:1339
+msgid "QUIZ DURATION"
+msgstr "ПРОДОЛЖИТЕЛЬНОСТЬ ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1342
+msgid "QUIZ EVALUATION"
+msgstr "ОЦЕНКА ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1345
+msgid "AUTO"
+msgstr "АВТОМАТИЧЕСКАЯ"
+
+#: includes/class_wplms_front_end.php:1351
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "ТИП ВОПРОСОВ ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1354
+msgid "DYNAMIC"
+msgstr "ДИНАМИЧЕСКИЙ"
+
+#: includes/class_wplms_front_end.php:1356
+msgid "STATIC"
+msgstr "СТАТИЧЕСКИЙ"
+
+#: includes/class_wplms_front_end.php:1360
+msgid "SELECT QUESTION TAGS"
+msgstr "ЯРЛЫКИ ДЛЯ ВОПРОСА "
+
+#: includes/class_wplms_front_end.php:1371
+msgid "NUMER OF QUESTIONS"
+msgstr "КОЛИЧЕСТВО ВОПРОСОВ"
+
+#: includes/class_wplms_front_end.php:1374
+msgid "MARKS PER QUESTION"
+msgstr "ОЦЕНКИ ЗА ВОПРОСЫ"
+
+#: includes/class_wplms_front_end.php:1377
+msgid "QUIZ RETAKES"
+msgstr "ПОВТОРНОЕ ПРОХОЖДЕНИЕ"
+
+#: includes/class_wplms_front_end.php:1378
+msgid " Retakes"
+msgstr "Повторения"
+
+#: includes/class_wplms_front_end.php:1380
+msgid "QUESTIONS ORDER"
+msgstr "ПОРЯДОК ВОПРОСОВ"
+
+#: includes/class_wplms_front_end.php:1383
+msgid "RANDOM"
+msgstr "ПРОИЗВОЛЬНЫЙ"
+
+#: includes/class_wplms_front_end.php:1385
+msgid "SEQUENTIAL"
+msgstr "ПОСЛЕДОВАТЕЛЬНЫЙ"
+
+#: includes/class_wplms_front_end.php:1389
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "СООБЩЕНИЕ ОБ ОКОНЧАНИИ ТЕСТА"
+
+#: includes/class_wplms_front_end.php:1414
+#, php-format
+msgid "Add Content for %s"
+msgstr "Добавить комментарий для %s"
+
+#: includes/class_wplms_front_end.php:1467
+msgid "Invalid Quiz"
+msgstr "Недопустимый тест "
+
+#: includes/class_wplms_front_end.php:1505
+msgid "Quiz Settings saved"
+msgstr "Настройки теста сохранены"
+
+#: includes/class_wplms_front_end.php:1580
+msgid "QUESTION SETTINGS"
+msgstr "НАСТРОЙКИ ВОПРОСА"
+
+#: includes/class_wplms_front_end.php:1582
+msgid "Question Type"
+msgstr "Тип вопроса "
+
+#: includes/class_wplms_front_end.php:1603
+msgid "Click to select as Correct answer"
+msgstr "Нажмите для выбора правильного ответа "
+
+#: includes/class_wplms_front_end.php:1612
+msgid "Correct Answer"
+msgstr "Верный ответ "
+
+#: includes/class_wplms_front_end.php:1613
+msgid "Answer Hint"
+msgstr "Подсказка к ответу"
+
+#: includes/class_wplms_front_end.php:1614
+#, fuzzy
+msgid "Answer Explanation"
+msgstr "Пояснение ответа "
+
+#: includes/class_wplms_front_end.php:1622
+msgid "SAVE QUESTION SETTINGS"
+msgstr "СОХРАНИТЬ НАСТРОЙКИ ОТВЕТОВ "
+
+#: includes/class_wplms_front_end.php:1657
+msgid "Unable to save, incorrect question"
+msgstr "Невозможно сохранить, неверный вопрос "
+
+#: includes/class_wplms_front_end.php:1682
+msgid "Question settings successfully saved"
+msgstr "Настройки вопроса успешно сохранены "
+
+#: includes/class_wplms_front_end.php:1696
+msgid "Unable to save, incorrect unit"
+msgstr "Невозможно сохранить, неверный модуль "
+
+#: includes/class_wplms_front_end.php:1740
+msgid "ASSIGNMENT SETTINGS"
+msgstr "НАСТРОЙКИ ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1744
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "ПОДЗАГОЛОВОК ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1750
+msgid "ASSIGNMENT MARKS"
+msgstr "ОЦЕНКИ ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1751
+msgid "Assignment Maximum Marks"
+msgstr "Максимальный бал за задание"
+
+#: includes/class_wplms_front_end.php:1751
+msgid "MARKS"
+msgstr "ОЦЕНКИ"
+
+#: includes/class_wplms_front_end.php:1754
+msgid "ASSIGNMENT DURATION"
+msgstr "ПРОДОЛЖИТЕЛЬНОСТЬ ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1755
+msgid "Enter Assignment Duration"
+msgstr "Введите продолжительность задания"
+
+#: includes/class_wplms_front_end.php:1757
+msgid "ASSIGNMENT EVALUATION"
+msgstr "ОЦЕНКА ВЫПОЛНЕНИЯ ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1758
+msgid "Include in Course Evaluation"
+msgstr "Включить в оценку прохождения курса"
+
+#: includes/class_wplms_front_end.php:1768
+msgid "ASSIGNMENT COURSE"
+msgstr "ЗАДАННЫЙ КУРС"
+
+#: includes/class_wplms_front_end.php:1769
+msgid "Select Assignment Course"
+msgstr "Выбрать курс в качестве задания "
+
+#: includes/class_wplms_front_end.php:1786
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "ТИП ОТПРАВКИ ЗАДАНИЯ"
+
+#: includes/class_wplms_front_end.php:1788
+msgid "UPLOAD"
+msgstr "ЗАГРУЗИТЬ"
+
+#: includes/class_wplms_front_end.php:1789
+msgid "TEXTAREA"
+msgstr "ТЕКСТОВЫЙ БЛОК"
+
+#: includes/class_wplms_front_end.php:1792
+msgid "ATTACHMENT TYPE"
+msgstr "ПРИЛОЖЕНИЕ"
+
+#: includes/class_wplms_front_end.php:1837
+msgid "Attachment Size"
+msgstr "Размер приложения "
+
+#: includes/class_wplms_front_end.php:1838
+msgid "Maximum attachment size"
+msgstr "Максимальный объем приложения "
+
+#: includes/class_wplms_front_end.php:1838
+msgid " MBs"
+msgstr "Мб"
+
+#: includes/class_wplms_front_end.php:1887
+msgid "Invalid details"
+msgstr "Неверные детали"
+
+#: includes/class_wplms_front_end.php:1893
+msgid "Invalid Assignment author"
+msgstr "Неверное присвоение автора"
+
+#: includes/class_wplms_front_end.php:1902
+msgid "SETTINGS SAVED"
+msgstr "НАСТРОЙКИ СОХРАНЕНЫ"
+
+#: includes/class_wplms_front_end.php:1914
+msgid "ADD PACKAGE"
+msgstr "ДОБАВИТЬ АРХИВ "
+
+#: includes/class_wplms_front_end.php:1918
+msgid "Seconds"
+msgstr "Секунд "
+
+#: includes/class_wplms_front_end.php:1919
+msgid "Minutes"
+msgstr "Минут"
+
+#: includes/class_wplms_front_end.php:1920
+msgid "Hours"
+msgstr "Часов"
+
+#: includes/class_wplms_front_end.php:1921
+msgid "Days"
+msgstr "Дней"
+
+#: includes/class_wplms_front_end.php:1922
+msgid "Weeks"
+msgstr "Недель"
+
+#: includes/class_wplms_front_end.php:1923
+msgid "Months"
+msgstr "Месяцев"
+
+#: includes/class_wplms_front_end.php:1924
+msgid "Years"
+msgstr "Лет"
+
+#~ msgid "Unable to save course setting : "
+#~ msgstr "Невозможно сохранить настройки курса : "
+
+#~ msgid "Unable to save curriculum, please contact site admin"
+#~ msgstr ""
+#~ "Невозможно сохранить план обучения, пожалуйста, свяжитесь с "
+#~ "администратором "
+
+#~ msgid "Can not have delete"
+#~ msgstr "Невозможно удалить "
+
+#~ msgid " Minutes"
+#~ msgstr "Минут"
+
+#~ msgid "Add a New Assignment"
+#~ msgstr "Добавить новое задание"
+
+#~ msgid "DAYS"
+#~ msgstr "ДНЕЙ"

@@ -1,0 +1,74 @@
+.pro-tmp-msg {
+    background: none repeat scroll 0 0 #ccc;
+    color: #111;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    width: 67px;
+}
+.radio-post-template-wrapper {
+    margin-right: 15px !important;
+    position: relative;
+    width: 115px;
+    text-align: center; 
+}
+.single-source-field .field-label {
+    display: inline-block;
+    padding-left: 10px;
+    width: 150px;
+}
+.section-input .post-videourl {
+    width: 690px;
+}
+.audiourl-sec input[type="text"] {
+  width: 690px;
+}
+.apmag-themeoption .option .controls a.wp-color-result{
+    padding: 0 0 0 30px;
+}
+.iris-palette-container a{
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+}
+.gallery-section-wrapper .image-sec input[type="text"] {
+  width: 700px;
+}
+
+.post_image_section .gal-img-block {
+  display: inline-block;
+  vertical-align: top;
+  margin: 2% 0;
+  width: 24%;
+}
+
+.post_image_section .gal-img-block .fig-remove {
+  display: block;
+  border: 1px solid #0073aa;
+  padding: 5px 2px;
+  text-align: center;
+  width: 86px;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  -webki-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  -moz-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+  margin-top: 3%;
+  background: #0091cd;
+  color: #fff;
+  cursor: pointer;
+}
+
+.my-post-settings, .my-page-settings{
+    display: inline-block;
+}
+.post-template-wrapper,.post-sidebar-wrapper,.page-sidebar-wrapper {
+    display: inline-block;
+}
+.sidebar-link {
+    margin-top: 1em;
+}
+.team-thumb img {
+    width: 294px;
+}
+#section-select_preloader img {
+    width: 40px;
+}

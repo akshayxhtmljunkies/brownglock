@@ -1,0 +1,675 @@
+* language file changes
+* version1.9.9.3
+* Friendly time function modification
+* Price options
+* Pricing course label min width
+* Bug Fixes
+* Microdata fixes
+* wishlist fixes
+* Assignment heading in Units
+* Improve pricing dropdown
+* Instructor emails not working
+* Assignments title missing
+* Pre Course fix
+* shuffle removal for questions
+* Bug fix for message emails
+* bug fix for activitiy record
+* changes for widhlist plug
+* related courses widget
+* assignment heading fix
+* WooCommerce order status functions
+* assignment activity message
+* External check and function_exists on course_button
+* Filter on sender and item links
+* Quiz next page scroll up
+* Touch point fixes
+* version1.9.9.2
+* Category filter bug fix
+* singular bug in related courses widget
+* Star rating bug fix
+* hroup id bug on course subscribe
+* 1.9.9.1
+* notifications bug fix
+* is numeric bug fix
+* Drip feed bug fix
+* multiple pre-course
+* Course Unit media lock fix
+* language files update
+* plugin verison
+* 1.9.9
+* Widget carousel auto
+* Notifications bug fix
+* Get user courses query update
+* Remove filters on User courses
+* Approved unapproved class on unit comments
+* Mailer enable_hmlr check
+* Start date time
+* Course location filter
+* bulk add user fix
+* Variable pricing fixes
+* Remove user at all times
+* Script in footer
+* removal of print r
+* Question hint bug
+* Mailer switch and template
+* Start quiz hook in notifications fixed
+* Auto evaluation course id
+* Select drop bug in single quiz
+* Price html fix
+* Star rating
+* WP_New_Comment for Unit comments for spam parsing
+* Datepicker for Coruse.js
+* Start and end date
+* Course link
+* Rating display error fix
+* Course Date filter
+* function exists on get_plugin_data
+* Singleton BP Course activation class
+* Free Course assignment fix
+* Veriable product id filter
+* version1.9.8.4
+* updated changelog
+* Bulk action add user now uses bp_course_add_user_to_course
+* Student count accuracy
+* Singleton Notifications class and instructor notification on unit comment fix
+* Filter for HTML emails and stopping mails totally
+* Singleton activity class
+* Empty quiz submission check
+* Total discount factor removed from commission calculation
+* Quiz passing flag fix
+* Notifications spelling mistakes
+* Remove default orderby in filters
+* Percentage fix and ## fix
+* Quiz userid postmeta update when postmeta not set
+* changelog
+* plugin version function
+* Start Date bug fix
+* The Course Button filters
+* version in bp course css/js
+* Pmpro membership fix
+* Default commission fix
+* Fillblank match fix
+* Course Reviews from Stats section
+* Quiz title in Evaluations
+* 1.9.8.3
+* Quiz passing score fix
+* PMPro renew course fix
+* Course started time difference in course - admin - member stats
+* Activity with no Course id fix
+* Next unit index bug fix
+* First unit with unit lock bug fix
+* Shortcode in hint bug
+* version1.9.8.2
+* Select dropdown in single incourse quiz bug fix
+* Free course auto subscribe bug fix
+* Single Quiz essary type fix
+* Message to instructor on assignment submission not working
+* Single question match answers not working
+* Fillblank bug fix in Firefox
+* Unit attachments displayed in quizzes bug fix
+* version1.9.8.1
+* Bp Course add user fix
+* Single quiz course progress bug fix
+* Single Quiz progress bar fixes
+* Time in minus bug fix
+* Drip feed bug fix
+* version1.9.8
+* Quiz popup
+* Tick sign CSS correction in Course admin
+* Unit comment bug fix for Touch points
+* Clubbing Insert queries into 1 query for Quiz sybmit
+* Multiple replies in unit comments bug fix
+* Correct Answer filter for marking in points
+* Successive quizzes in Drip feed courses bug
+* Drip Feed fixes
+* Force add user to course on WooCommerce order completion
+* Seats check in BP course Add user to course function
+* Notification assignment message correction
+* Course status empty check
+* Duplicate comments in Unit comments
+* Course progress bar boundary conditions check
+* Check user results from course User status fix
+* Instructor courses quiz count fix
+* Text area in single quiz bug
+* BP Course User query update
+* Truefalse in single quiz
+* Course retakes fix
+* version1.9.7
+* Inaguage files updated
+* HTML Email as text issue fixed
+* Quiz without save answer Fixed
+* Quiz passing score fix
+* Quiz passing score bug fix
+* Search bug fix
+* Clean
+* course.js restored
+* quiz js
+* Revert "Merge branch 'quiz' into develop"
+* quiz update
+* consistency check
+* numeric check on mark complete
+* numeric check on mark complete
+* bp_is_user_course fix
+* Check Quiz results from Course Admin
+* auto evaluate bug fix
+* Related courses widget
+* Scroll top on unit pages
+* numeric check on mark complete
+* version1.9.6.5
+* Announcement notifications
+* Course activity meta record bugfix
+* security fixes
+* Course reset bug
+* Security Fixes
+* version1.9.6.4
+* Course Activity in Start assignment
+* Badges Warning
+* BadgeOs activity fix
+* Unit comments bug fix
+* version1.9.6.3
+* version1.9.6.3
+* bugfix for input boxes visible in Course status page
+* Congrats Message bug fix
+* version1.9.6.2
+* Mailer fixes
+* Live edit bug fix
+* version1.9.6.1
+* Bug fixes
+* Please complete the Unit Bug
+* Start date time for directly assign user to course
+* Bug fix Live edit and Quiz retake
+* Translation files updated
+* Bug fixes
+* Bug fix for bulk action member recording
+* Translation update
+* version1.9.6
+* Rounding off error
+* Drip feed bug
+* Course pricing drop down fix
+* Free course validation correction
+* Bug fixes for BP_course_Bp_mail errror while adding users to course
+* Stats Queries updated
+* version addition in scripts
+* get course students count function
+* schema validation
+* Child categories exapnd in course filters
+* CSS fixes
+* Added course scheduler and mailer
+* Course notifications restructuring
+* Restructure course activity
+* Filter by course statuses
+* Badge Certificate bugfix
+* Assignment message and email bugfix
+* Function bug fixes
+* Activity code hooks
+* BuddyPress Course Notifications added
+* bp course mail template processor added
+* Activity code refactorisation
+* Commission calculation Bug Fix
+* Notification settings
+* Course Pricing html changes
+* Removed Pricing drop down
+* Bulk Action now records member ID and action
+* Progressbar bug fix
+* Unit in Course security fix
+* version1.9.5.2
+* Unset Orderby in Single courses
+* version1.9.5.1
+* Course Filters widget fix
+* Attachment names bug
+* Execute shortcodes in Notes & Discussion
+* version1.9.5
+* Language files
+* Question and answer bug fixes
+* CSS Fixes
+* Course reviews widget added
+* Display star rating function added
+* Quiz message first two letters bug fix
+* Add pot file
+* Trigger next unit Fix for Quizzes
+* Unit Page js working fix
+* Progress bar fixes
+* Course status manage js changes
+* CSS for bulk user status change
+* Badge and Certificate assignment condition change
+* Course status manage screen
+* FillBlank and Small text answer fix
+* Filter on Take this course button label
+* The_content fileter on quiz message
+* Badge and Certificate assignment Condition change
+* Manage course status Bulk action
+* Change user role to student on order completion
+* esc_url_raw fix
+* version1.9.4.1
+* Quiz and Discussion fix
+* Coming Soon fix
+* version1.9.4
+* comments per page
+* Link styling
+* Unit comments reply
+* Language files updated
+* Certificate PDF
+* update language
+* Unit comments, Reset quiz fixes
+* html2canvas updated
+* certificate fix
+* Show all memberships connected to a course
+* Auto redirect
+* Incorrect and unanswered questions
+* next unit access & unit comments
+* Simple notes & Discussion
+* Question shortcode
+* Attachment links open in new page.
+* Language change
+* Commission reversal on refund
+* esc_url in add_query_arg
+* version1.9.3.1
+* Retake quiz bug
+* Curriculum span bug
+* version1.9.3
+* Translation fixes
+* Next quiz issue in unit locking
+* Quiz timer clickage issue
+* Removal of date in units
+* Next quiz bug fix
+* Quiz submit notification bug
+* Administor in BP Course widget
+* Unit tags conditional
+* Strict standard bug fixes & Noices in BP Course module
+* Regexp changes in the mysql query
+* Check on function exists while joining group
+* Instructor in take this course page
+* Date in Course start page
+* Dynamic quiz bug fix
+* version1.9.2.2
+* BuddyPress course instructor widget fix
+* changelog
+* version1.9.2.1
+* Fillblank null fix
+* Activity page fix
+* Course certificate validation
+* Course directory grid fix
+* version1.9.2
+* Updated language files
+* Quiz in-timer in start course
+* Check quiz expiry time
+* In Course Quiz feature
+* Woocommerce filter removed PMPro - WooCommerce bug
+* Quiz timer and timeline in course area
+* Notes & Discussion instructor highlight
+* Quiz contents loading in Course cirriculum
+* Style fixes
+* Course instructor slug
+* Classes filter on course item
+* Filters on badge and Certificate marks for awarding.
+* Clean up
+* Finished course link filter added
+* version check
+* Course item view
+* questions loaded necessary functions
+* version1.9.1
+* Language files updated
+* Multiple order by added
+* Quiz question trigger timer removed
+* BuddyPress 2.2 compatibility
+* Free courses auto subscribe disable
+* Default sort order in Course directory added
+* Download custom stats option
+* Theme shortname Fix
+* Stop notes on certain units feature.
+* Instructors in Course Filter widget
+* ADDED : More than one correct answer for small text and fill in the blank
+* Fixed : Stats calculation bug
+* Trigger called twice fix
+* version1.9
+* Translation files updated
+* Czech language
+* Grid Cookie centralisation
+* Course Categories function updated
+* is_numeric check on course id
+* caching fixes
+* curriculum accordion fixes
+* Element player Fixes/cookie fixes
+* Pagination fix for BuddyPress & WPLMS Components
+* FIXED:  Item_page pagination in Groups and Courses
+* Email add students text
+* Email support in add Course Students
+* Czech language
+* Grid Cookie centralisation
+* Course Categories function updated
+* is_numeric check on course id
+* version1.8.4.1
+* Compatible Theme version compare
+* Course Renew for Free Courses fix.
+* Support for Older versions.
+* Free Course bug fix
+* version1.8.4
+* Translation file updated
+* Cookie fix for accurate Course progress percentage
+* Course Status bit
+* Changes in Course Status
+* CSS changes
+* Conse logs for bug fixing
+* Unit reply module
+* Notes & Discussion merge
+* Unit Notes & discussion labels
+* SideComments CSS
+* Unit Comments
+* Unit Comments Features
+* JQuery changes in course.js file
+* added Active filters CSS
+* FIXED : Instrucitng courses endpoint in Instructor widget
+* Active Filters in WPLMS
+* Comment Count and Post comment ajax calls
+* version1.8.3.1
+* FIXED : Unique cache key generation bug
+* Warnings on User Stats
+* Private Label fix
+* Remove memberships from Membership
+* version1.8.3
+* Course Progress bug ifx
+* Friendly time funciton change
+* Translation fix
+* Course Notifications added
+* Course Screens message localization added
+* Fixed : Instructor description
+* FIXED : Widget not saving details and translation labels
+* FIXED : Multiple Course Instructor allignment
+* Fixed : Audio, Video in quiz questions bug
+* Updated Translation files
+* Pricing Color Fix
+* Translation fix
+* Transient for BP Course Large queries
+* Language fixes
+* CSS Fixes for pricing select
+* Select Pricing javascript
+* Pricing fixes
+* Passing certificate fix
+* UPDATED:  Course time to show course time only
+* Multi Pricing for Course
+* Updated changeling
+* Template updates
+* version1.8.2
+* Language files updated
+* Fixed : Load more in activity
+* FIXED : Certificate assignment bug
+* Bug fixes
+* CSS Fixes
+* version check update
+* download stats files naming convention
+* Download Stats functionality for quizzes/assignments/questions
+* Display stats ajax call
+* Download Stats Course final
+* Download Stats Part 1
+* Remove extra registration of css/js files
+* If instructor commission is set to 0 disable it.
+* passing userid in course reset action
+* version check
+* Private label fix
+* Course specific css
+* html2canvas now included in the course file
+* Download stats
+* version1.8.1
+* updated language files
+* removed minified option
+* Added Exclude categories check
+* Pagination bug fix
+* Adding filter on Product id for course.
+* Added for_course in translation
+* Fixed : 0 Minutes issue
+* Filters and Actions added on successful purchase of course
+* Fixed : Course Filters Cookies fix
+* Course Grid fix
+* Adding Final Course Templates
+* Updated : Language files
+* version1.8
+* Added : Commission calculation
+* Translation fixes
+* Course Categories filter
+* Start course date fix
+* Version check
+* Added : Extend Student subscription
+* Fixed translation of unit/quiz notification
+* ADDED : Course Filter Widget
+* CSS Fixes in mobile layout of quiz
+* FIXED : Grid cookie issue pagination
+* version1.7.5
+* WP FEE 1.0 beta fix
+* Child theme fix
+* version1.7.4
+* UPDATED  : Language files
+* Translation fixes
+* JQuery Print script added
+* Version 1.7.3.1
+* ADDED : Free Translation
+* FIXED : Child Theme bug
+* FIXED : Multisite auto activation
+* Coauthor plus support in instructing courses
+* added course it in Drip filter
+* Fixed : Record CPT Warning
+* Renamed Enter student name/email
+* version1.7.3
+* UPDATED : Language files
+* Load Quiz results in popup
+* FIXED : Language translation fix
+* ADDED : Custom Course Time format
+* ADDED : Load finished quiz results in the Course curriculum
+* ADDED : Search Student in Course Admin
+* FIXED : Language and translation issues
+* ADDED : Message sent to instructor when user submits course for manual courses
+* Fixed : Printing issues
+* UPDATED: Language files
+* Updated : Language files
+* FIXED : 9999 days in activity for unlimited duration
+* version1.7.2
+* FIXED : Multiple Correct Auto Evaluated bug
+* UPDATED : Language files
+* ADDED : Course Stats widget
+* REMOVED : BP Course Instructor avatar function
+* FIXED : WPML Start course bug
+* ADDED : Hooks for BadgeOs Addon plugin
+* ADDED : Query args filter for Filter Widgets
+* ADDED : Minification support
+* FIXED : COURSE CPT constant instead of SLUG
+* ADDED : CodeStyling localization compatibility
+* UPDATED : Added filter for Marks
+* FIXED : BP Course CPT in Post Type slug
+* FIXED : Remove BP Course instructor avatar call
+* FIXED : DW Q&A Integration fixes
+* UPDATED : Instructor display html
+* ADDED : Rating list in Course widget
+* FIXED : Language files
+* FIXED: Instructor course CSS for CoAuthor Plus
+* version1.7.1
+* version1.7.1
+* UPDATED : Language Files
+* ADDED :Language gr_GR
+* ADDED : Grid view in course
+* FIXED : Pricing issue in Course, Product, membership, private label conflict.
+* FIXED : Hint shown on blank
+* FIXED : Fetch Quiz colors from customizer
+* Removing Instructor query from plugin
+* version1.7
+* UPDATED : LANGUAGE FILES
+* FIXED: Record activity from all Post Type
+* UPDATED : Order correction for recording activities
+* version 1.6.5
+* FIXED : Duration parameters
+* ADDED : Filter to arrange information in course details
+* ADDED : Levels in course search widget
+* ADDED : Custom slugs
+* version1.6.4
+* FIXED : Course access removed when order is cancelled/refunded
+* FIXED : Reset Answer and Save Answer
+* ADDED : Default orderly is Menu order
+* ADDED : Match Question type
+* FIXED : Students finishing course can see course
+* FIXED: Unnecessary settings in notifications
+* ADDED : PMPRo and WooCommerce simultaneously
+* ADDED : Question Hints
+* UPDATED : Language files
+* FIXED : Firefox Issues on media completion
+* version 1.6.3.1
+* FIXED : Duration on manually adding user to course
+* FIXED : Several warning in WPDEBUG mode
+* version 1.6.3
+* ADDED : Search in translation files in Course search widget
+* ADDED : Portugese translation files
+* version 1.6.2
+* Updated  : Language files
+* FIXED : xprofile check
+* ADDED : rs_RS.po file
+* FIXED : Course with No quiz
+* ADDE : Filter for Extra information in course button
+* FIXED : Remove Member from Group and removing from Course
+* FIXED : WPLMS Student course reset action
+* FIXED : Blank or invalid certificate code
+* version 1.6.1
+* FIXED : Duplicate Badge and Certificate assignment
+* FIXED : Warning message in Quiz when no questions defined
+* version 1.6
+* UPDATED : Language FILES [US,FR,PL,DE,ES,IT]
+* ADDED : Hook for resetting course expired students
+* FIXED : Unregistered actions bug
+* FIXED : Draft,Pending,Private,future courses
+* FIXED : Date labels filter
+* ADDED : Filter for Instructor to view courses in user profile
+* UPDATED : Course Members section now show all completed members
+* FIXED: Unit complete scroll issue
+* ADDED : French Translation files
+* version 1.5.5
+* FIXED : Visual composer javascript functions on Units and Unit media locking tooltip bug
+* ADDED: Filter wplms_course_finished on the Finished content. Used in showing reviews after course is finished
+* FIXED : ADDED a boundary Condition, checks for course array
+* Version 1.5.4
+* UPDATED : Translation files [US,ES,DE,IT,PL]
+* FIXED : by in translation
+* FIXED : Bulk send message bug
+* FIXED : Pagination bug in Course -> Members
+* ADDED: Ajax loader for Quiz
+* ADDED : Custom Functions to check user active status in a course
+* ADDED : Badge & Certificate Assigning form Course Admin
+* FIXED : Added Course action in Activity
+* ADDED :Italian translation files
+* FIXED : Adding per to translation files
+* Version 1.5.3.1
+* ADDED : German Translation files
+* FIXED: Translations bug
+* FIXED : Ajax Quiz bug
+* FIXED : Proceed to Quiz fix for unit locking
+* FIXED : Activity pages blank due to BuddyPress pagination bug
+* Version1.5.3
+* UPDATED : Language Files
+* FIXED : Changed load_textdomain to load_plugin_textdomain
+* FIXED : Warning when Certificates were reset to a string.
+* FIXED : Certificate Print functions
+* ADDED : New HTML Canvas Library
+* FIXED : CSS fixes
+* ADDED : Private Courses
+* ADDED : Instructor ability to add Students
+* ADDED : New Library for printing certificates
+* ADDED : Unit Blocking
+* version 1.5.2
+* FIXED: Quiz submit question appearing.
+* FIXED : BP Course SLUG Added in Quiz Results marks message.
+* v 1.5.1.1
+* FIXED: Quiz timer event bug in Firefox
+* FIXED : Language files
+* FIXED : PMPRO Membership errors
+* UPDATED : Language files updated
+* FIXED : Free Course not show error message for non-logged in users
+* FIXED : Translation fixes in Unit Traverse
+* ADDED : Necessary course functions for various tips and hooks
+* FIXED : All Course Page Title default values
+* FIXED : Alphabetical Sort Order
+* FIX : Timer in Theme Color
+* ADDED : Unit Complete filter
+* Updated : Assignment Submissions CSS
+* Fix : Reset Badges and Certificates on course reset
+* ADDED : Pagination in Members in Courses -> Members
+* Fix : Fallback All Course Page title function added
+* Fix : Consolidating validation in one function
+* Fix: Credits fix
+* version 1.4.1
+* version 1.4.1
+* UPDATED : Language Files
+* ADDED : PMPRO Membership fixes
+* ADDED : Reset Answer Button in Questions
+* FIX : Added Filter wplms_course_front_details
+* Fix : Reviews Translation
+* Fix : Badge display in Course pages
+* version 1.4
+* Fix : Hide activity Provision
+* Fix : Course button can be placed anywhere
+* FIX : One Question quiz next button
+* adding keywords to translation files
+* FIX : Current menu highlight in Course Menu
+* Optimizing the get Course students function
+* Language files updated
+* v 1.3.4
+* Recording Activity Meta for Instructor Stats
+* Fix for Free Course auto join Group
+* Bug on Quiz submission : Fade added
+* Sort, MCQ and language fixes
+* Sort answer option added
+* Sort Answer Question
+* Localization strings added to Js
+* Instructor Avatar display check in Course Directory.
+* Triggering event for js files to detect and run custom functions. For compatibility with other short code plugins.
+* Badges and Certificate Fix on Auto Evalutation
+* Insecure Query fix
+* v 1.3.3.2
+* Reset Quiz Fix
+* v 1.3.3
+* Language Files updated
+* Activity translation functions added
+* Generic parent print function
+* Quiz Retake option
+* Language fix
+* version 1.3.2
+* Certificate Generator
+* Version 1.3.1
+* Course Search Widget
+* User stats CSS fix
+* User stats CSS fix
+* Course Auto Evaluation
+* Friendly Time filter
+* version 1.2.1
+* Threaded page units nextpage
+* Language changes II
+* Language changes
+* Version 1.2
+* Version 1.2
+* Additional hooks
+* Free Course Price Hooks & Multiple Instructor hook
+* Unit Print
+* BP_COURSE_SLUG Fix
+* Google Microdata fix & addition of hooks and filters
+* Auto Update added
+* Auto Update
+* Course Widget fix
+* Bug Fixes Round 1
+* Instructor filter
+* Ratings  & Reviews fixes
+* Removing alert message
+* Fixes to Quiz Rest & evaluate, Timer & Auto Submit
+* Final changes
+* Fix for Instructor  Widget
+* Course Template
+* final fixes
+* Quiz total
+* Course confim fix
+* Confirm on reset
+* Ajax Fixes
+* Course mod final
+* Course Mod complete
+* Fixing after the merge
+* Course
+* Fixing Course and Starting with Alternate Route
+* Single course page
+* Course archive and all course page
+* Finishing Archive
+* Modifying classes and template
+* Adding course Admin
+* Adding Course Admin panel
+* Course Module Init

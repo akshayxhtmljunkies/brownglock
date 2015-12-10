@@ -1,0 +1,1102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-21 15:20+0530\n"
+"PO-Revision-Date: 2015-10-21 15:20+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: partyfave <service@partyfave.me>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"dashboard\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-dashboard\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "请输入您 Envato Marketplace 用户名"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ".请输入您  Envato Marketplace API秘钥"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr " API \"set\" 为必需参数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"item ID\" 为必需参数."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "API请求期间，出现意外的HTTP错误"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "在试一次"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "出现未知错误"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr "插件已更新，但未被激活，请手动激活"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "插件已成功激活"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "更新插件"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "用户名:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "邮件"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "密码:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>插件更新已 <span style=\"color:green\">启用</span></p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>你输入的<span style=\"color:red\">无效</span>, 自动更新 <span style="
+"\"color:red\">无法启动</span>.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "编辑秘钥"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p> 无法验证更新已启用 </ p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "添加秘钥"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "用户名"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "邮件"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr " Themeforest 用户名(用于自动更新)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:47
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:61
+msgid "Dashboard"
+msgstr "操作面板"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:76
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:194
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:232
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:233
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:234
+msgid "News"
+msgstr "显示最新消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:39
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:51
+msgid "Earnings"
+msgstr "收益"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:40
+msgid "Payout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:41
+#, fuzzy
+msgid "# Students"
+msgstr "全部学员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:42
+#, fuzzy
+msgid "SAVED"
+msgstr "保存"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:43
+msgid "SAVING ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:44
+msgid "Stats Calculated, reloading page ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:63
+msgid "Student Sidebar"
+msgstr "学员侧边栏"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:69
+msgid "This is the dashboard sidebar for Students"
+msgstr "这个给学员使用的操作面板侧边栏"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:72
+msgid "Instructor Sidebar"
+msgstr "讲师侧边栏"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:78
+msgid "This is the dashboard sidebar for Instructors"
+msgstr "这个给讲师使用的操作面板侧边栏"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:23
+msgid "Course News"
+msgstr "课程新闻"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:38
+msgid "Read More"
+msgstr "阅读更多"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:44
+msgid "No news available for Course"
+msgstr "暂时没有新的课程消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:14
+msgid "announcement Widget for Dashboard"
+msgstr "操作面板的通知小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:16
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr "操作面板：讲师通知小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:63
+msgid "Add announcement"
+msgstr "添加通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr "发送通知给学习课程的学生"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:70
+msgid "All Students"
+msgstr "全部学员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:71
+msgid "Students who are pursuing the course"
+msgstr "购买课程的学员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:72
+msgid "Students who finished the coruse"
+msgstr "完成课程的学员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:80
+msgid "Submit"
+msgstr "提交"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:98
+msgid "announcement"
+msgstr "通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:267
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:176
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:130
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:96
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:201
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr "标题:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:112
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:292
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:200
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:134
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:179
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:201
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:148
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:246
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:212
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:357
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:75
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr "选择宽度"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:114
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:294
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:202
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:106
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:150
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:248
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:214
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:77
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr "1/4"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:115
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:137
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:151
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:360
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:78
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr "1/3"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:296
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:138
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:183
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:205
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:120
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:250
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:216
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:361
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:79
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr "1/2"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:117
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:297
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:205
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:139
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:109
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:153
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:251
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:124
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:80
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr "2/3"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:298
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:140
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:110
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:154
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:252
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:125
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:81
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr "3/4"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:299
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:141
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:186
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:208
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:155
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:222
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:253
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:126
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:364
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:82
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr "全部"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:127
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:229
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:195
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:291
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:208
+msgid "Security error"
+msgstr "安全错误"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:134
+msgid "Please enter some text for announcement"
+msgstr "请输入通知内容"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:138
+msgid "Course list not set"
+msgstr "暂未设置课程列表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:155
+msgid "announcement successfully delivered"
+msgstr "通知已成功发布"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:214
+msgid "CLICK TO EXPAND"
+msgstr "单击展开"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:215
+#, php-format
+msgid "You have %s announcements"
+msgstr "你有个 %s 通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:238
+msgid "Unable to remove annoucement"
+msgstr "无法删除通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr "操作面板中将小工具排列"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr "操作面板：换行符"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr "换行符：新一行"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr "给讲师简易的统计报告"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr "操作面板：讲师简易统计"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:70
+msgid "Total Commission Earned"
+msgstr "佣金获得总额"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:89
+msgid "Courses Instructing"
+msgstr "指导课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:109
+msgid "Quizzes Created"
+msgstr "测试题已创建"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:128
+msgid "Units Created"
+msgstr "单元已创建"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:147
+msgid "Assignments Created"
+msgstr "作业已创建"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:166
+msgid "Questions Created"
+msgstr "问题已创建"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:186
+msgid "Badges Awarded"
+msgstr "奖章已颁发"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:208
+msgid "Certificates awarded"
+msgstr "证书已颁发"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:122
+msgid "Instructor Stats"
+msgstr "讲师统计"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:271
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:205
+msgid "Select Stats"
+msgstr "选择统计"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:276
+msgid "WooCommerce Earnings"
+msgstr "WooCommerce 收益"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:277
+msgid "Number of courses"
+msgstr "课程数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:278
+msgid "Number of Quizzes"
+msgstr "测试题数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "Number of assignments"
+msgstr "作业数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of questions"
+msgstr "问题数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:281
+msgid "Number of units"
+msgstr "单元数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:282
+msgid "Number of badges"
+msgstr "奖章数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:283
+msgid "Number of certificates"
+msgstr "证书数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:13
+#, fuzzy
+msgid "Instructing Modules  Widget for Dashboard"
+msgstr "操作面板中将小工具排列"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : Instructing Modules"
+msgstr "操作面板：讲师统计信息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:42
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:41
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:39
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:46
+msgid "Courses"
+msgstr "课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:45
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:42
+#, fuzzy
+msgid "Quizzes"
+msgstr "考试"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:48
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:45
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:52
+msgid "Assignments"
+msgstr "作业"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:51
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:48
+msgid "Units"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:71
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:78
+#, fuzzy
+msgid "No Courses found"
+msgstr "暂无消息通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:92
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:100
+#, fuzzy
+msgid "No quizzes found"
+msgstr "暂无消息通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:113
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:122
+#, fuzzy
+msgid "No assignments found"
+msgstr "暂无消息通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:136
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:146
+#, fuzzy
+msgid "No units found"
+msgstr "未找到相应数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:163
+#, fuzzy
+msgid "Instructing Modules"
+msgstr "讲师"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:180
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:222
+#, fuzzy
+msgid "Show My Courses"
+msgstr "显示已完成的课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:226
+msgid "Show My Quizzes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:188
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:230
+#, fuzzy
+msgid "Show My Assignments"
+msgstr "作业"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:192
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:234
+#, fuzzy
+msgid "Show My Units"
+msgstr "显示成绩"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:196
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:242
+msgid "Number of items"
+msgstr "项目数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr "WooCommerce 讲师佣金统计"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr "操作面板：讲师佣金统计"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:51
+msgid "Course"
+msgstr "课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:59
+#, fuzzy
+msgid "Commissions Paid"
+msgstr "佣金获得总额"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:70
+msgid "No data found"
+msgstr "未找到相应数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:317
+msgid "No courses found for Instructor"
+msgstr "未找到讲师的课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr "讲师统计小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr "操作面板：讲师统计信息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:55
+msgid "No courses created by instructor"
+msgstr "暂未有讲师创建课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:77
+msgid "Show Stats"
+msgstr "显示成绩"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:78
+msgid "Re-calculate Stats"
+msgstr "重新统计成绩"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:79
+msgid "List Quiz / Assignments"
+msgstr "罗列考试题/作业"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:123
+msgid "Average Score"
+msgstr "平均成绩"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:154
+msgid "Instructor Statistics"
+msgstr "讲师统计数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:171
+msgid "Set Range value (10 for 1/10)"
+msgstr "设定范围值（10 的 1/10）"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:175
+msgid "Set Max course limit"
+msgstr "设置课程最大限制值"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:282
+msgid "No data available"
+msgstr "无有效的数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:49
+msgid "Quiz"
+msgstr "考试"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:321
+msgid "Assignment"
+msgstr "作业"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:14
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr "最近学员的活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr "操作面板：最近活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr "未读信息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr "暂无消息通知"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "在线好友"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "无在线好友"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr "最近活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:133
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr "之前"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr "未找到活动信息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr "学员活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr "显示最近通知消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr "显示最近活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "显示在线好友"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr "操作面板：日历"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "查看全部"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:140
+msgid "Number of activities in one screen"
+msgstr "本页显示活动的数量"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr "显示我个人或好友的活动"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr "联系表单小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr "操作面板：联系表单"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr "选择用户组"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr "选择用户组"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "好友"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr "讲师"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr "管理员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr "课程中学员"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr "输入名字自动完成剩余步骤"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr "请输入标题"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr "输入通知消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "发送消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:86
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:191
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr "联系讲师"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr "列表形式给用户显示"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:217
+msgid "Please enter to/subject/message"
+msgstr "请输入标题、消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:227
+#, php-format
+msgid "Message sent to %s members"
+msgstr "通知消息已发送到会员 %s "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr "学员在课程中的进程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr "操作面板：课程进程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:124
+msgid "Course Progress"
+msgstr "课程进程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:144
+msgid "Show Finished Courses"
+msgstr "显示已完成的课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:191
+msgid "Security check failed !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:196
+msgid " Incorrect User selected."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr "学员成绩简易统计表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr "操作面板：简易统计表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:55
+msgid "Courses Completed"
+msgstr "课程已完成"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:88
+msgid "Assignments Completed"
+msgstr "作业已完成"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:122
+msgid "Quizzes Completed"
+msgstr "测试已完成"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:151
+msgid "Units Completed"
+msgstr "单元已完成"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:208
+msgid "Finished Courses"
+msgstr "完成课程"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:209
+msgid "Finished Quizes"
+msgstr "完成测试"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:210
+msgid "Finished Assignments"
+msgstr "完成作业"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:211
+msgid "Finished Units"
+msgstr "完成单元"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:13
+#, fuzzy
+msgid "My Courses, Units, Quizzes, Assignments widget for Dashboard"
+msgstr "操作面板笔记&讨论小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : My Modules Widget"
+msgstr "操作面板：文本小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:51
+msgid "Downloads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:173
+#, fuzzy
+msgid "No downloads found"
+msgstr "未找到相应数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:238
+msgid "Show My Downloads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:13
+msgid "News for Members"
+msgstr "成员消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:15
+msgid " DASHBOARD : Member News"
+msgstr "操作面板：成员消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:171
+msgid "No news for you !"
+msgstr "你没有什么消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:208
+msgid "Maximum Number of New blocks in carousel"
+msgstr "滑块中最多的消息数"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:235
+msgid "Add News"
+msgstr "增加信息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:236
+msgid "All News"
+msgstr "全部消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:256
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:258
+msgid "News Tag"
+msgstr "消息标签"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:259
+msgid "Add New Tag"
+msgstr "增加新标签"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:260
+msgid "All News Tags"
+msgstr "全部消息标签"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:273
+msgid "Share with students in Course"
+msgstr "与课程的学员共同分享"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:274
+msgid "Student having access to this courses will get the news"
+msgstr "学生可获得该课程相关消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:280
+msgid "Post Sub-Title"
+msgstr "文章副标题"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:281
+msgid "Post Sub- Title."
+msgstr "文章副标题"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:288
+msgid "News Settings"
+msgstr "设置消息"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:13
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr "操作面板笔记&讨论小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:15
+msgid " DASHBOARD : Notes & Discussion"
+msgstr "操作面板：笔记&讨论"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:41
+msgid "SEE ALL"
+msgstr "查看全部"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr "我的笔记"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr "我的讨论"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr "笔记&讨论"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:115
+msgid "Number of Notes/Dicussions"
+msgstr "笔记/讨论的数量"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr "学员统计数据小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr "操作面板：学员统计表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:268
+msgid "MY MARKS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:268
+msgid "AVERAGE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:302
+msgid "Student Statistics"
+msgstr "学员统计表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:321
+msgid "Show Course statistics"
+msgstr "显示课程统计表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:325
+msgid "Course Chart Style"
+msgstr "课程柱状图风格"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:327
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:339
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:351
+msgid "LINE CHART"
+msgstr "线形图表"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:328
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:340
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:352
+msgid "AREA CHART"
+msgstr "面积图"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:329
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:341
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:353
+msgid "BAR CHART"
+msgstr "柱状图"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:333
+msgid "Show Quiz statistics"
+msgstr "显示考试统计数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:337
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:349
+msgid "Quiz Chart Style"
+msgstr "考试柱状图风格"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:345
+msgid "Show Assignments statistics"
+msgstr "显示作业统计数据"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr "操作面板文本小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr "操作面板：文本小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr "文本内容"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr "待办事项小工具"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr "操作面板：待办事项"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr "增加新的任务"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr "保存"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr "待办事项"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr "显示任务日期"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr "启用优先任务"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr "安全错误"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr "无法保存"
+
+#~ msgid "START"
+#~ msgstr "开始"
+
+#~ msgid "CONTINUE"
+#~ msgstr "继续"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "提交"
+
+#~ msgid "FINISHED"
+#~ msgstr "完成"

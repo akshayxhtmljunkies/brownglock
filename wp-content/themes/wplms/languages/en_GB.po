@@ -1,0 +1,7650 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS\n"
+"POT-Creation-Date: 2015-11-12 12:13+0000\n"
+"PO-Revision-Date: 2015-11-12 20:19+0000\n"
+"Last-Translator: Peter Glock <peter@glock.co.uk>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: _inc/ajax.php:276
+msgid "Please enter some content to post."
+msgstr ""
+
+#: _inc/ajax.php:291
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+
+#: _inc/ajax.php:324
+msgid "Please do not leave the comment area blank."
+msgstr ""
+
+#: _inc/ajax.php:327 _inc/ajax.php:336
+msgid "There was an error posting that reply, please try again."
+msgstr ""
+
+#: _inc/ajax.php:394 _inc/ajax.php:430
+msgid "There was a problem when deleting. Please try again."
+msgstr ""
+
+#: _inc/ajax.php:493 _inc/ajax.php:514 activity/entry.php:72
+#: includes/register.php:268
+msgid "Remove Favorite"
+msgstr ""
+
+#: _inc/ajax.php:495 _inc/ajax.php:512 activity/entry.php:68
+#: includes/register.php:265
+msgid "Favorite"
+msgstr ""
+
+#: _inc/ajax.php:599 groups/create.php:265 groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr ""
+
+#: _inc/ajax.php:603
+#, php-format
+msgid ""
+"%s has previously requested to join this group. Sending an invitation will "
+"automatically add the member to the group."
+msgstr ""
+
+#: _inc/ajax.php:647
+msgid "Friendship could not be canceled."
+msgstr ""
+
+#: _inc/ajax.php:649 _inc/ajax.php:667
+msgid "Add Friend"
+msgstr ""
+
+#: _inc/ajax.php:657
+msgid " Friendship could not be requested."
+msgstr ""
+
+#: _inc/ajax.php:659
+msgid "Cancel Friendship Request"
+msgstr ""
+
+#: _inc/ajax.php:669
+msgid "Friendship request could not be cancelled."
+msgstr ""
+
+#: _inc/ajax.php:674
+msgid "Request Pending"
+msgstr ""
+
+#: _inc/ajax.php:694
+msgid "There was a problem accepting that request. Please try again."
+msgstr ""
+
+#: _inc/ajax.php:713
+msgid "There was a problem rejecting that request. Please try again."
+msgstr ""
+
+#: _inc/ajax.php:743
+msgid "Error joining group"
+msgstr ""
+
+#: _inc/ajax.php:745 _inc/ajax.php:758
+msgid "Leave Group"
+msgstr ""
+
+#: _inc/ajax.php:756 _inc/ajax.php:766
+msgid "Error requesting membership"
+msgstr ""
+
+#: _inc/ajax.php:768
+msgid "Membership Requested"
+msgstr ""
+
+#: _inc/ajax.php:777
+msgid "Error leaving group"
+msgstr ""
+
+#: _inc/ajax.php:779
+msgid "Join Group"
+msgstr ""
+
+#: _inc/ajax.php:781
+msgid "Request Membership"
+msgstr ""
+
+#: _inc/ajax.php:800
+msgid "There was a problem closing the notice."
+msgstr ""
+
+#: _inc/ajax.php:834
+#, php-format
+msgid "Sent %s"
+msgstr ""
+
+#: _inc/ajax.php:851
+msgid "There was a problem sending that reply. Please try again."
+msgstr ""
+
+#: _inc/ajax.php:869
+msgid "There was a problem marking messages as unread."
+msgstr ""
+
+#: _inc/ajax.php:894
+msgid "There was a problem marking messages as read."
+msgstr ""
+
+#: _inc/ajax.php:919
+msgid "There was a problem deleting messages."
+msgstr ""
+
+#: _inc/ajax.php:928
+msgid "Messages deleted."
+msgstr ""
+
+#: activity/activity-loop.php:34 course/single/activity.php:34
+#: includes/notes-discussions.php:389
+msgid "Load More"
+msgstr ""
+
+#: activity/activity-loop.php:48 course/single/activity.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: activity/comment.php:30
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: activity/comment.php:40 groups/single/forum/edit.php:10
+#: includes/notes-discussions.php:161 includes/notes-discussions.php:164
+#: includes/notes-discussions.php:180 includes/notes-discussions.php:183
+#: includes/notes-discussions.php:353 includes/notes-discussions.php:356
+#: includes/notes-discussions.php:372 includes/notes-discussions.php:375
+#: includes/notes-discussions.php:726 includes/notes-discussions.php:730
+#: includes/notes-discussions.php:746 includes/notes-discussions.php:751
+#: single-unit.php:131 start.php:262
+msgid "Reply"
+msgstr ""
+
+#: activity/comment.php:46 create_content.php:473 create_content.php:485
+#: members/single/messages/messages-loop.php:84
+#: members/single/messages/single.php:24
+msgid "Delete"
+msgstr ""
+
+#: activity/entry.php:37
+msgid "In reply to: "
+msgstr ""
+
+#: activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: activity/entry.php:37 includes/register.php:273
+msgid "View"
+msgstr ""
+
+#: activity/entry.php:60
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: activity/entry.php:68
+msgid "Mark as Favorite"
+msgstr ""
+
+#: activity/entry.php:104 includes/notes-discussions.php:405
+#: includes/widgets/custom_widgets.php:544
+#: includes/widgets/custom_widgets.php:590 single-unit.php:151 start.php:282
+msgid "Post"
+msgstr ""
+
+#: activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr ""
+
+#: activity/index.php:81
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: activity/index.php:81 members/index.php:72
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:91
+msgid "The activity of my friends only."
+msgstr ""
+
+#: activity/index.php:91 members/index.php:76
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:103
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: activity/index.php:103 groups/index.php:81
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:113
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: activity/index.php:113
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:121
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: activity/index.php:121
+msgid "Mentions"
+msgstr ""
+
+#: activity/index.php:121
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: activity/index.php:135 groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr ""
+
+#: activity/index.php:135 groups/single/activity.php:3
+msgid "RSS"
+msgstr ""
+
+#: activity/index.php:140 groups/single/activity.php:8
+#: members/single/activity.php:19
+msgid "Show:"
+msgstr ""
+
+#: activity/index.php:142 groups/single/activity.php:10
+#: members/single/activity.php:21
+msgid "Everything"
+msgstr ""
+
+#: activity/index.php:143 groups/single/activity.php:11
+#: members/single/activity.php:22
+msgid "Updates"
+msgstr ""
+
+#: activity/index.php:147 forums/forums-loop.php:39
+#: members/single/activity.php:28 single.php:107
+msgid "Posts"
+msgstr ""
+
+#: activity/index.php:148 includes/widgets/custom_widgets.php:45
+#: includes/widgets/custom_widgets.php:82 members/single/activity.php:29
+msgid "Comments"
+msgstr ""
+
+#: activity/index.php:154 groups/single/activity.php:14
+#: members/single/activity.php:44
+msgid "Forum Topics"
+msgstr ""
+
+#: activity/index.php:155 groups/single/activity.php:15
+#: members/single/activity.php:45
+msgid "Forum Replies"
+msgstr ""
+
+#: activity/index.php:161 members/single/activity.php:51
+msgid "New Groups"
+msgstr ""
+
+#: activity/index.php:162 groups/single/activity.php:18
+#: members/single/activity.php:52
+msgid "Group Memberships"
+msgstr ""
+
+#: activity/index.php:168 members/single/activity.php:36
+msgid "Friendships"
+msgstr ""
+
+#: activity/index.php:172
+msgid "New Members"
+msgstr ""
+
+#: activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: activity/post-form.php:35
+msgid "Post Update"
+msgstr ""
+
+#: activity/post-form.php:42
+msgid "Post in"
+msgstr ""
+
+#: activity/post-form.php:45 members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr ""
+
+#: allinstructors.php:90
+msgid "Courses by Instructor "
+msgstr ""
+
+#: allinstructors.php:100
+msgid "No Instructors found."
+msgstr ""
+
+#: answer-essay.php:24 answer-fillblank.php:24 answer-match.php:25
+#: answer-options.php:25 answer-select.php:25 answer-sort.php:25
+#: answer-text.php:24 assignment-textarea.php:21 assignment-upload.php:25
+#: comments.php:20 course-review.php:26
+#: includes/widgets/custom_bp_widgets.php:237
+#: members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr ""
+
+#: answer-essay.php:25 answer-fillblank.php:25 answer-match.php:26
+#: answer-options.php:26 answer-select.php:26 answer-sort.php:26
+#: answer-text.php:25 assignment-textarea.php:22 assignment-upload.php:26
+#: comments.php:21 course-review.php:27
+#: paid-memberships-pro/pages/account.php:57
+msgid "Email"
+msgstr ""
+
+#: answer-essay.php:26 answer-fillblank.php:26 answer-match.php:27
+#: answer-options.php:27 answer-select.php:27 answer-sort.php:27
+#: answer-text.php:26 assignment-textarea.php:23 assignment-upload.php:27
+#: comments.php:22 course-review.php:28
+#: members/single/profile/profile-wp.php:33 single.php:113
+msgid "Website"
+msgstr ""
+
+#: answer-essay.php:30 answer-fillblank.php:31 answer-match.php:32
+#: answer-options.php:32 answer-select.php:32 answer-sort.php:32
+#: answer-text.php:31
+msgid "Save Answer"
+msgstr ""
+
+#: answer-essay.php:30 answer-fillblank.php:31 answer-match.php:30
+#: answer-match.php:32 answer-options.php:30 answer-options.php:32
+#: answer-select.php:30 answer-select.php:32 answer-sort.php:30
+#: answer-sort.php:32 answer-text.php:31 assignment-textarea.php:29
+msgid "Answer"
+msgstr ""
+
+#: answer-essay.php:35 answer-fillblank.php:46 answer-match.php:48
+#: answer-options.php:49 answer-select.php:49 answer-sort.php:48
+#: answer-text.php:46
+msgid "Previous Answers to this Question"
+msgstr ""
+
+#: answer-fillblank.php:41 answer-text.php:41
+msgid "Clear Answer"
+msgstr ""
+
+#: answer-match.php:43 answer-options.php:44 answer-select.php:44
+#: answer-sort.php:43
+msgid "Clear saved Answer"
+msgstr ""
+
+#: archive-course.php:11
+msgid "Course Directory"
+msgstr ""
+
+#: archive-course.php:12
+msgid "All Courses by all instructors"
+msgstr ""
+
+#: archive-course.php:44 course/index.php:64
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr ""
+
+#: archive-course.php:48 course/index.php:68
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr ""
+
+#: archive-course.php:68 blogs/index.php:99 course/index.php:89
+#: forums/index.php:63 groups/index.php:100 groups/single/forum.php:36
+#: members/index.php:95 members/single/blogs.php:19
+#: members/single/forums.php:17 members/single/friends.php:20
+#: members/single/groups.php:20
+msgid "Order By:"
+msgstr ""
+
+#: archive-course.php:70 blogs/index.php:103 course/index.php:95
+#: groups/index.php:105 includes/widgets/custom_widgets.php:312
+#: members/index.php:103 members/single/blogs.php:23
+#: members/single/friends.php:24 members/single/groups.php:25
+msgid "Alphabetical"
+msgstr ""
+
+#: archive-course.php:71 groups/index.php:104 members/single/groups.php:24
+msgid "Newly Created"
+msgstr ""
+
+#: archive-course.php:72 course/index.php:96 groups/index.php:103
+#: members/single/groups.php:23
+msgid "Most Members"
+msgstr ""
+
+#: archive-course.php:73 course/index.php:97
+msgid "Highest Rated"
+msgstr ""
+
+#: archive-course.php:161 course/course-loop.php:115 course/my-courses.php:92
+msgid "You have not subscribed to any courses."
+msgstr ""
+
+#: archive-wplms-event.php:24
+msgid "All Events in "
+msgstr ""
+
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: archive.php:48 author.php:39 blog.php:40 index.php:27 search.php:39
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: archive.php:73 author.php:64 blog.php:65 search-incourse.php:60
+#: search.php:64
+msgid "Read More"
+msgstr ""
+
+#: assignment-textarea.php:29
+msgid "Answer Assignment"
+msgstr ""
+
+#: assignment-textarea.php:31 assignment-upload.php:38
+msgid "Assignment submitted !"
+msgstr ""
+
+#: assignment-upload.php:36
+msgid "Submit Assignment"
+msgstr ""
+
+#: assignment-upload.php:36
+msgid "Upload Assignment"
+msgstr ""
+
+#: author-course.php:12
+msgid "All Courses by "
+msgstr ""
+
+#: author-course.php:22 author.php:22
+#, php-format
+msgid "%s profile"
+msgstr ""
+
+#: author.php:12
+msgid "All posts by "
+msgstr ""
+
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr ""
+
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: blogs/index.php:51
+msgid "Create a Site"
+msgstr ""
+
+#: blogs/index.php:73
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:77
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:101 forums/index.php:65 groups/index.php:102
+#: groups/single/forum.php:38 members/index.php:98 members/single/blogs.php:21
+#: members/single/forums.php:19 members/single/friends.php:22
+#: members/single/groups.php:22
+msgid "Last Active"
+msgstr ""
+
+#: blogs/index.php:102 members/single/blogs.php:22
+msgid "Newest"
+msgstr ""
+
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+#: certificate.php:46
+msgid "CERTIFICATE OF COMPLETION"
+msgstr ""
+
+#: certificate.php:48
+msgid "Awarded to"
+msgstr ""
+
+#: certificate.php:58
+msgid "for successful completion of course"
+msgstr ""
+
+#: comments.php:7
+msgid " Responses on "
+msgstr ""
+
+#: comments.php:25
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "Leave a Message"
+msgstr ""
+
+#: course-review.php:35
+msgid "Post Review"
+msgstr ""
+
+#: course-review.php:35
+msgid "Write a Review"
+msgstr ""
+
+#: course-review.php:43
+msgid "Course Reviews"
+msgstr ""
+
+#: course-review.php:46
+msgid "No Reviews found for this course."
+msgstr ""
+
+#: course/index.php:71
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr ""
+
+#: course/index.php:93
+msgid "Select Order"
+msgstr ""
+
+#: course/index.php:94
+msgid "Newly Published"
+msgstr ""
+
+#: course/instructor-courses.php:86
+msgid "You have not created any Course."
+msgstr ""
+
+#: course/single/admin.php:17 course/single/home.php:41
+#: groups/single/admin.php:231 single-course.php:31
+msgid "Members"
+msgstr ""
+
+#: course/single/admin.php:20
+msgid "Submissions"
+msgstr ""
+
+#: course/single/admin.php:23
+msgid "Activity"
+msgstr ""
+
+#: course/single/admin.php:26 includes/widgets/custom_bp_widgets.php:52
+msgid "Stats"
+msgstr ""
+
+#: course/single/admin.php:58 course/single/members.php:19
+msgid "Total number of Students in course"
+msgstr ""
+
+#: course/single/admin.php:59 course/single/members.php:20
+msgid "Students Currently taking this course"
+msgstr ""
+
+#: course/single/admin.php:95
+msgid "Reset Course for User"
+msgstr ""
+
+#: course/single/admin.php:96
+msgid "See Course stats for User"
+msgstr ""
+
+#: course/single/admin.php:97
+msgid "See User Activity in Course"
+msgstr ""
+
+#: course/single/admin.php:98
+msgid "Remove User from this Course"
+msgstr ""
+
+#: course/single/admin.php:108
+msgid "No Students found."
+msgstr ""
+
+#: course/single/admin.php:113
+msgid "BULK ACTIONS"
+msgstr ""
+
+#: course/single/course-header.php:38 groups/single/group-header.php:42
+msgid "Instructors"
+msgstr ""
+
+#: course/single/curriculum.php:23 create_content.php:453
+msgid "Course Curriculum"
+msgstr ""
+
+#: course/single/curriculum.php:47
+msgid "FREE"
+msgstr ""
+
+#: course/single/curriculum.php:61 start.php:76
+msgid " Hours"
+msgstr ""
+
+#: course/single/curriculum.php:61
+msgid "minutes"
+msgstr ""
+
+#: course/single/events.php:18
+msgid "Events"
+msgstr ""
+
+#: course/single/forums.php:4
+msgid "Course Forums"
+msgstr ""
+
+#: course/single/front.php:34
+msgid " STUDENTS ENROLLED"
+msgstr ""
+
+#: course/single/front.php:76
+msgid "READ MORE"
+msgstr ""
+
+#: course/single/front.php:85
+msgid "LESS"
+msgstr ""
+
+#: course/single/home.php:39 includes/func.php:1195 single-course.php:29
+#: single-sfwd-courses.php:51
+msgid "Home"
+msgstr ""
+
+#: course/single/home.php:40 single-course.php:30 single-sfwd-courses.php:52
+msgid "Curriculum"
+msgstr ""
+
+#: course/single/home.php:49 single-course.php:39
+msgid "Group"
+msgstr ""
+
+#: course/single/home.php:55 single-course.php:46
+msgid "Forum"
+msgstr ""
+
+#: course/single/home.php:60 single-course.php:51
+msgid "Admin"
+msgstr ""
+
+#: course/single/stats.php:22
+msgid "Total Number of Students who took this course"
+msgstr ""
+
+#: course/single/stats.php:23
+msgid "Average Percentage obtained by Students"
+msgstr ""
+
+#: course/single/stats.php:23 create_content.php:288
+msgid "out of 100"
+msgstr ""
+
+#: course/single/stats.php:24 course/single/stats.php:30
+msgid "Number of Students who got a Badge"
+msgstr ""
+
+#: course/single/stats.php:25 course/single/stats.php:29
+msgid "Number of Passed Students"
+msgstr ""
+
+#: course/single/stats.php:28
+msgid "Average Marks obtained by Students"
+msgstr ""
+
+#: course/single/stats.php:37
+msgid "No curriculum defined"
+msgstr ""
+
+#: course/single/stats.php:62
+msgid "Average Marks in Quiz "
+msgstr "Average Marks in Quiz/Questionnaire"
+
+#: course/single/stats.php:70
+msgid "Calculate :"
+msgstr ""
+
+#: course/single/stats.php:71
+msgid "Calculate Statistics for Course"
+msgstr ""
+
+#: course/single/submissions.php:20
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr ""
+
+#: course/single/submissions.php:54
+msgid "Reset Assignment for User"
+msgstr ""
+
+#: course/single/submissions.php:55
+msgid "Evaluate Assignment : "
+msgstr ""
+
+#: course/single/submissions.php:72
+msgid "QUIZ SUBMISSIONS"
+msgstr "QUESTIONNAIRE SUBMISSIONS"
+
+#: course/single/submissions.php:112
+msgid "Reset Quiz for User"
+msgstr ""
+
+#: course/single/submissions.php:113
+msgid "Evaluate Quiz for User"
+msgstr ""
+
+#: course/single/submissions.php:130
+msgid "COURSE SUBMISSIONS"
+msgstr ""
+
+#: course/single/submissions.php:162
+msgid "Evaluate Course for User"
+msgstr ""
+
+#: create_content.php:31 create_content.php:408
+msgid "Course specific instructions"
+msgstr ""
+
+#: create_content.php:32
+msgid ""
+"Enter a course completion message for students passing this course. This "
+"message is shown to students when students submit their course. The message "
+"is shown above the Course review form"
+msgstr ""
+
+#: create_content.php:67
+msgid "EDIT COURSE"
+msgstr ""
+
+#: create_content.php:67 create_content.php:216
+msgid "CREATE COURSE"
+msgstr ""
+
+#: create_content.php:67
+msgid "Start building a course"
+msgstr ""
+
+#: create_content.php:68
+msgid "SETTINGS"
+msgstr ""
+
+#: create_content.php:68
+msgid "Course settings"
+msgstr ""
+
+#: create_content.php:69
+msgid "SET CURRICULUM"
+msgstr ""
+
+#: create_content.php:69
+msgid "Add Units and Quizzes"
+msgstr ""
+
+#: create_content.php:74
+msgid "PRICING"
+msgstr ""
+
+#: create_content.php:74
+msgid "Set Price for Course"
+msgstr ""
+
+#: create_content.php:82
+msgid "MODIFY COURSE"
+msgstr ""
+
+#: create_content.php:82
+msgid "Change Course status"
+msgstr ""
+
+#: create_content.php:86 create_content.php:91
+msgid "PUBLISH COURSE"
+msgstr ""
+
+#: create_content.php:86 create_content.php:91
+msgid "Go Live !"
+msgstr ""
+
+#: create_content.php:99
+msgid "Edit in Admin Panel"
+msgstr ""
+
+#: create_content.php:107
+msgid "COURSE TITLE"
+msgstr ""
+
+#: create_content.php:109
+msgid "ENTER A COURSE TITLE"
+msgstr ""
+
+#: create_content.php:111
+msgid "COURSE CATEGORY"
+msgstr ""
+
+#: create_content.php:115
+msgid "Select a Course Category"
+msgstr ""
+
+#: create_content.php:116
+msgid "Add new category"
+msgstr ""
+
+#: create_content.php:131
+msgid "Enter a new Course Category"
+msgstr ""
+
+#: create_content.php:136
+msgid "COURSE IMAGE"
+msgstr ""
+
+#: create_content.php:149
+msgid "COURSE DESCRIPTION"
+msgstr ""
+
+#: create_content.php:158
+msgid ""
+"Enter a short description of the course, in less than 30 words. Click on "
+"text to edit it and \n"
+"                                delete this text. Full course description "
+"will be added later on."
+msgstr ""
+
+#: create_content.php:169
+msgid "COURSE LINKAGE"
+msgstr ""
+
+#: create_content.php:173
+msgid "Select Linkage term"
+msgstr ""
+
+#: create_content.php:182
+msgid "Add new Linkage term"
+msgstr ""
+
+#: create_content.php:185
+msgid "Enter a new Linkage"
+msgstr ""
+
+#: create_content.php:194 includes/func.php:1655
+msgid "Change Course Status"
+msgstr ""
+
+#: create_content.php:197 includes/extras.php:265
+msgid "Online"
+msgstr ""
+
+#: create_content.php:199 includes/extras.php:267
+msgid "Offline"
+msgstr ""
+
+#: create_content.php:212
+msgid "SAVE COURSE"
+msgstr ""
+
+#: create_content.php:222
+msgid "Course Settings"
+msgstr ""
+
+#: create_content.php:225
+msgid "Course Duration"
+msgstr ""
+
+#: create_content.php:226
+msgid "Maximum Course Duration"
+msgstr ""
+
+#: create_content.php:227
+msgid "Course Evaluation"
+msgstr ""
+
+#: create_content.php:228
+msgid "Course Evaluation Mode"
+msgstr ""
+
+#: create_content.php:231
+msgid "Manual"
+msgstr ""
+
+#: create_content.php:233 vibe-options.php:649
+msgid "Automatic"
+msgstr ""
+
+#: create_content.php:239
+msgid "Pre-required Course"
+msgstr ""
+
+#: create_content.php:240
+msgid "Set a Pre-required Course"
+msgstr ""
+
+#: create_content.php:242 create_content.php:362 create_content.php:387
+#: options/fields/pages_select/field_pages_select.php:43
+msgid "None"
+msgstr ""
+
+#: create_content.php:260 create_content.php:261
+msgid "Drip Feed"
+msgstr ""
+
+#: create_content.php:264 create_content.php:279 create_content.php:310
+#: vibe-options.php:408 vibe-options.php:911 vibe-options.php:983
+#: vibe-options.php:992 vibe-options.php:1001
+msgid "Disable"
+msgstr ""
+
+#: create_content.php:266 create_content.php:282 create_content.php:312
+#: vibe-options.php:408 vibe-options.php:911 vibe-options.php:992
+msgid "Enable"
+msgstr ""
+
+#: create_content.php:272
+msgid "Set Drip Feed Duration"
+msgstr ""
+
+#: create_content.php:275 create_content.php:276
+msgid "Course Certificate"
+msgstr ""
+
+#: create_content.php:288
+msgid "Set Certificate Percentage"
+msgstr ""
+
+#: create_content.php:289
+msgid "Set Certificate Template"
+msgstr ""
+
+#: create_content.php:291
+msgid "Default Template"
+msgstr ""
+
+#: create_content.php:306 create_content.php:307
+msgid "Course Badge"
+msgstr ""
+
+#: create_content.php:318
+msgid "Set Badge Percentage"
+msgstr ""
+
+#: create_content.php:318
+msgid " out of 100"
+msgstr ""
+
+#: create_content.php:319
+msgid "Set Badge Title"
+msgstr ""
+
+#: create_content.php:320
+msgid "Upload Badge Image"
+msgstr ""
+
+#: create_content.php:338
+msgid "Student Seats"
+msgstr ""
+
+#: create_content.php:339
+msgid "Number of seats in course"
+msgstr ""
+
+#: create_content.php:344
+msgid "Course Start Date"
+msgstr ""
+
+#: create_content.php:345
+msgid "Set Course Start Date"
+msgstr ""
+
+#: create_content.php:350
+msgid "Coure Retakes"
+msgstr ""
+
+#: create_content.php:351
+msgid "Number of Student re-takes"
+msgstr ""
+
+#: create_content.php:359
+msgid "Course Group"
+msgstr ""
+
+#: create_content.php:360
+msgid "Connect a Course Group"
+msgstr ""
+
+#: create_content.php:363
+msgid "Add new Group"
+msgstr ""
+
+#: create_content.php:384
+msgid "Course Forum"
+msgstr ""
+
+#: create_content.php:385
+msgid "Connect a Course Forum"
+msgstr ""
+
+#: create_content.php:388
+msgid "Connect the Group forum"
+msgstr ""
+
+#: create_content.php:389
+msgid "Add new forum"
+msgstr ""
+
+#: create_content.php:415
+msgid "Course Completion Message"
+msgstr ""
+
+#: create_content.php:426
+msgid "Course Level"
+msgstr ""
+
+#: create_content.php:427 create_content.php:429
+msgid "Select a Course Level"
+msgstr ""
+
+#: create_content.php:450
+msgid "SAVE SETTINGS"
+msgstr ""
+
+#: create_content.php:454
+msgid "ADD SECTION"
+msgstr ""
+
+#: create_content.php:455
+msgid "ADD UNIT"
+msgstr ""
+
+#: create_content.php:456
+msgid "ADD QUIZ"
+msgstr "ADD QUESTIONNAIRE"
+
+#: create_content.php:470 create_content.php:542
+msgid "Edit Unit"
+msgstr ""
+
+#: create_content.php:471 create_content.php:483
+msgid "Preview"
+msgstr ""
+
+#: create_content.php:472 create_content.php:484 create_content.php:495
+#: create_content.php:534 create_content.php:543 create_content.php:572
+#: create_content.php:581 includes/menu/edit_custom_walker.php:248
+#: includes/notes-discussions.php:169 includes/notes-discussions.php:361
+#: includes/notes-discussions.php:406 includes/notes-discussions.php:735
+#: options/fields/custom_fields/field_custom_fields.php:56
+#: options/fields/custom_fields/field_custom_fields.php:82
+#: options/fields/custom_posts/field_custom_posts.php:46
+#: options/fields/custom_posts/field_custom_posts.php:115
+#: options/fields/custom_taxonomy/field_custom_taxonomy.php:42
+#: options/fields/custom_taxonomy/field_custom_taxonomy.php:54
+#: options/fields/font_upload/field_font_upload.php:38
+#: options/fields/multi_image/field_multi_image.php:44
+#: options/fields/multi_image/field_multi_image.php:54
+#: options/fields/multi_image/field_multi_image.php:62
+#: options/fields/multi_pages/field_multi_pages.php:49
+#: options/fields/multi_pages/field_multi_pages.php:66
+#: options/fields/multi_social/field_multi_social.php:107
+#: options/fields/multi_social/field_multi_social.php:187
+#: options/fields/multi_text/field_multi_text.php:39
+#: options/fields/multi_text/field_multi_text.php:48
+#: options/fields/pagebuilder_layouts/field_pagebuilder_layouts.php:44
+#: single-unit.php:134 single-unit.php:152 start.php:265 start.php:283
+msgid "Remove"
+msgstr ""
+
+#: create_content.php:482 create_content.php:580
+msgid "Edit Quiz"
+msgstr "Edit Questionnaire"
+
+#: create_content.php:511
+msgid "SELECT A UNIT"
+msgstr ""
+
+#: create_content.php:512
+msgid "ADD NEW UNIT"
+msgstr ""
+
+#: create_content.php:528
+msgid "Add a unit title"
+msgstr ""
+
+#: create_content.php:533 create_content.php:571
+msgid "Publish"
+msgstr ""
+
+#: create_content.php:549
+msgid "SELECT A QUIZ"
+msgstr "SELECT A QUESTIONNAIRE"
+
+#: create_content.php:550
+msgid "ADD NEW QUIZ"
+msgstr ""
+
+#: create_content.php:586
+msgid "SAVE CURRICULUM"
+msgstr ""
+
+#: create_content.php:590
+msgid "COURSE PRICING"
+msgstr ""
+
+#: create_content.php:592
+msgid "Free Course"
+msgstr ""
+
+#: create_content.php:595 includes/widgets/custom_widgets.php:75
+#: registration/register.php:248 setup/welcome.php:386 setup/welcome.php:423
+#: setup/welcome.php:448 vibe-options.php:236 vibe-options.php:306
+#: vibe-options.php:493 vibe-options.php:520 vibe-options.php:538
+#: vibe-options.php:547 vibe-options.php:556 vibe-options.php:565
+#: vibe-options.php:574 vibe-options.php:583 vibe-options.php:666
+#: vibe-options.php:684 vibe-options.php:693 vibe-options.php:702
+#: vibe-options.php:720 vibe-options.php:729 vibe-options.php:887
+#: vibe-options.php:1010 vibe-options.php:1058
+msgid "No"
+msgstr ""
+
+#: create_content.php:597 includes/widgets/custom_widgets.php:74
+#: registration/register.php:247 setup/welcome.php:386 setup/welcome.php:423
+#: setup/welcome.php:448 vibe-options.php:236 vibe-options.php:306
+#: vibe-options.php:493 vibe-options.php:520 vibe-options.php:538
+#: vibe-options.php:547 vibe-options.php:556 vibe-options.php:565
+#: vibe-options.php:574 vibe-options.php:583 vibe-options.php:666
+#: vibe-options.php:684 vibe-options.php:693 vibe-options.php:702
+#: vibe-options.php:720 vibe-options.php:729 vibe-options.php:887
+#: vibe-options.php:1010 vibe-options.php:1058
+msgid "Yes"
+msgstr ""
+
+#: create_content.php:608
+msgid "Set a Course Product"
+msgstr ""
+
+#: create_content.php:610
+msgid "Select a Course Product"
+msgstr ""
+
+#: create_content.php:611
+msgid "No Product"
+msgstr ""
+
+#: create_content.php:612
+msgid "ADD NEW PRODUCT"
+msgstr ""
+
+#: create_content.php:631
+msgid "Set Product type"
+msgstr ""
+
+#: create_content.php:634
+msgid "Full Course"
+msgstr ""
+
+#: create_content.php:636
+msgid "Subscription"
+msgstr ""
+
+#: create_content.php:642
+msgid "Set Product Price"
+msgstr ""
+
+#: create_content.php:645
+msgid "Set Subscription duration"
+msgstr ""
+
+#: create_content.php:666
+msgid "Set Course Memberships"
+msgstr ""
+
+#: create_content.php:687
+msgid "Save Course Pricing"
+msgstr ""
+
+#: create_content.php:695
+msgid "Modify Course"
+msgstr ""
+
+#: create_content.php:695 paid-memberships-pro/pages/levels.php:15
+msgid "Back to course"
+msgstr ""
+
+#: create_content.php:700
+msgid "TAKE OFFLINE"
+msgstr ""
+
+#: create_content.php:704
+msgid "DELETE COURSE"
+msgstr ""
+
+#: create_content.php:705
+msgid "SHOW OPTIONS"
+msgstr ""
+
+#: create_content.php:708
+msgid "Delete Units"
+msgstr ""
+
+#: create_content.php:713
+msgid "Delete Quizzes"
+msgstr ""
+
+#: create_content.php:718
+msgid "Delete Assignments"
+msgstr ""
+
+#: create_content.php:733
+msgid "Course not set"
+msgstr ""
+
+#: create_content.php:739
+msgid "Go Live"
+msgstr ""
+
+#: create_content.php:743 create_content.php:748
+msgid "GO LIVE"
+msgstr ""
+
+#: create_content.php:750
+msgid "SEND FOR APPROVAL"
+msgstr ""
+
+#: create_content.php:769
+msgid ""
+"Click on text to enter a Course title, delete the existing text in the title"
+msgstr ""
+
+#: create_content.php:770
+msgid "Select a Course Category, or Add a New one"
+msgstr ""
+
+#: create_content.php:771
+msgid "Select or upload a course image, this image is used as Course avatar."
+msgstr ""
+
+#: create_content.php:772
+msgid ""
+"Enter a Short description about the course, the full description can be "
+"added later on. Start by deleting the existing text in the title"
+msgstr ""
+
+#: create_content.php:773
+msgid ""
+"Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+"Once a Linkage term is selected, the lists will only units/quizzes/questions "
+"connected to the same linkage term. If editing a course , save and refresh "
+"after selecting a Linkage term."
+msgstr ""
+
+#: create_content.php:774
+msgid "A Offline Course is not visible to students in the course directory."
+msgstr ""
+
+#: create_content.php:777
+msgid ""
+"Enter the maximum duration for the course in days. This is the maximum "
+"duration within which the student should complete the course. Use 9999 for "
+"unlimited access to course."
+msgstr ""
+
+#: create_content.php:778
+msgid ""
+"Set Evaluation mode, Manual evaluation (from Course -> Admin ) or Automatic  "
+msgstr ""
+
+#: create_content.php:779
+msgid ""
+"Set a pre-required course. A Pre Course should be completeted before a "
+"student can access this course"
+msgstr ""
+
+#: create_content.php:780
+msgid ""
+"Enable Drip Feed course. Students see next lesson after x days. X is "
+"Duration of Drip. "
+msgstr ""
+
+#: create_content.php:781
+msgid ""
+"Set a Course Certificate. Set certificate percentage marks which a student "
+"should achieve to get the course certificate. Select a certificate template."
+msgstr ""
+
+#: create_content.php:782
+msgid ""
+"Set a course Badge. Set percentage marks which a student should get to get "
+"the course badge. Upload the Badge image."
+msgstr ""
+
+#: create_content.php:783
+msgid ""
+"Set number of seats available for students to take the course. Once full "
+"students can not join the course. Enter 9999 for unlimited seats."
+msgstr ""
+
+#: create_content.php:784
+msgid ""
+"Set a Course Start date. If set to a post date, students can only join the "
+"course on/after the start date."
+msgstr ""
+
+#: create_content.php:785
+msgid ""
+"Number of times a student can re-take this course. Student can retake course "
+"after finishing it. 0 to disable."
+msgstr ""
+
+#: create_content.php:786
+msgid "Connect a Course Group OR Create a new one"
+msgstr ""
+
+#: create_content.php:787
+msgid ""
+"Connect a Course forum Or Create a new one or Create a Course Group Forum"
+msgstr ""
+
+#: create_content.php:788
+msgid "Enter Course specific instructions for students to take this course."
+msgstr ""
+
+#: create_content.php:789
+msgid "Enter message which student see after submitting the course."
+msgstr ""
+
+#: create_content.php:794
+msgid "Select a level for the course."
+msgstr ""
+
+#: create_content.php:800
+msgid "Start building curriculum by adding Units, Quizzes and sections."
+msgstr ""
+"Start building curriculum by adding Units, Questionnaires and sections."
+
+#: create_content.php:801
+msgid "After adding a new unit or quiz, make sure you publish it"
+msgstr "After adding a new unit or questionnaire, make sure you publish it"
+
+#: create_content.php:802
+msgid "Save the curriculum only when the button is green."
+msgstr ""
+
+#: create_content.php:805
+msgid ""
+"Connect the course with a product. A product defines the pricing of a course."
+"<br /><br />a. Enter the Price of the product to set the price of your "
+"course.<br />b. Select the type of product.<br /><br /> If product is set to "
+"subscription mode, you need to set the subscription duration for the "
+"product. <br />A student purchasing a Product with subscription gets access "
+"for the course for the subscription duration.<br /> A student purchasing a "
+"product without subscription gets access for the course for full course "
+"duration as entered in course settings."
+msgstr ""
+
+#: create_content.php:808
+msgid ""
+"Go live with your course if \"Publish\" access is granted by Administrator "
+"you course will be live as soon as you click on Go Live button."
+msgstr ""
+
+#: email_template.php:8
+msgid "PAGE CANNOT BE ACCESSED : MISSING EMAIL VARS "
+msgstr ""
+
+#: footer.php:19
+msgid "top"
+msgstr ""
+
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr ""
+
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr ""
+
+#: forums/forums-loop.php:53 groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr ""
+
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: forums/index.php:26
+msgid "Forums Directory"
+msgstr ""
+
+#: forums/index.php:26 groups/single/forum.php:19
+msgid "New Topic"
+msgstr ""
+
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:66 groups/single/forum.php:39 members/single/forums.php:20
+msgid "Most Posts"
+msgstr ""
+
+#: forums/index.php:67 groups/single/forum.php:40 members/single/forums.php:21
+msgid "Unreplied"
+msgstr ""
+
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr ""
+
+#: forums/index.php:107 groups/single/forum.php:75
+#: groups/single/forum/edit.php:47
+#: includes/widgets/advanced_woocommerce_widgets.php:281
+#: includes/widgets/advanced_woocommerce_widgets.php:530
+#: includes/widgets/advanced_woocommerce_widgets.php:676
+#: includes/widgets/custom_bp_widgets.php:231
+#: includes/widgets/custom_bp_widgets.php:315
+#: includes/widgets/custom_widgets.php:663
+#: includes/widgets/custom_widgets.php:746 includes/widgets/flickr.php:156
+#: includes/widgets/instagram.php:88
+msgid "Title:"
+msgstr ""
+
+#: forums/index.php:110 groups/single/forum.php:78
+#: groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr ""
+
+#: forums/index.php:113 groups/single/forum.php:81
+#: groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: forums/index.php:119
+msgid "----"
+msgstr ""
+
+#: forums/index.php:136 groups/single/forum.php:87
+msgid "Post Topic"
+msgstr ""
+
+#: forums/index.php:137 includes/func.php:238
+#: includes/menu/edit_custom_walker.php:249
+#: paid-memberships-pro/pages/billing.php:331
+msgid "Cancel"
+msgstr ""
+
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: groups/create.php:15
+msgid "Only Instructors can create groups"
+msgstr ""
+
+#: groups/create.php:19
+msgid "Only Admins can create groups"
+msgstr ""
+
+#: groups/create.php:46
+msgid "Groups Directory"
+msgstr ""
+
+#: groups/create.php:75 groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr ""
+
+#: groups/create.php:78 groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr ""
+
+#: groups/create.php:94 groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr ""
+
+#: groups/create.php:98 groups/single/admin.php:61
+msgid "This is a public group"
+msgstr ""
+
+#: groups/create.php:100 groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr ""
+
+#: groups/create.php:101 groups/create.php:110 groups/single/admin.php:64
+#: groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: groups/create.php:102 groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: groups/create.php:107 groups/single/admin.php:71
+msgid "This is a private group"
+msgstr ""
+
+#: groups/create.php:109 groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: groups/create.php:111 groups/create.php:120 groups/single/admin.php:75
+#: groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: groups/create.php:116 groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr ""
+
+#: groups/create.php:118 groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: groups/create.php:119 groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: groups/create.php:125 groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr ""
+
+#: groups/create.php:127 groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: groups/create.php:132 groups/single/admin.php:99
+msgid "All group members"
+msgstr ""
+
+#: groups/create.php:137 groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: groups/create.php:142 groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: groups/create.php:148
+msgid "Group Forums"
+msgstr ""
+
+#: groups/create.php:152
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: groups/create.php:155 groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: groups/create.php:159
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: groups/create.php:185 groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: groups/create.php:189 groups/single/admin.php:131
+#: members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr ""
+
+#: groups/create.php:193
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: groups/create.php:200
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: groups/create.php:202 groups/single/admin.php:151
+#: members/single/profile/change-avatar.php:33
+msgid "Avatar to crop"
+msgstr ""
+
+#: groups/create.php:205 groups/single/admin.php:154
+#: members/single/profile/change-avatar.php:36
+msgid "Avatar preview"
+msgstr ""
+
+#: groups/create.php:208 groups/single/admin.php:157
+#: members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr ""
+
+#: groups/create.php:247 groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: groups/create.php:282 groups/single/send-invites.php:73
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+
+#: groups/create.php:304
+msgid "Back to Previous Step"
+msgstr ""
+
+#: groups/create.php:311
+msgid "Next Step"
+msgstr ""
+
+#: groups/create.php:318
+msgid "Create Group and Continue"
+msgstr ""
+
+#: groups/create.php:325
+msgid "Finish"
+msgstr ""
+
+#: groups/groups-loop.php:47
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: groups/index.php:53
+msgid "Create a Group"
+msgstr ""
+
+#: groups/index.php:77
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: groups/single/admin.php:32 groups/single/admin.php:117
+#: groups/single/forum/edit.php:58 groups/single/forum/edit.php:74
+#: members/single/profile/edit.php:153 members/single/settings/general.php:74
+#: members/single/settings/notifications.php:63
+msgid "Save Changes"
+msgstr ""
+
+#: groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: groups/single/admin.php:139 members/single/profile/change-avatar.php:24
+msgid "Delete Avatar"
+msgstr ""
+
+#: groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: groups/single/admin.php:177
+msgid "Administrators"
+msgstr ""
+
+#: groups/single/admin.php:185 groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: groups/single/admin.php:190 groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr ""
+
+#: groups/single/admin.php:205 groups/single/group-header.php:51
+msgid "Moderators"
+msgstr ""
+
+#: groups/single/admin.php:216 groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr ""
+
+#: groups/single/admin.php:260
+msgid "(banned)"
+msgstr ""
+
+#: groups/single/admin.php:266
+msgid "Unban this member"
+msgstr ""
+
+#: groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr ""
+
+#: groups/single/admin.php:270
+msgid "Kick and ban this member"
+msgstr ""
+
+#: groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr ""
+
+#: groups/single/admin.php:276
+msgid "Remove this member"
+msgstr ""
+
+#: groups/single/admin.php:276
+msgid "Remove from group"
+msgstr ""
+
+#: groups/single/admin.php:290 groups/single/members.php:89
+msgid "This group has no members."
+msgstr ""
+
+#: groups/single/admin.php:320 members/single/friends/requests.php:37
+#: members/single/groups/invites.php:23
+msgid "Accept"
+msgstr ""
+
+#: groups/single/admin.php:322 members/single/friends/requests.php:38
+#: members/single/groups/invites.php:24
+msgid "Reject"
+msgstr ""
+
+#: groups/single/admin.php:335
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: groups/single/admin.php:352
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: groups/single/admin.php:355
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: groups/single/admin.php:360
+msgid "Delete Group"
+msgstr ""
+
+#: groups/single/forum.php:27 groups/single/forum/edit.php:16
+#: groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr ""
+
+#: groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr ""
+
+#: groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr ""
+
+#: groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr ""
+
+#: groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr ""
+
+#: groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr ""
+
+#: groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr ""
+
+#: groups/single/forum/topic.php:144
+msgid "Post Reply"
+msgstr ""
+
+#: groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr ""
+
+#: groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr ""
+
+#: groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr ""
+
+#: header.php:62
+msgid "Login"
+msgstr ""
+
+#: header.php:65 includes/widgets/custom_bp_widgets.php:114
+msgid "Create an account"
+msgstr ""
+
+#: header.php:65 includes/widgets/custom_bp_widgets.php:114
+msgid "Sign Up"
+msgstr ""
+
+#: header.php:65 includes/widgets/custom_bp_widgets.php:114
+#, php-format
+msgid "<a href=\"%s\" class=\"vbpregister\" title=\""
+msgstr ""
+
+#: header.php:118
+msgid "Hit enter to search..."
+msgstr ""
+
+#: includes/bp-custom.php:84
+msgid "Badges"
+msgstr ""
+
+#: includes/bp-custom.php:104
+msgid "Certifications"
+msgstr ""
+
+#: includes/bp-custom.php:117
+msgid "Check all Courses created by "
+msgstr ""
+
+#: includes/bp-custom.php:128
+msgid "Course "
+msgstr ""
+
+#: includes/extras.php:50
+msgid "Author Social profile information"
+msgstr ""
+
+#: includes/extras.php:51
+msgid "Add Social Information"
+msgstr ""
+
+#: includes/extras.php:135 includes/extras.php:216
+msgid "Enter URL for social icon."
+msgstr ""
+
+#: includes/extras.php:242 includes/extras.php:325
+msgid "Share on "
+msgstr ""
+
+#: includes/extras.php:252 includes/plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: includes/extras.php:253
+msgid "User ID"
+msgstr ""
+
+#: includes/extras.php:265 includes/extras.php:267
+msgid "Last Logged in on "
+msgstr ""
+
+#: includes/extras.php:337 includes/func.php:2263
+msgid "ID"
+msgstr ""
+
+#: includes/func.php:70 includes/widgets/custom_bp_widgets.php:154
+#: includes/widgets/custom_bp_widgets.php:217
+msgid "Course Categories"
+msgstr ""
+
+#: includes/func.php:71
+msgid "Course Category"
+msgstr ""
+
+#: includes/func.php:77 includes/func.php:78
+msgid "Quiz type"
+msgstr "Questionnaire Type"
+
+#: includes/func.php:86
+msgid "Levels"
+msgstr ""
+
+#: includes/func.php:87 paid-memberships-pro/pages/account.php:13
+#: paid-memberships-pro/pages/billing.php:17
+#: paid-memberships-pro/pages/levels.php:34
+msgid "Level"
+msgstr ""
+
+#: includes/func.php:96
+msgid "Locations"
+msgstr ""
+
+#: includes/func.php:97
+msgid "Location"
+msgstr ""
+
+#: includes/func.php:106 includes/func.php:107
+msgid "Linkage"
+msgstr ""
+
+#: includes/func.php:132
+msgid "SEATS"
+msgstr ""
+
+#: includes/func.php:143
+msgid "SEATS LEFT"
+msgstr ""
+
+#: includes/func.php:184
+msgid "Discussion"
+msgstr ""
+
+#: includes/func.php:192
+msgid "Manage"
+msgstr ""
+
+#: includes/func.php:229
+#, php-format
+msgid "Load more (<span>%s</span>)"
+msgstr ""
+
+#: includes/func.php:234
+msgid "Ask Question"
+msgstr ""
+
+#: includes/func.php:237
+msgid "Post Question"
+msgstr ""
+
+#: includes/func.php:278
+#, php-format
+msgid "%1$s ago"
+msgstr ""
+
+#: includes/func.php:283
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: includes/func.php:286
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/func.php:293
+msgid "REPLY"
+msgstr ""
+
+#: includes/func.php:309 includes/func.php:343
+msgid "COURSE STARTS IN "
+msgstr ""
+
+#: includes/func.php:320
+msgid "STARTS IN "
+msgstr ""
+
+#: includes/func.php:471
+msgid "UNLIMITED ACCESS"
+msgstr ""
+
+#: includes/func.php:526
+msgid "Become an Instructor"
+msgstr ""
+
+#: includes/func.php:541
+msgid "UNLIMITED TIME"
+msgstr ""
+
+#: includes/func.php:634
+msgid "UNITS"
+msgstr ""
+
+#: includes/func.php:636
+msgid "QUESTIONS"
+msgstr ""
+
+#: includes/func.php:639
+#, php-format
+msgid "DIRECT ACCESS TO %s IS NOT ALLOWED"
+msgstr ""
+
+#: includes/func.php:732
+msgid "COURSE : "
+msgstr ""
+
+#: includes/func.php:775
+msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+msgstr ""
+
+#: includes/func.php:798
+msgid "Finish Video/Audio to mark this unit complete"
+msgstr ""
+
+#: includes/func.php:798 start.php:178
+msgid "Mark this Unit Complete"
+msgstr ""
+
+#: includes/func.php:925
+msgid "Setup Menus"
+msgstr ""
+
+#: includes/func.php:1005
+msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+msgstr ""
+
+#: includes/func.php:1035
+msgid "TAKE THIS COURSE"
+msgstr ""
+
+#: includes/func.php:1127 includes/func.php:1369
+msgid "Page"
+msgstr ""
+
+#: includes/func.php:1127
+msgid "of"
+msgstr ""
+
+#: includes/func.php:1128
+msgid "First"
+msgstr ""
+
+#: includes/func.php:1129
+msgid "Previous"
+msgstr ""
+
+#: includes/func.php:1139
+msgid "Next"
+msgstr ""
+
+#: includes/func.php:1140
+msgid "Last"
+msgstr ""
+
+#: includes/func.php:1291 taxonomy-module-tag.php:61
+msgid "Course"
+msgstr ""
+
+#: includes/func.php:1331
+msgid "Attachment"
+msgstr ""
+
+#: includes/func.php:1398 vibe-options.php:650
+msgid "Seconds"
+msgstr ""
+
+#: includes/func.php:1399 vibe-options.php:651
+msgid "Minutes"
+msgstr ""
+
+#: includes/func.php:1400 vibe-options.php:652
+msgid "Hours"
+msgstr ""
+
+#: includes/func.php:1401 vibe-options.php:653
+msgid "Days"
+msgstr ""
+
+#: includes/func.php:1402 vibe-options.php:654
+msgid "Weeks"
+msgstr ""
+
+#: includes/func.php:1403 vibe-options.php:655
+msgid "Months"
+msgstr ""
+
+#: includes/func.php:1404 vibe-options.php:656
+msgid "Years"
+msgstr ""
+
+#: includes/func.php:1520 includes/notes-discussions.php:118
+#: includes/notes-discussions.php:417 includes/notes-discussions.php:435
+#: includes/notes-discussions.php:480 includes/notes-discussions.php:577
+#: includes/notes-discussions.php:598 includes/notes-discussions.php:621
+#: includes/notes-discussions.php:645 includes/notes-discussions.php:668
+#: includes/notes-discussions.php:691
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/func.php:1592 includes/func.php:1605
+msgid "Requires completion of course : "
+msgstr ""
+
+#: includes/func.php:1610
+msgid "All seats in course are full "
+msgstr ""
+
+#: includes/func.php:1613
+msgid "Requested resource is not accessible "
+msgstr ""
+
+#: includes/func.php:1616
+msgid " LOGIN"
+msgstr ""
+
+#: includes/func.php:1616
+msgid " REGISTER NOW"
+msgstr ""
+
+#: includes/func.php:1618
+msgid "You must be logged in to take this course "
+msgstr ""
+
+#: includes/func.php:1628
+msgid "Add Students to Course"
+msgstr ""
+
+#: includes/func.php:1637
+msgid "Assign Badges/Certificates to Students"
+msgstr ""
+
+#: includes/func.php:1646
+msgid "Extend Subscription"
+msgstr ""
+
+#: includes/func.php:1669 includes/func.php:1735
+msgid "Security check failed !"
+msgstr ""
+
+#: includes/func.php:1725
+msgid ""
+"There was issue in retaking this course for the user. Please contact admin."
+msgstr ""
+
+#: includes/func.php:1735
+msgid "Security Error"
+msgstr ""
+
+#: includes/func.php:1776 start.php:132
+msgid "Course Curriculum Not Set"
+msgstr ""
+
+#: includes/func.php:1958 woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr ""
+
+#: includes/func.php:1960
+msgid "SUBSCRIBED FOR FULL COURSE"
+msgstr ""
+
+#: includes/func.php:1966 woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr ""
+
+#: includes/func.php:1968 woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr ""
+
+#: includes/func.php:1969 woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr ""
+
+#: includes/func.php:1972 woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "START"
+
+#: includes/func.php:1975 woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr ""
+
+#: includes/func.php:1977 woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr ""
+
+#: includes/func.php:2257
+msgid "Download Stats"
+msgstr ""
+
+#: includes/func.php:2261
+msgid "Date (Joining)"
+msgstr ""
+
+#: includes/func.php:2262
+msgid "Date (Finish)"
+msgstr ""
+
+#: includes/func.php:2264
+msgid "Student Name"
+msgstr ""
+
+#: includes/func.php:2265
+msgid "Units Status"
+msgstr ""
+
+#: includes/func.php:2266
+msgid "Quiz scores"
+msgstr "Questionnaire Scores"
+
+#: includes/func.php:2267
+msgid "Badge"
+msgstr ""
+
+#: includes/func.php:2268
+msgid "Certificate"
+msgstr ""
+
+#: includes/func.php:2269
+msgid "Course Marks"
+msgstr ""
+
+#: includes/func.php:2276
+msgid "All students"
+msgstr ""
+
+#: includes/func.php:2277
+msgid "Students who finished the course"
+msgstr ""
+
+#: includes/func.php:2278
+msgid "Students pursuing the course"
+msgstr ""
+
+#: includes/func.php:2279
+msgid "Students who got a badge in the course"
+msgstr ""
+
+#: includes/func.php:2280
+msgid "Students who got a certificate in the course"
+msgstr ""
+
+#: includes/func.php:2283
+msgid "Process Stats"
+msgstr ""
+
+#: includes/init.php:157
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/init.php:171
+msgid ""
+"LearnDash Active. You may disable following plugins to avoid duplicate "
+"functionality in the setup"
+msgstr ""
+
+#: includes/init.php:172
+msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+msgstr ""
+
+#: includes/init.php:174
+msgid "Deactivate Vibe Custom Types"
+msgstr ""
+
+#: includes/init.php:175
+msgid "Deactivate Vibe Course Module"
+msgstr ""
+
+#: includes/init.php:356
+msgid "Setup Menus in Admin Panel"
+msgstr ""
+
+#: includes/init.php:595 includes/plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/init.php:596 includes/plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/init.php:597 includes/plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/init.php:598
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/init.php:599 includes/plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:600 includes/plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:601 includes/plugin-activation.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:602 includes/plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:603 includes/plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:604 includes/plugin-activation.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:605 includes/plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:606 includes/plugin-activation.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:607 includes/plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:608
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/init.php:609 includes/plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/init.php:610 includes/plugin-activation.php:212
+#: includes/plugin-activation.php:1952
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/init.php:611
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:99
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:103
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:127
+msgid "Move up"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:140
+msgid "Move down"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:142
+#: includes/menu/edit_custom_walker.php:144
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:153
+msgid "URL"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:160
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:166
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:173
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:178
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:184
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:190
+msgid "Description"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:192
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:202
+msgid "Enable Widgetized Mega Menu"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:206
+#: options/fields/sidebarselect/field_sidebarselect.php:37
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:219
+msgid "Sidebar Columns"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:235
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/notes-discussions.php:137 includes/notes-discussions.php:328
+msgid "UNIT"
+msgstr ""
+
+#: includes/notes-discussions.php:144 includes/notes-discussions.php:336
+#: includes/notes-discussions.php:709 single-unit.php:128 start.php:259
+msgid "Edit"
+msgstr ""
+
+#: includes/notes-discussions.php:148 includes/notes-discussions.php:340
+#: includes/notes-discussions.php:713 single-unit.php:129 start.php:260
+msgid "Make Public"
+msgstr ""
+
+#: includes/notes-discussions.php:152 includes/notes-discussions.php:344
+#: includes/notes-discussions.php:717 single-unit.php:130 start.php:261
+msgid "Make Private"
+msgstr ""
+
+#: includes/notes-discussions.php:168 includes/notes-discussions.php:187
+#: includes/notes-discussions.php:360 includes/notes-discussions.php:379
+#: includes/notes-discussions.php:734 includes/notes-discussions.php:755
+#: single-unit.php:132 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+#: includes/notes-discussions.php:391
+msgid "No comments found"
+msgstr ""
+
+#: includes/notes-discussions.php:397 single-unit.php:143 start.php:274
+msgid "YOU"
+msgstr ""
+
+#: includes/notes-discussions.php:401 single-unit.php:147 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+#: includes/notes-discussions.php:445
+msgid "Not Allowed"
+msgstr ""
+
+#: includes/notes-discussions.php:472
+msgid "Unable to post"
+msgstr ""
+
+#: includes/notes-discussions.php:658
+#, php-format
+msgid "Instructor reply requested for unit %s paragraph %s"
+msgstr ""
+
+#: includes/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugin-activation.php:213 includes/plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugin-activation.php:544 includes/plugin-activation.php:2169
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: includes/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: includes/plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugin-activation.php:1290 includes/plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: includes/plugin-activation.php:1312 includes/plugin-activation.php:1399
+#: registration/activate.php:41
+msgid "Activate"
+msgstr ""
+
+#: includes/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: includes/plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: includes/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugin-activation.php:1935
+msgid "Install package not available."
+msgstr ""
+
+#: includes/plugin-activation.php:1936
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/plugin-activation.php:1937
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/plugin-activation.php:1938
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/plugin-activation.php:1939
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/plugin-activation.php:1940
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/plugin-activation.php:1951
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugin-activation.php:2065
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugin-activation.php:2066
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugin-activation.php:2066 includes/plugin-activation.php:2075
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugin-activation.php:2066 includes/plugin-activation.php:2075
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugin-activation.php:2067
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugin-activation.php:2068
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugin-activation.php:2072
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/plugin-activation.php:2073
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugin-activation.php:2074
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugin-activation.php:2075
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugin-activation.php:2076
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugin-activation.php:2077
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/ratings.php:20 includes/ratings.php:80
+msgid "Review Title"
+msgstr ""
+
+#: includes/ratings.php:24
+msgid "Review Rating"
+msgstr ""
+
+#: includes/ratings.php:67
+msgid "Review Details"
+msgstr ""
+
+#: includes/ratings.php:84
+msgid "Rating "
+msgstr ""
+
+#: includes/register.php:123
+msgid "Student"
+msgstr ""
+
+#: includes/register.php:124
+msgid "Instructor"
+msgstr ""
+
+#: includes/register.php:261
+msgid "Accepted"
+msgstr ""
+
+#: includes/register.php:262 members/single/profile/edit.php:135
+#: registration/register.php:188
+msgid "Close"
+msgstr ""
+
+#: includes/register.php:263
+msgid "comments"
+msgstr ""
+
+#: includes/register.php:264
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: includes/register.php:266
+msgid "My Favorites"
+msgstr ""
+
+#: includes/register.php:267
+msgid "Rejected"
+msgstr ""
+
+#: includes/register.php:269
+msgid "Show all"
+msgstr ""
+
+#: includes/register.php:270
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: includes/register.php:271
+#, php-format
+msgid "Show all %d comments"
+msgstr ""
+
+#: includes/register.php:272
+msgid ""
+"Your profile has unsaved changes. If you leave the page, the changes will be "
+"lost."
+msgstr ""
+
+#: includes/register.php:274
+msgid "Too short"
+msgstr ""
+
+#: includes/register.php:275
+msgid "Weak"
+msgstr ""
+
+#: includes/register.php:276
+msgid "Good"
+msgstr ""
+
+#: includes/register.php:277
+msgid "Strong"
+msgstr ""
+
+#: includes/register.php:283
+msgid "Please fill in all the required fields (indicated by *)"
+msgstr ""
+
+#: includes/register.php:305
+msgid "Top Menu"
+msgstr ""
+
+#: includes/register.php:306
+msgid "Main Menu"
+msgstr ""
+
+#: includes/register.php:307
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/register.php:308
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/register.php:325
+msgid ""
+"This is the global default widget area/sidebar for pages, posts, categories, "
+"tags and archive pages"
+msgstr ""
+
+#: includes/register.php:334
+msgid ""
+"This is the default widget area/sidebar shown in course pages and free units"
+msgstr ""
+
+#: includes/register.php:343
+msgid "This is the widget area/sidebar shown in search results page."
+msgstr ""
+
+#: includes/register.php:353
+msgid "This is the widget area/sidebar shown in the shop page "
+msgstr ""
+
+#: includes/register.php:363
+msgid ""
+"This is the default widget area/sidebar shown in single product pages and "
+"product categories"
+msgstr ""
+
+#: includes/register.php:373
+msgid ""
+"This is the default widget area/sidebar shown in buddypress pages like : All "
+"Activity, All Groups, All members, All courses, All blogs"
+msgstr ""
+
+#: includes/register.php:383
+msgid ""
+"This is the default widget area/sidebar shown in Checkout pages below "
+"coupons."
+msgstr ""
+
+#: includes/register.php:395
+msgid "Top Footer widget area / sidebar"
+msgstr ""
+
+#: includes/register.php:407
+msgid "Bottom Footer widget area / sidebar"
+msgstr ""
+
+#: includes/register.php:420
+msgid "Custom sidebar, created from Sidebar Manager"
+msgstr ""
+
+#: includes/tincan.php:353 includes/tincan.php:354
+msgid "Student "
+msgstr ""
+
+#: includes/tincan.php:354
+msgid " in "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: includes/vibe-menu.php:97
+msgid "WPLMS"
+msgstr ""
+
+#: includes/vibe-menu.php:110 includes/vibe-menu.php:119
+msgid "Members-Only"
+msgstr ""
+
+#: includes/vibe-menu.php:113 includes/vibe-menu.php:128
+msgid "Instructors-Only"
+msgstr ""
+
+#: includes/vibe-menu.php:120
+msgid "<em>Members-Only</em> These links are only visible to logged in users."
+msgstr ""
+
+#: includes/vibe-menu.php:129
+msgid "<em>Instructors-Only</em> links are visible to Instructors."
+msgstr ""
+
+#: includes/vibe-menu.php:139
+msgid "Add to Menu"
+msgstr ""
+
+#: includes/vibe-menu.php:153
+msgid "Create/Edit Course page"
+msgstr ""
+
+#: includes/vibe-menu.php:173
+msgid "Dashboard"
+msgstr ""
+
+#: includes/vibe-menu.php:182
+msgid "My Courses"
+msgstr ""
+
+#: includes/vibe-menu.php:191
+msgid "Start Course page"
+msgstr ""
+
+#: includes/vibe-menu.php:199
+msgid "Notes & Discussion page"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:44
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:46
+msgid "Vibe Advanced Layered Nav"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:284
+msgid "Attribute:"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:296
+msgid "Query Type:"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:298
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:299 setup/welcome.php:204
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:372
+msgid "Shows active layered nav filters so users can see and deactivate them."
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:374
+msgid "Vibe Advanced Layered Nav Filters"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:403
+msgid "Active filters"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:435
+#: includes/widgets/advanced_woocommerce_widgets.php:441
+#: includes/widgets/advanced_woocommerce_widgets.php:446
+msgid "Remove filter"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:441
+msgid "Greater than"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:446
+msgid "Less than"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:469
+msgid "Vibe WooCommerce Carousels "
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:471
+msgid "Vibe WooCommerce Carousels"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:534
+#: includes/widgets/advanced_woocommerce_widgets.php:680
+msgid "WooCommerce Function "
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:544
+#: includes/widgets/advanced_woocommerce_widgets.php:695
+msgid "Product Columns"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:555
+#: includes/widgets/advanced_woocommerce_widgets.php:706
+msgid "Number of Products in Carousel:"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:560
+#: includes/widgets/advanced_woocommerce_widgets.php:711
+msgid "Carousel Controls"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:580
+msgid "Vibe WooCommerce Mega Carousel "
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:582
+msgid "Vibe WooCommerce Mega Carousel"
+msgstr ""
+
+#: includes/widgets/advanced_woocommerce_widgets.php:690
+msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:19
+msgid "Vibe BuddyPress Login"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:20
+msgid "Vibe BuddyPress Login Widget"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:36
+msgid "View profile"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:37
+msgid "Log Out"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:37
+msgid "LOGOUT"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:39
+msgid "Access admin panel"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:47
+#: includes/widgets/custom_widgets.php:50
+#: includes/widgets/custom_widgets.php:81 single.php:107
+msgid "Courses"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:59
+msgid "Inbox"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:65
+msgid "Notifications"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:72
+msgid "Groups"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:79 setup/welcome.php:152
+#: setup/welcome.php:467
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:102
+#: paid-memberships-pro/pages/account.php:56
+#: paid-memberships-pro/pages/checkout.php:171 registration/register.php:46
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:105
+#: paid-memberships-pro/pages/checkout.php:180
+msgid "Password"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:105
+msgid "Forgot Password"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:108
+msgid "Remember Me"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:111
+msgid "Log In"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:152
+msgid "Course Categories "
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:194
+#, php-format
+msgid "View all Courses in %s"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:235
+#: includes/widgets/custom_widgets.php:310
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:238
+msgid "Slug"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:239
+msgid "Course Count"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:240
+msgid "Hierarchial"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:244
+msgid "Sort Order "
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:246
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:247
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:251
+msgid "Exclude Course Category Terms slugs (comma saperated):"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:269
+#: includes/widgets/custom_bp_widgets.php:271
+msgid "Vibe Certificate Code validator"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:290
+msgid "Enter Certificate Code"
+msgstr ""
+
+#: includes/widgets/custom_bp_widgets.php:291
+msgid "Validate"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:29
+msgid "Vibe Tabs"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:39
+#: includes/widgets/custom_widgets.php:275
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:40
+msgid "thumbnail"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:60
+msgid "Theme:"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:62
+#: includes/widgets/custom_widgets.php:291
+#: includes/widgets/custom_widgets.php:539
+msgid "Light"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:63
+#: includes/widgets/custom_widgets.php:292
+#: includes/widgets/custom_widgets.php:540
+msgid "Dark"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:72
+msgid "Show Tab"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:78
+#: includes/widgets/custom_widgets.php:289 includes/widgets/twitter.php:25
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:79
+msgid "Content & Style"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:80
+msgid "Thumbnail Posts"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:85
+msgid "Number of items"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:211
+msgid "Posts Carousel "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:213
+msgid "Vibe Carousel"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:290
+#: includes/widgets/custom_widgets.php:538
+msgid "Theme"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:295
+#: includes/widgets/custom_widgets.php:543
+msgid "Post Type"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:311
+#: includes/widgets/custom_widgets.php:578
+msgid "Recent"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:313
+#: includes/widgets/custom_widgets.php:579
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:317
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:318
+msgid "Increasing"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:319
+msgid "Descreasing"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:323
+#: includes/widgets/custom_widgets.php:589
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:324
+msgid "General"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:325
+msgid "Blog Post"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:326
+msgid "Side post"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:327
+msgid "Course block"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:328
+msgid "Course block 2"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:329
+msgid "Featured Images"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:330
+msgid "Tesimonial (Only for Testimonials)"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:331
+msgid "Event Card (Only for Events)"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:335
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:338
+msgid "Auto Start"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:344
+msgid "Loop back, after completion"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:349
+#: includes/widgets/custom_widgets.php:595
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:350
+msgid "Specific Post ids [comma saperated] (*optional)"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:362
+msgid "Posts Widget "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:364
+msgid "Vibe Posts"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:537
+msgid " Title"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:559 vibe-options.php:315
+#: vibe-options.php:324 vibe-options.php:340 vibe-options.php:374
+#: vibe-options.php:383 vibe-options.php:392 vibe-options.php:592
+msgid "All"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:577
+msgid "Sort"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:583
+msgid " Image Size"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:584
+#: includes/widgets/custom_widgets.php:670 includes/widgets/instagram.php:107
+msgid "Big"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:585 includes/widgets/instagram.php:109
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:591
+msgid "Image with Title"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:592
+msgid "Image Only"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:596
+msgid "Number of Characters in Excerpt [Post Style]"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:612
+#: includes/widgets/custom_widgets.php:614
+msgid "Vibe Gallery"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:666
+msgid "Size "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:667 includes/widgets/instagram.php:108
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:668
+msgid " Small"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:669
+msgid "Mini"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:674
+msgid "Enter Attachment Ids "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:690
+msgid "Vibe Testimonials "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:692
+msgid "Vibe Testimonials"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:750
+msgid "Testimonial Id "
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:753
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/custom_widgets.php:762
+msgid "Length of excerpt:"
+msgstr ""
+
+#: includes/widgets/flickr.php:160
+msgid "Username or RSS:"
+msgstr ""
+
+#: includes/widgets/flickr.php:164
+msgid "Tags:"
+msgstr ""
+
+#: includes/widgets/flickr.php:168 includes/widgets/instagram.php:113
+msgid "Count:"
+msgstr ""
+
+#: includes/widgets/instagram.php:92
+msgid "Instagram AccessToken:"
+msgstr ""
+
+#: includes/widgets/instagram.php:97
+msgid "Instagram Client ID:"
+msgstr ""
+
+#: includes/widgets/instagram.php:101
+msgid ""
+"Instagram Username (<small>If blank then Instagram popular images are shown</"
+"small>):"
+msgstr ""
+
+#: includes/widgets/instagram.php:105
+msgid "Size:"
+msgstr ""
+
+#: includes/widgets/twitter.php:30
+msgid "Select Twitter Style"
+msgstr ""
+
+#: includes/widgets/twitter.php:36
+msgid "Link above Title with Twitter user"
+msgstr ""
+
+#: includes/widgets/twitter.php:41
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/widgets/twitter.php:41
+msgid "Create your Twitter Application"
+msgstr ""
+
+#: includes/widgets/twitter.php:41
+msgid "here"
+msgstr ""
+
+#: includes/widgets/twitter.php:47
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/widgets/twitter.php:53
+msgid "Access Token"
+msgstr ""
+
+#: includes/widgets/twitter.php:59
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/widgets/twitter.php:65
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/widgets/twitter.php:70
+msgid "Show # of Tweets"
+msgstr ""
+
+#: includes/widgets/twitter.php:75
+msgid "Show timestamps"
+msgstr ""
+
+#: includes/widgets/twitter.php:80
+msgid "Find and show hyperlinks"
+msgstr ""
+
+#: includes/widgets/twitter.php:85
+msgid "Find Replies in Tweets"
+msgstr ""
+
+#: includes/widgets/twitter.php:90
+msgid "Create links on new window / tab"
+msgstr ""
+
+#: includes/widgets/twitter.php:104
+msgid "Twitter username is not configured"
+msgstr ""
+
+#: includes/widgets/twitter.php:107
+msgid "Number of tweets is not valid"
+msgstr ""
+
+#: includes/widgets/twitter.php:110
+msgid "Twitter Authentication data is incomplete"
+msgstr ""
+
+#: includes/widgets/twitter.php:139 includes/widgets/twitter.php:184
+msgid "Fetching data from Twitter"
+msgstr ""
+
+#: includes/widgets/twitter.php:140
+msgid "Erase cached data option enabled"
+msgstr ""
+
+#: includes/widgets/twitter.php:152 includes/widgets/twitter.php:201
+msgid "Error retrieving tweets"
+msgstr ""
+
+#: includes/widgets/twitter.php:155 includes/widgets/twitter.php:209
+msgid "Twitter data error:"
+msgstr ""
+
+#: includes/widgets/twitter.php:173
+msgid "Error retrieving twitter rate limit"
+msgstr ""
+
+#: includes/widgets/twitter.php:185
+msgid "Requested items"
+msgstr ""
+
+#: includes/widgets/twitter.php:186
+msgid "API calls left"
+msgstr ""
+
+#: includes/widgets/twitter.php:187
+msgid "Seconds until reset"
+msgstr ""
+
+#: includes/widgets/twitter.php:213
+msgid "Using cached Twitter data"
+msgstr ""
+
+#: includes/widgets/twitter.php:216
+msgid "Twitter cache error:"
+msgstr ""
+
+#: includes/widgets/twitter.php:221 includes/widgets/twitter.php:236
+msgid "No public tweets"
+msgstr ""
+
+#: includes/widgets/twitter.php:229
+msgid "Unable to get tweets"
+msgstr ""
+
+#: includes/widgets/twitter.php:312
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:312
+msgid "M d"
+msgstr ""
+
+#: includes/widgets/twitter.php:313
+msgid "Y/m/d H:i"
+msgstr ""
+
+#: includes/widgets/twitter.php:374
+msgid "Last Tweets"
+msgstr ""
+
+#: members/index.php:99 members/single/friends.php:23
+msgid "Newest Registered"
+msgstr ""
+
+#: members/members-loop.php:41
+msgid "student"
+msgstr ""
+
+#: members/members-loop.php:43
+msgid "instructor"
+msgstr ""
+
+#: members/members-loop.php:45
+msgid "administrator"
+msgstr ""
+
+#: members/members-loop.php:145
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: members/single/course/results.php:8
+msgid "Invalid Results"
+msgstr ""
+
+#: members/single/course/results.php:27
+msgid "My Submission"
+msgstr ""
+
+#: members/single/course/results.php:40
+msgid "Download Attachment"
+msgstr ""
+
+#: members/single/course/results.php:57
+msgid "See Instructor Remarks"
+msgstr ""
+
+#: members/single/course/results.php:60 members/single/course/results.php:167
+msgid "Marks Obtained"
+msgstr ""
+
+#: members/single/course/results.php:75 start.php:306
+msgid "BACK TO COURSE"
+msgstr ""
+
+#: members/single/course/results.php:90
+msgid "Marked Answer :"
+msgstr ""
+
+#: members/single/course/results.php:100
+msgid "FALSE"
+msgstr ""
+
+#: members/single/course/results.php:100
+msgid "TRUE"
+msgstr ""
+
+#: members/single/course/results.php:151
+msgid "Correct Answer :"
+msgstr ""
+
+#: members/single/course/results.php:152
+msgid "View answer explanation"
+msgstr ""
+
+#: members/single/course/results.php:157
+msgid "Total Marks :"
+msgstr ""
+
+#: members/single/course/results.php:161 members/single/course/results.php:163
+msgid "MARKS OBTAINED"
+msgstr ""
+
+#: members/single/course/results.php:179
+msgid "Total Marks"
+msgstr ""
+
+#: members/single/course/results.php:196
+msgid "RETAKE QUIZ"
+msgstr "RETAKE QUESTIONNAIRE"
+
+#: members/single/course/results.php:197
+msgid "Number of retakes "
+msgstr ""
+
+#: members/single/course/results.php:197 members/single/course/stats.php:44
+msgid " out of "
+msgstr ""
+
+#: members/single/course/results.php:202
+msgid "Previous Results for Quiz "
+msgstr "Previous Results for Questionnaire"
+
+#: members/single/course/results.php:219
+msgid "Results not Available"
+msgstr ""
+
+#: members/single/course/results.php:243
+msgid "Quiz Results"
+msgstr "Questionnaire Results"
+
+#: members/single/course/results.php:263 members/single/course/results.php:336
+msgid "Results Available"
+msgstr ""
+
+#: members/single/course/results.php:265 members/single/course/results.php:338
+msgid "Results Awaited"
+msgstr ""
+
+#: members/single/course/results.php:272 members/single/course/results.php:345
+msgid "Submitted "
+msgstr ""
+
+#: members/single/course/results.php:272 members/single/course/results.php:345
+msgid " ago"
+msgstr ""
+
+#: members/single/course/results.php:288 members/single/course/results.php:361
+#, php-format
+msgid "Viewing %d out of %d"
+msgstr ""
+
+#: members/single/course/results.php:325
+msgid "Assignment Results"
+msgstr ""
+
+#: members/single/course/stats.php:14
+msgid "N/A"
+msgstr ""
+
+#: members/single/course/stats.php:18
+msgid "AVERAGE PERCENTAGE : "
+msgstr ""
+
+#: members/single/course/stats.php:44
+msgid "Number of retakes remaining"
+msgstr ""
+
+#: members/single/course/stats.php:53
+msgid "TAKING"
+msgstr ""
+
+#: members/single/course/stats.php:56
+msgid "MY SCORE : "
+msgstr ""
+
+#: members/single/course/stats.php:77
+msgid "Average Marks in"
+msgstr ""
+
+#: members/single/course/stats.php:78
+msgid "My Marks"
+msgstr ""
+
+#: members/single/course/stats.php:90
+msgid "Course Expired"
+msgstr ""
+
+#: members/single/course/stats.php:94
+msgid "Not Started"
+msgstr ""
+
+#: members/single/course/stats.php:97
+msgid "In Progress"
+msgstr ""
+
+#: members/single/course/stats.php:100
+msgid "Under Evaluation"
+msgstr ""
+
+#: members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: members/single/groups/invites.php:14
+#, php-format
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: members/single/messages/compose.php:17
+#: members/single/messages/messages-loop.php:31
+msgid "Subject"
+msgstr ""
+
+#: members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:28
+msgid "Star"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:30
+msgid "From"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:45
+#: members/single/notifications/notifications-loop.php:9
+msgid "Actions"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:66
+#: options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:71
+msgid "To:"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:77
+msgid "View Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:84
+#: members/single/messages/notices-loop.php:44
+#: members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:102
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: members/single/messages/notices-loop.php:37
+msgid "Sent:"
+msgstr ""
+
+#: members/single/messages/notices-loop.php:55
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr ""
+
+#: members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr ""
+
+#: members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr ""
+
+#: members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr ""
+
+#: members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr ""
+
+#: members/single/notifications/notifications-loop.php:6
+msgid "Select all"
+msgstr ""
+
+#: members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr ""
+
+#: members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:55
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+
+#: members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: members/single/profile/edit.php:26 members/single/profile/edit.php:32
+#: members/single/profile/edit.php:38 members/single/profile/edit.php:45
+#: members/single/profile/edit.php:54 members/single/profile/edit.php:72
+#: members/single/profile/edit.php:88 members/single/profile/edit.php:98
+#: registration/register.php:46 registration/register.php:50
+#: registration/register.php:54 registration/register.php:58
+#: registration/register.php:87 registration/register.php:94
+#: registration/register.php:101 registration/register.php:109
+#: registration/register.php:119 registration/register.php:130
+#: registration/register.php:145 registration/register.php:156
+#: registration/register.php:231 registration/register.php:240
+msgid "(required)"
+msgstr ""
+
+#: members/single/profile/edit.php:63 members/single/profile/edit.php:78
+#: registration/register.php:136
+msgid "Clear"
+msgstr ""
+
+#: members/single/profile/edit.php:125 members/single/profile/edit.php:139
+#: registration/register.php:178 registration/register.php:193
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: members/single/profile/edit.php:125
+msgid "Change"
+msgstr ""
+
+#: members/single/profile/edit.php:130 registration/register.php:183
+msgid "Who can see this field?"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: members/single/settings/capabilities.php:53
+msgid "Capabilities"
+msgstr ""
+
+#: members/single/settings/capabilities.php:61
+msgid "This user is a spammer."
+msgstr ""
+
+#: members/single/settings/capabilities.php:65
+msgid "Save"
+msgstr ""
+
+#: members/single/settings/delete-account.php:53
+#: members/single/settings/delete-account.php:79
+msgid "Delete Account"
+msgstr ""
+
+#: members/single/settings/delete-account.php:59
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+
+#: members/single/settings/delete-account.php:63
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+
+#: members/single/settings/delete-account.php:75
+msgid "I understand the consequences."
+msgstr ""
+
+#: members/single/settings/general.php:51
+msgid "General Settings"
+msgstr ""
+
+#: members/single/settings/general.php:59
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+
+#: members/single/settings/general.php:60
+msgid "Password Lost and Found"
+msgstr ""
+
+#: members/single/settings/general.php:60
+msgid "Lost your password?"
+msgstr ""
+
+#: members/single/settings/general.php:64
+msgid "Account Email"
+msgstr ""
+
+#: members/single/settings/general.php:67
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: members/single/settings/general.php:68
+msgid "New Password"
+msgstr ""
+
+#: members/single/settings/general.php:69
+msgid "Repeat New Password"
+msgstr ""
+
+#: members/single/settings/notifications.php:51
+msgid "Email Notification"
+msgstr ""
+
+#: members/single/settings/notifications.php:56
+msgid "Send an email notice when:"
+msgstr ""
+
+#: members/single/settings/profile.php:62
+msgid "Visibility"
+msgstr ""
+
+#: members/single/settings/profile.php:89
+msgid "Save Settings"
+msgstr ""
+
+#: notes_discussion.php:79
+msgid "All Notes & Discussions"
+msgstr ""
+
+#: notes_discussion.php:84
+msgid "All Discussions"
+msgstr ""
+
+#: notes_discussion.php:89
+msgid "Unit Notes"
+msgstr ""
+
+#: notes_discussion.php:90
+msgid "Unit Discussions"
+msgstr ""
+
+#: notes_discussion.php:95
+msgid "My Discussions"
+msgstr ""
+
+#: notes_discussion.php:96
+msgid "My Notes"
+msgstr ""
+
+#: notes_discussion.php:114
+msgid "No public comments found !"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: options/fields/custom_fields/field_custom_fields.php:87
+msgid "Add New List Field"
+msgstr ""
+
+#: options/fields/custom_posts/field_custom_posts.php:181
+#: options/fields/multi_image/field_multi_image.php:68
+#: options/fields/multi_text/field_multi_text.php:52
+msgid "Add More"
+msgstr ""
+
+#: options/fields/custom_taxonomy/field_custom_taxonomy.php:59
+msgid "Add New Listing Taxonomy"
+msgstr ""
+
+#: options/fields/font_upload/field_font_upload.php:68
+msgid "Upload Font"
+msgstr ""
+
+#: options/fields/google_webfonts/field_google_webfonts.php:72
+msgid "Font Preview"
+msgstr ""
+
+#: options/fields/import_export/field_import_export.php:38
+#: options/fields/widgets_import_export/field_widgets_import_export.php:42
+msgid "Export Code"
+msgstr ""
+
+#: options/fields/import_export/field_import_export.php:38
+#: options/fields/widgets_import_export/field_widgets_import_export.php:42
+msgid ""
+"(Copy export code and paste it in import area of other WordPress "
+"isntallation)"
+msgstr ""
+
+#: options/fields/import_export/field_import_export.php:39
+#: options/fields/widgets_import_export/field_widgets_import_export.php:43
+msgid "Import Code"
+msgstr ""
+
+#: options/fields/multi_image/field_multi_image.php:43
+#: options/fields/multi_image/field_multi_image.php:53
+#: options/fields/multi_image/field_multi_image.php:60
+#: options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: options/fields/multi_image/field_multi_image.php:44
+#: options/fields/multi_image/field_multi_image.php:54
+#: options/fields/multi_image/field_multi_image.php:62
+#: options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: options/fields/multi_pages/field_multi_pages.php:70
+msgid "Add Custom Posts"
+msgstr ""
+
+#: options/fields/multi_social/field_multi_social.php:186
+msgid "Enter Full URL of the page"
+msgstr ""
+
+#: options/fields/multi_social/field_multi_social.php:192
+msgid "Add Social Icons"
+msgstr ""
+
+#: options/fields/seo_panel/field_seo_panel.php:37
+#: options/fields/seo_panel/field_seo_panel.php:41
+msgid " Plugin is Inactive"
+msgstr ""
+
+#: options/options.php:50 options/options.php:52
+msgid "Options"
+msgstr ""
+
+#: options/options.php:64
+msgid "Options Panel created using"
+msgstr ""
+
+#: options/options.php:259 options/options.php:260 options/options.php:679
+msgid "Import / Export"
+msgstr ""
+
+#: options/options.php:286 options/options.php:287 options/options.php:698
+#: options/options.php:780
+msgid "Dev Mode Info"
+msgstr ""
+
+#: options/options.php:337
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: options/options.php:651
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: options/options.php:653
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: options/options.php:657
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: options/options.php:658
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:660
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:716
+msgid "Import / Export Options"
+msgstr ""
+
+#: options/options.php:718
+msgid "Import Options"
+msgstr ""
+
+#: options/options.php:720
+msgid "Import from file"
+msgstr ""
+
+#: options/options.php:720
+msgid "Import from URL"
+msgstr ""
+
+#: options/options.php:726
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: options/options.php:739
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: options/options.php:749
+msgid "Import"
+msgstr ""
+
+#: options/options.php:749
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: options/options.php:752
+msgid "Export Options"
+msgstr ""
+
+#: options/options.php:754
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: options/options.php:757 woocommerce/emails/email-order-items.php:66
+msgid "Download"
+msgstr ""
+
+#: options/options.php:757
+msgid "Copy Link"
+msgstr ""
+
+#: options/options.php:805
+msgid "Reset to Defaults"
+msgstr ""
+
+#: options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: options/validation/envato_api/validation_envato_api.php:15
+msgid "You must provide a valid API key for this option."
+msgstr ""
+
+#: options/validation/font_upload/font_upload.php:15
+msgid "Unable to upload font."
+msgstr ""
+
+#: options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: options/validation/theme-update/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: options/validation/theme-update/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: options/validation/theme-update/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: options/validation/theme-update/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: page-instructors.php:7
+msgid "This Page is only accessible to Instructors"
+msgstr ""
+
+#: page-instructors.php:7
+msgid ""
+"The page is only accessible to site Users with Instructor or above "
+"capabilites."
+msgstr ""
+
+#: page-instructors.php:7
+msgid "Instructors only page"
+msgstr ""
+
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:10
+msgid "Your membership is <strong>active</strong>."
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:15
+#: paid-memberships-pro/pages/billing.php:19
+msgid "Membership Fee"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:19
+#: paid-memberships-pro/pages/billing.php:23
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g., $5 every 2 months."
+msgid "%s every %d %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:21
+#: paid-memberships-pro/pages/billing.php:25
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+msgid "%s per %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:30
+#: paid-memberships-pro/pages/billing.php:34
+msgid "Duration"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:34
+#: paid-memberships-pro/pages/confirmation.php:49
+#: paid-memberships-pro/pages/invoice.php:30
+msgid "Membership Expires"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:39
+#, php-format
+msgid "Your first payment will cost %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:43
+#, php-format
+msgid "Your first %d payments will cost %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:51
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:88
+msgid "Billing Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:91
+#: paid-memberships-pro/pages/billing.php:63
+#: paid-memberships-pro/pages/checkout.php:298
+#: paid-memberships-pro/pages/confirmation.php:61
+#: paid-memberships-pro/pages/invoice.php:48
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:106
+#: paid-memberships-pro/pages/confirmation.php:63
+#: paid-memberships-pro/pages/invoice.php:50
+msgid "Payment Method"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:115
+msgid "Edit Billing Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:126
+msgid "Past Invoices"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:141
+msgid "View All Invoices"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:147
+msgid "Member Links"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:153
+msgid "Update Billing Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:156
+msgid "Change Membership Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/account.php:158
+msgid "Cancel Membership"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:14
+#, php-format
+msgid "Logged in as <strong>%s</strong>."
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:14
+msgid "logout"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:44
+msgid ""
+"Your payment subscription is managed by PayPal. Please <a href=\"http://www."
+"paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:70
+#: paid-memberships-pro/pages/checkout.php:305
+msgid "First Name"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:74
+#: paid-memberships-pro/pages/checkout.php:309
+msgid "Last Name"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:78
+#: paid-memberships-pro/pages/checkout.php:313
+msgid "Address 1"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:82
+#: paid-memberships-pro/pages/checkout.php:317
+msgid "Address 2"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:83
+msgid "optional"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:92
+#: paid-memberships-pro/pages/checkout.php:327
+msgid "City"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:96
+#: paid-memberships-pro/pages/checkout.php:331
+msgid "State"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:100
+#: paid-memberships-pro/pages/checkout.php:335
+msgid "Postal Code"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:109
+#: paid-memberships-pro/pages/checkout.php:344
+msgid "City, State Zip"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:162
+#: paid-memberships-pro/pages/checkout.php:397
+msgid "Country"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:187
+#: paid-memberships-pro/pages/checkout.php:422
+msgid "Phone"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:198
+#: paid-memberships-pro/pages/checkout.php:207
+#: paid-memberships-pro/pages/checkout.php:436
+msgid "E-mail Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:202
+#: paid-memberships-pro/pages/checkout.php:445
+msgid "Confirm E-mail"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:222
+#, php-format
+msgid "We accept %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:222
+msgid "Credit Card Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:239
+#: paid-memberships-pro/pages/checkout.php:493
+msgid "Card Type"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:249
+#: paid-memberships-pro/pages/checkout.php:503
+msgid "Card Number"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:254
+#: paid-memberships-pro/pages/checkout.php:508
+msgid "Expiration Date"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:286
+#: paid-memberships-pro/pages/checkout.php:540
+msgctxt "Credit card security code, CVV/CCV/CVV2"
+msgid "CVV"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:287
+#: paid-memberships-pro/pages/checkout.php:541
+msgctxt "link to CVV help"
+msgid "what's this?"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:330
+msgid "Update"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:345
+msgid ""
+"This subscription is not recurring. So you don't need to update your billing "
+"information."
+msgstr ""
+
+#: paid-memberships-pro/pages/cancel.php:14
+msgid "Are you sure you want to cancel your membership?"
+msgstr ""
+
+#: paid-memberships-pro/pages/cancel.php:17
+msgid "Yes, cancel my account"
+msgstr ""
+
+#: paid-memberships-pro/pages/cancel.php:19
+msgid "No, keep my account"
+msgstr ""
+
+#: paid-memberships-pro/pages/cancel.php:22
+msgid "Click here to go to the home page."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:26
+msgid ""
+"Almost done. Review the membership information and pricing below then "
+"<strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:33
+msgctxt "change membership level link"
+msgid "change"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:33
+#: paid-memberships-pro/pages/confirmation.php:47
+#: paid-memberships-pro/pages/confirmation.php:64
+#: paid-memberships-pro/pages/confirmation.php:105
+#: paid-memberships-pro/pages/invoice.php:28
+#: paid-memberships-pro/pages/invoice.php:51
+msgid "Membership Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:41
+#, php-format
+msgid "You have selected the <strong>%s</strong> membership level."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:51
+#, php-format
+msgid ""
+"<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+"been applied to your order.</p>"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:62
+msgid "Click here to change your discount code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:64
+msgid "Do you have a discount code?"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:64
+msgid "Click here to enter your discount code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:66
+#: paid-memberships-pro/pages/checkout.php:76
+#: paid-memberships-pro/pages/checkout.php:549
+#: paid-memberships-pro/pages/confirmation.php:52
+#: paid-memberships-pro/pages/invoice.php:33
+msgid "Discount Code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:78
+#: paid-memberships-pro/pages/checkout.php:551
+msgid "Apply"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Already have an account?"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Log in here"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Account Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:189 registration/register.php:58
+msgid "Confirm Password"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:216
+msgid "Confirm E-mail Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:235
+msgid "Full Name"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:236
+msgid "LEAVE THIS BLANK"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:260
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:276
+msgid "Choose your Payment Method"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:284
+msgid "Check Out with a Credit Card Here"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:286
+#: paid-memberships-pro/pages/checkout.php:685
+msgid "Check Out with PayPal"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:476
+#, php-format
+msgid "We Accept %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:476
+msgid "Payment Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:657
+#, php-format
+msgid "I agree to the %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:677
+msgid "Complete Payment"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:691
+msgid "Submit and Pay with 2CheckOut"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:691
+msgid "Submit and Check Out"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:691
+msgid "Submit and Confirm"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:697
+msgid "Processing..."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:12
+msgid ""
+"Your payment has been submitted. Your membership will be activated shortly."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:41
+#: paid-memberships-pro/pages/invoice.php:22
+#, php-format
+msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+msgid "Invoice #%s on %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:43
+msgid "Print"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:46
+#: paid-memberships-pro/pages/confirmation.php:104
+#: paid-memberships-pro/pages/invoice.php:27
+msgid "Account"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:65
+#: paid-memberships-pro/pages/invoice.php:52
+#: paid-memberships-pro/pages/invoice.php:109
+msgid "Total Billed"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:82
+#: paid-memberships-pro/pages/invoice.php:69
+msgctxt "credit card type {ending in} xxxx"
+msgid "ending in"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:83
+#: paid-memberships-pro/pages/invoice.php:70
+msgid "Expiration"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:97
+#, php-format
+msgid ""
+"Below are details about your membership account. A welcome email with has "
+"been sent to %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:105
+msgctxt "User without membership is in {pending} status."
+msgid "Pending"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:113
+#: paid-memberships-pro/pages/invoice.php:141
+msgid "View Your Membership Account &rarr;"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:115
+msgid ""
+"If your account is not activated within a few minutes, please contact the "
+"site owner."
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:79
+msgid "Subtotal"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:80
+msgid "Tax"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:82
+msgid "Coupon"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:84
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:107
+msgid "Date"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:108
+msgid "Invoice #"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:122
+msgid "View Invoice"
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:134
+msgid "No invoices found."
+msgstr ""
+
+#: paid-memberships-pro/pages/invoice.php:145
+msgid "&larr; View All Invoices"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:15
+msgid "Course Renewed"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:35
+#: woocommerce/emails/customer-completed-order.php:42
+msgid "Price"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:54
+msgid "Free"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:68
+#: paid-memberships-pro/pages/levels.php:70
+msgctxt "Choose a level from levels page"
+msgid "Select"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:78
+msgctxt "Clicking to renew from levels page"
+msgid "Renew"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:84
+msgid "Your&nbsp;Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:100
+msgid "&larr; Return to Your Account"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:102
+msgid "&larr; Return to Home"
+msgstr ""
+
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr ""
+
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr ""
+
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr ""
+
+#: registration/register.php:25
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: registration/register.php:44
+msgid "Account Details"
+msgstr ""
+
+#: registration/register.php:50
+msgid "Email Address"
+msgstr ""
+
+#: registration/register.php:54
+msgid "Choose a Password"
+msgstr ""
+
+#: registration/register.php:76
+msgid "Profile Details"
+msgstr ""
+
+#: registration/register.php:178
+msgid "Change profile field visibility level"
+msgstr ""
+
+#: registration/register.php:225
+msgid "Blog Details"
+msgstr ""
+
+#: registration/register.php:227
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: registration/register.php:231
+msgid "Blog URL"
+msgstr ""
+
+#: registration/register.php:240
+msgid "Site Title"
+msgstr ""
+
+#: registration/register.php:244
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: registration/register.php:263
+msgid "Complete Sign Up"
+msgstr ""
+
+#: registration/register.php:274
+msgid "Check Your Email To Activate Your Account!"
+msgstr ""
+
+#: registration/register.php:280
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: registration/register.php:282
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#: search-incourse.php:11 search.php:17
+msgid "Search Results for \""
+msgstr ""
+
+#: search-incourse.php:12 search.php:18
+msgid " results found"
+msgstr ""
+
+#: search-incourse.php:67 search.php:69
+msgid "Sorry, No results found."
+msgstr ""
+
+#: setup/vibe_importer/parsers.php:42 setup/vibe_importer/parsers.php:72
+#: setup/vibe_importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: setup/vibe_importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: setup/vibe_importer/parsers.php:84 setup/vibe_importer/parsers.php:89
+#: setup/vibe_importer/parsers.php:279 setup/vibe_importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: setup/vibe_importer/vibeimport.php:39
+msgid "Import Complete !"
+msgstr ""
+
+#: setup/vibe_importer/vibeimport.php:41
+msgid "Unable to locate Sample Data file."
+msgstr ""
+
+#: setup/vibe_importer/vibeimport.php:44
+msgid ""
+"Couldn't install the test demo data as we were unable to use the WP_Import "
+"class."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:137
+#: setup/vibe_importer/wordpress-importer.php:146
+#: setup/vibe_importer/wordpress-importer.php:197
+#: setup/vibe_importer/wordpress-importer.php:201
+#: setup/vibe_importer/wordpress-importer.php:210
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:138
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:181
+msgid "All done."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:181
+msgid "Have fun!"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:182
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:202
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:218
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:243
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:269
+msgid "Assign Authors"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:270
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:272
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:282
+msgid "Import Attachments"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:285
+msgid "Download and import file attachments"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:289
+msgid "Submit"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:302
+msgid "Import author:"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:313
+msgid "or create new user with login name:"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:316
+msgid "as a new user:"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:324
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:326
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:327
+msgid "- Select -"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:377
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:428
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:468
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:514
+#: setup/vibe_importer/wordpress-importer.php:657
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:540
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:562
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:623
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:788
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:795
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:858
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:871
+msgid "Invalid file type"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:915
+msgid "Remote server did not respond"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:921
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:934
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:940
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:1039
+msgid "Import WordPress"
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:1046
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:1061
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:1062
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: setup/vibe_importer/wordpress-importer.php:1136
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: setup/welcome.php:33
+msgid "Install WPLMS"
+msgstr ""
+
+#: setup/welcome.php:34 setup/welcome.php:45
+msgid "Welcome to WPLMS"
+msgstr ""
+
+#: setup/welcome.php:44
+msgid "About WPLMS"
+msgstr ""
+
+#: setup/welcome.php:134
+#, php-format
+msgid "Welcome to WPLMS %s"
+msgstr ""
+
+#: setup/welcome.php:139
+msgid "Thanks, all done!"
+msgstr ""
+
+#: setup/welcome.php:141
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: setup/welcome.php:143
+msgid "Thanks for installing!"
+msgstr ""
+
+#: setup/welcome.php:145
+#, php-format
+msgid ""
+"%s WPLMS is the best Learning Management platform for WordPress. The latest "
+"version %s now contains following features."
+msgstr ""
+
+#: setup/welcome.php:153
+msgid "FAQs"
+msgstr ""
+
+#: setup/welcome.php:154 setup/wplms-install.php:145
+msgid "Docs"
+msgstr ""
+
+#: setup/welcome.php:155
+msgid "Customization Tips"
+msgstr ""
+
+#: setup/welcome.php:156
+msgid "Support system"
+msgstr ""
+
+#: setup/welcome.php:164
+msgid "Installation and Setup"
+msgstr ""
+
+#: setup/welcome.php:171
+msgid "What's New"
+msgstr ""
+
+#: setup/welcome.php:173
+msgid "System Status"
+msgstr ""
+
+#: setup/welcome.php:175
+msgid "Changelog"
+msgstr ""
+
+#: setup/welcome.php:193
+msgid "One Click installation and Setup"
+msgstr ""
+
+#: setup/welcome.php:194
+msgid ""
+"You can now install WPLMS in one single click, select the setup procedure "
+"from the options given in the right. You just need to Click the button once "
+"and everything would be automatically installed and setup, after which your "
+"WPLMS Site would be ready to use and configure."
+msgstr ""
+
+#: setup/welcome.php:198
+msgid ""
+"Please deactivate WordPress importer plugin to avoid conflicts with Vibe one "
+"click installer."
+msgstr ""
+
+#: setup/welcome.php:203
+msgid "Setup Theme without Sample Data"
+msgstr ""
+
+#: setup/welcome.php:214
+msgid "Setup Theme with Sample Data"
+msgstr ""
+
+#: setup/welcome.php:214
+msgid "Please enable all the plugins"
+msgstr ""
+
+#: setup/welcome.php:216
+#, php-format
+msgid "Install all plugins for Full Sample Data import % slink %s"
+msgstr ""
+
+#: setup/welcome.php:222
+msgid "Please activate all/required plugins bundled with the theme."
+msgstr ""
+
+#: setup/welcome.php:222
+msgid "Install & Activate plugins"
+msgstr ""
+
+#: setup/welcome.php:231
+msgid "Video Tutorial of Installing theme"
+msgstr ""
+
+#: setup/welcome.php:238
+msgid "Setup Issues"
+msgstr ""
+
+#: setup/welcome.php:239
+msgid "Facing issues while setting up? Try out suggested links below."
+msgstr ""
+
+#: setup/welcome.php:240
+msgid "WPLMS Pre-Setup settings"
+msgstr ""
+
+#: setup/welcome.php:241
+msgid "WPLMS manual installation & setup"
+msgstr ""
+
+#: setup/welcome.php:242
+msgid "WPLMS System Status"
+msgstr ""
+
+#: setup/welcome.php:243
+msgid "WPLMS FAQs"
+msgstr ""
+
+#: setup/welcome.php:246
+msgid "Popular Setup issues"
+msgstr ""
+
+#: setup/welcome.php:247
+msgid "Following is the list of most frequent setup issues faced by users"
+msgstr ""
+
+#: setup/welcome.php:248
+msgid "White screen when installed"
+msgstr ""
+
+#: setup/welcome.php:249
+msgid "Course pages not opening"
+msgstr ""
+
+#: setup/welcome.php:250
+msgid "Getting 404 pages"
+msgstr ""
+
+#: setup/welcome.php:251
+msgid "Start Course/Take this Course not working"
+msgstr ""
+
+#: setup/welcome.php:255
+msgid "Other popular issues"
+msgstr ""
+
+#: setup/welcome.php:256
+msgid "Following is the list of most frequent issues faced by users"
+msgstr ""
+
+#: setup/welcome.php:257
+msgid "Quizzes not saving answers"
+msgstr "Questionnaires not saving answers"
+
+#: setup/welcome.php:258
+msgid "Visual composer not updating"
+msgstr ""
+
+#: setup/welcome.php:259
+msgid "Getting 404 page on editing course"
+msgstr ""
+
+#: setup/welcome.php:260
+msgid "Theme customizer not working"
+msgstr ""
+
+#: setup/welcome.php:266
+msgid "Unable to setup ? Get help on our Support forums."
+msgstr ""
+
+#: setup/welcome.php:283
+msgid "24 bug fixes & updates"
+msgstr ""
+
+#: setup/welcome.php:284
+msgid ""
+"We updated a lot of components in WPLMS. Architectural changes to enhance "
+"performance. And we fixed some pending bugs. Refer to change log for "
+"complete list of issues/bugs fixed in the update."
+msgstr ""
+
+#: setup/welcome.php:285
+msgid "Check issue log "
+msgstr ""
+
+#: setup/welcome.php:288
+msgid "Events & Front End Revamp Update"
+msgstr ""
+
+#: setup/welcome.php:289
+msgid ""
+"We focussed on Bug fixing and code optimisation in this update. "
+"Architechtural improvements were made for coming updates."
+msgstr ""
+
+#: setup/welcome.php:290
+msgid "Check update log "
+msgstr ""
+
+#: setup/welcome.php:295
+msgid "What's New in WPLMS"
+msgstr ""
+
+#: setup/welcome.php:295
+msgid "WPLMS Video Playlist"
+msgstr ""
+
+#: setup/welcome.php:298
+msgid "Modern Child Theme"
+msgstr ""
+
+#: setup/welcome.php:303
+msgid "Frond End Revamp"
+msgstr ""
+
+#: setup/welcome.php:308
+msgid "EventOn"
+msgstr ""
+
+#: setup/welcome.php:315
+msgid "Permalinks"
+msgstr ""
+
+#: setup/welcome.php:320
+msgid "Course Location"
+msgstr ""
+
+#: setup/welcome.php:325
+msgid "Course Filters"
+msgstr ""
+
+#: setup/welcome.php:333
+msgid "Variable Pricing Addon"
+msgstr ""
+
+#: setup/welcome.php:334
+msgid ""
+"Add variable pricing to WPLMS course. Select variables right at the course "
+"pricing option."
+msgstr ""
+
+#: setup/welcome.php:338
+msgid "Updated Documentation "
+msgstr ""
+
+#: setup/welcome.php:339
+msgid ""
+"Documentation has been updated. We've added shortcodes list and developer "
+"documentation. For most updated documentation we recommend checking the "
+"online documentation doc."
+msgstr ""
+
+#: setup/welcome.php:340
+msgid "Check documentation"
+msgstr ""
+
+#: setup/welcome.php:343
+msgid "Translation Collaboration"
+msgstr ""
+
+#: setup/welcome.php:344
+msgid ""
+"It is really difficult to maintain translations in a versatible project as "
+"WPLMS. Therefore we ask our suers to email us translation files at "
+"support@vibethemes.com ."
+msgstr ""
+
+#: setup/welcome.php:345
+msgid "Check Translation files status"
+msgstr ""
+
+#: setup/welcome.php:350
+msgid "Go to WPLMS Options panel"
+msgstr ""
+
+#: setup/welcome.php:367
+msgid "Environment"
+msgstr ""
+
+#: setup/welcome.php:373
+msgid "Home URL"
+msgstr ""
+
+#: setup/welcome.php:377
+msgid "Site URL"
+msgstr ""
+
+#: setup/welcome.php:381
+msgid "WP Version"
+msgstr ""
+
+#: setup/welcome.php:385
+msgid "WP Multisite Enabled"
+msgstr ""
+
+#: setup/welcome.php:389
+msgid "Web Server Info"
+msgstr ""
+
+#: setup/welcome.php:393
+msgid "PHP Version"
+msgstr ""
+
+#: setup/welcome.php:397
+msgid "MySQL Version"
+msgstr ""
+
+#: setup/welcome.php:407
+msgid "WP Active Plugins"
+msgstr ""
+
+#: setup/welcome.php:411
+msgid "WP Memory Limit"
+msgstr ""
+
+#: setup/welcome.php:415
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 128MB. See: <a href=\"%s"
+"\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: setup/welcome.php:422
+msgid "WP Debug Mode"
+msgstr ""
+
+#: setup/welcome.php:426
+msgid "WP Language"
+msgstr ""
+
+#: setup/welcome.php:430
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: setup/welcome.php:435
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: setup/welcome.php:439
+msgid "PHP Time Limit"
+msgstr ""
+
+#: setup/welcome.php:443
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: setup/welcome.php:447
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: setup/welcome.php:452
+msgid "Default Timezone"
+msgstr ""
+
+#: setup/welcome.php:456
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: setup/welcome.php:458
+#, php-format
+msgid "Default timezone is %s"
+msgstr ""
+
+#: setup/welcome.php:473
+msgid "WPLMS Pages"
+msgstr ""
+
+#: setup/welcome.php:480
+msgctxt "Page setting"
+msgid "All Course page"
+msgstr ""
+
+#: setup/welcome.php:483
+msgctxt "Page setting"
+msgid "Take this course page"
+msgstr ""
+
+#: setup/welcome.php:487
+msgctxt "Page setting"
+msgid "Create Course Page"
+msgstr ""
+
+#: setup/welcome.php:490
+msgctxt "Page setting"
+msgid "Default Certificate Page"
+msgstr ""
+
+#: setup/welcome.php:517
+msgid "Page not set"
+msgstr ""
+
+#: setup/welcome.php:534
+msgid "Templates"
+msgstr ""
+
+#: setup/welcome.php:571
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: setup/welcome.php:583 setup/welcome.php:591
+msgid "Template Overrides"
+msgstr ""
+
+#: setup/welcome.php:592
+msgid "No overrides present in theme."
+msgstr ""
+
+#: setup/welcome.php:613
+msgid "Full Changelog of WPLMS Theme"
+msgstr ""
+
+#: setup/wplms-install.php:128
+msgid "View WPLMS Options panel"
+msgstr ""
+
+#: setup/wplms-install.php:128
+msgid "Options panel"
+msgstr ""
+
+#: setup/wplms-install.php:145
+msgid "View WPLMS Documentation"
+msgstr ""
+
+#: setup/wplms-install.php:146
+msgid "Visit Premium Customer Support Forum"
+msgstr ""
+
+#: setup/wplms-install.php:146
+msgid "Support Forum"
+msgstr ""
+
+#: setup/wplms-install.php:165
+msgid "Please activate all the required plugins"
+msgstr ""
+
+#: setup/wplms-install.php:454
+msgid "(Unnamed Slider)"
+msgstr ""
+
+#: single-quiz.php:27 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Continue Questionnaire"
+
+#: single-quiz.php:39 single-quiz.php:48
+msgid "Check Quiz Results"
+msgstr "Check Questionnaire Results"
+
+#: single-quiz.php:42 single-unit.php:23 single-unit.php:25 single-unit.php:33
+#: single-wplms-assignment.php:57 single-wplms-assignment.php:62
+#: single-wplms-assignment.php:65
+msgid "Back to Course"
+msgstr ""
+
+#: single-quiz.php:52 start.php:175
+msgid "Start Quiz"
+msgstr "Start"
+
+#: single-quiz.php:56
+msgid "Take a Course to Start the Quiz"
+msgstr "Take a Course to Start the Questionnaire"
+
+#: single-sfwd-courses.php:37
+msgid "INSTRUCTORS"
+msgstr ""
+
+#: single-sfwd-courses.php:53
+msgid "Course Info"
+msgstr ""
+
+#: single-unit.php:21
+msgid "Back to Edit Course"
+msgstr ""
+
+#: single-unit.php:100
+msgid "Attachments"
+msgstr ""
+
+#: single-unit.php:108
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr ""
+
+#: single-unit.php:112 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+#: single-unit.php:133 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+#: single-unit.php:140
+msgid "Add a note"
+msgstr ""
+
+#: single-wplms-assignment.php:115
+msgid "All Assignment Submissions"
+msgstr ""
+
+#: single-wplms-assignment.php:138
+msgid "Maximum Marks"
+msgstr ""
+
+#: single-wplms-event.php:53
+msgid "RE-INVITE STUDENTS"
+msgstr ""
+
+#: single-wplms-event.php:55
+msgid "SEND INVITATION"
+msgstr ""
+
+#: single-wplms-event.php:57
+msgid "SEND EMAIL REMINDER"
+msgstr ""
+
+#: single-wplms-event.php:60 single-wplms-event.php:68
+msgid "SUBJECT"
+msgstr ""
+
+#: single-wplms-event.php:61
+msgid "INVITATION MESSAGE"
+msgstr ""
+
+#: single-wplms-event.php:64
+msgid "SEND INVITATIONS"
+msgstr ""
+
+#: single-wplms-event.php:69
+msgid "REMINDER MESSAGE"
+msgstr ""
+
+#: single-wplms-event.php:72
+msgid "SEND REMINDER"
+msgstr ""
+
+#: single-wplms-event.php:73
+msgid ""
+"Reminders are emails sent to Students who have accepted the Event invitation."
+msgstr ""
+
+#: single-wplms-event.php:81
+msgid "ACCEPT INVITE"
+msgstr ""
+
+#: single-wplms-event.php:82
+msgid "REJECT INVITE"
+msgstr ""
+
+#: single-wplms-event.php:126
+msgid "Event Location"
+msgstr ""
+
+#: single-wplms-event.php:169 woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr ""
+
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr ""
+
+#: start.php:137
+msgid "Start Course"
+msgstr "Start"
+
+#: start.php:155
+msgid "Previous Quiz"
+msgstr "Previous Questionnaire"
+
+#: start.php:157
+msgid "Previous Unit"
+msgstr ""
+
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+#: start.php:222
+msgid "Next Quiz"
+msgstr "Next Questionnaire"
+
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr ""
+
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr ""
+
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr ""
+
+#: taxonomy-module-tag.php:5
+msgid "Access restricted."
+msgstr ""
+
+#: taxonomy-module-tag.php:21
+msgid "Module Tag"
+msgstr ""
+
+#: taxonomy-module-tag.php:68
+msgid "No Units found in module tag"
+msgstr ""
+
+#: vibe-options.php:20
+msgid "A Section added by hook"
+msgstr ""
+
+#: vibe-options.php:21
+msgid ""
+"This is a section created by adding a filter to the sections array, great to "
+"allow child themes, to add/remove sections from the options."
+msgstr ""
+
+#: vibe-options.php:76
+msgid "Folow me on Twitter"
+msgstr ""
+
+#: vibe-options.php:81
+msgid "Be our Fan on Facebook"
+msgstr ""
+
+#: vibe-options.php:86
+msgid "Follow us on Google Plus"
+msgstr ""
+
+#: vibe-options.php:91
+msgid "Latest News from VibeThemes"
+msgstr ""
+
+#: vibe-options.php:108
+msgid "Vibe Options Panel v 2.0"
+msgstr ""
+
+#: vibe-options.php:133
+msgid "Support"
+msgstr ""
+
+#: vibe-options.php:134
+msgid "We provide support via three mediums (in priority)"
+msgstr ""
+
+#: vibe-options.php:135
+msgid "Support Email: VibeThemes@gmail.com"
+msgstr ""
+
+#: vibe-options.php:135
+msgid "ThemeForest Item Comments"
+msgstr ""
+
+#: vibe-options.php:140
+msgid "Documentation & Links"
+msgstr ""
+
+#: vibe-options.php:154
+msgid "Or email us at"
+msgstr ""
+
+#: vibe-options.php:161
+msgid "Getting Started"
+msgstr ""
+
+#: vibe-options.php:162
+msgid "Welcome to "
+msgstr ""
+
+#: vibe-options.php:164
+msgid "See Theme documentation : "
+msgstr ""
+
+#: vibe-options.php:165
+msgid ""
+"Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+"Module, Vibe Shortcodes, Vibe CustomTypes."
+msgstr ""
+
+#: vibe-options.php:166
+msgid "Setup in One Click "
+msgstr ""
+
+#: vibe-options.php:166
+msgid "Setup WPLMS"
+msgstr ""
+
+#: vibe-options.php:167
+msgid "Other important setups. "
+msgstr ""
+
+#: vibe-options.php:167
+msgid "Full Theme Guide"
+msgstr ""
+
+#: vibe-options.php:168
+msgid "How to Update? Facing Issues while updating?"
+msgstr ""
+
+#: vibe-options.php:179
+msgid "Details required for Auto-Update"
+msgstr ""
+
+#: vibe-options.php:184
+msgid "Enter Your Themeforest Username"
+msgstr ""
+
+#: vibe-options.php:185
+msgid "Required for Automatic Upgrades."
+msgstr ""
+
+#: vibe-options.php:191
+msgid "Enter Your Themeforest API KEY"
+msgstr ""
+
+#: vibe-options.php:192
+msgid "Please Enter your API Key.Required for Automatic Upgrades."
+msgstr ""
+
+#: vibe-options.php:193
+msgid "Whats an API KEY? Where can I find one?"
+msgstr ""
+
+#: vibe-options.php:202
+msgid "Header"
+msgstr ""
+
+#: vibe-options.php:203
+msgid "Header settings"
+msgstr ""
+
+#: vibe-options.php:209
+msgid "Upload Logo"
+msgstr ""
+
+#: vibe-options.php:210
+msgid "Upload your logo"
+msgstr ""
+
+#: vibe-options.php:211
+msgid "This Logo is shown in header."
+msgstr ""
+
+#: vibe-options.php:217
+msgid "Upload Favicon"
+msgstr ""
+
+#: vibe-options.php:218
+msgid "Upload 16x16px Favicon"
+msgstr ""
+
+#: vibe-options.php:219
+msgid "Upload 16x16px Favicon."
+msgstr ""
+
+#: vibe-options.php:225
+msgid "Fix Top Header on Scroll"
+msgstr ""
+
+#: vibe-options.php:226
+msgid "Fix header on top of screen"
+msgstr ""
+
+#: vibe-options.php:227
+msgid "header is fixed to top as user scrolls down."
+msgstr ""
+
+#: vibe-options.php:228
+msgid "Static"
+msgstr ""
+
+#: vibe-options.php:228
+msgid "Fixed on Scroll"
+msgstr ""
+
+#: vibe-options.php:233
+msgid "Navigation Search as Course Search"
+msgstr ""
+
+#: vibe-options.php:234
+msgid "Force the header search to search only in courses"
+msgstr ""
+
+#: vibe-options.php:244
+msgid "Sidebar Manager"
+msgstr ""
+
+#: vibe-options.php:245
+msgid "Generate more sidebars dynamically and use them in various layouts"
+msgstr ""
+
+#: vibe-options.php:250
+msgid "Create New sidebars "
+msgstr ""
+
+#: vibe-options.php:251
+msgid "Dynamically generate sidebars"
+msgstr ""
+
+#: vibe-options.php:252
+msgid ""
+"Use these sidebars in various layouts. DO NOT ADD ANY SPECIAL CHARACTERS in "
+"Sidebar name"
+msgstr ""
+
+#: vibe-options.php:257
+msgid "All Events page Sidebar"
+msgstr ""
+
+#: vibe-options.php:258
+msgid "Select All events page sidebar"
+msgstr ""
+
+#: vibe-options.php:259
+msgid "Select a sidebar for all events page"
+msgstr ""
+
+#: vibe-options.php:265
+msgid "Import/Export Sidebar settings "
+msgstr ""
+
+#: vibe-options.php:266
+msgid "Import/Export sidebars settings"
+msgstr ""
+
+#: vibe-options.php:267
+msgid ""
+"Use import/export functionality to import/export your Sidebar settings like "
+"Widgets included in sidebars."
+msgstr ""
+
+#: vibe-options.php:272
+msgid "Import/Export Widget settings "
+msgstr ""
+
+#: vibe-options.php:273
+msgid "Import/Export widgets settings"
+msgstr ""
+
+#: vibe-options.php:274
+msgid "Use import/export functionality to import/export your widget settings."
+msgstr ""
+
+#: vibe-options.php:281
+msgid "Buddypress"
+msgstr ""
+
+#: vibe-options.php:282
+msgid "BuddyPress settings and Variables"
+msgstr ""
+
+#: vibe-options.php:287
+msgid "Upload BuddyPress Default avatar"
+msgstr ""
+
+#: vibe-options.php:288
+msgid "BuddyPress default members avatar"
+msgstr ""
+
+#: vibe-options.php:289
+msgid ""
+"This avatar is shown for members who have not uploaded any custom avatar."
+msgstr ""
+
+#: vibe-options.php:294
+msgid "Buddypress Items Per Page"
+msgstr ""
+
+#: vibe-options.php:295
+msgid "number of items shown per page"
+msgstr ""
+
+#: vibe-options.php:296
+msgid "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+msgstr ""
+
+#: vibe-options.php:302
+msgid "Show Members Meta info"
+msgstr ""
+
+#: vibe-options.php:303
+msgid "Members meta-info is shown below the name"
+msgstr ""
+
+#: vibe-options.php:304
+msgid ""
+"Members activity, Friendship , Message button is shown in Single & members "
+"directory."
+msgstr ""
+
+#: vibe-options.php:311
+msgid "All Members View"
+msgstr ""
+
+#: vibe-options.php:312
+msgid "All members pages can be viewed by:"
+msgstr ""
+
+#: vibe-options.php:313 vibe-options.php:322
+msgid ""
+"Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},Teachers "
+"{Teachers, Admins,Editors}"
+msgstr ""
+
+#: vibe-options.php:315 vibe-options.php:324 vibe-options.php:340
+#: vibe-options.php:356 vibe-options.php:365 vibe-options.php:374
+#: vibe-options.php:383 vibe-options.php:392
+msgid "Members only"
+msgstr ""
+
+#: vibe-options.php:315 vibe-options.php:324 vibe-options.php:340
+#: vibe-options.php:356 vibe-options.php:365 vibe-options.php:374
+#: vibe-options.php:383 vibe-options.php:392
+msgid "Teachers only"
+msgstr ""
+
+#: vibe-options.php:315 vibe-options.php:324 vibe-options.php:340
+#: vibe-options.php:356 vibe-options.php:365 vibe-options.php:374
+#: vibe-options.php:383 vibe-options.php:392
+msgid "Admins only"
+msgstr ""
+
+#: vibe-options.php:320
+msgid "Single Member Profile View"
+msgstr ""
+
+#: vibe-options.php:321
+msgid "Single members profile can be viewed by:"
+msgstr ""
+
+#: vibe-options.php:330
+msgid "All Members no-access redirect Page"
+msgstr ""
+
+#: vibe-options.php:331 vibe-options.php:347
+msgid "User is redirected to this page on error."
+msgstr ""
+
+#: vibe-options.php:332
+msgid ""
+"In case Members view access is denied to the user, user is redirected to "
+"this page."
+msgstr ""
+
+#: vibe-options.php:336
+msgid "Activity View"
+msgstr ""
+
+#: vibe-options.php:337
+msgid "Activity can be viewed by :"
+msgstr ""
+
+#: vibe-options.php:338 vibe-options.php:372
+msgid ""
+"Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+"Teachers {Teachers, Admins,Editors}"
+msgstr ""
+
+#: vibe-options.php:346
+msgid "Activity no-access redirect Page"
+msgstr ""
+
+#: vibe-options.php:348
+msgid ""
+"In case Activity view access is denied to the user, user is redirected to "
+"this page."
+msgstr ""
+
+#: vibe-options.php:352
+msgid "Create Groups"
+msgstr ""
+
+#: vibe-options.php:353
+msgid "Groups can be created by :"
+msgstr ""
+
+#: vibe-options.php:354
+msgid ""
+"Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+"Editors}"
+msgstr ""
+
+#: vibe-options.php:361
+msgid "Create Blog (multisite)"
+msgstr ""
+
+#: vibe-options.php:362
+msgid "Blogs can be created by :"
+msgstr ""
+
+#: vibe-options.php:363
+msgid ""
+"Blog creation : Members{Loggedin Members},Teachers {Teachers, Admins,Editors}"
+msgstr ""
+
+#: vibe-options.php:370
+msgid "Profile Activity Tab"
+msgstr ""
+
+#: vibe-options.php:371
+msgid "Single Profile activity can be viewed by :"
+msgstr ""
+
+#: vibe-options.php:379
+msgid "Profile Group View"
+msgstr ""
+
+#: vibe-options.php:380
+msgid "Single Profile Groups can be viewed by :"
+msgstr ""
+
+#: vibe-options.php:381 vibe-options.php:390
+msgid ""
+"Group viewability : All {Non-Loggedin}, Members{Loggedin Members},Teachers "
+"{Teachers, Admins,Editors}"
+msgstr ""
+
+#: vibe-options.php:388
+msgid "Profile Forums View"
+msgstr ""
+
+#: vibe-options.php:389
+msgid "Single Profile Forums can be viewed by :"
+msgstr ""
+
+#: vibe-options.php:398
+msgid "Redirect Page on User Activation"
+msgstr ""
+
+#: vibe-options.php:399
+msgid "User is redirected to this page on activating her account."
+msgstr ""
+
+#: vibe-options.php:400
+msgid ""
+"After registering and activating the account the user is redirected to this "
+"page."
+msgstr ""
+
+#: vibe-options.php:405
+msgid "Enable Join Group/Request Membership button"
+msgstr ""
+
+#: vibe-options.php:406
+msgid "Button is shown in Groups directory"
+msgstr ""
+
+#: vibe-options.php:407
+msgid ""
+"Join Group for Public groups and Request Membership button for private groups"
+msgstr ""
+
+#: vibe-options.php:412
+msgid "Restrict Student activity view"
+msgstr ""
+
+#: vibe-options.php:413
+msgid "Restrict student view of activity"
+msgstr ""
+
+#: vibe-options.php:414
+msgid "Student can view only her activity"
+msgstr ""
+
+#: vibe-options.php:416
+msgid "All Activity"
+msgstr ""
+
+#: vibe-options.php:416
+msgid "Student Activity"
+msgstr ""
+
+#: vibe-options.php:422
+msgid "Student Field"
+msgstr ""
+
+#: vibe-options.php:423
+msgid "Enter the name of the Student Field to show below the name."
+msgstr ""
+
+#: vibe-options.php:429
+msgid "Instructor Field Group"
+msgstr ""
+
+#: vibe-options.php:430
+msgid ""
+"Enter the name of the Instructor Field Group you want to hide from Students "
+"from viewing in Profile -> edit (* No Required fields & Case senstitive)."
+msgstr ""
+
+#: vibe-options.php:436
+msgid "Instructor Field"
+msgstr ""
+
+#: vibe-options.php:437
+msgid "Enter the name of the Instructor Field to show below the name."
+msgstr ""
+
+#: vibe-options.php:443
+msgid "Instructor Paypal Field"
+msgstr ""
+
+#: vibe-options.php:444
+msgid "Enter \"Field Name\" for Instructor PayPal ID"
+msgstr ""
+
+#: vibe-options.php:450
+msgid "Instructor Description Field"
+msgstr ""
+
+#: vibe-options.php:451
+msgid ""
+"Instructor Description is picked from this field in the Instructor Widget"
+msgstr ""
+
+#: vibe-options.php:460
+msgid "Course Manager"
+msgstr ""
+
+#: vibe-options.php:461
+msgid "Manage Course Options from here."
+msgstr ""
+
+#: vibe-options.php:466
+msgid "Take This Course Page"
+msgstr ""
+
+#: vibe-options.php:467
+msgid "A Page with Start Course Page Template"
+msgstr ""
+
+#: vibe-options.php:472
+msgid "Connect Edit Course Page"
+msgstr ""
+
+#: vibe-options.php:473
+msgid ""
+"A Page with \"Create Content\" Page Template OR a page with shortcode "
+"[edit_course]"
+msgstr ""
+
+#: vibe-options.php:478
+msgid "Notes & Discussion Page"
+msgstr ""
+
+#: vibe-options.php:479
+msgid "A Page with \"Notes & Discussion\" Page Template"
+msgstr ""
+
+#: vibe-options.php:484
+msgid "Email page"
+msgstr ""
+
+#: vibe-options.php:485
+msgid ""
+"Connect page for \"View email in Borwser\" in emails, use page template "
+"\"Email Page\""
+msgstr ""
+
+#: vibe-options.php:489
+msgid "Maintain accurate Student Count"
+msgstr ""
+
+#: vibe-options.php:490
+msgid "Maintains accurate student count for course"
+msgstr ""
+
+#: vibe-options.php:491
+msgid ""
+"The Number of Student in Course count gets verified everytime user visits "
+"the Course - admin section"
+msgstr ""
+
+#: vibe-options.php:498
+msgid "Admin Approval for Course"
+msgstr ""
+
+#: vibe-options.php:499
+msgid "Force instructors for Admin approval for new course"
+msgstr ""
+
+#: vibe-options.php:500
+msgid ""
+"Force Courses created by Instructors are first sent to Administrator for "
+"Approval."
+msgstr ""
+
+#: vibe-options.php:502
+msgid "Yes, require approval"
+msgstr ""
+
+#: vibe-options.php:502
+msgid "No, allow publish"
+msgstr ""
+
+#: vibe-options.php:507
+msgid "Unit Locking"
+msgstr ""
+
+#: vibe-options.php:508
+msgid "Set access to next units based on previous unit status"
+msgstr ""
+
+#: vibe-options.php:509
+msgid ""
+"Force users to complete previous units and quiz evalution before viewing the "
+"next units"
+msgstr ""
+"Force users to complete previous units and questionnaire evaluation before "
+"viewing the next units"
+
+#: vibe-options.php:511
+msgid "Free Access"
+msgstr ""
+
+#: vibe-options.php:511
+msgid "Force prev Unit/Quiz Complete"
+msgstr ""
+
+#: vibe-options.php:516
+msgid "Unit Media Lock"
+msgstr ""
+
+#: vibe-options.php:517
+msgid "Hide unit completion button unless the Media(Audio/Video) is complete"
+msgstr ""
+
+#: vibe-options.php:518
+msgid ""
+"Force users to view/listen the Media, Audio/Video in units before marking "
+"the unit as complete"
+msgstr ""
+
+#: vibe-options.php:525
+msgid "Assignment Locking"
+msgstr ""
+
+#: vibe-options.php:526
+msgid "Force users to finish assignments to complete units"
+msgstr ""
+
+#: vibe-options.php:527
+msgid ""
+"Mark complete button for a unit will appear only after student has finished "
+"the unit assignment"
+msgstr ""
+
+#: vibe-options.php:529
+msgid "Do not lock"
+msgstr ""
+
+#: vibe-options.php:529
+msgid "Lock Unit Completion"
+msgstr ""
+
+#: vibe-options.php:534
+msgid "Show Course Progressbar"
+msgstr ""
+
+#: vibe-options.php:535
+msgid "Show course progress bar above course timeline"
+msgstr ""
+
+#: vibe-options.php:536
+msgid "Course Progress bar is shown in Course curriculum page"
+msgstr ""
+
+#: vibe-options.php:543
+msgid "Instructors can Add Students"
+msgstr ""
+
+#: vibe-options.php:544
+msgid "Enable Instructors to be able to add students"
+msgstr ""
+
+#: vibe-options.php:545
+msgid ""
+"A Bulk Action is added in Course -> Admin -> Members which enables "
+"Instructos to add students to the course"
+msgstr ""
+
+#: vibe-options.php:552
+msgid "Instructors can Manage Student Course status "
+msgstr ""
+
+#: vibe-options.php:553
+msgid "Enable Instructors to be change Students course status"
+msgstr ""
+
+#: vibe-options.php:554
+msgid ""
+"A Bulk Action is added in Course -> Admin -> Members which enables "
+"Instructos to manage students course status in the course"
+msgstr ""
+
+#: vibe-options.php:561
+msgid "Instructors can Assign/Remove Certificates & Badges"
+msgstr ""
+
+#: vibe-options.php:562
+msgid ""
+"Enable Instructors to be able to assign Certificates & Badges to Students"
+msgstr ""
+
+#: vibe-options.php:563
+msgid ""
+"A Bulk Action is added in Course -> Admin -> Members which enables "
+"Instructos to assign Certificates & Badges to Students for the course"
+msgstr ""
+
+#: vibe-options.php:570
+msgid "Instructors can Extend subscription"
+msgstr ""
+
+#: vibe-options.php:571
+msgid "Enable Instructors to extend subscriptions of Students"
+msgstr ""
+
+#: vibe-options.php:572
+msgid ""
+"A Bulk Action is added in Course -> Admin -> Members which enables "
+"Instructos to extend subscriptions of Students for the course"
+msgstr ""
+
+#: vibe-options.php:579
+msgid "Force Instructor Content Privacy"
+msgstr ""
+
+#: vibe-options.php:580
+msgid "Select boxes show only instructor units/quizzes/questions"
+msgstr ""
+
+#: vibe-options.php:581
+msgid "Instructors can view titles but can not open content"
+msgstr ""
+
+#: vibe-options.php:588
+msgid "Leaderboard/Stats Visibility"
+msgstr ""
+
+#: vibe-options.php:589
+msgid "Stats & Leaderboard visible to"
+msgstr ""
+
+#: vibe-options.php:590
+msgid ""
+"Stats displaying average, maxmium, minimum and top 10 students for a module"
+msgstr ""
+
+#: vibe-options.php:592
+msgid "Students"
+msgstr ""
+
+#: vibe-options.php:592
+msgid "All Instructors"
+msgstr ""
+
+#: vibe-options.php:592
+msgid "Module Instructor & Administrators"
+msgstr ""
+
+#: vibe-options.php:598
+msgid "Become an Instructor Page"
+msgstr ""
+
+#: vibe-options.php:599
+msgid "A Page with become a teacher form."
+msgstr ""
+
+#: vibe-options.php:604
+msgid "Fallback Certificate Page"
+msgstr ""
+
+#: vibe-options.php:605
+msgid ""
+"A Page with certificate page template, Fallback to courses with no "
+"Certificate Templates."
+msgstr ""
+
+#: vibe-options.php:610
+msgid "Course default avatar"
+msgstr ""
+
+#: vibe-options.php:611
+msgid "Default avatar for courses"
+msgstr ""
+
+#: vibe-options.php:612
+msgid "This avatar is shown for courses which do not have any avatar"
+msgstr ""
+
+#: vibe-options.php:618
+msgid "Auto-Evaluation Question Types"
+msgstr ""
+
+#: vibe-options.php:619
+msgid "Question types which will be evaluated by Auto-Evaluation"
+msgstr ""
+
+#: vibe-options.php:620
+msgid ""
+"These question types will be evaluated by auto quiz evaluation process for "
+"exact match."
+msgstr ""
+
+#: vibe-options.php:622
+msgid "True False"
+msgstr ""
+
+#: vibe-options.php:623
+msgid "Multiple Choice"
+msgstr ""
+
+#: vibe-options.php:624
+msgid "Multiple Correct"
+msgstr ""
+
+#: vibe-options.php:625
+msgid "Sort Answer Question"
+msgstr ""
+
+#: vibe-options.php:626
+msgid "Match Answers"
+msgstr ""
+
+#: vibe-options.php:627
+msgid "Dropdown select"
+msgstr ""
+
+#: vibe-options.php:628
+msgid "Fill in the Blank"
+msgstr ""
+
+#: vibe-options.php:629
+msgid "Small Text Answer"
+msgstr ""
+
+#: vibe-options.php:636
+msgid "Hide Courses from Directory"
+msgstr ""
+
+#: vibe-options.php:637
+msgid "Hide courses from directory & pages, only accessible via direct link"
+msgstr ""
+
+#: vibe-options.php:645
+msgid "Course Duration parameter"
+msgstr ""
+
+#: vibe-options.php:646
+msgid "Set course duration parameter"
+msgstr ""
+
+#: vibe-options.php:647
+msgid "Course duration parameter for display purpose"
+msgstr ""
+
+#: vibe-options.php:662
+msgid "Finished Course Access"
+msgstr ""
+
+#: vibe-options.php:663
+msgid "Allow students to view Finished courses"
+msgstr ""
+
+#: vibe-options.php:664
+msgid "Make finished courses secure area viewable to students"
+msgstr ""
+
+#: vibe-options.php:671
+msgid "Notes and Discussion styles"
+msgstr ""
+
+#: vibe-options.php:672
+msgid "Set style for Notes & Discussion template"
+msgstr ""
+
+#: vibe-options.php:673
+msgid "Display notes & Discussions"
+msgstr ""
+
+#: vibe-options.php:675
+msgid "Per paragraph in Unit"
+msgstr ""
+
+#: vibe-options.php:675
+msgid "Per Unit"
+msgstr ""
+
+#: vibe-options.php:680
+msgid "Display News"
+msgstr ""
+
+#: vibe-options.php:681 vibe-options.php:682
+msgid "Display News section in courses"
+msgstr ""
+
+#: vibe-options.php:689
+msgid "Enable Levels"
+msgstr ""
+
+#: vibe-options.php:690
+msgid "Enables Level taxonomy"
+msgstr ""
+
+#: vibe-options.php:691
+msgid "Enables Level taxonomy in Courses and search page "
+msgstr ""
+
+#: vibe-options.php:698
+msgid "Enable Course Location"
+msgstr ""
+
+#: vibe-options.php:699
+msgid "Location taxonomy for Courses"
+msgstr ""
+
+#: vibe-options.php:700
+#, php-format
+msgid ""
+"Location taxonomy for Courses in Course filters and Search %s Tutorial %s"
+msgstr ""
+
+#: vibe-options.php:707
+msgid "Disable Front End Editor (FEE)"
+msgstr ""
+
+#: vibe-options.php:708
+msgid "Disable front end editor"
+msgstr ""
+
+#: vibe-options.php:709
+#, php-format
+msgid "Disable front end editor : %s Tutorial %s"
+msgstr ""
+
+#: vibe-options.php:711
+msgid "No, Enable FEE"
+msgstr ""
+
+#: vibe-options.php:711
+msgid "Yes, Disable FEE"
+msgstr ""
+
+#: vibe-options.php:716
+msgid "Enable Linkage"
+msgstr ""
+
+#: vibe-options.php:717
+msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+msgstr ""
+
+#: vibe-options.php:718
+msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+msgstr ""
+
+#: vibe-options.php:725
+msgid "Course Category/Level/Location redirect"
+msgstr ""
+
+#: vibe-options.php:726
+msgid "Redirect to Course directory"
+msgstr ""
+
+#: vibe-options.php:727
+#, php-format
+msgid ""
+"User redirects to Directory with category activated when she selects course "
+"category %s refer tutorial %s"
+msgstr ""
+
+#: vibe-options.php:737
+msgid "Fonts Manager"
+msgstr ""
+
+#: vibe-options.php:738
+msgid ""
+"Manage Fonts to be used in the Site. Fonts selected here will be available "
+"in Theme customizer font family select options."
+msgstr ""
+
+#: vibe-options.php:743
+msgid "Enter Google fonts API key"
+msgstr ""
+
+#: vibe-options.php:744
+msgid "Required to fetch a list of Fonts from Google"
+msgstr ""
+
+#: vibe-options.php:749
+msgid "Select Fonts for Live Theme Editor "
+msgstr ""
+
+#: vibe-options.php:750
+msgid "Select Fonts and setup fonts in Live Editor"
+msgstr ""
+
+#: vibe-options.php:751 vibe-options.php:789
+msgid "Use these sample layouts in PageBuilder."
+msgstr ""
+
+#: vibe-options.php:756
+msgid "Custom Fonts (Enter CSS Font Family name)"
+msgstr ""
+
+#: vibe-options.php:757
+msgid " Custom Fonts are added to Theme Customizer Font List.. "
+msgstr ""
+
+#: vibe-options.php:766
+msgid "Customizer"
+msgstr ""
+
+#: vibe-options.php:767
+msgid "Import/Export customizer settings. Customize your theme using "
+msgstr ""
+
+#: vibe-options.php:767
+msgid "WP Theme Customizer"
+msgstr ""
+
+#: vibe-options.php:772
+msgid "Import/Export Customizer settings "
+msgstr ""
+
+#: vibe-options.php:773
+msgid "Import/Export customizer settings"
+msgstr ""
+
+#: vibe-options.php:774
+msgid ""
+"Use import/export functionality to import/export your customizer settings."
+msgstr ""
+
+#: vibe-options.php:781
+msgid "PageBuilder Manager"
+msgstr ""
+
+#: vibe-options.php:782
+msgid ""
+"Manage PageBuilder saved layouts and Import/Export pagebuilder Saved layouts"
+msgstr ""
+
+#: vibe-options.php:787
+msgid "Manage Sample Layouts "
+msgstr ""
+
+#: vibe-options.php:788
+msgid "Delete Sample Layouts"
+msgstr ""
+
+#: vibe-options.php:794
+msgid "Import/Export Sample Layouts "
+msgstr ""
+
+#: vibe-options.php:795
+msgid "Import/Export existing Layouts"
+msgstr ""
+
+#: vibe-options.php:796
+msgid "Use import/export functionality to save your layouts."
+msgstr ""
+
+#: vibe-options.php:804
+msgid "Footer "
+msgstr ""
+
+#: vibe-options.php:805
+msgid "Setup footer settings"
+msgstr ""
+
+#: vibe-options.php:811
+msgid "Top Footer Sidebar Columns"
+msgstr ""
+
+#: vibe-options.php:812 vibe-options.php:825
+msgid "Footer Columns"
+msgstr ""
+
+#: vibe-options.php:814 vibe-options.php:827
+msgid "Four Columns"
+msgstr ""
+
+#: vibe-options.php:815 vibe-options.php:828
+msgid "Three Columns"
+msgstr ""
+
+#: vibe-options.php:816 vibe-options.php:829
+msgid "Two Columns"
+msgstr ""
+
+#: vibe-options.php:817 vibe-options.php:830
+msgid "One Columns"
+msgstr ""
+
+#: vibe-options.php:824
+msgid "Bottom Footer Sidebar Columns"
+msgstr ""
+
+#: vibe-options.php:838
+msgid "Copyright Text"
+msgstr ""
+
+#: vibe-options.php:839
+msgid "Enter copyrighted text"
+msgstr ""
+
+#: vibe-options.php:840
+msgid "Also supports shotcodes."
+msgstr ""
+
+#: vibe-options.php:845
+msgid "Footer Bottom"
+msgstr ""
+
+#: vibe-options.php:846
+msgid "Select an option for FooterBottom"
+msgstr ""
+
+#: vibe-options.php:847
+msgid "Select Footer Bottom style, set Social icon links in Social tab"
+msgstr ""
+
+#: vibe-options.php:849
+msgid "Show Footer Menu"
+msgstr ""
+
+#: vibe-options.php:849
+msgid "Show Social Icons"
+msgstr ""
+
+#: vibe-options.php:855
+msgid "Google Analytics Code"
+msgstr ""
+
+#: vibe-options.php:856
+msgid "Google Analytics account"
+msgstr ""
+
+#: vibe-options.php:857
+msgid "Please enter full code with javascript tags."
+msgstr ""
+
+#: vibe-options.php:864
+msgid "Social Information"
+msgstr ""
+
+#: vibe-options.php:865
+msgid "All Social media settings"
+msgstr ""
+
+#: vibe-options.php:871
+msgid "Add Social Media Icons "
+msgstr ""
+
+#: vibe-options.php:872
+msgid "Dynamically add social media icons"
+msgstr ""
+
+#: vibe-options.php:873
+msgid "Add your Full URL in social media."
+msgstr ""
+
+#: vibe-options.php:878
+msgid "Social Icons Type"
+msgstr ""
+
+#: vibe-options.php:879
+msgid "Social Icons Theme"
+msgstr ""
+
+#: vibe-options.php:880
+msgid "Minimal"
+msgstr ""
+
+#: vibe-options.php:880
+msgid "Round"
+msgstr ""
+
+#: vibe-options.php:880
+msgid "Square"
+msgstr ""
+
+#: vibe-options.php:880
+msgid "Round Colored"
+msgstr ""
+
+#: vibe-options.php:880
+msgid "Square Colored"
+msgstr ""
+
+#: vibe-options.php:886
+msgid "Show Tooltip on Social Icons"
+msgstr ""
+
+#: vibe-options.php:893
+msgid "Social Sharing buttons"
+msgstr ""
+
+#: vibe-options.php:894
+msgid "Show in-built sharing buttons in the theme"
+msgstr ""
+
+#: vibe-options.php:895
+msgid "Adds Social media sharing buttons in single Courses etc."
+msgstr ""
+
+#: vibe-options.php:902
+msgid "TinCan/xAPI"
+msgstr ""
+
+#: vibe-options.php:903
+msgid "TinCan and LRS settings for WPLMS"
+msgstr ""
+
+#: vibe-options.php:908
+msgid "Enable TinCan recording"
+msgstr ""
+
+#: vibe-options.php:909
+msgid "Record TinCan/XAPI statements in External LRS"
+msgstr ""
+
+#: vibe-options.php:910
+msgid ""
+"Store all activity in an External LRS, which other XAPI compatible LMSes can "
+"read."
+msgstr ""
+
+#: vibe-options.php:916
+msgid "TinCan API EndPoint"
+msgstr ""
+
+#: vibe-options.php:917
+msgid "Add a TinCan API endpoint"
+msgstr ""
+
+#: vibe-options.php:918
+msgid "Add Endpoint to track details in external LRS."
+msgstr ""
+
+#: vibe-options.php:924
+msgid "LRS User name"
+msgstr ""
+
+#: vibe-options.php:925 vibe-options.php:933
+msgid "TinCan compatible LRS authentication"
+msgstr ""
+
+#: vibe-options.php:926
+msgid "Enter Username for external LRS authentication."
+msgstr ""
+
+#: vibe-options.php:932
+msgid "LRS Password"
+msgstr ""
+
+#: vibe-options.php:934
+msgid "Enter Password for external LRS authentication."
+msgstr ""
+
+#: vibe-options.php:942
+msgid "Miscellaneous"
+msgstr ""
+
+#: vibe-options.php:943
+msgid "Miscellaneous settings used in the theme."
+msgstr ""
+
+#: vibe-options.php:949
+msgid "Theme Layout"
+msgstr ""
+
+#: vibe-options.php:950
+msgid "Configure Layout of the theme"
+msgstr ""
+
+#: vibe-options.php:951
+msgid "Select out of predefined layouts for the theme"
+msgstr ""
+
+#: vibe-options.php:952
+msgid "Wide"
+msgstr ""
+
+#: vibe-options.php:952
+msgid "Boxed"
+msgstr ""
+
+#: vibe-options.php:958
+msgid "Unique Security Key"
+msgstr ""
+
+#: vibe-options.php:959
+msgid "Security key for every site. Longer keys are good"
+msgstr ""
+
+#: vibe-options.php:960
+msgid "Unique key to avoid (logged in) users from bypassing the system."
+msgstr ""
+
+#: vibe-options.php:966
+msgid "Default Excerpt Length"
+msgstr ""
+
+#: vibe-options.php:967
+msgid "Excerpt length in number of Words."
+msgstr ""
+
+#: vibe-options.php:973
+msgid "Default Instructor Commission"
+msgstr ""
+
+#: vibe-options.php:974
+msgid "Insructor commission per sale of course/product (enter 0 to disable)"
+msgstr ""
+
+#: vibe-options.php:980
+msgid "Direct Checkout"
+msgstr ""
+
+#: vibe-options.php:981
+msgid "Requires WooCommerce installed"
+msgstr ""
+
+#: vibe-options.php:982
+msgid "User is redirected to the checkout page."
+msgstr ""
+
+#: vibe-options.php:983
+msgid "Skip Product & Cart page"
+msgstr ""
+
+#: vibe-options.php:983
+msgid "Skip Product page"
+msgstr ""
+
+#: vibe-options.php:983
+msgid "Skip Cart"
+msgstr ""
+
+#: vibe-options.php:989
+msgid "Redirect to Course Page on Order completion"
+msgstr ""
+
+#: vibe-options.php:990
+msgid "Only if the order contains one product with one course"
+msgstr ""
+
+#: vibe-options.php:991
+msgid ""
+"If you're forcing the direct checkout, and your products have one course per "
+"product then switching this on would send users directly to the course page."
+msgstr ""
+
+#: vibe-options.php:998
+msgid "Force complete orders"
+msgstr ""
+
+#: vibe-options.php:999
+msgid ""
+"Force all WooCommerce virtual products orders complete on thank you page."
+msgstr ""
+
+#: vibe-options.php:1000
+msgid ""
+"All Paid Orders : All Orders with only Virtual products and payment complete "
+"orders, All Non-Fail Orders : All Orders in Processing, on Hold, Pending "
+"orders will be marked complete on Thank you page."
+msgstr ""
+
+#: vibe-options.php:1001
+msgid "All Paid Orders"
+msgstr ""
+
+#: vibe-options.php:1001
+msgid "All Non-Fail Orders"
+msgstr ""
+
+#: vibe-options.php:1007
+msgid "Remove Extra Checkout Fields"
+msgstr ""
+
+#: vibe-options.php:1008
+msgid "Recommended if you're only selling courses/virtual products"
+msgstr ""
+
+#: vibe-options.php:1009
+msgid ""
+"Removes following fields in WooCommerce Checkout : Billing Company/Address,"
+"State/Town, Pincode, Phone etc."
+msgstr ""
+
+#: vibe-options.php:1016
+msgid "Cache Duration"
+msgstr ""
+
+#: vibe-options.php:1017
+msgid "in seconds (0 to disable)"
+msgstr ""
+
+#: vibe-options.php:1018
+msgid "Small cache duration could impact adversely. High for stable websites."
+msgstr ""
+
+#: vibe-options.php:1024
+msgid "Contact Page Latitude and Longitude values"
+msgstr ""
+
+#: vibe-options.php:1025
+msgid "Grab the latitude and Longitude values from ."
+msgstr ""
+
+#: vibe-options.php:1025
+msgid "Link"
+msgstr ""
+
+#: vibe-options.php:1031
+msgid "Contact Page Map Style"
+msgstr ""
+
+#: vibe-options.php:1032
+msgid "Select the map style on contact page."
+msgstr ""
+
+#: vibe-options.php:1033
+msgid "Content area is the container in which all content is located."
+msgstr ""
+
+#: vibe-options.php:1034
+msgid "Satellite View"
+msgstr ""
+
+#: vibe-options.php:1034
+msgid "Road map"
+msgstr ""
+
+#: vibe-options.php:1040
+msgid "Google Map Zoom Level"
+msgstr ""
+
+#: vibe-options.php:1041
+msgid "Enter the zoom level in Google maps"
+msgstr ""
+
+#: vibe-options.php:1042
+msgid "Zoom Levels 0 - 19"
+msgstr ""
+
+#: vibe-options.php:1048
+msgid "Select 404 Page"
+msgstr ""
+
+#: vibe-options.php:1049
+msgid "This page is shown when page not found on your site."
+msgstr ""
+
+#: vibe-options.php:1050
+msgid "User redirected to this page when page not found."
+msgstr ""
+
+#: vibe-options.php:1055
+msgid "Disable XMLRPC/RSD/WLWManifest"
+msgstr ""
+
+#: vibe-options.php:1056
+msgid "Remove security vulnerabilities"
+msgstr ""
+
+#: vibe-options.php:1057
+msgid "Removes vulnerabilities at expense of ability to login via remote apps."
+msgstr ""
+
+#: vibe-options.php:1064
+msgid "Custom CSS for WP Login Screen"
+msgstr ""
+
+#: vibe-options.php:1065
+msgid "Add custom CSS"
+msgstr ""
+
+#: vibe-options.php:1066
+msgid "Custom CSS for WP Login screen."
+msgstr ""
+
+#: vibe-options.php:1071
+msgid "Author & Credits"
+msgstr ""
+
+#: vibe-options.php:1072
+msgid "Credits and Author of the Website"
+msgstr ""
+
+#: vibe-options.php:1073
+msgid "Changes the reference to Author {VibeThemes}"
+msgstr ""
+
+#: vibe-options.php:1109
+msgid "Theme Information"
+msgstr ""
+
+#: woocommerce/archive-product.php:24
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/archive-product.php:26
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:103
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:35
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:40
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:41
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:18
+#, php-format
+msgid ""
+"Hello. Your recent order on %s has been completed. You can now access your "
+"courses<a href="
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:26
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:64
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr ""
+
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.VibeThemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPLMS is a Learning Management System for WordPress. The theme is deep "
+"integrated with BuddyPress and comes packed with the Course Module plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mr.Vibe"
+msgstr ""

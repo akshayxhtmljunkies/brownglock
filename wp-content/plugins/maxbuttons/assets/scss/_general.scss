@@ -1,0 +1,92 @@
+
+/* Base element - do not use this in layout since this conflict with other plugins. 
+
+*/
+.message {
+	//border: solid 1px #e6db55;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding: 10px;
+	margin: 10px 0px 20px 0px;
+	clear: both;
+
+
+}
+
+.main {
+	//max-width: 72%; 
+	position: relative; 
+	z-index: 500; 
+	margin-top: 15px;
+}
+
+.mb-message {
+	@extend .message;
+ 
+	&.error {
+ 
+		font-weight: 700;
+	}
+	&.shortcode {
+		border: solid 1px #e6db55;
+		background-color: #ffffe0; 
+		
+	}
+	&.mb-notice { 
+		@extend .shortcode;
+	}
+}
+
+
+// NO MAXMODAL HERE ON MERGE CONFLICT 
+
+// modelled after WP 
+.button-bar {
+	margin: 15px 0; 
+	padding: 10px;
+	background: #fbfbfb none repeat scroll 0 0; 
+	border: 1px solid #e5e5e5; 
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	min-height: 28px;
+}
+h1 > span {
+	vertical-align: top; 
+	display: inline-block;
+}
+
+// the logo in the header section
+ .logo {
+	margin-left: 70px;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 13px; 
+	display: inline-block;
+	height: 60px;
+	
+	img {
+		vertical-align: middle;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.fb-like { 
+		margin-top: 5px;
+		height: 20px; 
+		padding: 0;
+		margin-left: 180px;
+		overflow: hidden; 
+		
+		span { vertical-align: top !important; } 
+	}
+	.twitter-follow-button { //display: none; //float:left; 
+							 margin-left: 180px;
+							 margin-top: 5px;
+	} 
+	.twitter-follow-button-rendered { display: inline-block; } 
+}
+
+
+
+// backward compatible for the placing of admin notices before version 4.3 - searches for h2
+.dummy-heading { display: none; } 

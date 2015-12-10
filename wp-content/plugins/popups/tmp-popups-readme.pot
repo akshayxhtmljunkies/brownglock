@@ -1,0 +1,936 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Popups - WordPress Popup"
+msgstr ""
+
+#. Short description.
+msgid "Most complete free Popups plugin, scroll triggered popups, compatible with social networks, Gravity Forms, Ninja Forms, Contact form 7, Mailpoet, Mail"
+msgstr ""
+
+#. Screenshot description.
+msgid "Popups Front end with default settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Popups Back end - visual editor"
+msgstr ""
+
+#. Screenshot description.
+msgid "Popups Back end - display rules and options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Popups Back end - appearance"
+msgstr ""
+
+#. Found in description header.
+msgid "Need it in another language? Help us [translate Popup Plugin](https://www.transifex.com/projects/p/popups/)"
+msgstr ""
+
+#. Found in description header.
+msgid "Available Settings"
+msgstr ""
+
+#. Found in description header.
+msgid "Plugin's Official Site"
+msgstr ""
+
+#. Found in description header.
+msgid "Github"
+msgstr ""
+
+#. Found in description header.
+msgid "Available Languages"
+msgstr ""
+
+#. Found in description header.
+msgid "Beatiful WordPress Emails"
+msgstr ""
+
+#. Found in description header.
+msgid "Install Multiple plugins at once with WpFavs"
+msgstr ""
+
+#. Found in description header.
+msgid "Increase your twitter followers"
+msgstr ""
+
+#. Found in description header.
+msgid "Wordpress Social Invitations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show popup on specific pages, templates, posts, etc"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter user from search engines"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter users that never commented"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter users that arrived via another page on your site"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter users via roles"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show popup depending on referrer"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show popup to logged / non logged users"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show or not to mobile and tablet users"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show depending on post type, post template, post name, post format, post status and post taxonomy"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show depending on page template, if page is parent, page name, page type"
+msgstr ""
+
+#. Found in description list item.
+msgid "Geotarget popups using the <a href=\"http://wp.timersys.com/geotargeting/\">Geotargeting plugin</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose from 5 different popup locations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Trigger popup after X seconds or after scrolling % of page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Auto hide the popup if the user scroll up"
+msgstr ""
+
+#. Found in description list item.
+msgid "Change font color, background, borders, etc"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can also configure background opacity."
+msgstr ""
+
+#. Found in description list item.
+msgid "Days until popup shows again"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ajax mode to make popups cache compatible"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcodes for social networks available"
+msgstr ""
+
+#. Found in description list item.
+msgid "Beautiful optin forms for popular mail providers"
+msgstr ""
+
+#. Found in description list item.
+msgid "Currently supporting MailChimp, Aweber, Postmatic, Mailpoet, Constant Contact"
+msgstr ""
+
+#. Found in description list item.
+msgid "Track impressions and Conversions of social networks and forms like CF7 or Gravity forms"
+msgstr ""
+
+#. Found in description list item.
+msgid "Track impressions and Conversions in Google Analytics"
+msgstr ""
+
+#. Found in description list item.
+msgid "8 New animations effects"
+msgstr ""
+
+#. Found in description list item.
+msgid "Exit Intent technology"
+msgstr ""
+
+#. Found in description list item.
+msgid "More trigger methods"
+msgstr ""
+
+#. Found in description list item.
+msgid "Timer for auto closing"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to disable close button"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to disable Advanced close methods like esc or clicking outside of the popup"
+msgstr ""
+
+#. Found in description list item.
+msgid "Premium support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Serbo-Croatian - Borisa - http://www.webhostinghub.com/"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish - Andrew Kurtis - http://www.webhostinghub.com/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The new Popups plugin can display multiple popups. Is the perfect solution to increase your social followers, add call to actions, increase your mailing lists by adding a form like mailchimp or to display any important message in a simple popup."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"It's compatible with the major form plugins like (read FAQ):\n"
+"* Gravity Forms\n"
+"* Ninja Forms\n"
+"* Contact form 7\n"
+"* USP Forms\n"
+"* Infusion Soft\n"
+"* Jetpack\n"
+"* Mailpoet\n"
+"* Mailchimp for WP\n"
+"* Postmatic\n"
+"* Any generic form\n"
+"* Facebook Login popups using the <a href=\"http://wp.timersys.com/facebook-login/\">Facebook login pro plugin</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "There are multiple display filters that can be combined:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Premium Version</strong><br />"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Check the <strong>new premium version</strong> available in (<a href=\"http://wp.timersys.com/popups/?utm_source=readme%20file&amp;utm_medium=readme%20links&amp;utm_campaign=Popups%20Premium\">https://wp.timersys.com/popups/</a>)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Popups (<a href=\"http://wp.timersys.com/free-plugins/popups/\">http://wp.timersys.com/free-plugins/social-popup/</a>)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Fork me in https://github.com/timersys/popups/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Now you can send html email in WordPress with <a href=\"https://wordpress.org/plugins/email-templates/\">https://wordpress.org/plugins/email-templates/</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Bulk plugin installation tool, import WP favorites and create your own lists (<a href=\"http://wordpress.org/extend/plugins/wpfavs/\">http://wordpress.org/extend/plugins/wpfavs/</a>)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Increase your Twitter followers with Twitter likebox Plugin (<a href=\"http://wordpress.org/extend/plugins/twitter-like-box-reloaded/\">http://wordpress.org/extend/plugins/twitter-like-box-reloaded/</a>)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Enhance your site by letting your users send Social Invitations (<a href=\"http://wp.timersys.com/wordpress-social-invitations/?utm_source=social-popup&amp;utm_medium=readme\">http://wp.timersys.com/wordpress-social-invitations/</a>)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Unzip and Upload the directory 'social-popup' to the '/wp-content/plugins/' directory</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Activate the plugin through the 'Plugins' menu in WordPress</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Go to Popups menu and add as many popups as needed</p>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Unzip and Upload the directory 'social-popup' to the '/wp-content/plugins/' directory"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Go to Popups menu and add as many popups as needed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed \"powered by\" by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with close on conversion and social networks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Css Fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Facebook Login plugin support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor code edits for premium version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with Mailchimp for Wordpress plugin [mc4wp_form]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Popup fires later for better shortcodes support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updates in language packs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now users can have custom links inside of popup that does not count as conversion (read faq)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can delete all data on uninstall"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now tags can be used as display rule ( In taxonomy)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any link inside popup is treated as custom conversion"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for USP Forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when removing styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when settings were not being saved on certain occassions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with manually triggered popups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lang files updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for usp forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to delete all data after uninstall"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can target popups by posts tags using taxonomy rule"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Any link you place inside popup is treatead as conversion when clicked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update popups admin screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with ninja forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed several other bugs ( js events, settings not saving, etc)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated FAQ and readme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated languages and added transifex"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with facebook page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed plugin version from facebook url to avoid some errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed call popups with custom links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when automatic shortcode style is disabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved code so other plugins can create custom rules fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new Facebook page js was not being loaded if you didn't have another popup with fb shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Comit failed and minified file wasn't uploaded"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for postmatic forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Centering of shortcodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new facebook page shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hotfix with problems in ajax mode. Sorry :)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Imagesloaded library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin now disabled ajax on forms that are not compatible with it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some visuals on backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code changes for premium version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when multiple images are use in a post"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug popup not closing when using conversion close option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed ajax mode to be on by default"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Social providers not loading on https sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug preventing popups to show on non ajax mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug preventing to save settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with popups not closing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New editor style only show on popups now"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with optin in premium version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new option to keep popup open on conversion"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added spanish language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"powered by\" link with affiliate support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved popups style in admin area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "User can now remove ajax from generic form by added .spu-disable-ajax class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when not using social shortcodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated core to work with latest premium version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IFS (infusion soft) support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added display rule - Post ID"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added display rule - Categories / Archives"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now both version are shown if you use premium"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added referrer display rule"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed spuvar_social undefined when not using wordpress jquery"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed wpml support in ajax mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added trigger events in javascript so devs can hook in"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added geotargeting support in popups using <a href=\"http://wp.timersys.com/geotargeting/\">Geotargeting plugin</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed undefined variable in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Serbo-Croatian language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed track function from premium plugin that was causing error on form submission"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error that was preventing form submission in ajax mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved popup center"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved popup in mobile for different effects / positions / popup sizes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WPML compatibility ( Sitepress Multilanguage )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed javascript error preventing some basics functions as closing popup on fb like"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hotfix- Bug with ajax mode &amp; testmode preventing plugin to work. Please update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Ajax mode in settings page to make popups compatible with cache plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a close button shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug detecting triggered clicks on iphone 6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some other minor bugfixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved and fixed generic form compatiblity and m4wp"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when images where used on popup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with size of popup not working fine"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed compability with events calendar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed compability with [mc4wp] (Mail chimp for WordPress)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with popup auto dissapearing by programatically clicks of themes/plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed popup in mobile to let users scroll it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with contact form 7 plugin support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bugfixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Contact Form 7, Gravity Forms and most of other generic forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added function to close popup when user actually follow/like"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed undefined notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed permissions to edit popups settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update Mobile detect class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added safe mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added js to fix facebook width bug \"failed to resize in 45s\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added qTranslate support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when disabling shortcodes js in settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "General js fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sorry!! fixed bug in settings page and js file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to disable auto style of shortcodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin compatible with Popups Premium "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor bugfixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Js improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with alignment in mobile devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in new aligning method for shortcodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed locale problem with facebook js"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed lang setting for Twitter Shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed text attribute of Twitter Shortcode because is not longer supported by Twitter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed method for aligning shortcodes for better compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed to only admins users can edit/create popups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error that facebook layout were not working properly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to remove JS from facebook, twitter, and google by using variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that cookies where not set when user closes the box by clicking outside or with ESC key"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with popup on mobiles devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Css fixed for better alignment of social networks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filters and actions for a future premium version of the plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added checks for shortcode values to avoid problems"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed style of Popup shortcodes help box to avoid problems"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now popups can be closed with esc and clicking outside of the boxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the delete rule button that was missing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Javascript error when editing popups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed mobile/tablets display rule and splitted in two new rules"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed cookie script to a small one"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now public js is server minified"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed min-width from the popup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Recoded from scratch. This is a totally new plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multiple popups are available now handled with custom post types"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I include a custom link inside of the popup ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Popups plugin is compatible with Gravity Forms ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Popups plugin is compatible with Ninja Forms ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Mailchimp4wp form it's compatible?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Jetpack form it's compatible?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Popups plugin is compatible with USP Forms ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change other styles of the popup like padding, rounded corners, etc ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I give other roles permissions to edit popups ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How to open a popup by pressing a link or button ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How to close the popup is a user clicks on a regular link ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "If I have multiple Gravity forms on my page, form is not working"
+msgstr ""
+
+#. Found in faq header.
+msgid "I closed the popup but youtube is still playing. How I fix it?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I attach my custom js events to popups plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How to edit the content of my popup only on certain pages ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I remove js for Facebook, Twitter or Google if I already loaded mine?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I use the uncommpresed popups JS in my site ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Popup is not showing, why ?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"By default any link you enter will be used as a conversion link. By that we mean that if the link is clicked the popup will be closed as the user already performed the desired action.\n"
+"To avoid that you can add the class attribute .spu-not-close to the link"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you need to configure your form to use ajax when inserting it"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you need to configure your form to use ajax. Go to the setting of the created form and enable AJAX. Then you need to disable AJAX on popups settings page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you need to disable AJAX on popups settings page"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you need to add to the usp form shortcode the class spu-disable-ajax like : [usp_form class=\"spu-disable-ajax\"]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can modify everything with css. If your popup id is 120 you can add some css like for example:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You need to add <a href=\"https://gist.github.com/timersys/03067ac7594fdce288ca\">this code</a> to your functions.php"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check the following gist (https://gist.github.com/timersys/d68690a85aed14a02318)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To use custom conversions check <a href=\"https://gist.github.com/timersys/7facec9c80935a0df1c6\">this code</a> . You need to add it in your theme javascript files"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "On certain occasions multiple GF instances can cause problems. There is a plugin that fixes that https://wordpress.org/plugins/gravity-forms-multiple-form-instances/"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check <a href=\"https://gist.github.com/timersys/99db1a8d2c8db74cb954\">this gist</a> for instructions"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes you can attach to any of this events . id = Popup id"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can filter the content by using the <a href=\"https://gist.github.com/timersys/d3c34d736fd3188f1293\">following function</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes you can remove them in the settings page of the plugin"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes if you need to debug you can use uncompressed javascript by enabling debug mode in the settings page"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check your page source code. At the bottom of your page search for an html comment that looks something like :"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you see that comment, then the error is probably a javascript error. Use debug mode and check your browser console for problems."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you are not seeing that code instead, the problem is that one of the display rules you configured is preventing it to show. Double check your display rules."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you have cache be sure to enable AJAX mode in the plugin settings page"
+msgstr ""

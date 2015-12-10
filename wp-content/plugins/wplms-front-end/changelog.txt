@@ -1,0 +1,189 @@
+* version1.9.9.6
+* Jquery triggers and activation fixes
+* TinyMCE error fix
+* Element deletion
+* new taxonomy filter
+* small fixes
+* version1.9.9.3
+* 1.9.9.5
+* CSS and js changes
+* wp-core-ui fix
+* TinyMCE trigger multiple times
+* Group and Forum edit option
+* version1.9.4
+* Media modal Fixes
+* text domain fixes
+* translation bug fixes
+* TinyMCE ajax load bug fix
+* version1.9.9.3
+* WP Editor issue
+* Save curriculum fix
+* version update
+* Invalid course instructor bug fix
+* current user id missing
+* version1.9.9.1
+* trigger save
+* TinyMce trigger save
+* datepicker bug fix
+* Old Front end active bug
+* bower
+* 1.9.9
+* language
+* revamp2
+* 1.9.9
+* revamp
+* Revamp
+* Getoption : Theme shortname fix for front end
+* final
+* Front end revamp complete
+* ready
+* 0.99
+* 0.9
+* 0.099
+* 0.1
+* generate fields v 0.2
+* Alternateive Front end Course creation
+* Create tabs
+* Generate fields and CSS changes
+* verison1.9.8
+* WPML compatible links
+* WPLMS Front end compatibility with WPML
+* version1.9.7
+* language files
+* Save course pricing action
+* Add action to extend third party plugins
+* FE added
+* Live edit dependency
+* generate fields v 0.2
+* Alternateive Front end Course creation
+* Create tabs
+* Generate fields and CSS changes
+* Unable to update curriculum
+* version1.9.6.2
+* style changes
+* Restructuring fields
+* Update post meta bug fix
+* Removed live editor css
+* style changes
+* True and false bug fix
+* Liveedit fix
+* Removed Live edit
+* version1.9.6
+* translations updated
+* conditional loading of scripts
+* Live editor css changes merged
+* Products meta bug fix
+* version1.9.5
+* Translation files
+* New Assignments addition code
+* Css fixes in edit screens
+* Plugin update fix
+* version1.9.4
+* New language files
+* Remove default text on click
+* coming soon courses
+* coming soon option
+* esc_url in add_query_arg
+* Group creation fix
+* Child forum creation fix
+* version1.9.3
+* language files updated
+* Translation files updated
+* version 1.9.2
+* Preview unit/quiz in front end
+* version1.9.1
+* Language files updated
+* Fixed featured images in units, quizzes, questions etc.
+* Delete Course/Modify Course option
+* Restructuring fields
+* version1.9
+* translation files
+* Course retakes in front end.
+* Quiz dynamic front end fix
+* Actions added
+* FEE Changes
+* postnow fix
+* Label fixes
+* version1.8.4
+* Translation files added
+* Course Title remove on click
+* Live Edit Updated
+* version1.8.3
+* Added : Level in front end
+* FIXED : CSS for Tablet and mobile layout
+* Updated Translation files
+* version1.8.2.1
+* Fixed Front End uploader issue
+* ADDED : Course specific instructions
+* Updated Changelog
+* version1.8.2
+* Unit type bug fix.
+* Changes in Pricing for MyCred
+* Changes in Pricing for MyCred
+* updated translation files
+* version1.8.1
+* css fixes
+* edit course translation
+* product duration bug fix
+* Fixed : Translation strings
+* Updated : Language files
+* version1.8
+* Added Border in New Category/Linkage
+* Create a Course translation issue
+* Fixed : Course completion message issue
+* Language files
+* version1.7.5
+* FEE UPDATE
+* Roll backed WPFEE
+* version1.7.4
+* UPDATED : Language Files
+* FIXED : TRanslation bugs
+* 1.7.3.1
+* FIX : New product pricing bug.
+* version1.7.3
+* FIXED : RTL Fixes
+* version1.7.2
+* FIXED : RTL Fixes
+* UPDATED : Language files
+* FIXED:  Border on text areas
+* ADDED : Support for Codestlying localization
+* FIXED : Course pricing saving membership issue
+* UPDATED : Language files
+* version1.7.1
+* ADDED : A booted border outside the required content area
+* FIXED : Course Badge Bug
+* version1.7
+* UPDATED : Language files
+* ADDED : Attachment Size in assignments
+* version 1.6.5
+* ADDED : Wrapper on front end elements
+* ADDED : Multiple assignments per unit.
+* version1.6.4
+* FIXED : Automatic reload
+* ADDED : Dynamic Quiz front end
+* FIXED : FIREFOX Issues
+* UPDATED : Language files
+* version 1.6.3
+* ADDED : Check for default Enter a course title for course
+* UPDATED : Language files
+* ADDED : ADD PACKAGE controls
+* FIXED : Changed Live to 'on'
+* version 1.6.2
+* version 1.6.2
+* Updated : Language files
+* ADDED : Linkage in front end course
+* FIXED : Save button in jquery Live edit
+* ADDED : Front End Assignment settings
+* FIXED : IE Bug for menu
+* ADDED : Front end Assignment Creation
+* UPDATED : Front end script dependency in jQuery UI
+* ADDED : Brazilian translation files
+* version 1.6.1.1
+* version 1.6
+* Fixed : Css fix for remove icon
+* FIXED : Added Unit type filter
+* FIXED : Front end firefox fix
+* 0.1
+* Init 0.1
+* Init
+* Including Repo

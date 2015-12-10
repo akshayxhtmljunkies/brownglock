@@ -1,0 +1,590 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#. Screenshot description.
+msgid "Manage which widgets you want enabled or disabled."
+msgstr ""
+
+#. Screenshot description.
+msgid "The button widget shows the clean, standard interface all the widgets use."
+msgstr ""
+
+#. Screenshot description.
+msgid "An example of the button widget."
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Maps Widget that's going places."
+msgstr ""
+
+#. Found in description list item.
+msgid "Button Widget that you’ll love to click."
+msgstr ""
+
+#. Found in description list item.
+msgid "Image Widget that’ll let you add images everywhere."
+msgstr ""
+
+#. Found in description list item.
+msgid "Call To Action Widget that’ll get your users performing the actions you want."
+msgstr ""
+
+#. Found in description list item.
+msgid "Slider Widget that slides images and HTML5 videos."
+msgstr ""
+
+#. Found in description list item.
+msgid "Price Table Widget that’ll help you sell more."
+msgstr ""
+
+#. Found in description list item.
+msgid "Post Carousel Widget that displays your posts as a carousel."
+msgstr ""
+
+#. Found in description list item.
+msgid "Features Widget that lets you display a set of site or service features."
+msgstr ""
+
+#. Found in description list item.
+msgid "Video Widget to get your videos out there."
+msgstr ""
+
+#. Found in description list item.
+msgid "Headline Widget to get you noticed."
+msgstr ""
+
+#. Found in description list item.
+msgid "Social Links Widget to show you're active."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[vimeo https://vimeo.com/102103379]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Widgets are great. No matter where you’re using them. In a <a href=\"http://siteorigin.com/page-builder/\">Page Builder</a> page or on your widgetized areas."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The SiteOrigin widget bundle gives you a collection of widgets that you can use and customize. All the widgets are built on our powerful framework, giving you advanced forms, unlimited colours and 1500+ icons."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The collection is growing, but here’s what we have so far."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Once you enable a widget, you'll be able to use it anywhere standard widgets are used. You can manage your widgets by going to Plugins &gt; SiteOrigin Widgets in your WordPress admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed compatibility with PHP 5.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed defaults for Features widget and Hero Image widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed previewing for Editor widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change measurement field to work as single string."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use new measurement field for existing widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Carousel widget supports RTL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed word break style from headline widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed image grid URL field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more text styling options to features widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added measurement field to use in various widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prefix function name in Google Map widget to prevent conflicts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed styling for contact form widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to allow multiple duplicated contact forms on a single page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Hero Image widget button shortcode in text mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TinyMCE fields maintain editor state."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WP Canvas Shortcodes in TinyMCE field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Don't initialize TinyMCE outside the admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more styling to contact form submit button."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issue with Call To Action widget being missing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Conflict between WPML and repeaters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Simple Masonry Layout widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Contact Form widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Image Grid widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Testimonial widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed layout of widgets activation page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Trianglify to generate placeholder widget icons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mechanism to use state emitters in repeaters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Section expanded/collapsed states now stored across form loads."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Display once off admin notice when new widgets are available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed translation domain."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Editor Widget: Allow more HTML in Editor widget for trusted users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hero Image Widget: Added top padding setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hero Image Widget: Can now set background click URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hero Image Widget: Improved handling of buttons shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slider Widget : Fixed open in new window setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Headline Widget: Added word-break CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Headline Widget: Added option to set type of heading tags used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with slider image widths."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WooCommerce Shortcodes plugin to TinyMCE field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New streamlined icon selector field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added info window functionality to maps widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a button to duplicate repeater items."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more design settings to hero image widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed full screen mode from TinyMCE field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to keep map centered when container is resized."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: CSS bug for Google font imports on generated CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Post selector for URL fields properly handles empty titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to skip auto paragraphs in Editor widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Urgent fix in preparation for WordPress 4.3 release"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to latest Font Awesome."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added TripAdvisor to social links widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow unfiltered HTML in SiteOrigin Editor Widget if user has rights."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Properly set URL scheme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed state emitter issue for Google Maps Widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Created a base slider widget class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Converted current slider widget to use base slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed image sizing in slider widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added plain background color option to slider widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new Hero Image widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed repeaters in sub items."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to TinyMCE field when moved in Customizer and Widgets interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small developer level improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed autoplay in video widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed behaviour of slides in slider widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added TinyMCE field type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All fields now use classes to make them easier to extend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added SiteOrigin Editor widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made it possible for other plugins to filter default widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed WordPress CLI compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added unit tests."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added networks to social networks widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed how repeater HTML is stored."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed reference to siteorigin_widgets_is_google_webfont."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed CSS URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Javascript issue with Map widget in customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added meta box manager."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small style change to flat button style."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Video widget fixes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added video widget with support for self/external videos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New activate/deactivate widgets interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Headline widget CSS fixes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev Feature: Error checking for widget field type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev Feature: Added state emitters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev Feature: Additional hooks and filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed is_customizer_preview - only available in newer versions of WordPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added headline widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All scripts and styles loaded in header instead of lazy loading."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added email to social links widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made carousel touch friendly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved input sanitization for HTML input."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added nonce request checking in carousel widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added sticky field to post selector."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added function to allow Page Builder to use post selector."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a few developer friendly filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Various customizer related issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issue limiting maps widget to 10 markers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Call to action alignment issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Carousel preview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added social links widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Framework updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Google Map preview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added powerful Google Maps widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved data sanitization."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various UI improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with adding extra widget folders."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility with WordPress Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more fields to be used with future widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed legacy widget deactivation functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved how widgets are loaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed how widget list is loaded to fix issue with widgets list not displaying."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Features widget icons can now be made clickable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Manage widgets page now does live updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added widget previews."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed wire button widget hover issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Old stand alone widget plugins are now deactivated in favor of bundled versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed centering of CTA widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed color settings in CTA widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed button icon color setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small UI improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clean up of code and bundled widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Support"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Create Custom Widgets"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<a href=\"https://siteorigin.com/css/getting-started/\">Documentation</a> is available on SiteOrigin."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "We offer free support on the <a href=\"https://siteorigin.com/thread/\">SiteOrigin support forums</a>."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The SiteOrigin Widgets Bundle is the perfect platform to build widgets for your theme or plugin. Read more on our <a href=\"https://siteorigin.com/docs/widgets-bundle/\">developer docs</a>."
+msgstr ""

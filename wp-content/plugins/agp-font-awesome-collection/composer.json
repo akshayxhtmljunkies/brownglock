@@ -1,0 +1,26 @@
+{
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "agpfontawesome/icons",
+                "version": "4.5.0",
+                "dist": {
+                    "url": "https://github.com/FortAwesome/Font-Awesome/raw/master/src/icons.yml",
+                    "type": "file",
+                    "reference": "master"
+                }
+            }            
+        }
+    ],
+    "require" : {
+        "components/font-awesome": "*",             
+        "agpfontawesome/icons": "4.5.0",
+        "mustangostang/spyc": "dev-master",
+        "oyejorge/less.php": "~1.5"
+    },
+    "scripts": {
+        "post-update-cmd": ["echo [WARNING] Delete all .git dirs", "rm -rf vendor/**/**/.git"],
+        "post-install-cmd": ["echo [WARNING] Delete all .git dirs", "rm -rf vendor/**/**/.git"]
+    }
+}

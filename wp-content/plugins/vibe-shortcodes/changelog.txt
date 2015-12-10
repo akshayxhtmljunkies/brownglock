@@ -1,0 +1,159 @@
+* version1.9.9.2
+* Course_search shortcode fix
+* Text domain fixes
+* 1.9.9.1
+* wp-video width
+* remove icon
+* Language files updated
+* block media image css
+* version1.9.9
+* Live function
+* Hint bug fix
+* icons loaded in posts and edit only
+* version 1.9.8
+* Sell content shortcode
+* function exists Check on Tabs
+* version1.9.7
+* language files updated
+* Explaination fix
+* Certificate Date with Manual Fallback
+* Question shortcode the content fix
+* Calling Shortcodes script only on the shortcodes pages
+* version1.9.6.2
+* version1.9.6.2
+* version1.9.6
+* Fetch avatar bug fix
+* Images loaded bugfix for isotope grip
+* version1.9.5
+* translation files
+* Upload handler fixes
+* Remove clert china
+* Date in i18 format
+* Parallax block code moved
+* Conditionally calling scripts
+* Plugin update fixes
+* version1.9.4
+* Translation fixes
+* Forms select box fix
+* Course Searchbox and pass_fail shortcode
+* CErtificate completion date
+* Responsive parallax
+* Counter shortcode popup fix
+* Language fix in popup
+* New Shortcodes : Question , Social sharing buttons
+* esc_url in add_query_arg
+* version1.9.3
+* translation fixes
+* Course Product shortcode
+* version1.9.2.3
+* Localise strings fix
+* version1.9.2.2
+* Counter shortcode with site stats shortcode
+* Instructor count
+* Counter script
+* Translation files updated
+* version1.9.2
+* Counter shortcode
+* Shortcodes added
+* Scroll counter added
+* version1.9.1
+* Language files updated
+* Open first and allow for direct link in accordions and tabs
+* Restructured upload handler
+* Vibe carousel dark option css added
+* Form security option
+* version1.9
+* social button shortcode
+* social button shortcode
+* Czech language
+* Load grid more specific
+* Disabled custom media player skin
+* Container shortcode
+* version1.8.4
+* Error message fix
+* CSS Fixes
+* CSS changes
+* version1.8.3
+* User_only shortcode
+* CSS Changes for  Multi pricing for courses
+* Updated translation files
+* Version1.8.2.1
+* FIXED : Package uploader issues
+* Updated Changelog
+* version1.8.2
+* fix for certificate student photo
+* ADDED certificate_student_photo shortcode
+* ADDED Language files
+* version1.8.1
+* Popup Enhancements
+* Removed minified option
+* FIXED : CSS bug in grid
+* Fixed : Upload handler bug
+* Updated : Language files
+* version1.8
+* Added Filter for Certificate code validation
+* Added short code for images
+* version1.7.5
+* UPDATED : Language files
+* Captcha Added in forms
+* JS Translation strings added
+* Language fixes
+* version1.7.4
+* UPDATED : Translation files
+* FIXED: Boxed footer carousel widget
+* Sending email translation
+* FIXED : hide course filters
+* version1.7.3
+* UPDATED : Language files
+* FIXED : Accordion random id issue
+* ADDED : Iso-charset option in forms
+* FIXED : Upload handler issue
+* version1.7.2
+* UPDATED : Language files
+* FIXED: Instructor border issue
+* ADDED : Minified scripts
+* ADDED : CodeStyling localization compatibility
+* version1.7.1
+* version1.7
+* ADDED : Credits for upload handler
+* ADDED : Shortcode certificate_student_field to show a student field in certificate
+* version1.6.5
+* FIXED : Add package not opening WP media popup
+* version1.6.4
+* UPDATED : Language files
+* ADDED : Shortcodes for Fill in the Blank or Match question types and Select question types
+* FIXED : Zip upload form now appears when edit unit
+* version 1.6.3
+* ADDED :Translation files
+* ADDED : Package Upload handler
+* ADDED : Upload Zip package and manage from front end
+* ADDED : Iframe shortcode
+* FIXED : Post Grid infinite scroll issue
+* version 1.6.2
+* Update : Language files
+* ADDED : All Badges Shortcode with Current user status.
+* FIXED : Vibe Carousel in footer
+* version 1.6.1
+* Fixed : Background color in Course page in buttons
+* FIXED: Visual composer popup overlapping Vibe shortcodes
+* version 1.6
+* UPDATED : Language files [US]
+* FIXED : Remove Form field error on clicking the field.
+* FIXED : Visual compose issue with Vibe Shortcodes
+* Version 1.5.5
+* ADDED : Required Parameter
+* FIXED : TEAM MEMBER shortcodes bug
+* Version 1.5.4.1
+* FIXED : Team Social Icons fix
+* version 1.5.4
+* version 1.5.4
+* Updated : Translation files
+* FIXED : Flexslider  bug
+* FIXED : Translation bug
+* ADDED : Instructor Shortcode
+* FIXED : Mobile Layout fixes
+* version 1.5.3
+* ADDED : Student Email and Student Certificate Code
+* FIXED : 3.9 Support added
+* Base
+* Base 1.0

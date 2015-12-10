@@ -1,0 +1,46 @@
+.pro-tmp-msg {
+    background: none repeat scroll 0 0 #ccc;
+    color: #111;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    width: 67px;
+}
+.radio-post-template-wrapper {
+    margin-right: 40px !important;
+    position: relative;
+    width: 127px;
+    text-align: center; 
+}
+.single-source-field .field-label {
+    display: inline-block;
+    padding-left: 10px;
+    width: 150px;
+}
+.section-input .post-videourl {
+    width: 690px;
+}
+.audiourl-sec input[type="text"] {
+  width: 690px;
+}
+.apmag-themeoption .option .controls a.wp-color-result{
+    padding: 0 0 0 30px;
+}
+.iris-palette-container a{
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.promo-banner h3 {
+  background: #4C4A4A;
+  color: #FFF;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  width: 14.5%;
+  float: right;
+}
+
+.view-features h3{
+    cursor: pointer;
+}

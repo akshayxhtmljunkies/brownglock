@@ -1,0 +1,77 @@
+/*************************************************************************************************/
+/* Admin - Options panel 																		 */
+/*************************************************************************************************/
+#wpui-header {
+    height: 150px;
+    margin: 0 10px 40px;
+}
+#wpui-header #wpui-admin h3 {
+    background: url("../img/logo-wpui.png") no-repeat scroll 0 0 / contain rgba(0, 0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 80px;
+    margin: 30px 0;
+    text-indent: -9999px;
+}
+#wpui-header #wpui-admin .wpc-info-version {
+    font-size: 14px;
+    left: 310px;
+    position: absolute;
+    text-indent: 0;
+    top: 85px;
+}
+#wpui-header #wpui-admin #wpui-notice {
+	width: 63%;
+}
+#wpui-header #wpui-admin #wpui-notice p {
+	font-size: 16px;
+}
+#wpui-header #wpui-admin #wpui-notice .dashicons {
+	color: #444;
+	text-decoration: none;
+}
+#wpui-header #wpui-admin #wpui-notice p.small {
+	font-size: 13px;
+}
+.wpui-option .wpui-settings {
+    float: left;
+    max-width: 750px;
+    width: 100%;
+}
+.wpui-option .wpui-settings label {
+	margin: 0 0 0 10px;
+}
+.wpui-option #wpui-tabs .nav-tab-wrapper ul {
+	list-style: none;padding: 0;margin: 0;
+}
+.wpui-option #wpui-tabs .nav-tab-wrapper ul li {
+	display: inline-block;
+	margin: 0;
+}
+.wpui-option #wpui-tabs .nav-tab-wrapper ul li.ui-tabs-active a {background: #fff;color:#333;}
+.wpui-option #side-sortables .highlight {
+    border: 1px dashed #ccc;
+    display: block;
+    width:382px;
+    height: 40px;
+    background: transparent;
+}
+.wpui-option #side-sortables .accordion-section {
+    margin-bottom: 9px;
+    width: 382px;
+}
+.wpui-option #side-sortables .accordion-section h3 {
+    cursor: move;
+    border: 1px solid #E5E5E5;
+    background: #FAFAFA;
+}
+.wpui-option #side-sortables .accordion-section .inside {
+    padding: 10px;
+    border-width: 0 1px 1px;
+    border-style: solid;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+    border-color: rgb(229, 229, 229);
+}
+.wpui-notice #message {
+    margin: 5px 10px 2px 0;
+}

@@ -1,0 +1,3983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module v1.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-26 17:31+0530\n"
+"PO-Revision-Date: 2015-11-26 17:31+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-actions.php:20
+msgid "Removed a student from Course"
+msgstr "Öğrenci Eğitimeden Çıkarıldı."
+
+# @ vibe
+#: includes/bp-course-actions.php:21 includes/bp-course-actions.php:25
+msgid "Student submitted a Course"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-actions.php:22 includes/bp-course-actions.php:24
+msgid "Student started a Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-actions.php:23
+msgid "Student submitted a Quiz"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-actions.php:26
+msgid "Course reset for Student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-actions.php:27
+msgid "Bulk action by instructor"
+msgstr "Eğitmen, Toplu İşlem"
+
+# @ vibe
+#: includes/bp-course-actions.php:28
+msgid "Course Evaluated for student"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#: includes/bp-course-actions.php:29
+msgid "Student got a Badge"
+msgstr "Öğrenci Rozet Kazandı"
+
+# @ vibe
+#: includes/bp-course-actions.php:30
+msgid "Student got a certificate"
+msgstr "Öğrenci Sertifika Kazandı"
+
+# @ vibe
+#: includes/bp-course-actions.php:31
+msgid "Quiz Evaluated for student"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-actions.php:32
+msgid "Student subscribed for course"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-actions.php:50 includes/bp-course-actions.php:52
+msgid "per"
+msgstr " / "
+
+# @ vibe
+#: includes/bp-course-actions.php:70
+msgid "SUBSCRIPTION FOR"
+msgstr "KAYIT"
+
+# @ vibe
+#: includes/bp-course-actions.php:222
+#, php-format
+msgid "All Instructors <span>%s</span>"
+msgstr "Tüm Eğitmenler <span>%s</span>"
+
+# @ vibe
+#: includes/bp-course-actions.php:231
+#, fuzzy
+msgid "Expired Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-actions.php:232 includes/bp-course-screens.php:222
+#, fuzzy
+msgid "Start Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-actions.php:233 includes/bp-course-screens.php:223
+#, fuzzy
+msgid "Continue Course"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-actions.php:234 includes/bp-course-ajax.php:259
+#: includes/bp-course-screens.php:224
+msgid "Under Evaluation"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-actions.php:235
+#, fuzzy
+msgid "Course Finished"
+msgstr "Eğitim "
+
+# @ vibe
+#: includes/bp-course-actions.php:240
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Filtrele"
+
+# @ vibe
+#: includes/bp-course-actions.php:246
+msgid "Enter student name/email"
+msgstr "Öğrenci adı / e-maili"
+
+# @ vibe
+#: includes/bp-course-actions.php:247 includes/bp-course-functions.php:134
+#: includes/bp-course-widgets.php:369
+msgid "Search"
+msgstr "Ara"
+
+# @ vibe
+#: includes/bp-course-actions.php:284 includes/bp-course-functions.php:500
+#: includes/bp-course-functions.php:836
+msgid "EXPIRED"
+msgstr "KAPALI"
+
+# @ vibe
+#: includes/bp-course-actions.php:284 includes/bp-course-actions.php:292
+#: includes/bp-course-actions.php:295 includes/bp-course-actions.php:301
+#: includes/bp-course-actions.php:304 includes/bp-course-actions.php:310
+#: includes/bp-course-actions.php:313 includes/bp-course-actions.php:319
+msgid "COURSE"
+msgstr "EĞİTİM"
+
+#: includes/bp-course-actions.php:292 includes/bp-course-actions.php:310
+msgid "START"
+msgstr ""
+
+#: includes/bp-course-actions.php:295 includes/bp-course-actions.php:313
+msgid "CONTINUE"
+msgstr ""
+
+#: includes/bp-course-actions.php:298 includes/bp-course-actions.php:316
+msgid "UNDER"
+msgstr ""
+
+#: includes/bp-course-actions.php:298 includes/bp-course-actions.php:316
+msgid "EVALUATION"
+msgstr ""
+
+#: includes/bp-course-actions.php:301 includes/bp-course-actions.php:319
+msgid "FINISHED"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-actions.php:304
+msgid "ENABLED"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-actions.php:390
+msgid "This Course can not be taken. Contact Administrator."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-actions.php:401
+#, fuzzy
+msgid "REVIEW COURSE "
+msgstr "ÖZEL EĞİTİM"
+
+# @ vibe
+#: includes/bp-course-activity.php:174
+#, fuzzy, php-format
+msgid "Announcement for Course %s "
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-activity.php:188
+#, fuzzy, php-format
+msgid "News published for Course %s "
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-activity.php:200
+#: includes/bp-course-notifications.php:463
+#, fuzzy, php-format
+msgid "Student subscribed for course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-activity.php:201
+#, fuzzy, php-format
+msgid "Student %s subscribed for course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-activity.php:214
+msgid "Student started course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:215 includes/bp-course-activity.php:285
+#: includes/bp-course-activity.php:294 includes/bp-course-activity.php:317
+msgid "Student "
+msgstr "Öğrenci "
+
+# @ vibe
+#: includes/bp-course-activity.php:215
+msgid " started the course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:231
+#, php-format
+msgid "Student %s finished and submitted the course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:233
+msgid "Student Submitted the course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:245
+msgid "Instructor evaluated Course for Student"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:246
+#: includes/bp-course-notifications.php:843
+#, fuzzy, php-format
+msgid "Student %s got %s in course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-activity.php:264
+msgid "Course reset for student "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:265 includes/bp-course-activity.php:275
+msgid "Course "
+msgstr "Eğitim "
+
+# @ vibe
+#: includes/bp-course-activity.php:265
+msgid " reset for student "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:274
+#, fuzzy
+msgid "Student retake Course "
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-activity.php:275
+msgid " retake by student "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:284
+msgid "Student got a Badge in the course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:285
+msgid " got a badge in the course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:293
+msgid "Student got a Certificate in course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:294
+msgid " got a certificate in the course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:303
+#, fuzzy, php-format
+msgid "Student reviewed Course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:304
+#, fuzzy, php-format
+msgid "Student %s reviewd the Course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:316
+#, fuzzy
+msgid "Student unsubsribed from course "
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-activity.php:317
+msgid " removed from the course "
+msgstr "eğitimden çıktı "
+
+#: includes/bp-course-activity.php:326
+msgid "Course code applied"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:336
+msgid "Student renewed a course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:337
+#, php-format
+msgid "Student %s renewd the course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:345
+msgid "Student started a unit"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:346
+msgid "Student started the unit "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:346
+msgid " in course "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:355
+msgid "Student finished unit "
+msgstr "Öğrenci Bölümü Bitiridi"
+
+# @ vibe
+#: includes/bp-course-activity.php:356
+#, php-format
+msgid "Student %s finished the unit %s in course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:370
+#, fuzzy
+msgid "Student posted comment on unit "
+msgstr "Öğrenci Bölümü Bitiridi"
+
+#: includes/bp-course-activity.php:371
+#: includes/bp-course-notifications.php:1215
+#, php-format
+msgid "Student %s posted comment on unit %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:380
+msgid "Student started a quiz"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:381
+#: includes/bp-course-notifications.php:1912
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:390
+msgid "Student submitted the Quiz"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:391
+#, fuzzy, php-format
+msgid "Quiz %s was submitted by student"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-activity.php:402
+msgid "Instructor evaluated Quiz for student "
+msgstr ""
+
+#: includes/bp-course-activity.php:404
+#, php-format
+msgid "Student %s got %s out of %s in Quiz %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:418
+msgid "Quiz retake by Student"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:419
+#, fuzzy, php-format
+msgid "Student %s  initiated retake for quiz %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:428
+msgid "Instructor Reseted the Quiz for User"
+msgstr ""
+
+#: includes/bp-course-activity.php:429
+#, php-format
+msgid "Quiz %s  was reset by the Instructor for user %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:440
+msgid "Instructor added students in course  "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:441
+#, fuzzy, php-format
+msgid "Instructor added %s students in course "
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-activity.php:448
+#, fuzzy
+msgid "Instructor changed course status  "
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-activity.php:449
+#, fuzzy, php-format
+msgid "Instructor changed Course Status for %s students in course "
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-activity.php:456
+#, fuzzy
+msgid "Instructor sent Bulk message to students"
+msgstr "Eğitmen"
+
+#: includes/bp-course-activity.php:457
+#, php-format
+msgid "Bulk Message sent to %s students "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:464
+#, fuzzy
+msgid "Instructor extended Course subscription"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-activity.php:465
+#, fuzzy, php-format
+msgid "Course subscription extended for %s students "
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+#: includes/bp-course-activity.php:475
+msgid "Instructor assigned/removed Certificate/Badges"
+msgstr ""
+
+#: includes/bp-course-activity.php:476
+#, php-format
+msgid "Instructor added/removed Badges/Certificates from %s students in course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:497
+#: includes/bp-course-notifications.php:1599
+#, fuzzy, php-format
+msgid "Student started assignment %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:498
+#: includes/bp-course-notifications.php:1942
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-activity.php:516
+#, fuzzy
+msgid "Student submitted assignment "
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-activity.php:517
+#: includes/bp-course-notifications.php:1948
+#, fuzzy, php-format
+msgid "Student %s submitted the assignment %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+#: includes/bp-course-activity.php:533
+#: includes/bp-course-notifications.php:1629
+#, php-format
+msgid "Results available for assignment %s"
+msgstr ""
+
+#: includes/bp-course-activity.php:534
+#, php-format
+msgid "Student %s got marks %s out of %s in assignment %s "
+msgstr ""
+
+#: includes/bp-course-activity.php:551
+msgid "Instructor Reseted the Assignment for User"
+msgstr ""
+
+#: includes/bp-course-activity.php:552
+#, php-format
+msgid "Assignment %s was reset by the Instructor for user %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:570
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s, on the site %4$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:572
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:582
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s, on the site %4$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:584
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:588
+#, php-format
+msgid "%1$s answered the %2$s, %3$s, on the site %4$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-activity.php:590
+#, php-format
+msgid "%1$s answered the %2$s, %3$s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:37 includes/bp-course-ajax.php:1672
+#: includes/bp-course-ajax.php:1879 includes/bp-course-ajax.php:2148
+#: includes/bp-course-ajax.php:2321 includes/bp-course-ajax.php:2335
+#: includes/bp-course-ajax.php:2388
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:79
+msgid "Answer Reset"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:81
+msgid "Unable to Reset"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:92 includes/bp-course-ajax.php:213
+#: includes/bp-course-ajax.php:289 includes/bp-course-ajax.php:416
+#: includes/bp-course-ajax.php:455 includes/bp-course-ajax.php:530
+#: includes/bp-course-ajax.php:581 includes/bp-course-ajax.php:668
+#: includes/bp-course-ajax.php:723 includes/bp-course-ajax.php:1158
+#: includes/bp-course-ajax.php:1361
+msgid "Security check failed !"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:97
+msgid "Incorrect Course selected."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:197
+msgid "Statistics successfully calculated. Reloading..."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:199
+msgid "Unable to calculate Average."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:210
+msgid "SHOW STATS"
+msgstr "İSTATİSTİKLERİ GÖSTER"
+
+# @ vibe
+#: includes/bp-course-ajax.php:210
+msgid "HIDE"
+msgstr "GİZLE"
+
+# @ vibe
+#: includes/bp-course-ajax.php:218
+msgid "Incorrect User selected."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:230
+msgid "This User has not started the course."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:232
+msgid "This User has completed the course."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:233
+msgid "Student Score for Course "
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-ajax.php:233
+msgid " out of 100"
+msgstr "/ 100"
+
+# @ vibe
+#: includes/bp-course-ajax.php:243
+msgid "Course Started : "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:248
+msgid "Curriculum :"
+msgstr "İçerik :"
+
+# @ vibe
+#: includes/bp-course-ajax.php:249
+msgid "Quizes"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:259
+msgid "Marks Obtained : "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:274
+msgid "Units Completed "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:274 includes/bp-course-ajax.php:693
+msgid " out of "
+msgstr "/ "
+
+# @ vibe
+#: includes/bp-course-ajax.php:314 includes/bp-course-ajax.php:753
+msgid "Marked Answer :"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:324 includes/bp-course-ajax.php:2223
+#: includes/bp-course-functions.php:389
+msgid "FALSE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:324 includes/bp-course-ajax.php:2223
+#: includes/bp-course-functions.php:389
+msgid "TRUE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:375 includes/bp-course-ajax.php:816
+msgid "Correct Answer :"
+msgstr "Doğru Cevap: "
+
+#: includes/bp-course-ajax.php:376
+msgid "View answer explanation"
+msgstr ""
+
+#: includes/bp-course-ajax.php:381
+msgid "Total Marks :"
+msgstr ""
+
+#: includes/bp-course-ajax.php:385 includes/bp-course-ajax.php:387
+msgid "MARKS OBTAINED"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:391 includes/bp-course-ajax.php:826
+#: includes/bp-course-ajax.php:831
+msgid "Marks Obtained"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:403 includes/bp-course-ajax.php:835
+msgid "Total Marks"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:421 includes/bp-course-ajax.php:460
+#: includes/bp-course-ajax.php:535 includes/bp-course-ajax.php:673
+#: includes/bp-course-ajax.php:728 includes/bp-course-functions.php:759
+msgid " Incorrect User selected."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:434
+msgid "User removed from the Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:513
+msgid "Course Reset for User"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:518
+msgid ""
+"There was issue in resetting this course for the user. Please contact admin."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:553
+msgid "Quiz Reset for Selected User"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:555
+msgid "Could not find Quiz results for User. Contact Admin."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:633
+msgid "COURSE MARKED COMPLETE"
+msgstr "EĞİTİM TAMAMLANDI OLARAK İŞARETLENDİ"
+
+# @ vibe
+#: includes/bp-course-ajax.php:693
+msgid "MARKS: "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:693 includes/bp-course-ajax.php:698
+msgid " PENDING"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:698
+msgid "DONE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:707 includes/bp-course-ajax.php:841
+msgid "Total"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:708
+msgid "Course Percentage (Out of 100)"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:708
+msgid "Course Percentage out of 100"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:709
+msgid "Mark Course Complete"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:733
+msgid " Incorrect Quiz Id."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:826 includes/bp-course-ajax.php:831
+msgid "Give marks"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:827
+msgid "Update Marks"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:832
+msgid "Give Marks"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:842
+msgid "Mark Quiz as Checked"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:863 includes/bp-course-ajax.php:868
+msgid "Set a Subject for the message"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:879
+msgid "Messages Sent to "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:879 includes/bp-course-ajax.php:1023
+#: includes/bp-course-ajax.php:1140
+msgid " members"
+msgstr "öğrenciler"
+
+# @ vibe
+#: includes/bp-course-ajax.php:881 includes/bp-course-ajax.php:1031
+#: includes/bp-course-ajax.php:1055 includes/bp-course-ajax.php:1146
+msgid "Please select members"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:929
+#: includes/templates/course/single/admin.php:89
+msgid "Reset Course for User"
+msgstr "Kullanıcı İçin Eğitimi Sıfırla"
+
+# @ vibe
+#: includes/bp-course-ajax.php:930
+#: includes/templates/course/single/admin.php:90
+msgid "See Course stats for User"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:931
+#: includes/templates/course/single/admin.php:92
+msgid "Remove User from this Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:963
+msgid "Select Assign Value"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1023
+msgid "Action assigned to "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1028 includes/bp-course-ajax.php:1143
+msgid "Could not assign action to members"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1050
+msgid "Please enter extension amount"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1075
+#, php-format
+msgid "Subscription extended for %d students, unable to extend for %d students"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1077
+#, php-format
+msgid "Subscription extended for %d students"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1099
+msgid "Select Course Status"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1140
+#, fuzzy
+msgid "Course status changed for "
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1162 includes/bp-course-ajax.php:1365
+msgid "User does not have capability to download stats !"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1199 includes/bp-course-ajax.php:1398
+msgid "START DATE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1207 includes/bp-course-ajax.php:1219
+#: includes/bp-course-ajax.php:1267 includes/bp-course-ajax.php:1414
+#: includes/bp-course-ajax.php:1431 includes/bp-course-ajax.php:1608
+msgid "N.A"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1211 includes/bp-course-ajax.php:1417
+msgid "COMPLETION DATE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1222 includes/bp-course-ajax.php:1435
+#: includes/bp-course-ajax.php:1637
+msgid "ID"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1229 includes/bp-course-ajax.php:1442
+msgid "NAME"
+msgstr "İsim"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1276
+msgid "BADGE"
+msgstr "ROZET"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1288
+msgid "CERTIFICATE"
+msgstr "SERTİFİKA"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1300 includes/bp-course-ajax.php:1472
+msgid "SCORE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1562
+msgid "User not allowed to access stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1588
+msgid "No data available"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1597 includes/bp-course-loader.php:371
+#: includes/templates/course/single/admin.php:26
+msgid "Stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1604
+msgid "Average"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1605
+msgid "Max"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1606
+msgid "Min"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1612
+msgid "Leaderboard"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1632
+msgid "Download Stats"
+msgstr "İndirme İstatistikleri"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1635 includes/bp-course-group-extension.php:60
+msgid "Start Date/Time"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1636
+msgid "End Date/Time"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1638
+msgid "Student Name"
+msgstr "Öğrenci Adı"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1639
+msgid "Score"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1642
+msgid "Question scores (* for static quizzes only)"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1652
+msgid "All students"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1653
+msgid "Students who finished"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1656
+msgid "Process Stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1679
+#, fuzzy
+msgid "Unit not in Course"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1697
+msgid "Course Expired."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1697 includes/bp-course-functions.php:242
+msgid "Click to renew"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1747
+msgid "Unit will be available in "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1758
+msgid "Unit can not be accessed."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1783
+msgid " Minutes"
+msgstr " Dakika"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1783
+msgid " seconds"
+msgstr "saniye"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1785
+#: includes/templates/course/single/curriculum.php:57
+msgid " Hours"
+msgstr " Saat"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1785
+msgid " minutes"
+msgstr " dakika"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1787
+msgid " Days"
+msgstr "Gün"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1787
+msgid " hours"
+msgstr " saat"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1813
+#, fuzzy
+msgid "Previous Quiz"
+msgstr "Sınava Git"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1815
+msgid "Previous Unit"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1825
+msgid "Check Results"
+msgstr "Sonuçları Kontrol Et"
+
+#: includes/bp-course-ajax.php:1828
+msgid "Continue Quiz"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1832
+msgid "Start Quiz"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1835
+msgid "Mark this Unit Complete"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:1857
+msgid "Proceed to Quiz"
+msgstr "Sınava Git"
+
+# @ vibe
+#: includes/bp-course-ajax.php:1860
+msgid "Next Unit"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1885 includes/bp-course-ajax.php:1951
+msgid "Invalid submission time."
+msgstr ""
+
+#: includes/bp-course-ajax.php:1890 includes/bp-course-ajax.php:1956
+#: includes/bp-course-ajax.php:2166
+msgid "Questions not set."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2044 includes/bp-course-ajax.php:2097
+#: includes/bp-course-ajax.php:2130
+msgid "Quiz Timed Out ."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2045 includes/bp-course-ajax.php:2098
+#: includes/bp-course-ajax.php:2131 includes/bp-course-ajax.php:2135
+msgid "If you want to attempt again, Contact Instructor to reset the quiz."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2051
+msgid "Quiz Already Attempted."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2052
+msgid "Security Check Failed. Contact Site Admin."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2102
+msgid "Start Quiz to begin quiz."
+msgstr "Soruları yanıtlayabilmek için \\\"SINAVA BAŞLA\\\" ya tıklayın."
+
+# @ vibe
+#: includes/bp-course-ajax.php:2103
+msgid "Click \"Start Quiz\" button to start the Quiz."
+msgstr ">>>"
+
+# @ vibe
+#: includes/bp-course-ajax.php:2107
+msgid "Quiz not active."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2108
+msgid "Contact your instructor or site admin."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2134
+msgid "Quiz Already Attempted ."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2210 includes/bp-course-functions.php:344
+msgid "SHOW HINT"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-ajax.php:2211 includes/bp-course-functions.php:345
+msgid "HINT"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2285 includes/bp-course-ajax.php:2288
+msgid "Type Answer"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2295
+msgid "PAGES"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2339 includes/bp-course-ajax.php:2378
+msgid "Unable to add message"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2369
+msgid "JUST NOW"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:27
+msgid "Too Fast or Answer not marked."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:28
+msgid "Answer Saved."
+msgstr "Cevap Kaydedildi."
+
+# @ vibe
+#: includes/bp-course-cssjs.php:29
+msgid "Processing..."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:30
+msgid "Saving Answer...please wait"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:31
+msgid ""
+"This step is irreversible. Are you sure you want to remove the User from the "
+"course ?"
+msgstr "Bu işlem geri alınamaz. Emin misiniz?"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:32
+msgid "Confirm, Remove User from Course"
+msgstr "Onayla"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:33
+msgid "Confirm"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:34
+msgid "Cancel"
+msgstr "İptal"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:35
+msgid ""
+"This step is irreversible. All Units, Quiz results would be reset for this "
+"user. Are you sure you want to Reset the Course for this User?"
+msgstr "Bu işlem geri alınamaz. Emin misiniz?"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:36
+msgid "Confirm, Reset Course for this User"
+msgstr "Onayla"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:37
+msgid ""
+"This step is irreversible. All Questions answers would be reset for this "
+"user. Are you sure you want to Reset the Quiz for this User? "
+msgstr "Bu işlem geri alınamaz. Emin misiniz?"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:38
+msgid "Confirm, Reset Quiz for this User"
+msgstr "Onayla"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:39
+msgid "Marks Saved"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:40
+msgid "Quiz Marks Saved"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:41
+msgid "Submit Quiz"
+msgstr "Sınavı Bitir"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:42
+msgid "Sending Messages ..."
+msgstr "Mesaj Gönderiliyor..."
+
+# @ vibe
+#: includes/bp-course-cssjs.php:43
+msgid "Adding Students to Course ..."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:44
+msgid "Students successfully added to Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:45
+msgid "Unable to Add students to Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:46
+msgid "Please select fields to download"
+msgstr "İndirmek için lütfen alanları işaretleyin"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:47
+msgid "Download"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:48
+msgid "TIMEOUT"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:51
+msgid "for Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:52
+msgid "Active Filters"
+msgstr "Aktif Filtreler"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:53
+msgid "Clear all filters"
+msgstr "Tüm Filtreleri Temizle"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:54
+msgid "Are you sure you want to remove this note?"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:55
+msgid "Confirm, remove note"
+msgstr "Onayla"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:56
+msgid "Make Private"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:57
+msgid "Add your note"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:58
+msgid "Please add questions or retake the quiz !"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:59
+msgid "Are you sure you want to remove this Annoucement?"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:60
+msgid "You're about to start the Quiz. Please click confirm to begin the quiz."
+msgstr ""
+
+#: includes/bp-course-cssjs.php:61
+msgid ""
+"Are you sure you want to submit the quiz. Submitting the quiz will freeze "
+"all your answers, you can not change them.  Please confirm."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-cssjs.php:62
+#, fuzzy
+msgid "Check results"
+msgstr "Sonuçları Kontrol Et"
+
+# @ vibe
+#: includes/bp-course-cssjs.php:63
+#, fuzzy
+msgid "Correct"
+msgstr "Doğru Cevap: "
+
+#: includes/bp-course-cssjs.php:64
+msgid "Incorrect"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:65
+msgid "You have few unanswered questions. Are you sure you want to continue ?"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-filters.php:283
+msgid "No Courses found."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:49
+msgid "Course Directory"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:50
+msgid "All Courses by all instructors"
+msgstr "Eğitmenin Tüm Eğitimleri"
+
+#: includes/bp-course-functions.php:82 includes/bp-course-loader.php:417
+#: includes/templates/course/single/home.php:39
+msgid "Home"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:88
+#: includes/templates/course/single/home.php:40
+msgid "Curriculum"
+msgstr "İçerik"
+
+# @ vibe
+#: includes/bp-course-functions.php:94
+#: includes/templates/course/single/admin.php:17
+#: includes/templates/course/single/home.php:41
+msgid "Members"
+msgstr "Öğrenciler"
+
+# @ vibe
+#: includes/bp-course-functions.php:153 includes/bp-course-functions.php:260
+msgid "TAKE THIS COURSE"
+msgstr "EĞİTİMİ SATIN AL"
+
+# @ vibe
+#: includes/bp-course-functions.php:197
+#, fuzzy
+msgid "START COURSE"
+msgstr "EĞİTİMİ SATIN AL"
+
+# @ vibe
+#: includes/bp-course-functions.php:201
+#, fuzzy
+msgid "CONTINUE COURSE"
+msgstr "ÖZEL EĞİTİM"
+
+#: includes/bp-course-functions.php:205
+msgid "COURSE UNDER EVALUATION"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:210
+#, fuzzy
+msgid "FINISHED COURSE"
+msgstr "ÖZEL EĞİTİM"
+
+# @ vibe
+#: includes/bp-course-functions.php:213
+msgid "COURSE FINISHED"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:217 includes/bp-course-functions.php:229
+msgid "COURSE ENABLED"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:217 includes/bp-course-functions.php:229
+msgid "CONTACT ADMIN TO ENABLE"
+msgstr "EĞİTİMİ ETKİNLEŞTİRMEK İÇİN YÖNETİCİYLE İLETİŞME GEÇİN"
+
+# @ vibe
+#: includes/bp-course-functions.php:242
+msgid "Course Expired"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:262
+msgid "PRIVATE COURSE"
+msgstr "ÖZEL EĞİTİM"
+
+# @ vibe
+#: includes/bp-course-functions.php:303
+msgid "* REQUIRES"
+msgstr "* ÖN ŞART"
+
+# @ vibe
+#: includes/bp-course-functions.php:307
+msgid "SEATS"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:308
+msgid "Course Badge"
+msgstr "Eğitim Rozeti"
+
+# @ vibe
+#: includes/bp-course-functions.php:309
+msgid "Course Certificate"
+msgstr "Eğitim Sertifikası"
+
+#: includes/bp-course-functions.php:453 includes/bp-course-functions.php:463
+msgid "Type answer"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:496
+#, fuzzy
+msgid "Unlimited Time"
+msgstr "Sınırsız Süreli"
+
+# @ vibe
+#: includes/bp-course-functions.php:537 includes/bp-course-functions.php:545
+msgid "Next Question"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:541 includes/bp-course-functions.php:544
+msgid "Previous Question"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:594 includes/bp-course-functions.php:632
+msgid "Duration not Set"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:604 includes/bp-course-functions.php:1084
+msgid "Time Remaining"
+msgstr "Süre"
+
+# @ vibe
+#: includes/bp-course-functions.php:605
+msgid "Mins"
+msgstr "DK"
+
+# @ vibe
+#: includes/bp-course-functions.php:605
+msgid "Secs"
+msgstr "SN"
+
+#: includes/bp-course-functions.php:640
+msgid "Progress"
+msgstr ""
+
+#: includes/bp-course-functions.php:691
+msgid "Please set questions in quiz or reset quiz !"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:739
+msgid "QUESTION"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:759
+msgid "Security Error"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:819
+msgid "year"
+msgstr "yıl"
+
+# @ vibe
+#: includes/bp-course-functions.php:819
+msgid "years"
+msgstr "yıl"
+
+# @ vibe
+#: includes/bp-course-functions.php:821
+msgid "month"
+msgstr "ay"
+
+# @ vibe
+#: includes/bp-course-functions.php:821
+msgid "months"
+msgstr "ay"
+
+# @ vibe
+#: includes/bp-course-functions.php:823
+msgid "week"
+msgstr "hafta"
+
+# @ vibe
+#: includes/bp-course-functions.php:823
+msgid "weeks"
+msgstr "hafta"
+
+# @ vibe
+#: includes/bp-course-functions.php:825
+msgid "day"
+msgstr "Gün"
+
+# @ vibe
+#: includes/bp-course-functions.php:825
+msgid "days"
+msgstr "Gün"
+
+# @ vibe
+#: includes/bp-course-functions.php:827
+msgid "hour"
+msgstr " saat"
+
+# @ vibe
+#: includes/bp-course-functions.php:827
+msgid "hours"
+msgstr "saat"
+
+# @ vibe
+#: includes/bp-course-functions.php:829
+msgid "minute"
+msgstr " dakika"
+
+# @ vibe
+#: includes/bp-course-functions.php:829
+#: includes/templates/course/single/curriculum.php:57
+msgid "minutes"
+msgstr " dakika"
+
+# @ vibe
+#: includes/bp-course-functions.php:831
+msgid "second"
+msgstr "saniye"
+
+# @ vibe
+#: includes/bp-course-functions.php:831
+msgid "seconds"
+msgstr "saniye"
+
+# @ vibe
+#: includes/bp-course-functions.php:910
+msgid "Course Curriculum Not Set."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:965
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1014
+msgid "Attachments"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1042 includes/bp-course-mailer.php:211
+#: includes/bp-course-notifications.php:126
+msgid "Instructor"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-functions.php:1258 includes/bp-course-functions.php:1261
+msgid "Certificate not valid for user"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1348
+msgid "Evaluate course submissions"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1360
+msgid "Evaluate Quiz submissions"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1366
+msgid "Manage Students"
+msgstr "Öğrencileri Yönet"
+
+# @ vibe
+#: includes/bp-course-functions.php:1367
+msgid "See Stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1368
+msgid "See all Activity"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-functions.php:1416
+msgid "Seconds"
+msgstr "Saniye"
+
+# @ vibe
+#: includes/bp-course-functions.php:1417
+msgid "Minutes"
+msgstr " Dakika"
+
+# @ vibe
+#: includes/bp-course-functions.php:1418
+msgid "Hours"
+msgstr " Saat"
+
+# @ vibe
+#: includes/bp-course-functions.php:1419
+msgid "Days"
+msgstr "Gün"
+
+# @ vibe
+#: includes/bp-course-functions.php:1420
+msgid "Weeks"
+msgstr "Hafta"
+
+# @ vibe
+#: includes/bp-course-functions.php:1421
+msgid "Months"
+msgstr "Ay"
+
+# @ vibe
+#: includes/bp-course-functions.php:1422
+msgid "Years"
+msgstr "Yıl"
+
+# @ vibe
+#: includes/bp-course-group-extension.php:28 includes/bp-course-loader.php:66
+#: includes/bp-course-notifications.php:94
+msgid "Course"
+msgstr "Eğitim"
+
+#: includes/bp-course-group-extension.php:33
+msgid "Save Course Settings"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-group-extension.php:50
+#, fuzzy
+msgid "Connect with Course"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-group-extension.php:54
+#, fuzzy
+msgid "Select a Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-loader.php:264
+msgid "Search ..."
+msgstr "Ara..."
+
+# @ vibe
+#: includes/bp-course-loader.php:313
+#, fuzzy, php-format
+msgid "Courses <span>%s</span>"
+msgstr "Eğitimlerim <span>%s</span>"
+
+# @ vibe
+#: includes/bp-course-loader.php:351
+msgid "My Courses"
+msgstr "Eğitimlerim"
+
+# @ vibe
+#: includes/bp-course-loader.php:361
+msgid "Results"
+msgstr "Sonuçlar"
+
+# @ vibe
+#: includes/bp-course-loader.php:381
+msgid "Instructing Courses"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-loader.php:619
+msgid "Please Update the WPLMS theme to latest version"
+msgstr ""
+
+#: includes/bp-course-mailer.php:84
+#, php-format
+msgid "Click %s to Activate account."
+msgstr ""
+
+#: includes/bp-course-mailer.php:84
+msgid "this link"
+msgstr ""
+
+#: includes/bp-course-mailer.php:209
+msgid "Profile"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-mailer.php:209
+#, fuzzy
+msgid "Courses"
+msgstr "Eğitim"
+
+#: includes/bp-course-mailer.php:211
+msgid "Link"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:95
+#: includes/bp-course-notifications.php:127
+msgid "Yes"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:96
+#: includes/bp-course-notifications.php:128
+msgid "No"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:158
+#: includes/bp-course-notifications.php:269
+#, fuzzy, php-format
+msgid "Announcement for course %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:262
+#: includes/bp-course-notifications.php:287
+#: includes/bp-course-notifications.php:1819
+#: includes/bp-course-notifications.php:1822
+#, fuzzy, php-format
+msgid "Announcement for Course %s"
+msgstr "Öğrenci Puanı "
+
+#: includes/bp-course-notifications.php:303
+#: includes/bp-course-notifications.php:351
+#: includes/bp-course-notifications.php:363
+#: includes/bp-course-notifications.php:393
+msgid "Read more"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:305
+#: includes/bp-course-notifications.php:350
+#: includes/bp-course-notifications.php:392
+#, fuzzy, php-format
+msgid "News for Course %s"
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:362
+#, fuzzy, php-format
+msgid "News for course %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:404
+#: includes/bp-course-notifications.php:426
+#, fuzzy, php-format
+msgid "You're subscribed for course : %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:406
+#: includes/bp-course-notifications.php:425
+#: includes/bp-course-notifications.php:441
+#, fuzzy
+msgid "Subscribed for Course"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:439
+#: includes/bp-course-notifications.php:464
+#, fuzzy, php-format
+msgid "Student %s subscribed for course : %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+#: includes/bp-course-notifications.php:479
+#, php-format
+msgid "You're added to course : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:481
+msgid "Added to Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:510
+#, fuzzy, php-format
+msgid "Added to course %s"
+msgstr "eğitimden çıktı "
+
+#: includes/bp-course-notifications.php:511
+#, php-format
+msgid "You've been added to course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:526
+#, fuzzy, php-format
+msgid "Student %s added to course : %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:528
+#, fuzzy
+msgid "Student added to Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:565
+#, fuzzy, php-format
+msgid "Students added to course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-notifications.php:566
+#, php-format
+msgid "%d students added to course : %s , %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:577
+#, fuzzy, php-format
+msgid "You started the course : %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:579
+#, fuzzy
+msgid "Started a Course"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:600
+#, fuzzy, php-format
+msgid "You started course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:601
+#, fuzzy, php-format
+msgid "You've started the course : %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:614
+#: includes/bp-course-notifications.php:641
+#, fuzzy, php-format
+msgid "Student %s started the course : %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:616
+#, fuzzy, php-format
+msgid "Student started the course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:640
+#, fuzzy, php-format
+msgid "Student started course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:650
+#: includes/bp-course-notifications.php:672
+#, fuzzy, php-format
+msgid "You've submitted the course : %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:652
+#, fuzzy
+msgid "Course submitted"
+msgstr "Eğitim "
+
+#: includes/bp-course-notifications.php:671
+#, php-format
+msgid "Course %s submitted"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:682
+#: includes/bp-course-notifications.php:705
+#, fuzzy, php-format
+msgid "Student %s submitted the course : %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:684
+#, fuzzy, php-format
+msgid "Student submitted the course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:704
+#, fuzzy, php-format
+msgid "Student submitted course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:714
+#, fuzzy, php-format
+msgid "The Course %s was reset by Course instructor "
+msgstr "Eğitmenin Tüm Eğitimleri"
+
+# @ vibe
+#: includes/bp-course-notifications.php:716
+#, fuzzy
+msgid "Course reset"
+msgstr "Eğitim "
+
+# @ vibe
+#: includes/bp-course-notifications.php:732
+#, fuzzy, php-format
+msgid "Course %s reset"
+msgstr "Eğitim "
+
+# @ vibe
+#: includes/bp-course-notifications.php:733
+#, fuzzy, php-format
+msgid "%s Course was reset by Instructor"
+msgstr "Eğitmenin Tüm Eğitimleri"
+
+# @ vibe
+#: includes/bp-course-notifications.php:739
+#, fuzzy, php-format
+msgid "%s course reset for student : %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:741
+#: includes/bp-course-notifications.php:792
+#, fuzzy, php-format
+msgid "Course %s reset for student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:758
+#, fuzzy, php-format
+msgid "Course %s reset for Student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:759
+#, fuzzy, php-format
+msgid "Course %s was reset for student %s "
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:766
+#, fuzzy, php-format
+msgid "You retook the Course %s "
+msgstr "eğitimden çıktı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:768
+#, fuzzy
+msgid "Course retake"
+msgstr "Eğitim Rozeti"
+
+# @ vibe
+#: includes/bp-course-notifications.php:783
+#, fuzzy, php-format
+msgid "You retook the course Course %s"
+msgstr "eğitimden çıktı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:784
+#, fuzzy, php-format
+msgid "You've retaken the Course %s"
+msgstr "eğitimden çıktı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:790
+#, fuzzy, php-format
+msgid "Student %s retook the course %s"
+msgstr "Eğitimi Alan Öğrenciler"
+
+# @ vibe
+#: includes/bp-course-notifications.php:809
+#, fuzzy, php-format
+msgid "Course %s retaken by the Student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+#: includes/bp-course-notifications.php:810
+#, php-format
+msgid "Course %s was retaken by the student %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:819
+#: includes/bp-course-notifications.php:837
+#, php-format
+msgid "You've obtained %s  in Course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:821
+msgid "Course results available"
+msgstr ""
+
+#: includes/bp-course-notifications.php:836
+#, php-format
+msgid "Course %s results available"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:845
+#, fuzzy, php-format
+msgid "Course %s evaluated for student"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:861
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:862
+#, fuzzy, php-format
+msgid "Student %s got %s in Course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-notifications.php:871
+#, php-format
+msgid "Congratulations ! You've obtained a badge in Course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:873
+#, fuzzy
+msgid "You got a new Badge !"
+msgstr "Öğrenci Rozet Kazandı"
+
+#: includes/bp-course-notifications.php:892
+#, php-format
+msgid "You got a Badge in Course %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:893
+#, php-format
+msgid "You've obtained a Badge in Course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:901
+#: includes/bp-course-notifications.php:1021
+#, fuzzy, php-format
+msgid "Student %s got a Badge in course %s"
+msgstr "Öğrenci Rozet Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:903
+#: includes/bp-course-notifications.php:923
+#: includes/bp-course-notifications.php:1023
+#, fuzzy, php-format
+msgid "Student got a Badge in Course %s"
+msgstr "Öğrenci Rozet Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:924
+#: includes/bp-course-notifications.php:1876
+#, fuzzy, php-format
+msgid "Student %s got a Badge in Course %s"
+msgstr "Öğrenci Rozet Kazandı"
+
+#: includes/bp-course-notifications.php:933
+#, php-format
+msgid "Congratulations ! You've obtained a Certificate in Course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:935
+#, fuzzy
+msgid "You got a new Certificate !"
+msgstr "Öğrenci Sertifika Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:954
+#, fuzzy, php-format
+msgid "You got a Certificate in Course %s"
+msgstr "Öğrenci Sertifika Kazandı"
+
+#: includes/bp-course-notifications.php:955
+#, php-format
+msgid "You've obtained a certificate in Course : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:963
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in course %s"
+msgstr "Öğrenci Sertifika Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:965
+#: includes/bp-course-notifications.php:985
+#, fuzzy, php-format
+msgid "Student got a Certificate in Course %s"
+msgstr "Öğrenci Sertifika Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:986
+#: includes/bp-course-notifications.php:1882
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in Course %s"
+msgstr "Öğrenci Sertifika Kazandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:994
+#, fuzzy, php-format
+msgid "You've submitted a review of Course : %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:996
+#, fuzzy
+msgid "You submitted a course review"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1013
+#: includes/bp-course-notifications.php:1885
+#, fuzzy, php-format
+msgid "You submitted a review for Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1014
+#, fuzzy, php-format
+msgid "You submitted a review Course : %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1041
+#, fuzzy, php-format
+msgid "Student submitted a review for Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1042
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1050
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course : %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1052
+#, fuzzy
+msgid "You unsubscribed from course"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1067
+#: includes/bp-course-notifications.php:1117
+#, fuzzy
+msgid "You're unsubscribed from course"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1068
+#, fuzzy, php-format
+msgid "You're unsubscribed from course Course %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1074
+#, fuzzy, php-format
+msgid "Student %s unsubscribed course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1076
+#: includes/bp-course-notifications.php:1092
+#, fuzzy, php-format
+msgid "Student unsubscribed from Course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1093
+#, fuzzy, php-format
+msgid "Student %s unsubscribed from Course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1100
+#, fuzzy, php-format
+msgid "You applied a code for Course : %s"
+msgstr "Öğrenci Puanı "
+
+#: includes/bp-course-notifications.php:1102
+msgid "You applied a course code"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1118
+#: includes/bp-course-notifications.php:1891
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1125
+#, fuzzy, php-format
+msgid "Student %s used course code %s for course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1127
+#, fuzzy, php-format
+msgid "Student applied Course code for Course %s"
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:1143
+#, fuzzy, php-format
+msgid "Student applied code for Course %s"
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:1144
+#, fuzzy, php-format
+msgid "Student %s applied code %s for Course %s"
+msgstr "Öğrenci Puanı "
+
+#: includes/bp-course-notifications.php:1152
+#, php-format
+msgid "You've completed the unit %s in Course : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1154
+msgid "You completed a unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1172
+msgid "You completed unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1173
+#, php-format
+msgid "You completed a unit %s in Course %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1180
+#, php-format
+msgid "Student %s completed the unit %s in course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1182
+#, fuzzy, php-format
+msgid "Student completed a unit in Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1200
+#, fuzzy, php-format
+msgid "Student completed unit in Course %s"
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:1201
+#, fuzzy, php-format
+msgid "Student %s completed unit %s in Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+#: includes/bp-course-notifications.php:1208
+#, php-format
+msgid "You've submitted a comment on unit : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1210
+msgid "You submitted a question/comment"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1238
+#: includes/bp-course-notifications.php:1239
+#, php-format
+msgid "You added a comment on Unit %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1246
+#, fuzzy, php-format
+msgid "Student %s submitted a comment on unit %s "
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1248
+#, fuzzy
+msgid "Student submitted a comment on Unit"
+msgstr "Öğrenci Eğitime Eklendi"
+
+#: includes/bp-course-notifications.php:1267
+#, php-format
+msgid "Student added comment in unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1268
+#, php-format
+msgid "Student %s added a comment in unit %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1278
+#, php-format
+msgid "You've started the quiz : %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1280
+#, fuzzy
+msgid "You started a Quiz"
+msgstr "Öğrenci Sınava Katıldı"
+
+#: includes/bp-course-notifications.php:1295
+#, php-format
+msgid "You started quiz %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1296
+#, fuzzy, php-format
+msgid "You started a quiz %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1302
+#: includes/bp-course-notifications.php:1323
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s "
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1304
+#, fuzzy, php-format
+msgid "Student started the quiz %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1322
+#, fuzzy, php-format
+msgid "Student started quiz %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-notifications.php:1334
+#: includes/bp-course-notifications.php:1353
+#, php-format
+msgid "You obtained %d out of %s in Quiz : "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1336
+msgid "Quiz results available"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1352
+#, php-format
+msgid "Results available for quiz %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1359
+#: includes/bp-course-notifications.php:1380
+#, php-format
+msgid "Student %s got %s from %s in quiz %s "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1361
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for student"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1379
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for Student"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1392
+#, fuzzy, php-format
+msgid "You submitted the Quiz : %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1394
+#, fuzzy, php-format
+msgid "You submitted quiz %s "
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1411
+#: includes/bp-course-notifications.php:1412
+#, fuzzy, php-format
+msgid "You submitted quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1425
+#, fuzzy, php-format
+msgid "Quiz %s submitted by student %s"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1427
+#, fuzzy, php-format
+msgid "Quiz %s submitted by Student"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1443
+#, fuzzy, php-format
+msgid "Student submitted quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1444
+#, fuzzy, php-format
+msgid "Student %s submitted quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+#: includes/bp-course-notifications.php:1451
+#, php-format
+msgid "You retook the Quiz : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1453
+msgid "You retook a Quiz"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1468
+#: includes/bp-course-notifications.php:1469
+#, php-format
+msgid "You retook quiz %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1475
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz : %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1477
+#, fuzzy, php-format
+msgid "Student retook the Quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1493
+#, fuzzy, php-format
+msgid "Student retook the quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1494
+#, fuzzy, php-format
+msgid "Student %s retook the quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1501
+#: includes/bp-course-notifications.php:1519
+#, fuzzy, php-format
+msgid "Quiz %s was reset by Instructor"
+msgstr "Eğitmen, Toplu İşlem"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1503
+#, fuzzy
+msgid "Quiz reset by Instructor"
+msgstr "Eğitmen, Toplu İşlem"
+
+#: includes/bp-course-notifications.php:1518
+#, php-format
+msgid "Quiz %s reset"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1525
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1527
+#: includes/bp-course-notifications.php:1545
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1546
+#, fuzzy, php-format
+msgid "Quiz %s was reset for Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+#: includes/bp-course-notifications.php:1555
+#, php-format
+msgid "You've started the assignemtn : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1557
+#: includes/bp-course-notifications.php:1572
+#, php-format
+msgid "You started assignment %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1573
+#: includes/bp-course-notifications.php:1939
+#, php-format
+msgid "You started the assignment %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1579
+#: includes/bp-course-notifications.php:1600
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s "
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1581
+#, fuzzy, php-format
+msgid "Student started an assignment %s "
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-notifications.php:1611
+#, php-format
+msgid "You obtained %d out of %s in Assignment : %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1613
+msgid "Assignment results available"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1630
+#, fuzzy, php-format
+msgid "You obtained %d out of %s in Assignment : %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-notifications.php:1636
+#: includes/bp-course-notifications.php:1657
+#, php-format
+msgid "Student %s got %s from %s in assignment %s "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1638
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for student"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1656
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for Student"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+#: includes/bp-course-notifications.php:1670
+#, php-format
+msgid "You submitted the assignment : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1672
+#, php-format
+msgid "You submitted the assignment %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1689
+#: includes/bp-course-notifications.php:1690
+#, php-format
+msgid "You submitted assignment %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1702
+#, php-format
+msgid "Assignment %s submitted by student %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1704
+#, php-format
+msgid "Assignment %s submitted by Student"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1720
+#, fuzzy, php-format
+msgid "Student submitted assignment %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1721
+#, fuzzy, php-format
+msgid "Student %s submitted assignment %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+#: includes/bp-course-notifications.php:1729
+#: includes/bp-course-notifications.php:1747
+#, php-format
+msgid "Assignment %s was reset by Instructor"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1731
+#, fuzzy
+msgid "Assignment reset by Instructor"
+msgstr "Eğitmenin Tüm Eğitimleri"
+
+#: includes/bp-course-notifications.php:1746
+#, php-format
+msgid "Assignment %s reset"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1753
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1755
+#: includes/bp-course-notifications.php:1773
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1774
+#, fuzzy, php-format
+msgid "Assignment %s was reset for Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+#: includes/bp-course-notifications.php:1825
+#: includes/bp-course-notifications.php:1831
+#, php-format
+msgid "Added to Course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1828
+#: includes/bp-course-notifications.php:1834
+#, fuzzy, php-format
+msgid "Student %s added to Course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1837
+#, fuzzy, php-format
+msgid "You've subscribed to Course %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1840
+#, fuzzy, php-format
+msgid "Student %s subscribed to Course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1843
+#, fuzzy, php-format
+msgid "You started the course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1846
+#, fuzzy, php-format
+msgid "Student %s started course %s"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1849
+#, fuzzy, php-format
+msgid "You submitted the course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1852
+#: includes/bp-course-notifications.php:1855
+#, fuzzy, php-format
+msgid "Student %s submitted course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1858
+#, fuzzy, php-format
+msgid "Course %s was reset for Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1861
+#, fuzzy, php-format
+msgid "Student %s retook the course course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1864
+#, fuzzy, php-format
+msgid "Course %s was retaken by Student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1867
+#: includes/bp-course-notifications.php:1870
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student %s"
+msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+#: includes/bp-course-notifications.php:1873
+#, php-format
+msgid "Congratulations ! You got a badge in Course %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1879
+#, php-format
+msgid "Congratulations ! You got a certificate in Course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1888
+#, fuzzy, php-format
+msgid "Student %s submitted a review for Course %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1894
+#, fuzzy, php-format
+msgid "Student %s is unsubscribed from Course %s"
+msgstr "Öğrenci Eğitime Kayıt Oldu"
+
+#: includes/bp-course-notifications.php:1897
+#, php-format
+msgid "You completed the unit %s in course %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1900
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s"
+msgstr "Öğrenci Bölümü Bitiridi"
+
+#: includes/bp-course-notifications.php:1903
+#, php-format
+msgid "You added a comment in unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1906
+#, php-format
+msgid "Student %s added a comment in unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1909
+#, php-format
+msgid "You started the quiz %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1915
+#, fuzzy, php-format
+msgid "You submitted the quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1918
+#, fuzzy, php-format
+msgid "Student %s submitted the quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+#: includes/bp-course-notifications.php:1921
+#, php-format
+msgid "Quiz %s results available"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1924
+#, fuzzy, php-format
+msgid "Quiz %s results available for student %s"
+msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1927
+#, fuzzy, php-format
+msgid "Quiz %s reset by Instructor"
+msgstr "Eğitmen, Toplu İşlem"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1930
+#, fuzzy, php-format
+msgid "Quiz %s reset for student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+#: includes/bp-course-notifications.php:1933
+#, php-format
+msgid "You retook the quiz %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1936
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz %s"
+msgstr "Öğrenci Sınava Katıldı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1945
+#, fuzzy, php-format
+msgid "You submitted the assignment %s"
+msgstr "Öğrenci Eğitime Eklendi"
+
+#: includes/bp-course-notifications.php:1951
+#, php-format
+msgid "Assignment %s results available"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1954
+#, php-format
+msgid "Assignment %s results available for student %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1957
+#, php-format
+msgid "Assignment %s reset by Instructor"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-notifications.php:1960
+#, fuzzy, php-format
+msgid "Assignment %s reset for student %s"
+msgstr "Eğitim Öğrenci için Sıfırlandı"
+
+# @ vibe
+#: includes/bp-course-notifications.php:1963
+#, fuzzy, php-format
+msgid "Latest News : %s for Course : %s"
+msgstr "Öğrenci Puanı "
+
+# @ vibe
+#: includes/bp-course-notifications.php:1966
+#, fuzzy, php-format
+msgid "News : %s was published for your course : %s"
+msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#: includes/bp-course-screens.php:96
+msgid "Course Settings Header"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:100
+msgid "Course Settings"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:108
+msgid "Changes Saved."
+msgstr ""
+
+# @ bp-course
+#: includes/bp-course-screens.php:114
+msgid "Do you love clicking checkboxes?"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:116
+msgid "Save Settings"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:150
+msgid "Send Bulk Message"
+msgstr "Toplu Mesaj Gönder"
+
+# @ vibe
+#: includes/bp-course-screens.php:160
+#, php-format
+msgid "Enter extend amount ( in %s"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:161
+msgid "Extend Subscription"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:172
+msgid "Type Message Subject"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:173
+msgid "Type Message"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:174
+msgid "Send Message"
+msgstr "Mesaj Gönder"
+
+# @ vibe
+#: includes/bp-course-screens.php:187
+msgid "Enter Student Usernames/Emails, separated by comma"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:188
+msgid "Add Students"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:203
+msgid "ASSIGN COURSE BADGE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:204
+msgid "ASSIGN COURSE CERTIFICATE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:205
+msgid "REMOVE COURSE BADGE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:206
+msgid "REMOVE COURSE CERTIFICATE"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-screens.php:208
+msgid "Assign Action"
+msgstr ""
+
+#: includes/bp-course-screens.php:225
+msgid "Finished Course"
+msgstr ""
+
+#: includes/bp-course-screens.php:227
+msgid "Enter marks"
+msgstr ""
+
+#: includes/bp-course-screens.php:228
+msgid "Change Course Status"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:350
+#, php-format
+msgid "Viewing page %1$s of %2$s"
+msgstr "%1$s / %2$s"
+
+# @ vibe
+#: includes/bp-course-template.php:570
+msgid "REVIEWS"
+msgstr "YORUM"
+
+# @ vibe
+#: includes/bp-course-template.php:575
+msgid "STUDENTS"
+msgstr "ÖĞRENCİ"
+
+# @ vibe
+#: includes/bp-course-template.php:711
+#: includes/templates/course/single/curriculum.php:43
+msgid "FREE"
+msgstr "ÜCRETSİZ"
+
+#: includes/bp-course-template.php:754
+msgid "Price Options +"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:788
+msgid "PRIVATE"
+msgstr "ÖZEL"
+
+# @ vibe
+#: includes/bp-course-template.php:944
+#, fuzzy, php-format
+msgid "Viewing page %d of %d "
+msgstr "%1$s / %2$s"
+
+# @ vibe
+#: includes/bp-course-template.php:1464
+msgid "COURSE EVALUATED "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1497
+msgid "Congratulations ! You've earned the "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1497
+msgid "Badge"
+msgstr "Rozet"
+
+# @ vibe
+#: includes/bp-course-template.php:1518
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1518
+msgid "View Certificate"
+msgstr "Sertifika Görüntüle"
+
+# @ vibe
+#: includes/bp-course-template.php:1527
+#, fuzzy, php-format
+msgid "You've obtained %s in course %s "
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-template.php:1533
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1546
+msgid "UNIT"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1549
+msgid "ASSIGNMENT"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1552
+msgid "QUIZ"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1555
+msgid "PLEASE COMPLETE THE "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-template.php:1559
+msgid "COURSE CURRICULUM NOT SET"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:35
+msgid "BuddyPress Course Widget"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:92 includes/bp-course-widgets.php:233
+msgid "by"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:152 includes/bp-course-widgets.php:264
+#: includes/bp-course-widgets.php:413 includes/bp-course-widgets.php:541
+#: includes/bp-course-widgets.php:924 includes/bp-course-widgets.php:1139
+msgid "Widget Title"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:153 includes/bp-course-widgets.php:928
+msgid "Style"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:155 includes/bp-course-widgets.php:930
+msgid "Single"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:156 includes/bp-course-widgets.php:931
+msgid "List"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:157
+msgid "Ratings List"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:158 includes/bp-course-widgets.php:932
+msgid "Carousel"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:161 includes/bp-course-widgets.php:303
+msgid "Select Course Category"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:163
+msgid "None"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:171 includes/bp-course-widgets.php:935
+msgid "Order By"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:173 includes/bp-course-widgets.php:938
+msgid "Random"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:174
+msgid "Name"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:175
+msgid "Course Title"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:176
+msgid "Number of Reviews"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:177
+msgid "Date Published"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:178 includes/bp-course-widgets.php:939
+msgid "Rating"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:179
+msgid "Number of Students"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:182 includes/bp-course-widgets.php:942
+msgid "Sort "
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:184 includes/bp-course-widgets.php:944
+msgid "Ascending"
+msgstr ""
+
+# @ default
+#: includes/bp-course-widgets.php:185 includes/bp-course-widgets.php:945
+msgid "Decending"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:188
+msgid "Specific Courses (enter comma saperated ids)"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:189
+msgid "Number of Courses to show"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:203
+msgid "BuddyPress Instructor Widget"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:227
+msgid "Check all Courses created by "
+msgstr "Eğtimenin Tüm Eğitimleri "
+
+# @ vibe
+#: includes/bp-course-widgets.php:228
+msgid "More Courses by "
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:265
+msgid "Fallback Instructor ID"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:266
+msgid "Number of Courses by the Instructor to show"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:278
+msgid "BuddyPress Course Search Widget"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:336
+msgid "Select Instructor"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:350
+#, fuzzy
+msgid "Select Course Location"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/bp-course-widgets.php:361
+msgid "Select Course Level"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:368
+msgid "Type Keywords.."
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:414
+msgid "Show Course Category Dropdown"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:415
+msgid "Show Instructor Dropdown"
+msgstr ""
+
+#: includes/bp-course-widgets.php:419
+msgid "Show Location Dropdown"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:424
+msgid "Show Level Dropdown"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:438
+msgid "BuddyPress Course Stats Widget"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:509
+msgid "TOTAL STUDENTS"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:511
+msgid "BADGES"
+msgstr "Rozetler"
+
+# @ vibe
+#: includes/bp-course-widgets.php:512
+msgid "CERTIFICATES"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:542
+msgid "Select Course"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:544 includes/bp-course-widgets.php:682
+msgid "All"
+msgstr "Hepsi"
+
+# @ vibe
+#: includes/bp-course-widgets.php:545
+msgid "Current Course (defaults to all)"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:556
+msgid "Show Students Stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:557
+msgid "Show Badge/Certificates Stats"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:567
+msgid "BuddyPress Course Filter Widget"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:674
+#, fuzzy
+msgid "Start Date"
+msgstr "Öğrenci Eğitime Başladı"
+
+#: includes/bp-course-widgets.php:675
+msgid "End Date"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:683
+msgid "Free"
+msgstr "Ücretsiz"
+
+# @ vibe
+#: includes/bp-course-widgets.php:684
+msgid "Paid"
+msgstr "Ücretli"
+
+# @ vibe
+#: includes/bp-course-widgets.php:688
+msgid "Filter Results"
+msgstr "Filtrele"
+
+# @ vibe
+#: includes/bp-course-widgets.php:715
+msgid "Course Categories"
+msgstr "Kategori"
+
+#: includes/bp-course-widgets.php:717
+msgid "Location"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:719
+msgid "Levels"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:721
+msgid "Type"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:723
+#: includes/templates/course/single/course-header.php:40
+msgid "Instructors"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:725
+#, fuzzy
+msgid "Upcoming Courses"
+msgstr "Verdiğim Eğitimler"
+
+# @ vibe
+#: includes/bp-course-widgets.php:747
+msgid "Show Course category filter"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:748
+msgid "Course Categories Label"
+msgstr "Kategori Etiiketi"
+
+# @ vibe
+#: includes/bp-course-widgets.php:750
+msgid "Show Free/Paid/All filter"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:751
+msgid "Free/Paid Label"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:753
+#, fuzzy
+msgid "Show Upcoming/Past Courses filter"
+msgstr "Eğitmen"
+
+#: includes/bp-course-widgets.php:754
+msgid "Upcoming courses Label"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:759
+#, fuzzy
+msgid "Show Location filter"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:760
+#, fuzzy
+msgid "Location Label"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:768
+msgid "Show Levels filter"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:769
+msgid "Levels Label"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:773
+#, fuzzy
+msgid "Show Instructor filter"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:774
+#, fuzzy
+msgid "Instructor Label"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:775
+msgid "Exclude Category/Level Slugs (comma saperated)"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:788
+#, fuzzy
+msgid "Course Reviews Widget"
+msgstr "Eğitim Rozeti"
+
+#: includes/bp-course-widgets.php:854 includes/bp-course-widgets.php:875
+msgid "Default avatar"
+msgstr ""
+
+#: includes/bp-course-widgets.php:925
+msgid "Course ID (optional)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:937
+msgid "Recent"
+msgstr ""
+
+#: includes/bp-course-widgets.php:948
+msgid "Specific Reviews/Comments (enter comma saperated ids)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:949
+msgid "Number of Reviews to show"
+msgstr ""
+
+#: includes/bp-course-widgets.php:963
+msgid "BuddyPress Related Courses Widget"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1091
+msgid "No related courses found !"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1140
+msgid "Show from same Course Category"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:1141
+#, fuzzy
+msgid "Show from same Instructor"
+msgstr "Eğitmen"
+
+# @ vibe
+#: includes/bp-course-widgets.php:1145
+#, fuzzy
+msgid "Show from same Course location"
+msgstr "Eğitmen"
+
+#: includes/bp-course-widgets.php:1150
+msgid "Show from same Course Level"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1155
+msgid "Show from same Linkage"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:1159
+#, fuzzy
+msgid "Numer of Courses"
+msgstr "Öğrenci Puanı "
+
+#: includes/bp-course-widgets.php:1160
+msgid "Block Style"
+msgstr ""
+
+# @ vibe
+#: includes/bp-course-widgets.php:1176
+#, fuzzy
+msgid "Comma saperated courses"
+msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#: includes/templates/course/course-loop.php:93
+#: includes/templates/course/my-courses.php:98
+msgid "You have not subscribed to any courses."
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/index.php:58
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Tüm Eğitimler <span>%s</span>"
+
+# @ vibe
+#: includes/templates/course/index.php:62
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Eğitimlerim <span>%s</span>"
+
+# @ vibe
+#: includes/templates/course/index.php:65
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Verdiğim Eğitimler <span>%s</span>"
+
+# @ vibe
+#: includes/templates/course/index.php:83
+msgid "Order By:"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/index.php:85
+msgid "Select Order"
+msgstr "Sırala"
+
+# @ vibe
+#: includes/templates/course/index.php:86
+msgid "Newly Published"
+msgstr "En Son Eklenen"
+
+# @ vibe
+#: includes/templates/course/index.php:87
+msgid "Alphabetical"
+msgstr "A-Z"
+
+# @ vibe
+#: includes/templates/course/index.php:88
+msgid "Most Members"
+msgstr "En Popüler"
+
+# @ vibe
+#: includes/templates/course/index.php:89
+msgid "Highest Rated"
+msgstr "En Yüksek Oy"
+
+# @ vibe
+#: includes/templates/course/instructor-courses.php:89
+msgid "You have not created any Course."
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/activity.php:34
+msgid "Load More"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/activity.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/admin.php:20
+msgid "Submissions"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/admin.php:23
+msgid "Activity"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/admin.php:53
+#: includes/templates/course/single/members.php:19
+msgid "Total number of Students in course"
+msgstr "Eğitimi Alan Toplam Öğrenci Sayısı"
+
+# @ vibe
+#: includes/templates/course/single/admin.php:54
+#: includes/templates/course/single/members.php:20
+msgid "Students Currently taking this course"
+msgstr "Eğitimi Alan Öğrenciler"
+
+# @ vibe
+#: includes/templates/course/single/admin.php:91
+msgid "See User Activity in Course"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/admin.php:102
+msgid "No Students found."
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/admin.php:107
+msgid "BULK ACTIONS"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/curriculum.php:19
+msgid "Course Curriculum"
+msgstr "Eğitim İçeriği"
+
+# @ vibe
+#: includes/templates/course/single/events.php:18
+msgid " Events"
+msgstr "Aktiviteler"
+
+# @ vibe
+#: includes/templates/course/single/front.php:34
+msgid " STUDENTS ENROLLED"
+msgstr " KAYITLI ÖĞRENCİ"
+
+# @ vibe
+#: includes/templates/course/single/front.php:76
+msgid "READ MORE"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/front.php:85
+msgid "LESS"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/home.php:49
+msgid "Group"
+msgstr "Gruplar"
+
+# @ vibe
+#: includes/templates/course/single/home.php:55
+msgid "Forum"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/home.php:60
+msgid "Admin"
+msgstr "Yönetici"
+
+# @ vibe
+#: includes/templates/course/single/stats.php:22
+msgid "Total Number of Students who took this course"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:23
+msgid "Average Percentage obtained by Students"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:23
+msgid "out of 100"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:24
+#: includes/templates/course/single/stats.php:31
+msgid "Number of Students who got a Badge"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:25
+#: includes/templates/course/single/stats.php:30
+msgid "Number of Passed Students"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:26
+msgid "Number of Students who did not pass "
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:29
+msgid "Average Marks obtained by Students"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:38
+msgid "No curriculum defined"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:63
+msgid "Average Marks in Quiz "
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/stats.php:71
+msgid "Calculate :"
+msgstr "Hesapla : "
+
+# @ vibe
+#: includes/templates/course/single/stats.php:72
+msgid "Calculate Statistics for Course"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:20
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:51
+msgid "Reset Assignment for User"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:52
+msgid "Evaluate Assignment : "
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:69
+msgid "QUIZ SUBMISSIONS"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:106
+msgid "Reset Quiz for User"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:107
+msgid "Evaluate Quiz for User"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:124
+msgid "COURSE SUBMISSIONS"
+msgstr ""
+
+# @ vibe
+#: includes/templates/course/single/submissions.php:153
+msgid "Evaluate Course for User"
+msgstr ""
+
+# @ vibe
+#, fuzzy
+#~ msgid "Student % submitted the assignment %s"
+#~ msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#, fuzzy
+#~ msgid "User Starts a Course "
+#~ msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Reset by Instructor"
+#~ msgstr "Eğitmenin Tüm Eğitimleri"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Submit"
+#~ msgstr "Eğitim "
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Evaluation"
+#~ msgstr "Eğitim Öğrenci için Değerlendirildi"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Reviews"
+#~ msgstr "Eğitim Rozeti"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Unsubscribe Course"
+#~ msgstr "eğitime kayıt oldu"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Start by user"
+#~ msgstr "Öğrenci Eğitime Başladı"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Submitted by user"
+#~ msgstr "Öğrenci Eğitime Eklendi"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Reset by Instructor"
+#~ msgstr "Eğitmen, Toplu İşlem"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Quiz Evaluation"
+#~ msgstr "Sınav Öğrenci için Değerlendirldi"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Assignment Submitted by user"
+#~ msgstr "Öğrenci Eğitime Eklendi"
